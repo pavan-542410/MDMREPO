@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_BREmail" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Business Requestor Email Address</Name>
+            <Validation BaseType="regexp" MinValue="" MaxValue="" MaxLength="" InputMask="^[a-zA-Z0-9.#$%&amp;'*+=?^\-_`{|]{1,64}@[a-zA-Z0-9.\-]{1,251}[.][a-zA-Z0-9]{2,}$"></Validation>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">Email Address of Business Requestor</Value>
+                <Value AttributeID="AttributeHelpText">Enter internal business requestor email address for this business partner record.</Value>
+                <Value AttributeID="Purpose">Email address of business requestor</Value>
+                <Value AttributeID="ValidationErrorMessage">Please enter a valid email address format. For example, john.doe@domain.com</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ag_BusinessRequestorAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_ContactDetails"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_ForeignTax"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_BP"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_Provisioning"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_VMDAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_VendorAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="BusinessPartner"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="cv_POVendorType" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>CV PO Vendor Type</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="VMDM_CV"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

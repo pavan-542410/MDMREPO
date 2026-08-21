@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="DnBCalcRegistrationLocationPrimaryAddr" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>DnB Calc Registration Location Primary Address</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="1000000" InputMask=""></Validation>
+            <ValueTemplate>&lt;derive expr="listconcatenate(
+    list(
+        iterate(
+            datacontainers('DnBRegLocationPrimaryAddress'),
+            'concatenate(
+
+		&amp;quot;Country ISO Alpha 2 Code: &amp;quot;,value(&amp;quot;DnBCountryISOAlpha2Code&amp;quot;), &amp;quot;\n&amp;quot;,
+		&amp;quot;Country ISO Code: &amp;quot;,value(&amp;quot;DnBCountryISOCode&amp;quot;), &amp;quot;\n&amp;quot;,
+		&amp;quot;Territory Official Name: &amp;quot;,value(&amp;quot;DnBTerritoryOfficialName&amp;quot;), &amp;quot;\n&amp;quot;,
+		&amp;quot;Territory Abbreviated Name: &amp;quot;,value(&amp;quot;DnBTerritoryAbbreviatedName&amp;quot;), &amp;quot;\n&amp;quot;,
+		&amp;quot;County Official Name: &amp;quot;,value(&amp;quot;DnBCountyOfficialName&amp;quot;), &amp;quot;\n&amp;quot;,
+		&amp;quot;Postal Code: &amp;quot;,value(&amp;quot;DnBPostalCode&amp;quot;), &amp;quot;\n&amp;quot;,
+		&amp;quot;Primary Town Name: &amp;quot;,value(&amp;quot;DnBPrimaryTownName&amp;quot;), &amp;quot;\n&amp;quot;,
+		&amp;quot;Street Address: &amp;quot;,value(&amp;quot;DnBStreetAddressLine&amp;quot;), &amp;quot;\n&amp;quot;, &amp;quot;\n&amp;quot;
+		
+		
+	 )' 
+        ),
+        ''
+    )
+)"/&gt;</ValueTemplate>
+            <AttributeGroupLink AttributeGroupID="DnBCalcAttributesDemo"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_Internal"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

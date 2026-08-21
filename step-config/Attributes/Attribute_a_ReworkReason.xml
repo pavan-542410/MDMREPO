@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_ReworkReason" MultiValued="true" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Rework Reason</Name>
+            <ListOfValueLink ListOfValueID="lov_ReworkReason"></ListOfValueLink>
+            <AttributeGroupLink AttributeGroupID="ag_BusinessApproverAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_BusinessRequestorAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_ForeignTax"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_Internal"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_BP"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_SearchAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_VMDAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_VendorAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_revisionHistory"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="BusinessPartner"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

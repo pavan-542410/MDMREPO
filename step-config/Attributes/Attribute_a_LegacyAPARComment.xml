@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_LegacyAPARComment" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Legacy APAR Comment</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">Legacy AP AR Comment </Value>
+                <Value AttributeID="Purpose">Legacy AP AR Comment </Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ag_ADUSCompanyAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_APMatching"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_ARMatching"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_BusinessRequestorAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_ContactDetails"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_ContactMatching"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_LegacyVendorNumberAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_AR"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_Contact"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_Legacy"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_SearchAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_VMDAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_VendorAttributes"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

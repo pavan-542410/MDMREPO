@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_PaymentGroupKey" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Payment Group Key</Name>
+            <ListOfValueLink ListOfValueID="lov_PaymentGroupKey"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">Key for Payment Grouping</Value>
+                <Value AttributeID="Purpose">Key for Payment Grouping</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ag_APAccountingAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_APtoADUSLinkAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_AP"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_SearchAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_VMDAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="APBusinessPartner"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_Dunningclerk" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Dunning Clerk</Name>
+            <ListOfValueLink ListOfValueID="lov_DunningClerk"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="AttributeDescription"> Identification code for the accounting clerk dealing with dunning letters. Within SAP, using this identification code, the accounting clerk whose name is printed on the dunning letters is determined. </Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ag_ARAccountingAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_DunningAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_AR"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_SearchAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_VMDAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="ARBusinessPartner"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

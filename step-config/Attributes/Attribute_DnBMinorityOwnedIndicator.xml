@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="DnBMinorityOwnedIndicator" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>D&amp;B Minority Owned Indicator</Name>
+            <ListOfValueLink ListOfValueID="DnBBoolean"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">An Indicator tagging a business concern that is at least 51% owned by one or more minority persons (such as Black, Hispanic or Native American), or in the case of a corporation, at least 51% of the stock in which is owned by one or more minority persons or, in the case of any publicly owned business, at least 51% of the stock of which is owned by one or more minority persons, and the management and daily business operations of which are controlled by one or more of the minority individuals who own it. Control in this context means exercising the power to make policy decisions and operate means to be actively involved in the day-to-day management of the business.</Value>
+                <Value AttributeID="Purpose">organization.socioEconomicInformation.isMinorityOwned</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="DnBRecordAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_DNB"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="DnBOrganization"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

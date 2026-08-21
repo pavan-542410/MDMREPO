@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="stibo.TableAttributes" ShowInWorkbench="true" ManuallySorted="false">
+            <Name>Table Attributes</Name>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

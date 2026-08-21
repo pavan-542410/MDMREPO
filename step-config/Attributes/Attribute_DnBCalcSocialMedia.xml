@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="DnBCalcSocialMedia" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>DnB Calc Social Media</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="1000000" InputMask=""></Validation>
+            <ValueTemplate>&lt;derive expr="listconcatenate(
+    list(
+        iterate(
+            datacontainers('DnBSocialMediaDetail'),
+            'concatenate(
+
+		&amp;quot;Platform: &amp;quot;,value(&amp;quot;DnBSocialMediaPlatform&amp;quot;), &amp;quot;\n&amp;quot;,
+		&amp;quot;Web URL: &amp;quot;,value(&amp;quot;DnBSocialMediaWebPageURL&amp;quot;), &amp;quot;\n&amp;quot;, &amp;quot;\n&amp;quot;
+
+	 )' 
+        ),
+        ''
+    )
+)"/&gt;</ValueTemplate>
+            <AttributeGroupLink AttributeGroupID="DnBCalcAttributesDemo"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_Internal"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

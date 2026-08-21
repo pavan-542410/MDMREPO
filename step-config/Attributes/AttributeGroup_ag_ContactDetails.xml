@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="ag_ContactDetails" ShowInWorkbench="true" ManuallySorted="false" Referenced="true" ParentID="VMDM">
+            <Name>Contact</Name>
+            <Configuration>H4sIAAAAAAAA/32OywrCMBBF9/2KkA8wuk8K2lpx40q6lamdykAeJZkg/r31Qdy5m3O59zB6yxxpyIyHGPLcE95bnMgTU/CiC9EB9xjTQkZuVmtZV0LoXyWJM8QbctGkBvwO9yMxjkZOYBNK9R41wWbn0+teqAw+sSh8bI2ESwdXssSPU3YDxq9BFYVW//6uqyc+9Ff21wAAAA==</Configuration>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="DnBStandaloneOrganizationIndicator" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>D&amp;B Standalone Organization Indicator</Name>
+            <ListOfValueLink ListOfValueID="DnBBoolean"></ListOfValueLink>
+            <AttributeGroupLink AttributeGroupID="DnBRecordAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_DNB"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="DnBOrganization"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

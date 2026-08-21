@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_ADUSACompaniesCalc" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>ADUSA Companies</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="1000" InputMask=""></Validation>
+            <ValueTemplate>&lt;derive expr="list2multivalue(
+    unique(
+        listconcatenate(
+            iterate(
+                iterate(
+                    references('', 'ADUSCompanyLink'),
+                    'referencetarget()'
+                ),
+                'concatenate(stepname(),&amp;quot; (&amp;quot;,stepid(),&amp;quot;)&amp;quot;)'
+            ),
+            iterate(
+                iterate(
+                    iterate(
+                        iterate(
+                            references('', 'BPRemittanceReference'),
+                            'referencetarget()'
+                        ),
+                        'references(&amp;quot;&amp;quot;,&amp;quot;ADUSCompanyLink&amp;quot;)'
+                    ),
+                    'referencetarget()'
+                ),
+                'concatenate(stepname(),&amp;quot; (&amp;quot;,stepid(),&amp;quot;)&amp;quot;)'
+            ),
+            iterate(
+                iterate(
+                    iterate(
+                        iterate(
+                            references('', 'BPBillingReference'),
+                            'referencetarget()'
+                        ),
+                        'references(&amp;quot;&amp;quot;,&amp;quot;ADUSCompanyLink&amp;quot;)'
+                    ),
+                    'referencetarget()'
+                ),
+                'concatenate(stepname(),&amp;quot; (&amp;quot;,stepid(),&amp;quot;)&amp;quot;)'
+            )
+        )
+    )
+)"/&gt;</ValueTemplate>
+            <MetaData>
+                <Value AttributeID="ValidationErrorMessage">Invalid Input: The use of [Enter] key is not allowed in this field. Please use [Tab] key to navigate between fields.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="Archive"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

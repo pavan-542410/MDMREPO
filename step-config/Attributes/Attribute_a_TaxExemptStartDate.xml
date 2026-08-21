@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_TaxExemptStartDate" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Sales Tax Exempt Start Date</Name>
+            <Validation BaseType="isodate" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">Valid From Date of Tax Exemption</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_AR"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_SearchAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_VendorAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_VendorDetails"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="ARBusinessPartner"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

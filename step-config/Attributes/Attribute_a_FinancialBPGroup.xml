@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_FinancialBPGroup" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="true">
+            <Name>Financial Business Partner Group</Name>
+            <ListOfValueLink ListOfValueID="lov_FinancialBPGroup"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">This code is used when SAP assigns the new BP number to determine the number range</Value>
+                <Value AttributeID="DisplaySequence">2</Value>
+                <Value AttributeID="Purpose">Business Partner Group</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ag_BusinessPartnerDetails"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_AP"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_AR"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_BP"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_Provisioning"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_SearchAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_VMDAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="BusinessPartner"></UserTypeLink>
+            <UserTypeLink UserTypeID="Golden BP"></UserTypeLink>
+            <UserTypeLink UserTypeID="MLMR BP"></UserTypeLink>
+            <ValueFilter>
+                <Value ID="A100"></Value>
+                <Value ID="A200"></Value>
+                <Value ID="A300"></Value>
+                <Value ID="A400"></Value>
+                <Value ID="A500"></Value>
+                <Value ID="A600"></Value>
+                <Value ID="A700"></Value>
+                <Value ID="A800"></Value>
+            </ValueFilter>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_PhoneNumber2" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Alternate Phone Number</Name>
+            <Validation BaseType="regexp" MinValue="" MaxValue="" MaxLength="" InputMask="\d{1,10}"></Validation>
+            <MetaData>
+                <Value AttributeID="AttributeCompletenessScore">10</Value>
+                <Value AttributeID="AttributeHelpText">Enter a 10-digit numeric value without spaces or special characters (e.g., 9999999999).</Value>
+                <Value AttributeID="ValidationErrorMessage">Values should consist only of numeric characters and not exceed 10 digits. Please remove invalid characters.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ag_ContactDetails"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_ContactMatching"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_Contact"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_SearchAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Contact"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

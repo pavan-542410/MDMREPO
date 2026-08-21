@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_DABrand" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Delhaize Brand</Name>
+            <ListOfValueLink ListOfValueID="lov_DABrand"></ListOfValueLink>
+            <AttributeGroupLink AttributeGroupID="ag_BusinessPartnerDetails"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_BusinessRequestorAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_PO"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_POVendorDetails"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_SearchAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="LegacyPO"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

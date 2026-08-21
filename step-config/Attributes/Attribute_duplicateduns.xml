@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="duplicateduns" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>duplicateduns</Name>
+            <Validation BaseType="regexp" MinValue="" MaxValue="" MaxLength="" InputMask="^\d{1,9}$"></Validation>
+            <MetaData>
+                <Value AttributeID="ValidationErrorMessage">Please enter only digits which are maximum length of 9.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ag_VendorDetails"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="BusinessPartner"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

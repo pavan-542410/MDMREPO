@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_Chapter3ExemptionCertNumber" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Chapter 3 Exempt Certicate Number</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">Chapter 3 Exemption Certificate Number</Value>
+                <Value AttributeID="ConditionAttribute">a_Chapter3ExemptReason = 02;24;23;04;01;03;12;05;22;10;11;06;09;08;07</Value>
+                <Value AttributeID="Purpose">Chapter 3 Exemption Certificate Number</Value>
+                <Value AttributeID="ValidationErrorMessage">Invalid Input: The use of [Enter] key is not allowed in this field. Please use [Tab] key to navigate between fields.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ag_ForeignTax"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_BP"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_Provisioning"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_SearchAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_TaxAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="BusinessPartner"></UserTypeLink>
+            <UserTypeLink UserTypeID="Golden BP"></UserTypeLink>
+            <UserTypeLink UserTypeID="MLMR BP"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

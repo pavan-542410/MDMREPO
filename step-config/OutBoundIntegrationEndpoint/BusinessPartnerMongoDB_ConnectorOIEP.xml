@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Configuration:
+<STEP-ProductInformation ResolveInlineRefs="true" DefinitionsAsComments="true">
+<IntegrationEndpoints ExportSize="Selected"/>
+</STEP-ProductInformation>
+
+Export from Primary Product Hierarchy
+Effective date: 2026-08-13 04:18:23
+Classifications All
+Products All
+Assets All
+Collections "stibo.disposable.1786609103141" (temporary collection query URL: step://search?args0.0=searchString%3dBusinessPartnerMongoDB_ConnectorOIEP%2cuniqueKey%3dIDKey&search0.0=IDListCriteria)
+
+Exported by domain exporter.
+-->
+<STEP-ProductInformation ExportTime="2026-08-13 04:18:23" ExportContext="Context1" ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+
+  <IntegrationEndpoints>
+    <OutBoundIntegrationEndpoint ID="BusinessPartnerMongoDB_ConnectorOIEP" Description="This uses a STEP to MongoDB API provided by Stibo to publish the BP Object hierarchy to MongoDB when a BP is published" UserTypeID="OutboundEndpoint user-type root" ProcessPluginID="Export" QueueForEndpoint="OutboundQueue" QueueForProcssing="Out" MaxNumberOfActiveBackgroundProcesses="1" MaximumAgeOfFailedBackgroundProcesses="604800000" MaximumNumberOfFailedBackgroundProcesses="100" MaximumAgeOfSucceededBackgroundProcesses="604800000" MaximumNumberOfSucceededBackgroundProcesses="100" TransactionType="STRICT" ResponsibleUserID="STEPSYS" EnableRetry="false" UseCrossContext="false" DataSourcePluginID="EventQueueDataSourcePlugin" DeliveryMethodPluginID="MongoDBDelivery" MultiThreadCount="1" RefreshCollections="false" Selected="true" Referenced="true">
+
+<!-- Definition:
+ScheduleSpecification:
+<entries>
+  <entry class="com.stibo.util.ScheduleDefinition$ScheduleEveryMinute" every="1"/>
+</entries>
+
+DataSourcePluginConfiguration:
+<Parameters>
+  <Parameter ID="DaysToRetainEvents" Type="java.lang.Integer">0</Parameter>
+  <Parameter ID="eventQueueBatching" Type="com.stibo.util.integrationendpoints.BooleanIntegerParameter">1000</Parameter>
+  <Parameter ID="eventQueueBundleMessages" Type="com.stibo.util.integrationendpoints.BooleanIntegerParameter">1</Parameter>
+</Parameters>
+
+DeliveryMethodPluginConfiguration:
+<Parameters>
+  <Parameter ID="ClusterEnabledServerConfigurations" Type="com.stibo.util.integrationendpoints.ConfigStringCollectionLOVParameter"/>
+  <Parameter ID="DatabaseName" Type="java.lang.String">vmdm-staging-</Parameter>
+  <Parameter ID="Port" Type="com.stibo.util.integrationendpoints.ConfigParameter">1</Parameter>
+  <Parameter ID="Server" Type="com.stibo.util.integrationendpoints.ConfigParameter">1</Parameter>
+  <Parameter ID="UserName" Type="java.lang.String">vmdm-STEP-MongoDB-Connector</Parameter>
+  <Parameter ID="keyStoreLocation" Type="com.stibo.util.integrationendpoints.ConfigParameter"/>
+  <Parameter ID="trustStoreLocation" Type="com.stibo.util.integrationendpoints.ConfigParameter"/>
+  <Parameter ID="useClusterEnabled" Type="java.lang.String">No</Parameter>
+  <Parameter ID="useSSL" Type="java.lang.String">Yes</Parameter>
+</Parameters>
+
+ProcessPluginConfiguration:
+<EventSpecificExportConfiguration>
+  <ExportConfiguration MatchAllTypes="false">
+    <DerivedEventType>ProvisionalConnector</DerivedEventType>
+    <EventType>15</EventType>
+    <EventType>16</EventType>
+    <ExportManagerConfig>
+      <ExportManagerConfig ContentMode="" ContextID="Context1" ECatalogID="" EffectiveDate="" EffectiveDateTimeZoneID="America/New_York" ExecutionMode="" ExportSelectedProducts="false" InheritProductData="true" LeafProductExport="false" Name="" ProcessTemplate="Exporter" ResolveInlineRefs="true" ScheduleDate="" SelfContainedReferences="false" UseContextLocale="false" Version="2" VersionID="" WorkspaceID="Approved" isSorted="false">
+        <Delivery Name="File">
+          <Parameter Name="FileNameTemplate">$filename-$timestamp(yyyy-MM-dd_HH.mm.ss).$extension</Parameter>
+        </Delivery>
+        <Format Name="AdvancedSTEPXML">
+          <Parameter Name="CrossContextChooser">No</Parameter>
+          <Parameter Name="Recorder">&lt;STEP-ProductInformation ResolveInlineRefs=&quot;true&quot;&gt;&lt;Classifications FlattenHierarchy=&quot;true&quot;&gt;&lt;FilterUserType ID=&quot;SupplierRoot&quot;/&gt;&lt;Classification Referenced=&quot;true&quot;&gt;&lt;Name/&gt;&lt;/Classification&gt;&lt;/Classifications&gt;&lt;Entities FlattenHierarchy=&quot;false&quot;&gt;&lt;FilterUserType ID=&quot;BusinessPartner&quot;/&gt;&lt;FilterUserType ID=&quot;APBusinessPartner&quot;/&gt;&lt;FilterUserType ID=&quot;LegacyAP&quot;/&gt;&lt;FilterUserType ID=&quot;ARBusinessPartner&quot;/&gt;&lt;FilterUserType ID=&quot;LegacyAR&quot;/&gt;&lt;FilterUserType ID=&quot;Contact&quot;/&gt;&lt;FilterUserType ID=&quot;Address&quot;/&gt;&lt;FilterUserType ID=&quot;GLN&quot;/&gt;&lt;FilterUserType ID=&quot;DnBOrganization&quot;/&gt;&lt;FilterUserType ID=&quot;LegacyPO&quot;/&gt;&lt;FilterUserType ID=&quot;AuditMessage&quot;/&gt;&lt;FilterUserType ID=&quot;ChangeLogEntry&quot;/&gt;&lt;Entity IncludeParent=&quot;true&quot;&gt;&lt;DataContainers/&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Provisioning&quot;/&gt;&lt;/Values&gt;&lt;ClassificationCrossReference Type=&quot;SupplierEntities&quot;&gt;&lt;Classification Referenced=&quot;true&quot;&gt;&lt;Name/&gt;&lt;/Classification&gt;&lt;/ClassificationCrossReference&gt;&lt;EntityCrossReference Type=&quot;BPRemittanceReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_AP&quot;/&gt;&lt;Value AttributeID=&quot;ag_BankAttributesReadOnlyMasked&quot;/&gt;&lt;/Values&gt;&lt;DataContainers Type=&quot;dc_MaskedBankDetails&quot;/&gt;&lt;EntityCrossReference Type=&quot;ContactReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Contact&quot;/&gt;&lt;/Values&gt;&lt;EntityCrossReference Type=&quot;AdressReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Address&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;MetaData/&gt;&lt;/EntityCrossReference&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;AdressReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Address&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;MetaData/&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;GoldenRecordReferences&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Legacy&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;BPPOVendor&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_PO&quot;/&gt;&lt;/Values&gt;&lt;EntityCrossReference Type=&quot;POReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_PO&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;BPBillingReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_AR&quot;/&gt;&lt;/Values&gt;&lt;DataContainers Type=&quot;dc_MaskedBankDetails&quot;/&gt;&lt;EntityCrossReference Type=&quot;GoldenRecordReferences&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Legacy&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;ContactReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Contact&quot;/&gt;&lt;/Values&gt;&lt;EntityCrossReference Type=&quot;AdressReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Address&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;MetaData/&gt;&lt;/EntityCrossReference&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;AdressReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Address&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;MetaData/&gt;&lt;/EntityCrossReference&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;ChangeLogReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_ChangeLogAttributes&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;AuditObject&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_Audit&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;ContactReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Contact&quot;/&gt;&lt;/Values&gt;&lt;EntityCrossReference Type=&quot;AdressReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Address&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;MetaData/&gt;&lt;/EntityCrossReference&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;AdressReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Address&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;MetaData/&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;GLNReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_GLN&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;MetaData/&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;ContactAddressReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Contact&quot;/&gt;&lt;Value AttributeID=&quot;ag_OIEP_Address&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;OrganizationReferenceType&quot;&gt;&lt;Entity Referenced=&quot;true&quot;Embedded=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_VMDAttributes&quot;/&gt;&lt;Value AttributeID=&quot;DnBRecordAttributes&quot;/&gt;&lt;/Values&gt;&lt;DataContainers/&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;/Entity&gt;&lt;/Entities&gt;&lt;/STEP-ProductInformation&gt;</Parameter>
+        </Format>
+        <ProductMapping SelectedURLType="product"/>
+        <ProductSelection/>
+      </ExportManagerConfig>
+    </ExportManagerConfig>
+    <ObjectType>BusinessPartner</ObjectType>
+    <Postprocessor ID="Default">H4sIAAAAAAAAALOxr8jNUShLLSrOzM+zVTLUM1BSSM1Lzk/JzEu3VQoNcdO1ULK347IJSCxKzE0tAarTt+MCABs9DU01AAAA</Postprocessor>
+  </ExportConfiguration>
+</EventSpecificExportConfiguration>
+
+ErrorReporterPluginConfiguration:
+<Parameters/> -->
+      <SetupGroupLink SetupGroupID="Outbound Integration Endpoints"/>
+      <Name>Business Partner MongoDB Provisional OIEP</Name>
+      <ScheduleSpecification>H4sIAAAAAAAA/7Oxr8jNUShLLSrOzM+zVTLUM1Cyt+OySc0rKcpMLbbjUlAAsysVknMSi4ttlZLzc/WKSzKT8vVKSzJz9IKTM1JTSnNSXVLTMvMyS4BmqMCEXIGGVvpm5pWWpCoBjYGCVJAo0B4lfaAt+jBrADtwci2GAAAA</ScheduleSpecification>
+      <DataSourcePluginConfiguration>H4sIAAAAAAAA/62QywrCMBBF935FmL2x3bnoA0QFF4JK/YCxHWoknUiTFPv3pqBVwYULlxfmnnOZJL81WnTUWmU4hVhGIIhLUymuUzgW6+kc8myS7LDFhly4yyZCvKLYLFNYYm8LcyCHilcdsbMgiv5KKVywQ6mRa7lhRzW1kEXJbGx/YdHQ33vytEBXnsOMJ6s0jbROnYz0TmmpBmCLLuwmrq4mZCsXxmhCfshGMmRxFP0u9lxp2pK1WJP9j/7D/RbCO+9hpBTugwEAAA==</DataSourcePluginConfiguration>
+      <DeliveryMethodPluginConfiguration>H4sIAAAAAAAA/7WSzU7DMBCE7zyF5XtceuOQpBJJkZBCqZQUiaObLFHA2a1sp6Jvz0JEy08aFQE3r+39ZtbjcPbcGrEF6xrCSE7VuRSAJVUN1pFcFVfBhRTOa6y0IYRIIslZHC611S14bovPhDiU4jqNZGI6x+s56rWBKgfL+ITwoak7qz3rOCmK3YZhJbXK+WZNqvONUQ16qPsrgNWGuHaq78y9ZUcJGQPl63l2e7cXlZMBE73sz4UO1HgaTvbVgMKSrP9Pfqq9XmsHC95713nUW62Mxlr1DyLjbVu1AQdUcxWMA1cO7AmwvJgvgxvCmtLLgE0jvzjZL+jv9M7B5+CPyyxo3Cij8jw73n8PbhzwBLucPUNG5VsIv4lp6HN5y4P+pcKHcVz8AtX3cWyUAwAA</DeliveryMethodPluginConfiguration>
+      <EventQueue QueueStatus="Read" DaysRetained="0" Selected="true" Referenced="true">
+
+<!-- Definition:
+AssetTemplate=
+<STEP-ProductInformation ExportDerivedAttrs="false" FollowOverrideSubProducts="false" ResolveInlineRefs="false">
+  <Assets DontFollowClassificationToAssetReference="true" ExportSize="Minimum">
+    <Asset/>
+  </Assets>
+</STEP-ProductInformation>
+AttributeLinksTriggering=
+AttributeTemplate=
+<STEP-ProductInformation ExportDerivedAttrs="false" FollowOverrideSubProducts="false" ResolveInlineRefs="false">
+  <AttributeList/>
+</STEP-ProductInformation>
+ClassificationTemplate=
+<STEP-ProductInformation ExportDerivedAttrs="false" FollowOverrideSubProducts="false" ResolveInlineRefs="false">
+  <Classifications ExportSize="Minimum">
+    <Classification IncludeParent="true"/>
+  </Classifications>
+</STEP-ProductInformation>
+ConsumerSuspended=
+IndexWordHierarchyTriggering=
+NameTriggering=
+ObjectTypeGroupings=
+<ObjectTypeRules>
+  <ObjectTypeRules>
+    <ObjectType ObjectTypeID="BusinessPartner"/>
+  </ObjectTypeRules>
+</ObjectTypeRules>
+ParentTriggering=
+ProductTemplate=
+<STEP-ProductInformation ExportDerivedAttrs="false" FollowOverrideSubProducts="false" ResolveInlineRefs="false">
+  <Products DontFollowClassificationToProductReference="true" ExportSize="Minimum">
+    <Product IncludeParent="true">
+      <AssetCrossReference/>
+      <AttributeLink/>
+      <ClassificationReference/>
+      <DataContainers/>
+      <Name/>
+      <OverrideSubProduct/>
+      <OverrideSubProduct/>
+      <ProductCrossReference/>
+      <Values/>
+    </Product>
+  </Products>
+</STEP-ProductInformation>
+TriggeringWorkspace=Approved
+UnitTemplate=
+<STEP-ProductInformation ExportDerivedAttrs="false" FollowOverrideSubProducts="false" ResolveInlineRefs="false">
+  <UnitList/>
+</STEP-ProductInformation>
+Version=3
+context=Context1
+objecttype=BusinessPartner -->
+        <Configuration>H4sIAAAAAAAA/9VUTXObMBC951cw3FOa6aUHcMaxk5aZtvHYJD3LsHbVCInZlVynv74LCFMbOnFvyQm0X9r39HanRGAzKCslLCTx9b5UwQ6QpNFJePXufRiAzk0h9TYJH7K7y4/h9eQiXmW3i8sFmsLlNtUbg6WwnBEsgYzaQaqV1LCEDSXhRiiCMLgzSplf91waZQErt/bZfcTtvjJo54ByB8XUWjy4JhdBEE/rRslHreRvSMKvUsvSlWEwN9q2F8yUIJIbmTf9ZKbJ4kYAGQanWHRtva5i1BSP2uqMLPoHtElMlZJ2Ujcm187CF6mfKEO53XLHenvqfhOU9lioJuJF8CfsvgGIxx2Py8fL4Tg0SHWuXAELwcqxXjheLCdFzyGOw1wJuHJUgS6g8PaU//ffDRafJaDA/MfzQFHfRAkD4/36J+Q2e67gExpXsYOSuDcunQJqeh2xHVmD/jedJ+GNI34CIkZtNWAHeFBlaPKNtXQN+vXMvHrFxF30/+4Znze2abqao4ryD1I/ctStpb83TDQqzsM1nXuIt/P44wwN0SCt2XrjrkehHFB3mgsrWMNWMN1IL90aR/7Yqqfj9Iw56YXDQ/FElWAmp1WFZncYmQctX7+OGHbd57l79dED+ODPOVMNe5vM2u+VN5tm5izPXHIyqD7gDx3TzFbNBwAA</Configuration>
+      </EventQueue>
+      <ProcessPluginConfiguration>H4sIAAAAAAAA/31VR8/bRhC951cYvvLAXgR8NsAq9i5S4m1ZxU6xk78++uwESWAje9uZN/NmZ3b3fYhr1s3ekCVlXibiPvTjzPddXhbLCOay777/8eXLx2/sXwwwJ0+2afxjyKZvX3PQTNnXT/Qn/jPpp+M7Sn7A/+x+8VK/eoVsLNcs/cdsj/1aTm9K0Lwr6LJk7scP+BfYz2grrt6AHwZumcoumyYbjHOXvUP+5fsJtvtpHsY+eYP68YsifPsqZDlYmvnrd5mYFPbvpVv7yFTmzXvqujdapwGdga/fDJTzPAPVzxpWT3HBA6c3k9RCb7qGE7SievyunSIys2D0Z8jgWW66CDcE/Uz5Af+H/O/O/OizATpQZOPPdv+3EgsFIWpX5tOF4o6SdsbYaMeqMTQprK1WG7IVI1bVU3jxxBSot0hsAlI7Bx2CXJquo2oiRH3MrvficKGc6jLbThbfPxmGSzFQmKpdnjaKwPpKL+mNoH1Mvg01JyaOnHq01NidlYMYeUJrUrOCdTdzTnVsmxwHmnyBe4eenU+177EUzGSp2JXvSRbqqfvp1VaHD+KDxm6Mgi4G8Zgt51w4kPBuJQQqRLp1SCDqbG2+OXENWhIdNxbVFG7SxVMlkb8ZW3W6K2Gv7ZUIZLTjKn4IL/d7loSQ6VzVveQexdNRhNMpd9/DGrWhd6nfudR1kVc5jpSgWN6uiaIcSC/YYE21ho9se0yGNfUiCimueNp9cQOZ80jqF4XYkfrSRDzT76oKG6ExSWH5mpAjoIIp7q6ADyZz9xtr3tmq2hm17XOXf/X8Y1bM2SoNhdOxC0VgkLC+dgNaLE06r3xjockRov4w43BZNvs8xOauVJHSN8/W3gZNDSGSj8V9bd7kr7A+K1fg56IQCZjPPHJyyibYUmgBNfNY0SShVLQ9tDMGLTZ2bNOy+vgs+n485ezRDLG8cpYGrglVLWQpEpiFiqT/0ByCsPZGA66pJlPwsin+aJ8kkMoXOsFgztplXpoimHWrarw3U/Qsb+izwldcc7tbUS3NUJXExjYAOk+dvWRjMMj4WZ7pUskPzcT3YbqbSBkV3tpbYYMF15eh31/ckF9aaNTuqRhpA6NcWuZQqjm0n+NyE59i6zaFllSrBQmopzh2nnXVG0jiJZFhQut1U1Lx85Md3h+QSdTNrhxhE1KLPiO+3MuWKi4uckbX6ZErG6/MRA1dURp3ObVp9vIwDei6qmSeAGtaGDrFTll7T2nZ55BxXDmSxyY/vCFWGMYJh/KZhPWFCHx5cOWG61LxwbbAUHOoKfA9ALcMDywbKYqsuBg3yoSHaARWfEoyN9a2iGAKVx4potlPxrEdH1GPsxjF/jrt72dZ4F50Ro6EsgIgdDimb8XgMscs5CpMNDKowgLRPF3M1nCV51bMdXC5rBdwRwPyfJ8szqtaLH1Ytw8nIcx7zDItG27xYxf9tpOcE0eiK/CvJqkTPX1LD7ku6YlPBv3wWiWyFjo3s16jdJVcpLmwCHUxyN7UN9kB4UtDyzij9lmW+IaY5U2FZHabVHwYL7iq1/y0Z+ZrQusnLjE6fB9XEQEkOZ4KnmAyfOLeStMYp0IxW8Nz78BYFG+rSzDlfomptStC4OG52S4XjqN0uirvtHcV8Iuw1xO6eZ1FEUnJMKo/ODHd0HrnZXVL9hZJTXuCXa7rFh8BEdD7WO7XnIedex6toN9juvIqaSgbWhWxOYm3992IYSKLcGf1XlTq81tI38tlorc81e+LN6ZRityaLMTz5P2hM6Gf50iPJUegs8jI74Plsrg3TJ2B5eZgnvAlXDnnUQtqt3XZ7hcHXOXzPpnIGeJxuPKSPofmQzpbUJBLPcDbvbrZ8VBI2BlcuruI0eND6csCaBXLGDyiPEQCXE5YmICgEH0X7Kns5NyUAlh2YXbapKcPuwcaOtHMvbrzodlB8DLhTRAGovEw71Mevn17K+lv1ONTveHfyvpfyvt/0v8nSB3EFx0IAAA=</ProcessPluginConfiguration>
+      <ErrorReporterPluginConfiguration>H4sIAAAAAAAA/7Oxr8jNUShLLSrOzM+zVTLUM1BSSM1Lzk/JzEu3VQoNcdO1ULK347IJSCxKzE0tAarTt+MCABs9DU01AAAA</ErrorReporterPluginConfiguration>
+      <ContextLink ContextID="Context1"/>
+      <WorkspaceID>Approved</WorkspaceID>
+    </OutBoundIntegrationEndpoint>
+  </IntegrationEndpoints>
+</STEP-ProductInformation>

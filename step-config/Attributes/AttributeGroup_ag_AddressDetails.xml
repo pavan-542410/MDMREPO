@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="ag_AddressDetails" ShowInWorkbench="true" ManuallySorted="false" Referenced="true" ParentID="VMDM">
+            <Name>Address</Name>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

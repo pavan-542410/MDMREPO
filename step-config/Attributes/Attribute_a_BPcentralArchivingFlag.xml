@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_BPcentralArchivingFlag" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Central Archiving Flag</Name>
+            <ListOfValueLink ListOfValueID="lov_FinanceIndicatorFlag"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="DisplaySequence">2</Value>
+                <Value AttributeID="Purpose"> This will be set by a user in STEP to indicate that the BP is a candidate for archival</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="Archive"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_TmpAttrGroup"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

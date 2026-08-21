@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="DnBJobTitle" MultiValued="true" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>D&amp;B Job Title</Name>
+            <Validation BaseType="TEXT" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="DnBRecordAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_DNB"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

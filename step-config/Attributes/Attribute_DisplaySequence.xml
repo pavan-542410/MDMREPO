@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="DisplaySequence" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>DisplaySequence</Name>
+            <Validation BaseType="number" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <MetaData>
+                <Value AttributeID="Purpose">Used to sequence attributes and attribute groups</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="Metadata"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_Internal"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="stibo.grouping attribute"></UserTypeLink>
+            <UserTypeLink UserTypeID="stibo.normalattribute"></UserTypeLink>
+            <LinkType LinkTypeID="CA"></LinkType>
+            <LinkType LinkTypeID="PA"></LinkType>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_AltPayerName" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Alternative Payer Name</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_AR"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_PaymentAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_VendorAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="ARBusinessPartner"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

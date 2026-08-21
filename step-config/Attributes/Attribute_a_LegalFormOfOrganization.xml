@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_LegalFormOfOrganization" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Legal Form Of Organization</Name>
+            <ListOfValueLink ListOfValueID="lov_LegalFormOfOrganization"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">Legal form of organization</Value>
+                <Value AttributeID="Purpose">SAP Code for Commercial Enterprise Types (Inc, Co, Limited, Partners, etc)</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="Archive"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_TmpAttrGroup"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

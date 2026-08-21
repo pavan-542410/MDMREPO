@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Configuration:
+<STEP-ProductInformation ResolveInlineRefs="true" DefinitionsAsComments="true">
+<IntegrationEndpoints ExportSize="Selected"/>
+</STEP-ProductInformation>
+
+Export from Primary Product Hierarchy
+Effective date: 2026-08-13 02:35:35
+Classifications All
+Products All
+Assets All
+Collections "stibo.disposable.1786602935550" (temporary collection query URL: step://search?args0.0=IncludeDataContainers%3dno%2csearchString%3dBusinessPartner_OIEP%2cRegExp%3dno%2cMatchCase%3dno%2cIncludeInheritedValues%3dno%2cRecycleBinOnly%3dno&search0.0=ValueCriteria)
+
+Exported by domain exporter.
+-->
+<STEP-ProductInformation ExportTime="2026-08-13 02:35:35" ExportContext="Context1" ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+
+  <IntegrationEndpoints>
+    <OutBoundIntegrationEndpoint ID="BusinessPartner_OIEP" Description="Publish BP to MuleSoft" UserTypeID="OutboundEndpoint user-type root" ProcessPluginID="Export" QueueForEndpoint="OutboundQueue" QueueForProcssing="Out" MaxNumberOfActiveBackgroundProcesses="1" MaximumAgeOfFailedBackgroundProcesses="604800000" MaximumNumberOfFailedBackgroundProcesses="100" MaximumAgeOfSucceededBackgroundProcesses="604800000" MaximumNumberOfSucceededBackgroundProcesses="100" TransactionType="STRICT" ResponsibleUserID="STEPSYS" EnableRetry="false" UseCrossContext="false" DataSourcePluginID="EventQueueDataSourcePlugin" DeliveryMethodPluginID="RESTDirectDeliveryPlugin" MultiThreadCount="1" RefreshCollections="false" Selected="true" Referenced="true">
+
+<!-- Definition:
+ScheduleSpecification:
+<entries>
+  <entry class="com.stibo.util.scheduledefinition.ScheduleDefinition$ScheduleEveryMinute" every="1"/>
+</entries>
+
+DataSourcePluginConfiguration:
+<Parameters>
+  <Parameter ID="DaysToRetainEvents" Type="java.lang.Integer">0</Parameter>
+  <Parameter ID="eventQueueBatching" Type="com.stibo.util.integrationendpoints.BooleanIntegerParameter">1</Parameter>
+  <Parameter ID="eventQueueBundleMessages" Type="com.stibo.util.integrationendpoints.BooleanIntegerParameter">1</Parameter>
+</Parameters>
+
+DeliveryMethodPluginConfiguration:
+<Parameters>
+  <Parameter ID="BusinessFunction" Type="com.stibo.integrationendpointplugins.impl.outbound.delivery.restdirectdelivery.RESTDirectDeliveryPlugin$AuthFunction">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;BusinessFunctionProxy&gt;&lt;Mappings/&gt;&lt;/BusinessFunctionProxy&gt;</Parameter>
+  <Parameter ID="CertificateKeyStore" Type="com.stibo.util.integrationendpoints.ConfigStringLOVParameter"/>
+  <Parameter ID="Header" Type="com.stibo.util.integrationendpoints.StringMapParameter">#1.0
+#Thu Aug 13 02:31:17 EDT 2026Content-Type=application/xml
+client-id=0f681344c7ef4b6ebe542cadd6e30d7fclient-secret=9a6EcaCDAEEe446b9A7011d0745F4285</Parameter>
+  <Parameter ID="HttpMethod" Type="com.stibo.integrationendpointplugins.impl.outbound.delivery.restdirectdelivery.RESTDirectHttpMethod">POST</Parameter>
+  <Parameter ID="ProxyConfig" Type="com.stibo.util.integrationendpoints.ConfigStringLOVParameter"/>
+  <Parameter ID="QueryString" Type="com.stibo.util.integrationendpoints.MultiValueMapParameter"/>
+  <Parameter ID="RestURL" Type="com.stibo.util.integrationendpoints.ConfigParameter">3</Parameter>
+  <Parameter ID="UsePreemptiveAuth" Type="java.lang.Boolean">false</Parameter>
+  <Parameter ID="reportResponseBodyOnError" Type="java.lang.Boolean">false</Parameter>
+  <Parameter ID="zipContent" Type="java.lang.Boolean">false</Parameter>
+  <Parameter ID="zipIncludeTimestamp" Type="java.lang.Boolean">false</Parameter>
+</Parameters>
+
+ProcessPluginConfiguration:
+<EventSpecificExportConfiguration>
+  <ExportConfiguration MatchAllTypes="false">
+    <DerivedEventType>MuleSoftUpdate</DerivedEventType>
+    <ExportManagerConfig>
+      <ExportManagerConfig ContentMode="" ContextID="Context1" ECatalogID="" EffectiveDate="" EffectiveDateTimeZoneID="America/New_York" ExecutionMode="" ExportSelectedProducts="false" InheritProductData="true" LeafProductExport="true" Name="" ProcessTemplate="Exporter" ResolveInlineRefs="true" ScheduleDate="" SelfContainedReferences="false" UseContextLocale="false" Version="2" VersionID="" WorkspaceID="Main" isSorted="false">
+        <Delivery Name="File">
+          <Parameter Name="FileNameTemplate">$filename-$timestamp(yyyy-MM-dd_HH.mm.ss).$extension</Parameter>
+        </Delivery>
+        <Format Name="AdvancedSTEPXML">
+          <Parameter Name="CrossContextChooser">No</Parameter>
+          <Parameter Name="Recorder">&lt;STEP-ProductInformation ResolveInlineRefs=&quot;true&quot;&gt;&lt;Classifications FlattenHierarchy=&quot;true&quot;&gt;&lt;FilterUserType ID=&quot;SupplierRoot&quot;/&gt;&lt;Classification Referenced=&quot;true&quot;&gt;&lt;Name/&gt;&lt;/Classification&gt;&lt;/Classifications&gt;&lt;Entities FlattenHierarchy=&quot;true&quot;&gt;&lt;FilterUserType ID=&quot;BusinessPartner&quot;/&gt;&lt;FilterUserType ID=&quot;APBusinessPartner&quot;/&gt;&lt;FilterUserType ID=&quot;LegacyAP&quot;/&gt;&lt;FilterUserType ID=&quot;ARBusinessPartner&quot;/&gt;&lt;FilterUserType ID=&quot;LegacyAR&quot;/&gt;&lt;FilterUserType ID=&quot;Contact&quot;/&gt;&lt;FilterUserType ID=&quot;Address&quot;/&gt;&lt;FilterUserType ID=&quot;GLN&quot;/&gt;&lt;FilterUserType ID=&quot;DnBOrganization&quot;/&gt;&lt;FilterUserType ID=&quot;LegacyPO&quot;/&gt;&lt;FilterUserType ID=&quot;AuditMessage&quot;/&gt;&lt;FilterUserType ID=&quot;ChangeLogEntry&quot;/&gt;&lt;Entity IncludeParent=&quot;true&quot;&gt;&lt;Name/&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_AP&quot;/&gt;&lt;Value AttributeID=&quot;ag_OIEP_AR&quot;/&gt;&lt;Value AttributeID=&quot;ag_OIEP_BP&quot;/&gt;&lt;/Values&gt;&lt;DataContainers/&gt;&lt;EntityCrossReference Type=&quot;GoldenRecordReferences&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Legacy&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;POReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_PO&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;ContactReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Name/&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Contact&quot;/&gt;&lt;/Values&gt;&lt;DataContainers/&gt;&lt;EntityCrossReference Type=&quot;AdressReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Name/&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Address&quot;/&gt;&lt;/Values&gt;&lt;DataContainers/&gt;&lt;/Entity&gt;&lt;MetaData/&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;ContactAddressReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Name/&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Contact&quot;/&gt;&lt;/Values&gt;&lt;DataContainers/&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;AdressReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Name/&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Address&quot;/&gt;&lt;/Values&gt;&lt;DataContainers/&gt;&lt;/Entity&gt;&lt;MetaData/&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;OrganizationReferenceType&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Name/&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_DNB&quot;/&gt;&lt;/Values&gt;&lt;DataContainers/&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;AuditObject&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Audit&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;ChangeLogReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_ChangeLog&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;GLNReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_GLN&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;BPPOVendor&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_PO&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;ClassificationCrossReference Type=&quot;SupplierEntities&quot;&gt;&lt;Classification Referenced=&quot;true&quot;&gt;&lt;Name/&gt;&lt;/Classification&gt;&lt;/ClassificationCrossReference&gt;&lt;Entity&gt;&lt;Name/&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_AP&quot;/&gt;&lt;Value AttributeID=&quot;ag_OIEP_AR&quot;/&gt;&lt;/Values&gt;&lt;DataContainers/&gt;&lt;EntityCrossReference Type=&quot;GoldenRecordReferences&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Legacy&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;POReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_PO&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;ContactReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Name/&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Contact&quot;/&gt;&lt;/Values&gt;&lt;DataContainers/&gt;&lt;EntityCrossReference Type=&quot;AdressReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Name/&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Address&quot;/&gt;&lt;/Values&gt;&lt;DataContainers/&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;ContactAddressReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Name/&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Contact&quot;/&gt;&lt;/Values&gt;&lt;DataContainers/&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;AdressReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Name/&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Address&quot;/&gt;&lt;/Values&gt;&lt;DataContainers/&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;AuditObject&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_Audit&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;ChangeLogReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_ChangeLog&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;GLNReference&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_GLN&quot;/&gt;&lt;/Values&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;EntityCrossReference Type=&quot;OrganizationReferenceType&quot;&gt;&lt;Entity Referenced=&quot;true&quot;&gt;&lt;Name/&gt;&lt;Values&gt;&lt;Value AttributeID=&quot;ag_OIEP_DNB&quot;/&gt;&lt;/Values&gt;&lt;DataContainers/&gt;&lt;/Entity&gt;&lt;/EntityCrossReference&gt;&lt;/Entity&gt;&lt;/Entity&gt;&lt;/Entities&gt;&lt;/STEP-ProductInformation&gt;</Parameter>
+        </Format>
+        <ProductMapping SelectedURLType="product"/>
+        <ProductSelection/>
+      </ExportManagerConfig>
+    </ExportManagerConfig>
+    <ObjectType>BusinessPartner</ObjectType>
+    <Preprocessor ID="Default">H4sIAAAAAAAA/7Oxr8jNUShLLSrOzM+zVTLUM1BSSM1Lzk/JzEu3VQoNcdO1ULK347IJSCxKzE0tAarTt+MCABs9DU01AAAA</Preprocessor>
+  </ExportConfiguration>
+</EventSpecificExportConfiguration>
+
+ErrorReporterPluginConfiguration:
+<Parameters/> -->
+      <SetupGroupLink SetupGroupID="Outbound Integration Endpoints"/>
+      <Name>Business Partner Create OIEP</Name>
+      <ScheduleSpecification>H4sIAAAAAAAA/z2NOw6DQAwFe06xslKbpOfTQJkqJwiLEZaWXQl7Ubg9TkR41dMUM1X7WYLbaBVOsYYH3qFtioqirkzSFM79/u58eIvU4NOCojwkzMoBxc805kAjTRxZzYGvE3UXuv1Rb539yTErgZnP0ZdaGkoLl1f5AOswyiiaAAAA</ScheduleSpecification>
+      <DataSourcePluginConfiguration>H4sIAAAAAAAA/7WQuwrCQBBFe79imd7VdBZ5QIhCCkElfsCYDHFlMxuym2D+3g1otLCwsTww99zLhMm90WKgzirDEQRyDYK4NJXiOoJzsVtuIIkX4QE7bMj5u3ghxBtFnkWQ4WgLcyKHircDsbMgirGlCG44oNTItczZUU0dxOtwNae/uGjKH3vqKUVXXv2Ml6s0jbROXYzsndJSTcIOnd9NXLXGs5WpMZqQn2WzGeLg59aeK017shZrsn/o/gD/ywe3+NFpgAEAAA==</DataSourcePluginConfiguration>
+      <DeliveryMethodPluginConfiguration>H4sIAAAAAAAA/7VU23LaMBB95ys0TidvMTY4QBIww3WSaRgomLwLa23UkSWNLpnQr68MCUkbSsqkfdxdnXP2qnb3qWDoEZSmgne80A88BDwVhPK84y2T8UXLQ9pgTjATHDoeF143bs+wwgUYB4srCL2a6G7Y8eagzXJ+76FkIx0iFYWvDV0J3xrKfMoN5AobpwecSOFs7Q8Ez2i+p/Hieru6tw5IzJR42uxAp8ssjHLV3U8fXvWqBzRujZETMGtB3kscYJfM5pRrnxaS+cKalbCc+AQYdd3d+Mo1hVAFqdm75qNFMty63kjFs+kiOV78N+vQuyJOKX5imaEPmFmYYPlB6YCJC51AvkvnF+L4zG1T5SxZW9SzOQrrKKhd18PrsIlGwwTVglqj4gZigJuLrRCWktF0S1x1W1lJGS1jlHSCrNEK61GUNiGLVg1YwWVUSzEhDagHpJm9PNWQKjCdK9wYpXgw7I1GEEWN1VWvGYQhCZrR5TiqtS4rx/v7g8rnvF468B0/Yp9hnvt9IRhg7sUZZho+5LnjKbMEElq48eNCfo5QgRTKuPOSgmvoC7KZ8pFSQn2OdqlhpgAKadxe9qxZn0j3nrFvNeWg9djytBznfz+g4bNrtuX4Uhax147Pmbn5i2+ue56bm0r5+Pf0t7/NNopQGXdrLh1QV/eI6p8hx3s/AGVoVm49fAV31ELBv/rQ3gjr+CdZ1T/L6AUAAA==</DeliveryMethodPluginConfiguration>
+      <EventQueue QueueStatus="Read" DaysRetained="0" Selected="true" Referenced="true">
+
+<!-- Definition:
+AssetTemplate=
+<STEP-ProductInformation ExportDerivedAttrs="false" FollowOverrideSubProducts="false" ResolveInlineRefs="false">
+  <Assets DontFollowClassificationToAssetReference="true" ExportSize="Minimum">
+    <Asset/>
+  </Assets>
+</STEP-ProductInformation>
+AttributeTemplate=
+<STEP-ProductInformation ExportDerivedAttrs="false" FollowOverrideSubProducts="false" ResolveInlineRefs="false">
+  <AttributeList/>
+</STEP-ProductInformation>
+ClassificationTemplate=
+<STEP-ProductInformation ExportDerivedAttrs="false" FollowOverrideSubProducts="false" ResolveInlineRefs="false">
+  <Classifications ExportSize="Minimum">
+    <Classification IncludeParent="true"/>
+  </Classifications>
+</STEP-ProductInformation>
+ConsumerSuspended=
+ObjectTypeGroupings=
+<ObjectTypeRules>
+  <ObjectTypeRules ConditionID="EventFilte">
+    <ObjectType ObjectTypeID="BusinessPartner"/>
+  </ObjectTypeRules>
+</ObjectTypeRules>
+ProductTemplate=
+<STEP-ProductInformation ExportDerivedAttrs="false" FollowOverrideSubProducts="false" ResolveInlineRefs="false">
+  <Products DontFollowClassificationToProductReference="true" ExportSize="Minimum">
+    <Product IncludeParent="true">
+      <AssetCrossReference/>
+      <AttributeLink/>
+      <ClassificationReference/>
+      <DataContainers/>
+      <Name/>
+      <OverrideSubProduct/>
+      <OverrideSubProduct/>
+      <ProductCrossReference/>
+      <Values/>
+    </Product>
+  </Products>
+</STEP-ProductInformation>
+TriggeringWorkspace=Main
+UnitTemplate=
+<STEP-ProductInformation ExportDerivedAttrs="false" FollowOverrideSubProducts="false" ResolveInlineRefs="false">
+  <UnitList/>
+</STEP-ProductInformation>
+Version=3
+context=Context1
+objecttype=BusinessPartner -->
+        <Configuration>H4sIAAAAAAAA/9VUy27bMBC85ysI3VM1yKUH0YHrR2GgaQxbSc+0tDaYUKTAJV23X9+VRFqIrSLuLTlJ3PcMhztGBJdDVSvhgGd3h0qxPViURvPk5tPnhIEuTCn1jieP+fz6S3I3usrW+Wx5vbSm9IVb6K2xlXCUwVaARu1hoZXUsIIt8mQrFELC5kYp8+uBSltZwtpvQnYfMTvUxropWLmHcuycPbpGV4xl42ZQDFFr+Qd4ci+1rHyVsKnRrmswUQJRbmXRzpObNosGAUswKMVZ39WLFdO2eNpVJ2TpP6CNMqyVdKNmMLnxDj4EZ3HY7xIbpG+iO6HvA0B8PfGwPsJ9vw5lC10oX8JSkDRcUEZQw0nRS4ijMF+BXXusQZdQBvvD5hkKl/+u4Zs1via+kGe9ceUVYNvzxMaoYCmbDospT2Z7GnEulTtqtw9n/W8T+tUjcYxIsJwGGxGdtTw3hYkDxnd/91mM/t+VEPKGlkKsOaiNwPwPUUEaN0j/vvRLOiizY5voPscbPeE4sQbxLK1dUMOuJ6E8YDxNhRMkHieIbotvdc3ScOxkEjm9QPG5lbsd3Yze/TT2BWtBTN5T0+B+1PL9a4ggN3Neuh2fAoDbcC6IZjg4Pum+N8Fs2ofl6GHxk9cYAv4Ci6r0aHQHAAA=</Configuration>
+      </EventQueue>
+      <ProcessPluginConfiguration>H4sIAAAAAAAA/4VVx47kVgy8+ysWe9VBOQGzCyi1slpZrb4p55z19Z71+GDDC5jHYj0WSTywPoQ961dnzJIqrxLhHId55YY+r4ptjtZq6H/+8e3bx2/wb3q0JiXTtu41ZsuP73nULtn3X+xPPp/N1Z6lf9X+lf+pb23mDPnqjWm0Zh/gfwhf755xnSVfALstVZ8tixnNa5/NH+A/cl9kc87GeUg+OcP8TeZ/fOezPNra9ftPCVtk5u8Ayec5U7XhOaWmOfPz1oHbdzVPh1nH0WHtbkDlFjbUtwYjSZ+wp6koRsqKw53qLUArE83uCugcwy4070Hwr5of4D+1/27na0d61EdFNn+t6t+NAH4UoOZklCxg7odaX5kb2ZST7VNU8k9BYaBbYCungfFMr2cEmSpYcWYlyqqdpIZXJQiqUVfWWt9s1GYkAMDTaHsECMqOTWE3JzT4hjJgD5JFvnXQPdH5u70GORAa1pBqTeVKCi4OMCuI9HJEjk7hRKjZChjzV1zjMAVs1K2/cqp4Ux7nlph1wWAzyTaVJzItqOxmObI2uwJ/EWxPaKqsKyUvc3CmsEy2FQdD2W+wrKbS88P+sEQTq2PDs+5EtFzU2Ycn2Pf4A07qSMZGwTSceu5104s4f7ikYjgG6+AvizuNa0eVLj5GQKgQqC586bU3DOWcqmM3lyxpeWePl0maOxufAuZZjyEBukipOTG/Be8uSvV1xAzTXkkdp8fWQ49z0vtBzZfrWMdcyQgw1Kwpb5/PBPevSCBa41OpojFH7tSCzmCU6irZAEGUocHOwxwud6FTZA+gLO41dF/6QKUzNOKnkpL0ecIP5ggKq8ckqYwAsnYUeNScDPdeUDDKURGEMSaBwDuRgo5KKkAK82k2feWmRa1SLOh4lLOX9UkoWAczJx7LSlkqYrYb+HskO11oT2oJNrrEnMjZq/kthrZb8+VLDDy62salefeNewGu701jDoOmt5GmjjrD22M3+8LfwzBxC4plSiuzj1StFfZzvDhdmRY54U3jK6ZB54Ocp8eyTNvlvAJlZXGsHMp4zg26iN7+AyzH5JGlQDimdWPLogmRF85F/UBLhn0quTqJBDMGdDlirtVoYcLyrnCcLzzVKDR4KgmgCSV1FI8iVAnAbk1WHgq7sfzO6VXcKXpce3CXLmeSO0kUnbezMQ+j0yBIo7UpPGYbGmtWR7hKHvNvrp2LuzYUYquKph4i/GKLDEi4a5n7ZFxma7ci0qq9y2p3A3Ou25+Ea3ujtj4ZKqEUyVyYcqZZ3vNk1Ola5/uom3c0KqIwaPGRNjX78piFjlVCjwQDgYB1PCYZEARr0cTypVVdxy/c82Jsw7U3SUpcm+bkcbj8l4dSExLsXQCAqo3FUfvCjSM+YnhPYxoBWuAS/d0BzeiiCWHjAty8A5EAVh4eFLZGqc8PDG7aSj3QIHQ8nMpsmgZKRBvJF625DYSRKp5Icmjm9fkOJMUyNd5HLEgZD2GA92klKgbyYWo7AdOWby6vQHAoYp8KA0Ea5jJQM+zkJd7b4eWE/X4Gw/GMHkbj0M9NvRUfM0eDKPB0qjo9RiC2jp2E9mgS782Ub5E+t3RIcgSkpzuEvG+UC9+lllHxp6xBSO9hNkMWuYyGtDTdTfhO6viX2TvavdSJuLbEcMKk56/oygiRc6/RkK3L+kQp8VlHAQXQA7gCHErzQ0ljqL+4ubzCIIaF4LLFSo6gaBM23BSDXmp6KoeRBkRJpAJNBS0NuHe8kSie3ZvEjTmBMmIBCEiZWy5g8SVqHvqeU8pY4jZIU2iMBBsPi5hedgk0cDhaFYn2uhzO6O9dO1fUQbBn8iT81PKc3Eruez0E1GC0uDh0epwp373I5G5FRpGjprmMR4hz6qmZO74XuGjhZm6CI72HUN0ALWiSEPfAPN1EopBC4mNQngR5rpmBOlEO8eHSp5+XsP60ix8f4O8c5Zcbg7+16U/4/6z8T+84WwrtBwAA</ProcessPluginConfiguration>
+      <ErrorReporterPluginConfiguration>H4sIAAAAAAAA/7Oxr8jNUShLLSrOzM+zVTLUM1BSSM1Lzk/JzEu3VQoNcdO1ULK347IJSCxKzE0tAarTt+MCABs9DU01AAAA</ErrorReporterPluginConfiguration>
+      <ContextLink ContextID="Context1"/>
+      <WorkspaceID>Main</WorkspaceID>
+    </OutBoundIntegrationEndpoint>
+  </IntegrationEndpoints>
+</STEP-ProductInformation>

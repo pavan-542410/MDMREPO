@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="AttributeDescription" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Attribute Description</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <AttributeGroupLink AttributeGroupID="AttributeMetadata"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="Metadata"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_Internal"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="stibo.normalattribute"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

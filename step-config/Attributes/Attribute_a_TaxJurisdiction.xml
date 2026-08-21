@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_TaxJurisdiction" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Tax Jurisdiction (STATE_COUNTY_CITY)</Name>
+            <ListOfValueLink ListOfValueID="lov_TaxJurisdictions"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">Tax Jurisdiction</Value>
+                <Value AttributeID="AttributeHelpText">Please start typing to locate your State, County and City. If specific City is not available, select State and County only.</Value>
+                <Value AttributeID="Purpose">The tax jurisdiction is used for determining the tax rates in the USA. It defines to which tax authorities you must pay your taxes. It is always the city to which the goods are supplied.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_BP"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_Provisioning"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_SearchAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_TaxAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_TmpAttrGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_VendorAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="BusinessPartner"></UserTypeLink>
+            <UserTypeLink UserTypeID="Golden BP"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

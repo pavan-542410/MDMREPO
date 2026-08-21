@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="DnBVMDMCustomAttributes" ShowInWorkbench="true" ManuallySorted="false" Referenced="true" ParentID="DnBRecordAttributes">
+            <Name>DnB VMDM Custom Attributes</Name>
+            <MetaData>
+                <Value AttributeID="Purpose">All the attributes in this group are custom build.</Value>
+            </MetaData>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

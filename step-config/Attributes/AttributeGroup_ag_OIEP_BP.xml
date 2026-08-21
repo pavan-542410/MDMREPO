@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="ag_OIEP_BP" ShowInWorkbench="true" ManuallySorted="false" Referenced="true" ParentID="ag_OIEP">
+            <Name>OIEP BP</Name>
+            <MetaData>
+                <Value AttributeID="Purpose">To configure BP Attributes on outbound Integrations</Value>
+            </MetaData>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

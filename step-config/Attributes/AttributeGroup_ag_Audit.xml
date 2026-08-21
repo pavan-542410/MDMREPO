@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="ag_Audit" ShowInWorkbench="true" ManuallySorted="false" Referenced="true" ParentID="Metadata">
+            <Name>Audit</Name>
+            <MetaData>
+                <Value AttributeID="Purpose">This is for attributes on the Audit Object that are published to MongoDB</Value>
+            </MetaData>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

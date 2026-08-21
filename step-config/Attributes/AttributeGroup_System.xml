@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="System" ShowInWorkbench="false" ManuallySorted="false">
+            <Name>System</Name>
+            <MetaData>
+                <Value AttributeID="Purpose">Used for STEP system attributes. No attributes should be added here by STEP users.</Value>
+            </MetaData>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

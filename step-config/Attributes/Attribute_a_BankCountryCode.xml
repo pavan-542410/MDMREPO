@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_BankCountryCode" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="true">
+            <Name>Bank Country</Name>
+            <ListOfValueLink ListOfValueID="lov_BankCountryCode"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">Country Code</Value>
+                <Value AttributeID="AttributeHelpText">Country your account is based</Value>
+                <Value AttributeID="Purpose">The country key contains information which the system uses to check entries such as the length of the postal code or bank account number. (Even though 3 char, only need 2 char)</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ag_BankAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_BankAttributesReadOnly"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_BankAttributesReadOnlyMasked"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_SearchAttributes"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

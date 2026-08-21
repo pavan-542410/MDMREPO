@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="asset.creator" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>asset.creator</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="Uncategorized"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Asset user-type root"></UserTypeLink>
+            <UserTypeLink UserTypeID="Configuration"></UserTypeLink>
+            <UserTypeLink UserTypeID="Icon"></UserTypeLink>
+            <UserTypeLink UserTypeID="Illustration"></UserTypeLink>
+            <UserTypeLink UserTypeID="Logo"></UserTypeLink>
+            <UserTypeLink UserTypeID="MSDS"></UserTypeLink>
+            <UserTypeLink UserTypeID="OwnersManual"></UserTypeLink>
+            <UserTypeLink UserTypeID="ProductImage"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

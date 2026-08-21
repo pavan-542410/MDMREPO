@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_BankAccountTitleCalc" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Bank Account Title (Calc)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="250" InputMask=""></Validation>
+            <ValueTemplate>&lt;derive expr="concatenate(
+    value('a_BankAccountHolderName'),
+    ' [',
+    substitute(
+        value('a_BankDetailStartDate'),
+        '-',
+        '/'
+    ),
+    ' - ',
+    substitute(
+        value('a_BankDetailEndDate'),
+        '-',
+        '/'
+    ),
+    ']'
+)"/&gt;</ValueTemplate>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_AP"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_AR"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

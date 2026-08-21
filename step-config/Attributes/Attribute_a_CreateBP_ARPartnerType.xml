@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_CreateBP_ARPartnerType" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>AR Business Partner Type</Name>
+            <ListOfValueLink ListOfValueID="lov_FinancialBPType"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">Business partner type to group business partners by category</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ag_BusinessRequestorAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_CreationAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_Internal"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_SearchAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_revisionHistory"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="BusinessPartner"></UserTypeLink>
+            <UserTypeLink UserTypeID="Golden BP"></UserTypeLink>
+            <UserTypeLink UserTypeID="MLMR BP"></UserTypeLink>
+            <ValueFilter>
+                <Value ID="ARC"></Value>
+                <Value ID="ARO"></Value>
+                <Value ID="OTC"></Value>
+                <Value ID="RMC"></Value>
+                <Value ID="XCOM"></Value>
+            </ValueFilter>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

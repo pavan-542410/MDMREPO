@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_AddressValidated" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Validated?</Name>
+            <ListOfValueLink ListOfValueID="YesNoExternal"></ListOfValueLink>
+            <AttributeGroupLink AttributeGroupID="ag_AddressDetails"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_Internal"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Address"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

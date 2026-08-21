@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="ag_APAccountingAttributes" ShowInWorkbench="true" ManuallySorted="false" Referenced="true" ParentID="ag_BusinessPartnerDetails">
+            <Name>AP Accounting Attributes</Name>
+            <MetaData>
+                <Value AttributeID="Purpose">To configure AP Accounting Attributes on Web UI screens </Value>
+            </MetaData>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

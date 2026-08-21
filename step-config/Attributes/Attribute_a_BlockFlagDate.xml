@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_BlockFlagDate" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Block Flag Date</Name>
+            <Validation BaseType="isodate" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="Archive"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_BlockingAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_OIEP_AP"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_VMDAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="APBusinessPartner"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

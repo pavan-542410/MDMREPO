@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_SetNettingFlagForAllCompanies" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Set Netting Flag For All Companies</Name>
+            <ListOfValueLink ListOfValueID="OnlyYesLOV"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">Set Netting Flag For All Companies</Value>
+                <Value AttributeID="Purpose">Set Netting Flag For All Companies</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="Archive"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

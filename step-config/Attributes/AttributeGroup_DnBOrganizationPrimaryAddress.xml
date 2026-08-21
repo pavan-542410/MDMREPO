@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="DnBOrganizationPrimaryAddress" ShowInWorkbench="true" ManuallySorted="true" Referenced="true" ParentID="DnBRecordAttributes">
+            <Name>DnB Organization Primary Address</Name>
+            <AttributeSequence>
+                <AttributeLink AttributeID="DnBStreetName"></AttributeLink>
+                <AttributeLink AttributeID="DnBStreetNumber"></AttributeLink>
+                <AttributeLink AttributeID="DnBAddressLocalityName"></AttributeLink>
+                <AttributeLink AttributeID="DnBAddressRegionAbbreviatedName"></AttributeLink>
+                <AttributeLink AttributeID="DnBContinentalRegionName"></AttributeLink>
+                <AttributeLink AttributeID="DnBPostalCode"></AttributeLink>
+                <AttributeLink AttributeID="DnBStreetAddressLine"></AttributeLink>
+                <AttributeLink AttributeID="DnBStreetAddressLine2"></AttributeLink>
+            </AttributeSequence>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

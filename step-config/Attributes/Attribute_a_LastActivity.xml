@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="a_LastActivity" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Last Activity Date</Name>
+            <Validation BaseType="isodate" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="Archive"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_APMatching"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_ARMatching"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_AddressMatching"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_ContactMatching"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_VendorMatching"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="APBusinessPartner"></UserTypeLink>
+            <UserTypeLink UserTypeID="ARBusinessPartner"></UserTypeLink>
+            <UserTypeLink UserTypeID="Address"></UserTypeLink>
+            <UserTypeLink UserTypeID="Contact"></UserTypeLink>
+            <UserTypeLink UserTypeID="LegacyAP"></UserTypeLink>
+            <UserTypeLink UserTypeID="LegacyAR"></UserTypeLink>
+            <UserTypeLink UserTypeID="LegacyAddress"></UserTypeLink>
+            <UserTypeLink UserTypeID="LegacyContact"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>
