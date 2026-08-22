@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
-    <AttributeGroupList>
-        <AttributeGroup ID="ag_Comments" ShowInWorkbench="true" ManuallySorted="false" Referenced="true" ParentID="VMDM">
-            <Name>Comment</Name>
-            <Configuration>H4sIAAAAAAAA/4WPwQrCMAyG73uK0gdw6rkdaDfFi3iQXaVjmQbWRtoUX9/ppN70li/8X36iNswBu8SwD5TuLcKjhgE9MpIXOwrOcgshTqTlarGUVSGE+kaiONtwBc5norF+C02PDL2Wgx0jyPItGRqT8/E1T5SFeS0yH2ot7cWQc+B5Vv/HTzfycEyug7D+1JW5T5W/nqyKJ0mU6XUEAQAA</Configuration>
-        </AttributeGroup>
-    </AttributeGroupList>
-</STEP-ProductInformation>

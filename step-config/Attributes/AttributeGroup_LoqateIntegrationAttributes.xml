@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
-    <AttributeGroupList>
-        <AttributeGroup ID="LoqateIntegrationAttributes" ShowInWorkbench="true" ManuallySorted="false" Referenced="true">
-            <Name>Loqate Integration</Name>
-        </AttributeGroup>
-    </AttributeGroupList>
-</STEP-ProductInformation>

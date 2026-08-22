@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
-    <AttributeGroupList>
-        <AttributeGroup ID="DnBHeadquartersPrimAddress" ShowInWorkbench="true" ManuallySorted="false" Referenced="true" ParentID="DnBRecordAttributes">
-            <Name>DnB Headquarters Primary Address</Name>
-        </AttributeGroup>
-    </AttributeGroupList>
-</STEP-ProductInformation>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
     <AttributeList>
         <Attribute ID="a_GLN" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
             <Name>Global Location Number</Name>
             <Validation BaseType="gln" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="AddressAttributes"></AttributeGroupLink>
             <AttributeGroupLink AttributeGroupID="ag_BusinessPartnerDetails"></AttributeGroupLink>
-            <AttributeGroupLink AttributeGroupID="ag_BusinessRequestorAttributes"></AttributeGroupLink>
-            <AttributeGroupLink AttributeGroupID="ag_OIEP_BP"></AttributeGroupLink>
             <AttributeGroupLink AttributeGroupID="ag_OIEP_GLN"></AttributeGroupLink>
             <AttributeGroupLink AttributeGroupID="ag_OIEP_Provisioning"></AttributeGroupLink>
-            <UserTypeLink UserTypeID="GLN"></UserTypeLink>
+            <UserTypeLink UserTypeID="Location"></UserTypeLink>
+            <UserTypeLink UserTypeID="LocationRoot"></UserTypeLink>
         </Attribute>
     </AttributeList>
 </STEP-ProductInformation>

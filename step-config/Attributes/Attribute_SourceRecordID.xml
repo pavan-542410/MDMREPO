@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
     <AttributeList>
         <Attribute ID="SourceRecordID" MultiValued="true" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
-            <Name>SourceRecordID</Name>
+            <Name>Source Record ID</Name>
             <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="40" InputMask=""></Validation>
-            <AttributeGroupLink AttributeGroupID="Merge"></AttributeGroupLink>
-            <AttributeGroupLink AttributeGroupID="ag_Internal"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ReferenceMetadata"></AttributeGroupLink>
         </Attribute>
     </AttributeList>
 </STEP-ProductInformation>

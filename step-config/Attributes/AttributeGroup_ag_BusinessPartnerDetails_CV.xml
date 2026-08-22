@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
-    <AttributeGroupList>
-        <AttributeGroup ID="ag_BusinessPartnerDetails_CV" ShowInWorkbench="true" ManuallySorted="false" Referenced="true" ParentID="VMDM_CV">
-            <Name>Business Partner Common Vendor</Name>
-        </AttributeGroup>
-    </AttributeGroupList>
-</STEP-ProductInformation>

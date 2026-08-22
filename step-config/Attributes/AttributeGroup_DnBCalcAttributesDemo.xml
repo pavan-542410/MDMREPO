@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
-    <AttributeGroupList>
-        <AttributeGroup ID="DnBCalcAttributesDemo" ShowInWorkbench="true" ManuallySorted="false" Referenced="true" ParentID="DnBRecordAttributes">
-            <Name>DnB Calc Attributes Demo</Name>
-        </AttributeGroup>
-    </AttributeGroupList>
-</STEP-ProductInformation>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
     <AttributeList>
         <Attribute ID="asset.profile" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
             <Name>asset.profile</Name>
@@ -8,18 +8,17 @@
             <UserTypeLink UserTypeID="Actual Page"></UserTypeLink>
             <UserTypeLink UserTypeID="Asset user-type root"></UserTypeLink>
             <UserTypeLink UserTypeID="Configuration"></UserTypeLink>
-            <UserTypeLink UserTypeID="EmailPreview"></UserTypeLink>
             <UserTypeLink UserTypeID="Icon"></UserTypeLink>
             <UserTypeLink UserTypeID="Illustration"></UserTypeLink>
             <UserTypeLink UserTypeID="InstallationManual"></UserTypeLink>
             <UserTypeLink UserTypeID="Logo"></UserTypeLink>
             <UserTypeLink UserTypeID="MSDS"></UserTypeLink>
-            <UserTypeLink UserTypeID="Miscellaneous Documents"></UserTypeLink>
             <UserTypeLink UserTypeID="OwnersManual"></UserTypeLink>
             <UserTypeLink UserTypeID="PageTemplatePage"></UserTypeLink>
             <UserTypeLink UserTypeID="ProductImage"></UserTypeLink>
             <UserTypeLink UserTypeID="PublicationTemplatePage"></UserTypeLink>
-            <UserTypeLink UserTypeID="TINValidationTool"></UserTypeLink>
+            <UserTypeLink UserTypeID="TestProductImage"></UserTypeLink>
+            <UserTypeLink UserTypeID="WebUIImage"></UserTypeLink>
         </Attribute>
     </AttributeList>
 </STEP-ProductInformation>

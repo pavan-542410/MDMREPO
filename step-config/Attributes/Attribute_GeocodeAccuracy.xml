@@ -1,31 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
     <AttributeList>
         <Attribute ID="GeocodeAccuracy" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" Selected="true" Referenced="true" Mandatory="false">
             <Name>Geocode Accuracy</Name>
             <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="5000" InputMask=""></Validation>
-            <MetaData>
-                <Value AttributeID="AttributeHelpText">The GeoAccuracy code is made up of the geocoding status and the geocoding level.
-
-Geocoding Status
-P: Point (A single geocode was found matching the input address)
-I: Interpolated (A geocode was able to be interpolated from the input addresses location in a range)
-A: Average (Multiple candidate geocodes were found to match the input address, and an average of these was returned)
-U: Unable to geocode (A geocode was not able to be generated for the input address)
-
-Geocoding Level
-5: Delivery Point (PostBox or SubBuilding)
-4: Premise (Premise or Building)
-3: Thoroughfare
-2: Locality
-1: AdministrativeArea
-0: None</Value>
-            </MetaData>
-            <AttributeGroupLink AttributeGroupID="LoqateIntegrationAttributes"></AttributeGroupLink>
-            <AttributeGroupLink AttributeGroupID="ag_AddressMatching"></AttributeGroupLink>
-            <AttributeGroupLink AttributeGroupID="ag_OIEP_Address"></AttributeGroupLink>
-            <AttributeGroupLink AttributeGroupID="ag_SearchAttributes"></AttributeGroupLink>
-            <UserTypeLink UserTypeID="Address"></UserTypeLink>
+            <AttributeGroupLink AttributeGroupID="AddressData"></AttributeGroupLink>
         </Attribute>
     </AttributeList>
 </STEP-ProductInformation>
