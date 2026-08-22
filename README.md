@@ -80,26 +80,6 @@ Each file contains STEP export metadata blocks, for example:
 
 Keep these blocks intact when editing or adding rules, since STEP import/export depends on them.
 
-## Deployment / Sync Paths
-
-### 1. GitHub workflow sync
-
-Workflow: `.github/workflows/sync-step-configs.yml`
-
-- Trigger: push to `cp-sfx-dev`
-- Action: syncs content to `sfx-dev` branch
-
-## STEP Configuration Promotion Runbook
-
-This section describes how to sync/publish STEP configuration changes from STEP Dev to higher environments (Pre-Prod and Prod) through `core-product-catalog`.
-
-### Quick Legend
-
-- `blue book`: Instructions/runbook for configuration promotion.
-- `gear`: Configuration details for Configurations Publisher OIEP.
-- `Pub`: Publish STEP configurations to `core-product-catalog` on GitHub.
-- `counterclockwise arrows`: Create/update `core-product-catalog` submodule in `udp-bridge-service`.
-- `Branch`: Re-create `sfx-dev` from `main` in `core-product-catalog`.
 
 ### OIEP Setup (Configurations Publisher)
 
@@ -111,10 +91,10 @@ Prerequisites:
 2. Update `sharedconfig.properties`:
 
 ```properties
-GitDelivery.RemoteRepoUri.1=https://github.com/stitchfix/core-product-catalog.git
+GitDelivery.RemoteRepoUri.1=https://github.com/MIT/MDMREPO.git
 GitDelivery.Branch.1=cp-sfx-dev
 GitDelivery.AuthorName.1=UDP
-GitDelivery.AuthorEmail.1=udp-pim@stitchfix.com
+GitDelivery.AuthorEmail.1=udp-pim@Test.com
 GitDelivery.RemoteRepoUsername.1=udp-pim
 ```
 
