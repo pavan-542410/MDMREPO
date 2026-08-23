@@ -4,8 +4,7 @@
  */
 
 const HOSTS = {
-  dev: 'stitchfix-dev.mdm.stibosystems.com',
-  preprod: 'stitchfix-preprod.mdm.stibosystems.com',
+  dev:'mastech-saas-01.mdm.stibosystems.com'
 };
 
 const DEFAULT_USERNAME = 'br_test_user';
