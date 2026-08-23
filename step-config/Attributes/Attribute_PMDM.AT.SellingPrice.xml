@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PMDM.AT.SellingPrice" MultiValued="false" DefaultUnitID="iso4217.unit.USD" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Selling Price</Name>
+            <Validation BaseType="number" MinValue="" MaxValue="" MaxLength="" InputMask="">
+                <UnitLink UnitID="iso4217.unit.EUR"></UnitLink>
+                <UnitLink UnitID="iso4217.unit.USD"></UnitLink>
+            </Validation>
+            <MetaData>
+                <Value AttributeID="PMDM.AT.CompletenessScore">10</Value>
+                <Value AttributeID="PMDM.AT.DisplaySequence">5</Value>
+                <Value AttributeID="PMDM.AT.MarketingsCompleteness">10</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerApprove"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerModify"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.EnrichmentApprove"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.EnrichmentModify"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.EnrichmentView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.ImagesView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.MarketingCopyApprove"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.MarketingCopyModify"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.MarketingCopyView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.ProductPricingInformation"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.PromoteToGoldenRecord"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.QAModify"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.QAView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.SupplierModify"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.SupplierView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.TranslationReviewView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.TranslatorView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.WarehouseView"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.GoldenRecord"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.InternalMasterProduct"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.InternalSourceRecord"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

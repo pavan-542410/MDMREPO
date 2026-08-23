@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PMDM.AT.20003088" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="true" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>With Gutter</Name>
+            <ListOfValueLink ListOfValueID="PMDM.LOV.20003088"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="PMDM.AT.ExternalIdentifier">20003088</Value>
+                <Value AttributeID="PMDM.AT.HelpText">Indicates, with reference to the product branding, labelling or packaging, whether the carport has a built-in gutter to drain the water from the roof.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.CategorySpecificAttributesGPC"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.ExternalSourceRecord"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.GoldenRecord"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.InternalMasterProduct"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.InternalSourceRecord"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

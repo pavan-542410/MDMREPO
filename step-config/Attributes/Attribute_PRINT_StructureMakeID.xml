@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PRINT_StructureMakeID" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>PRINT_StructureMakeID</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="400" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="ApplicationRecord.Attributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Default publication type"></UserTypeLink>
+            <UserTypeLink UserTypeID="Publication root"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

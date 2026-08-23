@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MDM_AddressConcat" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Address</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="1000" InputMask=""></Validation>
+            <ValueTemplate>&lt;derive expr="upper(
+    concatenate(
+        if(
+            value('MDM_AddressType')='Physical Address',
+            trim(
+                concatenate(
+                    value('MDM_AddressLine1'),
+                    ' ',
+                    value('MDM_AddressLine2'),
+		' ',
+		value('MDM_AddressLine3')
+                )
+            ),
+            concatenate(
+                'PO Box ',
+                 value('MDM_POBox')
+            )
+        ),
+        ', ',
+        trim(
+            concatenate(
+                value('MDM_City'),
+                ' ',
+                valuelovid('MDM_State'),
+                ' ',
+                value('MDM_ZipCode')
+            )
+        ),
+        ', ',
+        valuelovid('MDM_CountryCode')
+    )
+)"/&gt;</ValueTemplate>
+            <AttributeGroupLink AttributeGroupID="MDMG_AddressDetails"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_Internal"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

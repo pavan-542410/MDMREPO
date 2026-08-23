@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PMDM.AT.INT.MPHandlingStatus" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Master Product Handling Status</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="4000" InputMask=""></Validation>
+            <ValueTemplate>&lt;derive expr="{
+    i:=path(),
+    parent:=listitem(
+        i,
+         listlen(i)-1
+    ),
+    ParentOT:=iterate(parent, 'StepObjectTypeID()'),
+    isAssignedMP:=if(exact(ParentOT, &amp;quot;PMDM.PRD.InternalMasterProduct&amp;quot;), 'true', 'false'),
+    goldenRecord:=iterate(referencesto('Product', 'PMDM.PRT.GoldenToSourceRecord'), 'referenceowner()'),
+    masterProductIDNode := prodval('PMDM.AT.PDS.MasterProductID'),
+    masterProductIDGolden := iterate(goldenRecord, &amp;quot;prodval('PMDM.AT.PDS.MasterProductID')&amp;quot;),
+    masterProductID := if(len(masterProductIDNode)&amp;gt;0,masterProductIDNode,masterProductIDGolden),
+    hasSuggestedMP:=if(len(masterProductID)&amp;gt;0,'true','false'),
+    supplierYESpimYES:=concatenate(iterate(stepurl2objid(stepurl(&amp;quot;entity&amp;quot;, &amp;quot;SysMsg_MasterProductHandlingStatus1&amp;quot;)), &amp;quot;value('PMDM.AT.SystemMessage')&amp;quot;),masterProductID,iterate(stepurl2objid(stepurl(&amp;quot;entity&amp;quot;, &amp;quot;SysMsg_MasterProductHandlingStatus2&amp;quot;)), &amp;quot;value('PMDM.AT.SystemMessage')&amp;quot;),iterate(parent, 'StepID()'),&amp;quot;.&amp;quot;),
+    supplierNOpimYES:=concatenate(iterate(stepurl2objid(stepurl(&amp;quot;entity&amp;quot;, &amp;quot;SysMsg_MasterProductHandlingStatus3&amp;quot;)), &amp;quot;value('PMDM.AT.SystemMessage')&amp;quot;),iterate(parent, 'StepID()'),&amp;quot;.&amp;quot;),
+    supplierYESpimNO:=concatenate(iterate(stepurl2objid(stepurl(&amp;quot;entity&amp;quot;, &amp;quot;SysMsg_MasterProductHandlingStatus1&amp;quot;)), &amp;quot;value('PMDM.AT.SystemMessage')&amp;quot;),masterProductID,iterate(stepurl2objid(stepurl(&amp;quot;entity&amp;quot;, &amp;quot;SysMsg_MasterProductHandlingStatus4&amp;quot;)), &amp;quot;value('PMDM.AT.SystemMessage')&amp;quot;))
+}
+concatenate(
+if(and(exact(hasSuggestedMP,&amp;quot;false&amp;quot;),exact(isAssignedMP,&amp;quot;false&amp;quot;)),iterate(stepurl2objid(stepurl(&amp;quot;entity&amp;quot;, &amp;quot;SysMsg_MasterProductHandlingStatus5&amp;quot;)), &amp;quot;value('PMDM.AT.SystemMessage')&amp;quot;),&amp;quot;&amp;quot;),
+if(and(exact(hasSuggestedMP,&amp;quot;true&amp;quot;),exact(isAssignedMP,&amp;quot;true&amp;quot;)),supplierYESpimYES,&amp;quot;&amp;quot;),
+if(and(exact(hasSuggestedMP,&amp;quot;false&amp;quot;),exact(isAssignedMP,&amp;quot;true&amp;quot;)),supplierNOpimYES,&amp;quot;&amp;quot;),
+if(and(exact(hasSuggestedMP,&amp;quot;true&amp;quot;),exact(isAssignedMP,&amp;quot;false&amp;quot;)),supplierYESpimNO,&amp;quot;&amp;quot;)
+)"/&gt;</ValueTemplate>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.EnrichmentView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.ImagesView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.MarketingCopyView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.QAView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.SystemAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.TranslationReviewView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.TranslatorView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.WarehouseView"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.InternalSourceRecord"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

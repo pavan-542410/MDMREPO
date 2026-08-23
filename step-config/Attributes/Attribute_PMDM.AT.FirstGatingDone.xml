@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PMDM.AT.FirstGatingDone" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>First Gating Done</Name>
+            <ListOfValueLink ListOfValueID="PMDM.LOV.YesNoExternal"></ListOfValueLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.GoldenRecordGatingWorkflow"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.GoldenRecord"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

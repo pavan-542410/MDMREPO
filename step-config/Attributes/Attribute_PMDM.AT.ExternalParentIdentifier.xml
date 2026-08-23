@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PMDM.AT.ExternalParentIdentifier" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>External Parent Identifier</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerApprove"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerModify"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.Metadata"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.ProfileAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.ExternalSourceRecord"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.GoldenRecord"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.InternalSourceRecord"></UserTypeLink>
+            <UserTypeLink UserTypeID="stibo.normalattribute"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

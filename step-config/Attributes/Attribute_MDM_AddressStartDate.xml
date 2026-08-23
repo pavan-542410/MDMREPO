@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MDM_AddressStartDate" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Valid From Date</Name>
+            <Validation BaseType="isodate" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">Valid From Date of BP Address</Value>
+                <Value AttributeID="AttributeHelpText">The start date when an address is valid for the given BP/AP/AR and address type</Value>
+                <Value AttributeID="Purpose">The start date when an address is valid for the given BP and address type</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="MDMG_AddressDetails"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_OIEP_Address"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_VendorAttributes"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

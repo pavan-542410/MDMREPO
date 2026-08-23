@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="LegalName" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Legal Name</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="GeneralCompleteness"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MatchingTriggers"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="OrganizationCompleteness"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="OrganizationCustomerData"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="SupplierData"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="SupplierProfiling"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="SurvOrganizationsMostRecent"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="SurvSupplierMostRecent"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="OrganizationCustomer"></UserTypeLink>
+            <UserTypeLink UserTypeID="Supplier"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

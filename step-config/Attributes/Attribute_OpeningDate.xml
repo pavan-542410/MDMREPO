@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="OpeningDate" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Opening Date</Name>
+            <Validation BaseType="date" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="OperationalAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Location"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

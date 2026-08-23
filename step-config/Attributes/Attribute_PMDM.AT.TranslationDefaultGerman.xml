@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PMDM.AT.TranslationDefaultGerman" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Translation by default - German</Name>
+            <ListOfValueLink ListOfValueID="PMDM.LOV.TranslationDefault"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="PMDM.AT.HelpText">This setting determines if all newly onboarded products should or should not be automatically sent for translation into the German language.  By default, the setting is set to 'Translate new products'.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.ConfigurationParameterAttrs"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.EnrichmentView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.ImagesView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.MarketingCopyView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.QAView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.TranslationWorkflow"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.TranslatorView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.WarehouseView"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="PMDM.ENT.ConfigurationObject"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

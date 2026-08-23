@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PMDM.AT.20003034" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="true" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Theme or Occasion</Name>
+            <ListOfValueLink ListOfValueID="PMDM.LOV.20003034"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="PMDM.AT.ExternalIdentifier">20003034</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.CategorySpecificAttributesGPC"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.ExternalSourceRecord"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.GoldenRecord"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.InternalMasterProduct"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.InternalSourceRecord"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

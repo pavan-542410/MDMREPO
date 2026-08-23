@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PMDM.AT.20001743" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="true" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>If With Valance</Name>
+            <ListOfValueLink ListOfValueID="PMDM.LOV.20001743"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="PMDM.AT.ExternalIdentifier">20001743</Value>
+                <Value AttributeID="PMDM.AT.HelpText">Indicates, with reference to the product branding, labelling or packaging, the descriptive term that is used by the product manufacturer to identify whether or not the curtain is supplied with a fabric valance, which is a short curtain that frames the top of the window or opening.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.CategorySpecificAttributesGPC"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.ExternalSourceRecord"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.GoldenRecord"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.InternalMasterProduct"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.InternalSourceRecord"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

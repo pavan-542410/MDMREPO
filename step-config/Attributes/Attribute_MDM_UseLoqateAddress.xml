@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MDM_UseLoqateAddress" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="true">
+            <Name>Use Standardized Address</Name>
+            <ListOfValueLink ListOfValueID="YesNoExternal"></ListOfValueLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_OIEP_Address"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PMDM.AT.ExternalIdentifier" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>External Identifier</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerModify"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerModifyExt"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.EnrichmentView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.ImagesView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.MarketingCopyView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.Metadata"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.QAView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.SupplierView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.TranslationReviewView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.TranslatorView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.WarehouseView"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.EXT.Level1"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.EXT.Level2"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.EXT.Level3"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.EXT.Level4"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.EXT.Level5"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.EXT.Level6"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.INT.Level1"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.INT.Level2"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.INT.Level3"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.INT.Level4"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.INT.Level5"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.INT.Level6"></UserTypeLink>
+            <UserTypeLink UserTypeID="stibo.normalattribute"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

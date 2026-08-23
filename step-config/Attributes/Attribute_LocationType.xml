@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="LocationType" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Location Type</Name>
+            <ListOfValueLink ListOfValueID="LocationType"></ListOfValueLink>
+            <AttributeGroupLink AttributeGroupID="OperationalAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Location"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MDM_PaymentTermsConcat" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Payment Terms</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="1000" InputMask=""></Validation>
+            <ValueTemplate>&lt;derive expr="{values := unique(iterate(filter(references('','ADUSCompanyLink'),'value(&amp;quot;MDM_PaymentTerms&amp;quot;)!=&amp;quot;&amp;quot;'),'value(&amp;quot;MDM_PaymentTerms&amp;quot;)'))} list(values,'\n')"/&gt;</ValueTemplate>
+            <MetaData>
+                <Value AttributeID="ValidationErrorMessage">Invalid Input: The use of [Enter] key is not allowed in this field. Please use [Tab] key to navigate between fields.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="MDMG_Internal"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Customer"></UserTypeLink>
+            <UserTypeLink UserTypeID="Vendor"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

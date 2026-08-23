@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PMDM.AT.INTEnrichmentHandling" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Internal Source Record Creation: Enrichment Handling</Name>
+            <ListOfValueLink ListOfValueID="PMDM.LOV.INTEnrichmentHandling"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="PMDM.AT.HelpText">By default, the Internal Source Record Creation Workflow is configured with multiple enrichment roles:  The Copywriter user (Marketing Copy Group), the Digital Asset user (Image Group), and the Warehouse Data/Logistics user (Warehouse Group).  However, smaller organizations may only have one role responsible for enrichment and therefore would want to funnel all enrichment tasks to a single queue rather than have them split into three.  To accommodate this, Accelerator for Retail allows for changing the configuration from a multi-user enrichment setup to a single-user enrichment setup.  When using the single-user enrichment setup, the enrichment user(s) must be a member of the Enrichment Group (PMDM.UG.EnrichmentGroup) user group.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.ConfigurationParameterAttrs"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.EnrichmentView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.ImagesView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.MarketingCopyView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.QAView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.TranslationReviewView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.TranslatorView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.WarehouseView"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="PMDM.ENT.ConfigurationObject"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

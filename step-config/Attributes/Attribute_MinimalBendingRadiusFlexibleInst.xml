@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MinimalBendingRadiusFlexibleInst" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Dynamic Bend Radius</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="MechanicalProperties"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="DemoProduct"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

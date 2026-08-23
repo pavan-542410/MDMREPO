@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="CalcName" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Calc Individual Name</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <ValueTemplate>&lt;derive expr="concatenate(
+	value(&amp;quot;FirstName&amp;quot;),&amp;quot; &amp;quot;,
+	value(&amp;quot;LastName&amp;quot;))"/&gt;</ValueTemplate>
+            <AttributeGroupLink AttributeGroupID="ContactPersonData"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="IndividualCustomerData"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="ContactPerson"></UserTypeLink>
+            <UserTypeLink UserTypeID="IndividualCustomer"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

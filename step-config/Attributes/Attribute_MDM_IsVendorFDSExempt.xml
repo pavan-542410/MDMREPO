@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MDM_IsVendorFDSExempt" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="true">
+            <Name>Is this vendor FDA FSMA 204(d) Exempt?</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="400" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="MDMG_BusinessPartnerDetails"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_OIEP_BP"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_OIEP_Provisioning"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_VendorAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Organizations"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

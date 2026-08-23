@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MDM_StandardizedAddress" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Standardized Address</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="1000" InputMask=""></Validation>
+            <ValueTemplate>&lt;derive expr="{A := trim(upper(concatenate(
+    value(&amp;quot;StandardizedStreet&amp;quot;),
+    &amp;quot;, &amp;quot;,
+    value(&amp;quot;StandardizedCity&amp;quot;),
+    &amp;quot; &amp;quot;,
+    value(&amp;quot;StandardizedState&amp;quot;),
+    &amp;quot; &amp;quot;,
+    value(&amp;quot;StandardizedZip&amp;quot;),
+    &amp;quot;, &amp;quot;,
+    value(&amp;quot;StandardizedCountryISOCode&amp;quot;)
+)))} if(len(A)&amp;lt;=5,&amp;quot;&amp;quot;,A)"/&gt;</ValueTemplate>
+            <AttributeGroupLink AttributeGroupID="MDMG_AddressDetails"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_OIEP_Address"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>
