@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PMDM.AT.20001372" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="true" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Type of Jewellery Craft Material</Name>
+            <ListOfValueLink ListOfValueID="PMDM.LOV.20001372"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="PMDM.AT.ExternalIdentifier">20001372</Value>
+                <Value AttributeID="PMDM.AT.HelpText">Indicates, with reference to the product branding, labelling or packaging, the descriptive term that is used by the product manufacturer to identify the type of primary ornamental material used in the craft of making jewellery.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.CategorySpecificAttributesGPC"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.ExternalSourceRecord"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.GoldenRecord"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.InternalMasterProduct"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.InternalSourceRecord"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

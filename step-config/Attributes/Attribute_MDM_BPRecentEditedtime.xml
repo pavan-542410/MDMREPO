@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MDM_BPRecentEditedtime" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Date Business Partner Recent Edited time</Name>
+            <Validation BaseType="isodatetime" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <MetaData>
+                <Value AttributeID="Purpose">Date that capture the last revision date &amp; time from the revison of the same record in VMDM STEP.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="MDMG_BusinessPartnerDetails"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Organizations"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

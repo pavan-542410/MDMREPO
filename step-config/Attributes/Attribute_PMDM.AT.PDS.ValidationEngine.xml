@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PMDM.AT.PDS.ValidationEngine" MultiValued="true" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>PDX: Validation Engine</Name>
+            <Validation BaseType="regexp" MinValue="" MaxValue="" MaxLength="" InputMask="((([\w\.#\-/\-]+)|([A-Za-z0-9\\._#]+[A-Za-z0-9\._# ]*)|(('[^']*')|(&quot;[^&quot;]*&quot;)|(&amp;quot;.*&amp;quot;))|([0-9\., ]+)|(\()|(\))|(\*)|(\+)|(-)|(&lt;)|(&lt;=)|(&gt;)|(&gt;=)|(contains)|(Not_contains)|(notContains)|(isEmpty)|(Not_isEmpty)|(isNotEmpty)|(==)|(!=)|(&amp;&amp;)|(\|\|)):){2,}((error:.+:ruleid:[A-Za-z0-9\\._#]+[A-Za-z0-9\._# ]*)|(error:(?!.+(:ruleid:)).*\S.*))"></Validation>
+            <MetaData>
+                <Value AttributeID="ValidationErrorMessage">The validation for this rule has failed due to improper syntax. Review the syntax used in the rule.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.PDS.FixedDataModelAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="stibo.normalattribute"></UserTypeLink>
+            <LinkType LinkTypeID="PA"></LinkType>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

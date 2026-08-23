@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MDM_TaxID_CV" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Tax ID Number CV</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">Business Partner Tax Number</Value>
+                <Value AttributeID="AttributeHelpText">Tax ID Number matching tax document (Social Security Number, EIN, or other tax ID)</Value>
+                <Value AttributeID="DisplaySequence">1</Value>
+                <Value AttributeID="Purpose">Specifies the tax number. (Social Security Num; EIN, or other TaxID)</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="MDMG_BusinessPartnerDetails_CV"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

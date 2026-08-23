@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PMDM.AT.RejectedSupplierProducts" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Rejected Products</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="1000" InputMask=""></Validation>
+            <ValueTemplate>&lt;derive expr="{x:={
+    childProductClass:=filter(
+        children(),
+        'exact(StepObjectTypeID(),&amp;quot;SupplierProductsClassification&amp;quot;)'
+    )
+}
+iterate(
+    filter(
+        iterate(childProductClass, 'subproducts()'),
+        '{updateStatus:=valuelovid(&amp;quot;PMDM.AT.UpdateApprovalBuyerStatus&amp;quot;)}if(exact(updateStatus, &amp;quot;&amp;quot;), exact(valuelovid(&amp;quot;PMDM.AT.ProposalApprovalBuyerStatus&amp;quot;),&amp;quot;RJ&amp;quot;), exact(updateStatus,&amp;quot;RJ&amp;quot;))'
+    ),
+    'concatenate(stepid(), \&amp;quot;\n\&amp;quot;)'
+)}listlen(x)"/&gt;</ValueTemplate>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.SystemAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="SupplierClassification"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

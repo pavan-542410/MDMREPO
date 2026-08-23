@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="Demo_PIMForSale" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>For Sale</Name>
+            <ListOfValueLink ListOfValueID="Demo_PIMYesNoFlagInternal"></ListOfValueLink>
+            <DimensionLink DimensionID="Country"></DimensionLink>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <AttributeGroupLink AttributeGroupID="Demo_PIMMarketingAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="Demo_PIMTrendWearMarketingEnrich"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="Demo_PIMTrendWearMarketingReview"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Demo_Color_Variants"></UserTypeLink>
+            <UserTypeLink UserTypeID="Demo_Product"></UserTypeLink>
+            <UserTypeLink UserTypeID="Demo_Size_Variants"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

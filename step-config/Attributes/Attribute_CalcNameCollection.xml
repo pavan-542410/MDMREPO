@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="CalcNameCollection" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Name on Collection</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <ValueTemplate>&lt;derive expr="if(
+    stepobjecttype()=&amp;quot;Individual Customer&amp;quot;,
+    value('CalcName'),
+    if(
+        stepobjecttype()=&amp;quot;Organization Customer&amp;quot;,
+        value('LegalName'),
+        &amp;quot;NA&amp;quot;
+    )
+)"/&gt;</ValueTemplate>
+            <AttributeGroupLink AttributeGroupID="CMDMCollectionDisplay"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="ContactPerson"></UserTypeLink>
+            <UserTypeLink UserTypeID="Household"></UserTypeLink>
+            <UserTypeLink UserTypeID="IndividualCustomer"></UserTypeLink>
+            <UserTypeLink UserTypeID="OrganizationCustomer"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MDM_AltPayerFinancialBPName" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Alternative Payer BP Name (BP Name)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">Account number of an alternative payer</Value>
+                <Value AttributeID="Purpose">Definition Account number of the customer for whom automatic payment transactions are to be carried out. This field is needed if bank collections are not to be made via the customer who owes the receivables. The same applies to refunds of payables.</Value>
+                <Value AttributeID="ValidationErrorMessage">Invalid Input: The use of [Enter] key is not allowed in this field. Please use [Tab] key to navigate between fields.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="MDMG_OIEP_AR"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_PaymentAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_SearchAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_VMDAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Customer"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

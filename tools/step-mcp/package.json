@@ -1,0 +1,13 @@
+{
+  "name": "step-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for querying STEP PIM via REST API v2",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PMDM.AT.PDS.MandatoryReferences" MultiValued="true" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>PDX: Mandatory References</Name>
+            <ListOfValueLink ListOfValueID="PMDM.LOV.PDS.MandatoryReferences"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="PMDM.AT.Purpose">Controls category specific mandatory references.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerModify"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerModifyExt"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.PDS.FixedDataModelAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.EXT.DataSource"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.EXT.Level1"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.EXT.Level2"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.EXT.Level3"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.EXT.Level4"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.EXT.Level5"></UserTypeLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.EXT.Level6"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MDM_Shortname" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Short Name (aka Search Key)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="15" InputMask=""></Validation>
+            <MetaData>
+                <Value AttributeID="ValidationErrorMessage">Invalid Input: The use of [Enter] key is not allowed in this field. Please use [Tab] key to navigate between fields.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="MDMG_BusinessPartnerDetails"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_BusinessRequestorAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_OIEP_BP"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_OIEP_Legacy"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_OIEP_Provisioning"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_OIEP_Triggers"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_SearchAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_revisionHistory"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Organizations"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

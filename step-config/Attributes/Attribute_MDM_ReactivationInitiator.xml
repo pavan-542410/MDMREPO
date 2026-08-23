@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MDM_ReactivationInitiator" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Reactivation Initiator</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <MetaData>
+                <Value AttributeID="Purpose">Created to capture the User ID who initiated the Reactivation of the BP.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="MDMG_OIEP_BP"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_OIEP_Provisioning"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Organizations"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

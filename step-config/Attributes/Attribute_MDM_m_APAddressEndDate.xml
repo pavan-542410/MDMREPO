@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MDM_m_APAddressEndDate" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Merge AP Valid Until Date</Name>
+            <Validation BaseType="isodate" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">Used Only for Advanced Merge Screen.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="MDMG_Internal"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Organizations"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

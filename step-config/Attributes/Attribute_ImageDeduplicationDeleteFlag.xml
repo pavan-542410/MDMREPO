@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="ImageDeduplicationDeleteFlag" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Deduplication Delete Flag</Name>
+            <Validation BaseType="Text" MinValue="" MaxValue="" MaxLength="20" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="ImageDeduplication"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Asset user-type root"></UserTypeLink>
+            <UserTypeLink UserTypeID="AutoClassificationRuleSet"></UserTypeLink>
+            <UserTypeLink UserTypeID="BusinessRuleExample"></UserTypeLink>
+            <UserTypeLink UserTypeID="Configuration"></UserTypeLink>
+            <UserTypeLink UserTypeID="DEFAULT"></UserTypeLink>
+            <UserTypeLink UserTypeID="Icon"></UserTypeLink>
+            <UserTypeLink UserTypeID="Illustration"></UserTypeLink>
+            <UserTypeLink UserTypeID="InstallationManual"></UserTypeLink>
+            <UserTypeLink UserTypeID="Logo"></UserTypeLink>
+            <UserTypeLink UserTypeID="MSDS"></UserTypeLink>
+            <UserTypeLink UserTypeID="OwnersManual"></UserTypeLink>
+            <UserTypeLink UserTypeID="ProductImage"></UserTypeLink>
+            <UserTypeLink UserTypeID="ProductVideo"></UserTypeLink>
+            <UserTypeLink UserTypeID="XML"></UserTypeLink>
+            <UserTypeLink UserTypeID="stibo.BulkUpdateConfig"></UserTypeLink>
+            <UserTypeLink UserTypeID="stibo.ExportManagerConfig"></UserTypeLink>
+            <UserTypeLink UserTypeID="stibo.ImageConversionConfig"></UserTypeLink>
+            <UserTypeLink UserTypeID="stibo.ImportManagerConfig"></UserTypeLink>
+            <UserTypeLink UserTypeID="stibo.TranslationConfig"></UserTypeLink>
+            <UserTypeLink UserTypeID="stibo.ValueSubstitutionTransConfig"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

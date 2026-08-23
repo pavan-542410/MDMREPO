@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MDM_InternationalBankAccountNumberNew" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>New IBAN (International Bank Account Number)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="34" InputMask=""></Validation>
+            <MetaData>
+                <Value AttributeID="AttributeDescription">IBAN (International Bank Account Number)</Value>
+                <Value AttributeID="DisplaySequence">5</Value>
+                <Value AttributeID="Purpose">IBAN (International Bank Account Number)</Value>
+                <Value AttributeID="ValidationErrorMessage">Invalid Input: The use of [Enter] key is not allowed in this field. Please use [Tab] key to navigate between fields.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="MDMG_BankAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="MDMG_VendorAttributes"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

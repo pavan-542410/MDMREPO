@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PMDM.AT.DefaultCompletenessVisual" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Default Completeness</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <ValueTemplate>&lt;derive expr="{
+    score:=round(
+        Completeness('PMDM.CM.DefaultCompleteness'),
+        0
+    )
+}
+if(
+    score=0,&amp;quot;✧✧✧✧✧✧✧✧✧✧&amp;quot;,
+     if(
+        and(score&amp;gt;0, score&amp;lt;15),
+        &amp;quot;✦✧✧✧✧✧✧✧✧✧&amp;quot;,
+        if(
+            and(score&amp;gt;=15, score&amp;lt;25),
+            &amp;quot;✦✦✧✧✧✧✧✧✧✧&amp;quot;,
+            if(
+                and(score&amp;gt;=25, score&amp;lt;35),
+                &amp;quot;✦✦✦✧✧✧✧✧✧✧&amp;quot;,
+                if(
+                    and(score&amp;gt;=35, score&amp;lt;45),
+                    &amp;quot;✦✦✦✦✧✧✧✧✧✧&amp;quot;,
+                    if(
+                        and(score&amp;gt;=45, score&amp;lt;55),
+                        &amp;quot;✦✦✦✦✦✧✧✧✧✧&amp;quot;,
+                        if(
+                            and(score&amp;gt;=55, score&amp;lt;65),
+                            &amp;quot;✦✦✦✦✦✦✧✧✧✧&amp;quot;,
+                            if(
+                                and(score&amp;gt;=65, score&amp;lt;75),
+                                &amp;quot;✦✦✦✦✦✦✦✧✧✧&amp;quot;,
+                                if(
+                                    and(score&amp;gt;=75, score&amp;lt;85),
+                                    &amp;quot;✦✦✦✦✦✦✦✦✧✧&amp;quot;,
+                                    if(
+                                        and(score&amp;gt;=85, score&amp;lt;95),
+                                        &amp;quot;✦✦✦✦✦✦✦✦✦✧&amp;quot;,
+                                        if(score&amp;gt;=95, &amp;quot;✦✦✦✦✦✦✦✦✦✦&amp;quot;, &amp;quot;&amp;quot;)
+                                    )
+                                )
+                            )
+                        )
+                    )
+                )
+            )
+        )
+    )
+)"/&gt;</ValueTemplate>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.BuyerView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.CompletenessScoreCalcAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.EnrichmentView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.ImagesView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.MarketingCopyView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.QAView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.SupplierView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.TranslationReviewView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.TranslatorView"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PMDM.ATG.WarehouseView"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="PMDM.PRD.InternalSourceRecord"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>
