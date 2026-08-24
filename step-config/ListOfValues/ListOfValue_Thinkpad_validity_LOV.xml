@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListOfValuesContainer>
+        <ListOfValues ID="Thinkpad_validity_LOV" Reversed="false">
+            <Name>Thinkpad Validity</Name>
+            <ListOfValue ID="Thinkpad_validity_LOV_Organization">
+                <Name>Organization</Name>
+            </ListOfValue>
+            <ListOfValue ID="Thinkpad_validity_LOV_customer">
+                <Name>customer</Name>
+            </ListOfValue>
+            <ListOfValue ID="Thinkpad_validity_LOV_Vendor">
+                <Name>Vendor</Name>
+            </ListOfValue>
+        </ListOfValues>
+    </ListOfValuesContainer>
+</STEP-ProductInformation>
