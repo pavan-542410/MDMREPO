@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "jira": {
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-Command",
+        "$env:ATLASSIAN_SITE_NAME='mastechdigital-team-znbcn3sj'; $env:ATLASSIAN_USER_EMAIL='pavan.kumar@mastechdigital.com'; if (-not $env:ATLASSIAN_API_TOKEN) { throw 'Missing ATLASSIAN_API_TOKEN environment variable' }; $nodeBase = Join-Path $env:LOCALAPPDATA 'Microsoft\\WinGet\\Packages\\OpenJS.NodeJS.LTS_Microsoft.Winget.Source_8wekyb3d8bbwe'; $npx = Get-ChildItem $nodeBase -Recurse -File -Filter npx.cmd | Where-Object { $_.FullName -notmatch 'corepack' -and $_.FullName -notmatch 'node_modules\\npm\\bin' } | Select-Object -First 1 -ExpandProperty FullName; if (-not $npx) { throw 'Could not locate npx.cmd from user-scoped Node install' }; & $npx -y @test/mcp-server-atlassian-jira"
+      ]
+    },
+    "chrome-devtools": {
+      "command": "npx",
+      "args": ["-y", "chrome-devtools-mcp"]
+    },
+    "step-mcp": {
+      "command": "node",
+      "args": ["tools/step-mcp/index.js"]
+    }
+  }
+}
