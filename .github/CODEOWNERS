@@ -1,0 +1,3 @@
+# Require CODEOWNER review for Markdown changes.
+# This applies to every .md file anywhere in the repository.
+**/*.md @pavan-542410 @Vignesh-538332
