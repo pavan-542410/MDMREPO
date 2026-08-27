@@ -1,3 +1,21 @@
-# Require CODEOWNER review for Markdown changes.
-# This applies to every .md file anywhere in the repository.
-**/*.md @pavan-542410 @Vignesh-538332
+# CODEOWNERS — Markdown File Protection
+#
+# Any pull request that modifies a .md file MUST be approved by at least one
+# of the listed owners before it can be merged. This rule is enforced by
+# GitHub branch protection and cannot be bypassed without disabling it in
+# repository settings (which itself requires admin + 2FA on the GitHub account).
+#
+# To add/remove owners: open a PR changing this file — that PR itself requires
+# approval from a current owner (recursive protection).
+#
+# Format: <file-pattern>  <@github-username or @org/team>
+# Replace the placeholders below with real GitHub usernames or team slugs.
+
+# All markdown files anywhere in the repository
+**/*.md    @vignesh-538332 @pavan-542410
+
+# AGENTS.md specifically (highest sensitivity)
+AGENTS.md  @vignesh-538332 @pavan-542410
+
+# This file itself — changing owners also requires owner approval
+.github/CODEOWNERS  @vignesh-538332 @pavan-542410
