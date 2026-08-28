@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListOfValuesContainer>
+        <ListOfValues ID="colour_Lov" Reversed="false">
+            <Name>Colour LOV</Name>
+            <ListOfValue ID="colour_Lov_pink">
+                <Name>pink</Name>
+            </ListOfValue>
+            <ListOfValue ID="colour_Lov_black">
+                <Name>black</Name>
+            </ListOfValue>
+            <ListOfValue ID="colour_Lov_white">
+                <Name>white</Name>
+            </ListOfValue>
+        </ListOfValues>
+    </ListOfValuesContainer>
+</STEP-ProductInformation>
