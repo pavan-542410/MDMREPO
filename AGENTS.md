@@ -18,6 +18,7 @@ When the user provides a Jira issue ID (e.g. `SCRUM-1`, `MIT-42`), the agent MUS
 - Create a new branch named `feature/<JIRA-ID>-<short-description>` (e.g. `feature/SCRUM-1-thinkpad-validity-attribute`).
 - Make all required file changes on that branch following the conventions in `docs/ai-playbook/`.
 - Validate any new XML files for well-formedness before committing.
+- **Logger pattern (mandatory for every BR file):** Declare `var debug = logger;` and `function p(message, debug) { if (debug) { debug.info(message); } }` as the **first two declarations inside `exports.operation0`**. All logging must call `p(message, debug)` — never call `logger.*` directly (see `docs/ai-playbook/br-reference.md`).
 
 ### Step 4 — Commit and push
 - Commit with message format: `feat(<JIRA-ID>): <summary>`
