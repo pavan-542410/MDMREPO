@@ -19,6 +19,7 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
+          token: ${{ secrets.MAIN_SYNC_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Fetch source branch history
         run: git fetch origin MIT-Sandbox --prune
@@ -90,7 +91,7 @@ jobs:
         if: steps.route.outputs.has_changes == 'true'
         uses: peter-evans/create-pull-request@v6
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MAIN_SYNC_TOKEN || secrets.GITHUB_TOKEN }}
           commit-message: "chore: sync MIT-Sandbox configs into step-config"
           title: "chore: sync MIT-Sandbox changes into main"
           body: |
@@ -102,6 +103,7 @@ jobs:
             - `ListOfValue_*` -> `step-config/ListOfValues/`
             - `giep_*` / `GIEP_*` -> `step-config/GIEP/`
           branch: automation/mit-sandbox-sync
+          branch-suffix: timestamp
           base: main
           delete-branch: true
           add-paths: |
@@ -111,9 +113,10 @@ jobs:
             step-config/ListOfValues/**
 
       - name: Enable pull request auto-merge
+        continue-on-error: true
         if: steps.route.outputs.has_changes == 'true' && steps.cpr.outputs.pull-request-number != ''
         uses: peter-evans/enable-pull-request-automerge@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MAIN_SYNC_TOKEN || secrets.GITHUB_TOKEN }}
           pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
           merge-method: squash
