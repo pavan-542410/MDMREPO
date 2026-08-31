@@ -103,12 +103,68 @@ Tests use the canonical STEP hierarchy:
 
 For placement rules see: `docs/ai-playbook/test-structure.md`
 
+## Logger Pattern (Mandatory for ALL BR Types)
+
+Every Business Action, Business Condition, Business Function, and Library MUST declare `var debug = logger;` and `function p()` **inside `exports.operation0`**, at the very top of the function body. All logging must be called through `p()` — never call `logger.*` directly in business logic.
+
+```javascript
+exports.operation0 = function (node, logger) {
+  var debug = logger;
+
+  function p(message, debug) {
+    if (debug) {
+      debug.info(message);
+    }
+  }
+
+  // business logic here
+
+};
+```
+
+### Usage
+
+```javascript
+p("Starting execution for node: " + node.getId(), debug);
+p("[DEBUG] Source value: " + sourceValue, debug);
+p("ERROR: Source attribute is empty — skipping.", debug);
+```
+
+### Rules
+- **ALWAYS** declare `var debug = logger;` as the first line inside `exports.operation0`.
+- **ALWAYS** declare `function p(message, debug)` immediately after `var debug = logger;`, still inside `exports.operation0`.
+- **NEVER** call `logger.info()`, `logger.warning()`, or `logger.error()` directly in business logic.
+- Every log statement must go through `p(message, debug)`.
+
+### Full boilerplate (copy for every new BR)
+
+```javascript
+// After the three metadata blocks:
+
+exports.operation0 = function (node, logger) {
+  var debug = logger;
+
+  function p(message, debug) {
+    if (debug) {
+      debug.info(message);
+    }
+  }
+
+  p("Starting BR execution for: " + node.getId(), debug);
+
+  // business logic here
+
+};
+```
+
+---
+
 ## Required Authoring Conventions for New/Touched BR Code
 
 - Add JSDoc for all newly created functions.
 - When modifying an existing function, add or update its JSDoc.
-- For WebUIContext and BRs already using the shared logger helper, use `p(ui, severity, message)` for logging.
-- Debug traces should follow `p(ui, "INFO", "[DEBUG] ...")` unless the BR has an established approved pattern.
+- All logging must use `p(message, debug)` — `var debug = logger` and `function p()` are mandatory in every BR file.
+- Debug traces must follow `p("[DEBUG] <message>", debug)`.
 
 ## Required Test Baseline for Code Changes
 
