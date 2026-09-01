@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002853" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Tablet/E-Book Reader Computer</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007656">E-BOOK READER</Value>
+            <Value ID="30015598">SLATE PC</Value>
+            <Value ID="30015599">TABLET PC</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

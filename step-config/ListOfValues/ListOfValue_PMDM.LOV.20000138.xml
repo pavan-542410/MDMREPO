@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000138" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Nut/Seed</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000171">ALMOND NUTS</Value>
+            <Value ID="30000322">BETEL NUTS</Value>
+            <Value ID="30000428">BRAZIL NUTS</Value>
+            <Value ID="30000544">CASHEW NUTS</Value>
+            <Value ID="30000609">CHESTNUTS</Value>
+            <Value ID="30001611">MIXED NUTS</Value>
+            <Value ID="30001797">PEANUTS/GROUNDNUTS</Value>
+            <Value ID="30001799">PECAN NUTS</Value>
+            <Value ID="30001836">PINE NUTS</Value>
+            <Value ID="30001869">PISTACHIO NUTS</Value>
+            <Value ID="30001943">PUMPKIN SEEDS</Value>
+            <Value ID="30002194">SESAME SEEDS</Value>
+            <Value ID="30002365">SUNFLOWER SEEDS</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002584">WALNUTS</Value>
+            <Value ID="30002733">MACADAMIA NUTS</Value>
+            <Value ID="30003089">HAZELNUTS</Value>
+            <Value ID="30017089">CHIA SEEDS</Value>
+            <Value ID="30017090">FLAX SEEDS</Value>
+            <Value ID="30017091">MILLET SEEDS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

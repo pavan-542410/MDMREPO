@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001945" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Clothing Adornment/Floral Accessory/Badge/Buckle</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010314">FLORAL ACCESSORY</Value>
+            <Value ID="30010315">BADGE</Value>
+            <Value ID="30010316">BUCKLE</Value>
+            <Value ID="30011440">DECORATIVE ZIPPER PULLER</Value>
+            <Value ID="30011980">DECORATIVE CLOTHING TRANSFER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

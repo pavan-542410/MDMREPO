@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002140" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Washing/Cleaning System</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011460">WATERLESS</Value>
+            <Value ID="30011461">WASHER/DRYER (AUTOMOTIVE)</Value>
+            <Value ID="30011462">WASHER (AUTOMOTIVE)</Value>
+            <Value ID="30017881">VACUUM CLEANER (AUTOMOTIVE)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

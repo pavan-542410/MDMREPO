@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001148" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Screen Size (Inches)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007877">2.5</Value>
+            <Value ID="30007910">&lt;gt/&gt;3.5&lt;lt/&gt;5</Value>
+            <Value ID="30007911">5</Value>
+            <Value ID="30007912">7</Value>
+            <Value ID="30007915">3.5</Value>
+            <Value ID="30009204">2</Value>
+            <Value ID="30009205">3</Value>
+            <Value ID="30009227">18 INCHES</Value>
+            <Value ID="30009228">20 INCHES</Value>
+            <Value ID="30009229">24 INCHES</Value>
+            <Value ID="30009230">30 INCHES</Value>
+            <Value ID="30013192">&lt;lt/&gt;17</Value>
+            <Value ID="30013193">17-21</Value>
+            <Value ID="30013194">22-23</Value>
+            <Value ID="30013195">24-27</Value>
+            <Value ID="30013196">28-32</Value>
+            <Value ID="30013197">33-37</Value>
+            <Value ID="30013198">&lt;gt/&gt;60</Value>
+            <Value ID="30013199">&lt;lt/&gt;7</Value>
+            <Value ID="30013200">7,1-8</Value>
+            <Value ID="30013201">8,1-10</Value>
+            <Value ID="30013202">10,1-11</Value>
+            <Value ID="30013229">&lt;lt/&gt;14</Value>
+            <Value ID="30013230">14-16.9</Value>
+            <Value ID="30013231">&lt;gt/&gt;16.9</Value>
+            <Value ID="30013299">38-42</Value>
+            <Value ID="30013300">43-60</Value>
+            <Value ID="30014495">&lt;lt/&gt;=14 INCHES</Value>
+            <Value ID="30014497">&lt;gt/&gt;=33 INCHES</Value>
+            <Value ID="30014530">15 INCHES</Value>
+            <Value ID="30014531">16 INCHES</Value>
+            <Value ID="30014532">17 INCHES</Value>
+            <Value ID="30014533">19 INCHES</Value>
+            <Value ID="30014534">21 INCHES</Value>
+            <Value ID="30014535">22 INCHES</Value>
+            <Value ID="30014536">23 INCHES</Value>
+            <Value ID="30014537">25 INCHES</Value>
+            <Value ID="30014538">26 INCHES</Value>
+            <Value ID="30014539">27 INCHES</Value>
+            <Value ID="30014540">28 INCHES</Value>
+            <Value ID="30014541">29 INCHES</Value>
+            <Value ID="30014542">31 INCHES</Value>
+            <Value ID="30014543">32 INCHES</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

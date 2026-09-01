@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000597" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Baby Safety Protection</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005346">BABY SAFETY STAIR GATE</Value>
+            <Value ID="30005444">BABY SAFETY LOCK</Value>
+            <Value ID="30005492">BABY SAFETY NET</Value>
+            <Value ID="30005667">BABY SAFETY BED RAIL</Value>
+            <Value ID="30005706">BABY SAFETY CORNER PROTECTOR</Value>
+            <Value ID="30011781">BABY SAFETY SOCKET PROTECTOR</Value>
+            <Value ID="30012306">BABY SAFETY COT BUMPER/PAD</Value>
+            <Value ID="30014402">FINGER PINCH GUARD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

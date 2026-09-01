@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001723" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Household Organiser/Tidy</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009790">FIREWOOD CRADLE</Value>
+            <Value ID="30009791">MAGAZINE HOLDER</Value>
+            <Value ID="30009792">TABLETOP REMOTE CONTROL HOLDER</Value>
+            <Value ID="30009793">SHELF DIVIDER/INSERT</Value>
+            <Value ID="30009794">SHOE TIDY</Value>
+            <Value ID="30009795">TIE RACK</Value>
+            <Value ID="30009796">WARDROBE TIDY</Value>
+            <Value ID="30010770">CHAIR ARM TIDY</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

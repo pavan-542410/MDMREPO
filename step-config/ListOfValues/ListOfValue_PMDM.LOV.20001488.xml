@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001488" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Watercraft</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009001">DINGHY</Value>
+            <Value ID="30009003">RAFT</Value>
+            <Value ID="30009004">INFLATABLE TUBE</Value>
+            <Value ID="30009005">CANOE/KAYAK</Value>
+            <Value ID="30009010">ROWING BOAT</Value>
+            <Value ID="30017348">CABIN CRUISER</Value>
+            <Value ID="30017349">LIFE BOAT</Value>
+            <Value ID="30017350">MOTOR BOAT</Value>
+            <Value ID="30017351">PERSONAL WATERCRAFT</Value>
+            <Value ID="30017352">RACING BOAT</Value>
+            <Value ID="30017353">SAILBOAT</Value>
+            <Value ID="30017354">SPEED BOAT</Value>
+            <Value ID="30017355">WETBIKE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

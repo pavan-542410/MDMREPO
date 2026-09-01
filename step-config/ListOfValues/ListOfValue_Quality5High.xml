@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="Quality5High" ParentID="List Of Values group root" AllowUserValueAddition="false" UseValueID="false">
+            <Name>Quality5High</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>1 - Very Poor</Value>
+            <Value>2 - Poor</Value>
+            <Value>3 - Acceptable</Value>
+            <Value>4 - Good</Value>
+            <Value>5 - Very Good</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

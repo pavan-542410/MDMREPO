@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000276" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Hair - False</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003879">FALSE BEARD</Value>
+            <Value ID="30003880">FALSE BODY HAIR</Value>
+            <Value ID="30003881">FALSE EYE BROWS</Value>
+            <Value ID="30003883">FALSE MOUSTACHE</Value>
+            <Value ID="30003887">FALSE SIDEBURNS</Value>
+            <Value ID="30004420">WIG</Value>
+            <Value ID="30004460">TOUPEE</Value>
+            <Value ID="30004461">FALSE HAIR PIECE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

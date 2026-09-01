@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000282" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Hair Removal/Shaving - Accessories</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003986">RAZOR HOLDER/STAND</Value>
+            <Value ID="30004217">SHAVING BRUSH</Value>
+            <Value ID="30004220">SHAVING MUG</Value>
+            <Value ID="30006013">SPATULA</Value>
+            <Value ID="30013091">SHAVING BOWL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

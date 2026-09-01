@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001349" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Airbrushing Equipment - Replacement Part/Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008542">AIRBRUSH CONTROL VALVE</Value>
+            <Value ID="30008543">AIRBRUSH HOSE</Value>
+            <Value ID="30008544">MOISTURE TRAP</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

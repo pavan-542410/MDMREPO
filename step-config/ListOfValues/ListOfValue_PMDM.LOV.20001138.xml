@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001138" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Length of Skirt</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007841">CALF LENGTH (3/4 LENGTH)</Value>
+            <Value ID="30007842">FULL-LENGTH</Value>
+            <Value ID="30007843">KNEE LENGTH</Value>
+            <Value ID="30010335">THIGH LENGTH</Value>
+            <Value ID="30010336">ANKLE LENGTH (7/8 LENGTH)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

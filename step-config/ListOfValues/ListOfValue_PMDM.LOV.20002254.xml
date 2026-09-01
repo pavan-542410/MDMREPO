@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002254" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Fuel</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004369">WOOD</Value>
+            <Value ID="30004553">COAL</Value>
+            <Value ID="30010066">PETROL/GASOLINE</Value>
+            <Value ID="30010644">KEROSENE/PARAFFIN</Value>
+            <Value ID="30010655">BUTANE</Value>
+            <Value ID="30010656">PROPANE</Value>
+            <Value ID="30011003">DIESEL</Value>
+            <Value ID="30011809">AVIATION</Value>
+            <Value ID="30011811">LIGNITE</Value>
+            <Value ID="30011812">TRIOXANE</Value>
+            <Value ID="30011813">PEAT</Value>
+            <Value ID="30011814">CHARCOAL</Value>
+            <Value ID="30011816">COKE</Value>
+            <Value ID="30011817">HEXAMINE</Value>
+            <Value ID="30011818">HEATING OIL</Value>
+            <Value ID="30011819">BUTANE/PROPANE MIX</Value>
+            <Value ID="30011820">METHYLATED SPIRITS</Value>
+            <Value ID="30011821">LAMP OIL</Value>
+            <Value ID="30011822">ETHANOL BASED</Value>
+            <Value ID="30011823">ISOPROPYL BASED</Value>
+            <Value ID="30011824">KEROSENE/PARAFFIN BASED</Value>
+            <Value ID="30011871">NAPHTHA/WHITE GAS</Value>
+            <Value ID="30011894">ISOBUTANE</Value>
+            <Value ID="30011895">ISOBUTANE/PROPANE MIX</Value>
+            <Value ID="30011899">MARINE FUEL OIL</Value>
+            <Value ID="30012981">SMOKE PELLETS</Value>
+            <Value ID="30013312">KINDLING CUBES</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

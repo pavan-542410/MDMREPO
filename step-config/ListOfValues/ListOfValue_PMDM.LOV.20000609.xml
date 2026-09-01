@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000609" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Pet Food/Treat</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000305">BEEF</Value>
+            <Value ID="30000563">CEREAL</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30001060">FRUIT</Value>
+            <Value ID="30001554">MEAT</Value>
+            <Value ID="30002129">SAUSAGE</Value>
+            <Value ID="30002223">PRAWN/SHRIMP</Value>
+            <Value ID="30002251">SNACK</Value>
+            <Value ID="30002345">STOMACH</Value>
+            <Value ID="30002501">TURKEY</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002842">VEGETABLE</Value>
+            <Value ID="30004265">STICK</Value>
+            <Value ID="30005174">LARVA</Value>
+            <Value ID="30005289">GRAIN/SEED</Value>
+            <Value ID="30005548">BONES</Value>
+            <Value ID="30005550">PET BISCUIT/CRACKER</Value>
+            <Value ID="30005669">FISH</Value>
+            <Value ID="30013095">SAVOURY SAUCE</Value>
+            <Value ID="30015386">CHICKEN</Value>
+            <Value ID="30015614">SKIN</Value>
+            <Value ID="30017304">FISHMEAL</Value>
+            <Value ID="30017305">FROZEN/FROST FOOD</Value>
+            <Value ID="30017306">GAME MEAT</Value>
+            <Value ID="30017307">MIXED MEAT</Value>
+            <Value ID="30017308">POND FEED</Value>
+            <Value ID="30017309">WINTER FEED</Value>
+            <Value ID="30018015">SPIRAL</Value>
+            <Value ID="30019060">NOSE</Value>
+            <Value ID="30019064">ANTLER</Value>
+            <Value ID="30019065">BIT/DICE/BITS/DROP</Value>
+            <Value ID="30019066">BULL PIZZLE</Value>
+            <Value ID="30019067">CHEWING ROLLS</Value>
+            <Value ID="30019068">EARS</Value>
+            <Value ID="30019069">HIDE/FUR</Value>
+            <Value ID="30019070">RUMEN</Value>
+            <Value ID="30019071">SCALP</Value>
+            <Value ID="30019072">STRIPE</Value>
+            <Value ID="30019073">THROAT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

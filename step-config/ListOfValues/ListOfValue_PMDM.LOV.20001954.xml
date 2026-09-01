@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001954" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Stone Material</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003950">GLASS</Value>
+            <Value ID="30007487">ENAMEL</Value>
+            <Value ID="30010370">AGATE</Value>
+            <Value ID="30010371">ALEXANDRITE</Value>
+            <Value ID="30010372">AMETHYST</Value>
+            <Value ID="30010373">AQUAMARINE</Value>
+            <Value ID="30010374">BERYL</Value>
+            <Value ID="30010375">CITRINE</Value>
+            <Value ID="30010376">DIAMOND</Value>
+            <Value ID="30010377">EMERALD</Value>
+            <Value ID="30010378">GARNET</Value>
+            <Value ID="30010380">JADE</Value>
+            <Value ID="30010381">MOONSTONE</Value>
+            <Value ID="30010382">OPAL</Value>
+            <Value ID="30010383">PEARL</Value>
+            <Value ID="30010384">PERIDOT</Value>
+            <Value ID="30010385">QUARTZ</Value>
+            <Value ID="30010386">RUBY</Value>
+            <Value ID="30010387">SAPPHIRE</Value>
+            <Value ID="30010388">TANZANITE</Value>
+            <Value ID="30010389">TOPAZ</Value>
+            <Value ID="30010390">TURQUOISE</Value>
+            <Value ID="30010391">ZIRCON</Value>
+            <Value ID="30010392">WITHOUT STONE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

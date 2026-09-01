@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000126" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Liqueur</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003065">BEAN FLAVOURED</Value>
+            <Value ID="30003066">DAIRY FLAVOURED</Value>
+            <Value ID="30003067">FRUIT FLAVOURED</Value>
+            <Value ID="30003068">HERB FLAVOURED</Value>
+            <Value ID="30003069">HONEY FLAVOURED</Value>
+            <Value ID="30003070">NUT FLAVOURED</Value>
+            <Value ID="30003071">SEED/SPICE FLAVOURED</Value>
+            <Value ID="30003072">VEGETABLE FLAVOURED</Value>
+            <Value ID="30014833">HERB/SPICE FLAVOURED</Value>
+            <Value ID="30017051">EGG FLAVOURED</Value>
+            <Value ID="30018792">CHOCOLATE FLAVOURED</Value>
+            <Value ID="30018793">COFFEE FLAVOURED</Value>
+            <Value ID="30018794">FLORAL FLAVOURED</Value>
+            <Value ID="30018795">MINT FLAVOURED</Value>
+            <Value ID="30018796">SOUR FLAVOURED</Value>
+            <Value ID="30018797">SWEET FLAVOURED</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002977" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Soup Liquid Base</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002998">MILK</Value>
+            <Value ID="30003307">WATER</Value>
+            <Value ID="30011636">BEER</Value>
+            <Value ID="30017116">BUTTERMILK</Value>
+            <Value ID="30017117">FRUIT PUREE/JUICE</Value>
+            <Value ID="30017118">SOUR MILK</Value>
+            <Value ID="30017119">YOGURT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

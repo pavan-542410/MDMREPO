@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000172" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Sugar/Sugar Substitute</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000149">AGAVE</Value>
+            <Value ID="30000273">BARBADOS RAW SUGAR</Value>
+            <Value ID="30000866">DARK BROWN SUGAR</Value>
+            <Value ID="30000876">DEMERARA RAW SUGAR</Value>
+            <Value ID="30001059">FRUCTOSE</Value>
+            <Value ID="30001379">LACTOSE</Value>
+            <Value ID="30001429">LIGHT BROWN SUGAR</Value>
+            <Value ID="30001509">MALTOSE</Value>
+            <Value ID="30002088">SACCHARIN</Value>
+            <Value ID="30002267">SORBITOL</Value>
+            <Value ID="30002353">SUCROSE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002532">VANILLA SUGAR</Value>
+            <Value ID="30002645">XYLITOL</Value>
+            <Value ID="30002744">DEXTROSE</Value>
+            <Value ID="30014445">WHITE SUGAR</Value>
+            <Value ID="30016948">SUGAR SUBSTITUTE - MIXTURE</Value>
+            <Value ID="30016949">SUGAR SUBSTITUTE - OTHER</Value>
+            <Value ID="30016950">CANE SUGAR</Value>
+            <Value ID="30016951">STEVIA</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

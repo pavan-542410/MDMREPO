@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000789" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Pet Housing</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005375">PET HOUSE</Value>
+            <Value ID="30005579">PET MATTRESS</Value>
+            <Value ID="30005627">PET CUSHION</Value>
+            <Value ID="30005763">PET BASKET</Value>
+            <Value ID="30005783">PET BED</Value>
+            <Value ID="30006929">BIRD BOX</Value>
+            <Value ID="30006930">PET BLANKET</Value>
+            <Value ID="30006931">PET CAGE</Value>
+            <Value ID="30006932">PET CARRIER</Value>
+            <Value ID="30006933">PET HEAT LAMP</Value>
+            <Value ID="30006934">PET HEAT PAD</Value>
+            <Value ID="30006935">PET SEAT PROTECTION COVER</Value>
+            <Value ID="30006936">PET TRAVEL MAT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

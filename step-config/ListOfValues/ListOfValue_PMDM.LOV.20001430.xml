@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001430" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Punching/Kicking Training Aid</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008819">MEDICINE BALL</Value>
+            <Value ID="30008820">PUNCH DUMMY</Value>
+            <Value ID="30008821">PUNCHING/KICKING BAG</Value>
+            <Value ID="30011106">BREAKING BOARD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001678" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Food Measuring Utensil</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009652">MEASURING BOWL</Value>
+            <Value ID="30009653">MEASURING CUP</Value>
+            <Value ID="30009654">MEASURING JUG</Value>
+            <Value ID="30009655">MEASURING SPOON</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

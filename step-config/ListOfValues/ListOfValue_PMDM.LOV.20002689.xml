@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002689" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Meat Shape</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001454">LOAF</Value>
+            <Value ID="30002041">ROLLED</Value>
+            <Value ID="30002238">SLAB</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002818">SHREDDED</Value>
+            <Value ID="30013642">BULK/UNSHAPED</Value>
+            <Value ID="30013643">CHUB/LOG</Value>
+            <Value ID="30013644">DICED/CUBE-SHAPED</Value>
+            <Value ID="30013645">MEATBALL</Value>
+            <Value ID="30013646">NATURAL CARCASS/PART/MUSCLE</Value>
+            <Value ID="30013647">NATURAL MUSCLE - SPIRALLY SLICED</Value>
+            <Value ID="30013648">NUGGETS</Value>
+            <Value ID="30013649">PATTY</Value>
+            <Value ID="30013650">PULLED</Value>
+            <Value ID="30013651">ROPE/RING</Value>
+            <Value ID="30013652">LINK (MEAT SHAPE)</Value>
+            <Value ID="30013653">STRIP (MEAT SHAPE)</Value>
+            <Value ID="30016102">DEFINED BY THE PACKAGING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001134" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Season</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30015990">SUMMER TYRES</Value>
+            <Value ID="30015991">STUDDED WINTER TYRES</Value>
+            <Value ID="30015992">NON-STUDDED WINTER TYRES</Value>
+            <Value ID="30015993">ALL SEASON TYRES</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

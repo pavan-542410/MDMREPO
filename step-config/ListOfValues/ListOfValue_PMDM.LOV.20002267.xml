@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002267" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Pump</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008947">LEVER ACTION</Value>
+            <Value ID="30011889">SIPHON</Value>
+            <Value ID="30011890">ROTARY PUMP</Value>
+            <Value ID="30011896">LIFTING/PLUNGE</Value>
+            <Value ID="30011897">SQUEEZE ACTION</Value>
+            <Value ID="30011943">PISTON</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

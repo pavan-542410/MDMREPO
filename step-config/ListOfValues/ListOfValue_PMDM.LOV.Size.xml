@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.Size" ParentID="PMDM.LOVG.ProductAttributeLOVs" AllowUserValueAddition="false" UseValueID="false">
+            <Name>Size</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>10</Value>
+            <Value>10.5</Value>
+            <Value>100</Value>
+            <Value>105</Value>
+            <Value>110</Value>
+            <Value>115</Value>
+            <Value>120</Value>
+            <Value>125</Value>
+            <Value>32</Value>
+            <Value>34</Value>
+            <Value>35</Value>
+            <Value>35-36</Value>
+            <Value>36</Value>
+            <Value>36 1/4″</Value>
+            <Value>36-37</Value>
+            <Value>36 1/4″</Value>
+            <Value>37</Value>
+            <Value>37-38</Value>
+            <Value>38</Value>
+            <Value>38-39</Value>
+            <Value>39</Value>
+            <Value>39-40</Value>
+            <Value>3XL</Value>
+            <Value>4</Value>
+            <Value>40</Value>
+            <Value>40-41</Value>
+            <Value>41</Value>
+            <Value>41 3/4”</Value>
+            <Value>41-42</Value>
+            <Value>41 3/4”</Value>
+            <Value>42</Value>
+            <Value>42-43</Value>
+            <Value>44</Value>
+            <Value>46</Value>
+            <Value>47</Value>
+            <Value>48</Value>
+            <Value>49</Value>
+            <Value>75</Value>
+            <Value>8</Value>
+            <Value>8.5</Value>
+            <Value>80</Value>
+            <Value>85</Value>
+            <Value>9</Value>
+            <Value>9.5</Value>
+            <Value>90</Value>
+            <Value>95</Value>
+            <Value>L</Value>
+            <Value>M</Value>
+            <Value>S</Value>
+            <Value>T1</Value>
+            <Value>T2</Value>
+            <Value>T3</Value>
+            <Value>T4</Value>
+            <Value>T5</Value>
+            <Value>XL</Value>
+            <Value>XS</Value>
+            <Value>XXL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

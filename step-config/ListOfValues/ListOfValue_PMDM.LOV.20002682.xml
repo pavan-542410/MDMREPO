@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002682" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Goat Cut</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30014070">ASSORTED CUTS (BLOCK READY) - BONE-IN (UNECE 505036)</Value>
+            <Value ID="30014071">ASSORTED PIECES - SPECIAL TRIM (UNECE 505199)</Value>
+            <Value ID="30014072">BACKSTRAP/BACKSTRIP (UNECE 505101)</Value>
+            <Value ID="30014073">CARCASS (UNECE)</Value>
+            <Value ID="30014074">CARCASS, 4-WAY (UNECE)</Value>
+            <Value ID="30014075">CARCASS, 5-WAY (UNECE)</Value>
+            <Value ID="30014076">CARCASS, 6-WAY (UNECE)</Value>
+            <Value ID="30014077">CARCASS, PIECES (UNECE)</Value>
+            <Value ID="30014078">CHUMP, BONE-IN (UNECE 504790)</Value>
+            <Value ID="30014079">CHUMP, BONELESS (UNECE 505130)</Value>
+            <Value ID="30014080">FOREQUARTER (UNECE 504972)</Value>
+            <Value ID="30014081">FORESHANK (UNECE 505030)</Value>
+            <Value ID="30014082">HINDQUARTER (UNECE 504788)</Value>
+            <Value ID="30014083">HINDSHANK (UNECE 505031)</Value>
+            <Value ID="30014084">INSIDE (UNECE 505073)</Value>
+            <Value ID="30014085">INSIDE, CAP OFF (UNECE 505077)</Value>
+            <Value ID="30014086">KNUCKLE (UNECE 505072)</Value>
+            <Value ID="30014087">LEG CUTS, 4-WAY (UNECE 505065)</Value>
+            <Value ID="30014088">LEG PAIR AND LOIN SADDLE (UNECE 504901)</Value>
+            <Value ID="30014089">LEG PAIR AND SADDLE (UNECE 504946)</Value>
+            <Value ID="30014090">LEG, BOTTOM (UNECE 505067)</Value>
+            <Value ID="30014091">LEG, CHUMP OFF (UNECE 504820)</Value>
+            <Value ID="30014092">LEG, CHUMP ON - BONELESS (UNECE 505060)</Value>
+            <Value ID="30014093">LEG, CHUMP ON - SHANK OFF (UNECE 504810)</Value>
+            <Value ID="30014094">LEG, CHUMP ON (UNECE 504800)</Value>
+            <Value ID="30014095">LEG, SHANK BONE (EASY CARVE LEG) (UNECE 504821)</Value>
+            <Value ID="30014096">LOIN (UNECE 504860)</Value>
+            <Value ID="30014097">LOIN, CHUMP ON (UNECE 504840)</Value>
+            <Value ID="30014098">NECK (UNECE 505020)</Value>
+            <Value ID="30014099">OUTSIDE (UNECE 505075)</Value>
+            <Value ID="30014100">RACK, 6 RIB (UNECE 504931)</Value>
+            <Value ID="30014101">RACK, 7 RIB (UNECE 504930)</Value>
+            <Value ID="30014102">RACK, 8 RIB (UNECE 504932)</Value>
+            <Value ID="30014103">RACK, 9 RIB (UNECE 504933)</Value>
+            <Value ID="30014104">RACK, CAP OFF - 6 RIB (UNECE 504746)</Value>
+            <Value ID="30014105">RACK, CAP OFF - 7 RIB (UNECE 504747)</Value>
+            <Value ID="30014106">RACK, CAP OFF - 8 RIB (UNECE 504748)</Value>
+            <Value ID="30014107">RACK, CAP OFF - 9 RIB (UNECE 504749)</Value>
+            <Value ID="30014108">SADDLE (UNECE 504900)</Value>
+            <Value ID="30014109">SHORT LOIN (UNECE 504880)</Value>
+            <Value ID="30014110">SHOULDER RACK PAIR, 4 RIB (UNECE 504762)</Value>
+            <Value ID="30014111">SHOULDER RACK PAIR, 5 RIB (UNECE 504727)</Value>
+            <Value ID="30014112">SHOULDER, OUTSIDE (OYSTER CUT) - BONELESS (UNECE 505055)</Value>
+            <Value ID="30014113">SHOULDER, OUTSIDE (OYSTER CUT) (UNECE 504980)</Value>
+            <Value ID="30014114">SHOULDER, SQUARE CUT - 4 RIB (UNECE 504991)</Value>
+            <Value ID="30014115">SHOULDER, SQUARE CUT - 5 RIB (UNECE 504990)</Value>
+            <Value ID="30014116">SHOULDER, SQUARE CUT - 6 RIB (UNECE 504992)</Value>
+            <Value ID="30014117">SIDE (UNECE 504650)</Value>
+            <Value ID="30014118">SILVERSIDE (UNECE 505071)</Value>
+            <Value ID="30014119">SPARE RIBS, 6 RIB (UNECE 505015)</Value>
+            <Value ID="30014120">SPARE RIBS, 7 RIB (UNECE 505016)</Value>
+            <Value ID="30014121">SPARE RIBS, 8 RIB (UNECE 505017)</Value>
+            <Value ID="30014122">SPARE RIBS, 9 RIB (UNECE 505018)</Value>
+            <Value ID="30014123">TENDERLOIN (UNECE 505080)</Value>
+            <Value ID="30014124">THICK FLANK (UNECE 505076)</Value>
+            <Value ID="30014125">TRUNK (UNECE 504720)</Value>
+            <Value ID="30014126">TRUNK, CHUMP ON (UNECE 504721)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

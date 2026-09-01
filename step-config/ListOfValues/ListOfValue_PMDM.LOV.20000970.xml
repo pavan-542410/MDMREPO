@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000970" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Specialist Activity</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002326">SQUASH (SPORT)</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007407">BADMINTON</Value>
+            <Value ID="30007408">BASKETBALL</Value>
+            <Value ID="30007409">CLIMBING</Value>
+            <Value ID="30007410">CYCLING</Value>
+            <Value ID="30007411">EQUESTRIAN</Value>
+            <Value ID="30007412">FISHING</Value>
+            <Value ID="30007413">GOLF</Value>
+            <Value ID="30007414">GYMNASTICS</Value>
+            <Value ID="30007415">HUNTING</Value>
+            <Value ID="30007416">ICE HOCKEY</Value>
+            <Value ID="30007417">ICE SKATING</Value>
+            <Value ID="30007418">INLINE SKATING</Value>
+            <Value ID="30007419">MOTOR CYCLING</Value>
+            <Value ID="30007420">RUNNING</Value>
+            <Value ID="30007421">SAILING</Value>
+            <Value ID="30007422">SHOOTING</Value>
+            <Value ID="30007423">SKIING (ALPINE)</Value>
+            <Value ID="30007424">SKIING (CROSS COUNTRY)</Value>
+            <Value ID="30007426">SOCCER (FIRM GROUND)</Value>
+            <Value ID="30007427">SOCCER (SOFT GROUND)</Value>
+            <Value ID="30007428">SURFING</Value>
+            <Value ID="30007429">SWIMMING</Value>
+            <Value ID="30008748">RUGBY</Value>
+            <Value ID="30010279">HIKING</Value>
+            <Value ID="30010280">INDOOR TENNIS</Value>
+            <Value ID="30010281">OUTDOOR TENNIS</Value>
+            <Value ID="30010928">SNOW BOARD</Value>
+            <Value ID="30017155">BALLET/DANCE</Value>
+            <Value ID="30017156">TRACK AND FIELD</Value>
+            <Value ID="30017157">WRESTLING/BOXING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

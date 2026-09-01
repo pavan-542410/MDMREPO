@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002969" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Ethnic Flavouring</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001320">JAMAICAN</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007432">POLISH</Value>
+            <Value ID="30017066">AFRICAN</Value>
+            <Value ID="30017067">ASIAN</Value>
+            <Value ID="30017068">BARBEQUE</Value>
+            <Value ID="30017069">CAJUN</Value>
+            <Value ID="30017070">CARIBBEAN</Value>
+            <Value ID="30017071">CHINESE</Value>
+            <Value ID="30017072">ETHIOPIAN</Value>
+            <Value ID="30017073">GREEK</Value>
+            <Value ID="30017074">INDIAN</Value>
+            <Value ID="30017075">ITALIAN</Value>
+            <Value ID="30017076">JAPANESE</Value>
+            <Value ID="30017077">MEXICAN</Value>
+            <Value ID="30017078">SERBIAN</Value>
+            <Value ID="30017079">SPANISH</Value>
+            <Value ID="30017080">THAI</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001632" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Camping Washing/Sanitary Equipment Replacement Part/Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009542">CAMPING TOILET CHEMICALS</Value>
+            <Value ID="30009543">CAMPING TOILET WASTE BAG KITS</Value>
+            <Value ID="30009544">REPLACEMENT CAMPING SHOWER HOSE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

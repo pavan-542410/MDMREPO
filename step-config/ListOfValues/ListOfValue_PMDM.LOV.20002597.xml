@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002597" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Signal Connection</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007710">INFRARED</Value>
+            <Value ID="30007790">BLUETOOTH</Value>
+            <Value ID="30007804">WIRED</Value>
+            <Value ID="30013207">WIRED DIGITAL</Value>
+            <Value ID="30013208">UHF ANALOGUE</Value>
+            <Value ID="30013209">UHF DIGITAL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

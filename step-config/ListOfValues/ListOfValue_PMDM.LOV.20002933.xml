@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002933" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Pungency of Chili Peppers</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30016310">MILD (900-1999 SCOVILLE)</Value>
+            <Value ID="30016311">MEDIUM (2000-19.999 SCOVILLE)</Value>
+            <Value ID="30016312">HOT (20.000-100.000 SCOVILLE)</Value>
+            <Value ID="30016313">EXTRA HOT (&lt;gt/&gt; 100.000 SCOVILLE)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

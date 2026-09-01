@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001088" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Modem</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30007712">ANALOG</Value>
+            <Value ID="30007758">ASYMMETRIC DIGITAL SUBSCRIBER LINE (ADSL)</Value>
+            <Value ID="30007759">GENERAL PACKET RADIO SERVICE (GPRS)</Value>
+            <Value ID="30007760">GSM</Value>
+            <Value ID="30007761">INTEGRATED SERVICES DIGITAL NETWORK (ISDN)</Value>
+            <Value ID="30007762">SYMMETRIC DIGITAL SUBSCRIBER LINE (SDSL)</Value>
+            <Value ID="30007763">UNIVERSAL MOBILE TELECOMMUNICATIONS SERVICE (UMTS)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

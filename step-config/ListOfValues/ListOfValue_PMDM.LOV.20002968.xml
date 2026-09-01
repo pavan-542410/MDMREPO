@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002968" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Intended Product Use</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000305">BEEF</Value>
+            <Value ID="30001384">LAMB</Value>
+            <Value ID="30001774">PASTA</Value>
+            <Value ID="30001893">PORK</Value>
+            <Value ID="30001908">POULTRY</Value>
+            <Value ID="30002007">RICE</Value>
+            <Value ID="30002205">SHELLFISH</Value>
+            <Value ID="30002270">SOUP</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002540">VEGETABLES</Value>
+            <Value ID="30005669">FISH</Value>
+            <Value ID="30006768">SALAD DRESSING</Value>
+            <Value ID="30011968">CAKE</Value>
+            <Value ID="30017060">BREAD</Value>
+            <Value ID="30017061">COMBINATION FOR MEAT/SAUSAGE PRODUCTION</Value>
+            <Value ID="30017062">OTHER DESSERTS</Value>
+            <Value ID="30017063">OTHER MEATS</Value>
+            <Value ID="30017064">PIE</Value>
+            <Value ID="30017065">POTATOES</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

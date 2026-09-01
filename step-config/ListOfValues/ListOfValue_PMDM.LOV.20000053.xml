@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000053" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Dessert</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30000855">DAIRY BASED</Value>
+            <Value ID="30001062">FRUIT BASED</Value>
+            <Value ID="30001104">GELATINE BASED</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002932">RICE BASED</Value>
+            <Value ID="30003571">CHEESE BASED</Value>
+            <Value ID="30003572">CREAM BASED</Value>
+            <Value ID="30003573">EGG BASED</Value>
+            <Value ID="30003574">MILK BASED</Value>
+            <Value ID="30006675">MILK SUBSTITUTES BASED</Value>
+            <Value ID="30010425">DOUGH BASED</Value>
+            <Value ID="30013147">CAKE BASED</Value>
+            <Value ID="30017968">OTHER GRAIN BASED</Value>
+            <Value ID="30017969">SOUR MILK BASED</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

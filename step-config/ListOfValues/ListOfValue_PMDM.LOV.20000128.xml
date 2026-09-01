@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000128" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Manufacturers Treatment/Cooking Process</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000251">BAKED</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30000733">CONDENSED</Value>
+            <Value ID="30000977">FERMENTED</Value>
+            <Value ID="30001047">FRIED</Value>
+            <Value ID="30001266">HOMOGENIZED</Value>
+            <Value ID="30001780">PASTEURISED</Value>
+            <Value ID="30001888">POPPED</Value>
+            <Value ID="30001938">PUFFED</Value>
+            <Value ID="30002105">SALTED</Value>
+            <Value ID="30002168">SEASONED</Value>
+            <Value ID="30002249">SMOKED</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002722">DEHYDRATED</Value>
+            <Value ID="30002762">DRIED</Value>
+            <Value ID="30002909">STERILIZED</Value>
+            <Value ID="30002924">ROASTED</Value>
+            <Value ID="30002940">ULTRA HIGH TEMPERATURE (UHT)</Value>
+            <Value ID="30002953">COOKED</Value>
+            <Value ID="30003032">CHOCOLATE COATED</Value>
+            <Value ID="30003214">REFORMED</Value>
+            <Value ID="30003258">SUGARED</Value>
+            <Value ID="30006778">CURED</Value>
+            <Value ID="30006803">UNPOPPED</Value>
+            <Value ID="30006804">PREPARED FOR MICROWAVE</Value>
+            <Value ID="30015998">ALCOHOL ADDED</Value>
+            <Value ID="30017005">CANDIED</Value>
+            <Value ID="30017363">RIPENED IN SALT AND VINEGAR</Value>
+            <Value ID="30017929">EXTENDED SHELF LIFE (ESL) MILK TREATMENT</Value>
+            <Value ID="30017930">NO HEAT TREATMENT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

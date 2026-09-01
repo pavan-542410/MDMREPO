@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000740" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Colour of Tobacco</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000350">BLACK TOBACCO</Value>
+            <Value ID="30000447">BROWN TOBACCO</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002649">YELLOW TOBACCO</Value>
+            <Value ID="30003167">BLOND TOBACCO</Value>
+            <Value ID="30014431">GOLD TOBACCO</Value>
+            <Value ID="30014432">GREEN TOBACCO</Value>
+            <Value ID="30014447">WHITE TOBACCO</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

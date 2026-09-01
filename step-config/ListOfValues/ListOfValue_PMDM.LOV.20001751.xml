@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001751" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Towel</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004349">WASHCLOTH</Value>
+            <Value ID="30009858">BATH TOWEL/BATH SHEET</Value>
+            <Value ID="30009859">BEACH TOWEL</Value>
+            <Value ID="30009861">KITCHEN DRYING TOWEL</Value>
+            <Value ID="30010595">TRAVEL TOWEL</Value>
+            <Value ID="30017192">GUEST HAND TOWEL</Value>
+            <Value ID="30017712">HAND TOWEL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

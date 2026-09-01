@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000613" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Pet Hygiene/Sanitary Protection</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005224">PET LITTER FIBRE</Value>
+            <Value ID="30005305">PET PANTS</Value>
+            <Value ID="30005371">PET LITTER DISPOSAL BAG</Value>
+            <Value ID="30005412">PET LITTER SHOVEL/DUSTPAN</Value>
+            <Value ID="30005454">PET LITTER TRAY</Value>
+            <Value ID="30005476">PET SANITARY TOWEL</Value>
+            <Value ID="30005495">PET LITTER TRAY LINER</Value>
+            <Value ID="30005516">PET LITTER CLAY</Value>
+            <Value ID="30005537">PET LITTER LID</Value>
+            <Value ID="30005574">PET DEODORANT</Value>
+            <Value ID="30005577">PET LITTER FRESHENER</Value>
+            <Value ID="30005712">PET LITTER PAPER</Value>
+            <Value ID="30007012">PET DENTAL CHEW/BONE</Value>
+            <Value ID="30007013">PET DENTAL RINSE</Value>
+            <Value ID="30007014">PET DENTAL WATER DROP</Value>
+            <Value ID="30007015">PET DENTAL WIPE</Value>
+            <Value ID="30007016">PET DISINFECTANT</Value>
+            <Value ID="30007017">PET FOOD MAT</Value>
+            <Value ID="30007018">PET HAIR PICK UP</Value>
+            <Value ID="30007019">PET LITTER GRAVEL/SAND</Value>
+            <Value ID="30007020">PET LITTER HOUSE</Value>
+            <Value ID="30007021">PET TOOTH BRUSH</Value>
+            <Value ID="30007022">PET TOOTH PASTE</Value>
+            <Value ID="30010618">PET LITTER SILICATE</Value>
+            <Value ID="30010619">PET LITTER WOOD</Value>
+            <Value ID="30010620">PET LITTER SAND</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

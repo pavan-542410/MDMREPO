@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001456" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Board/Ski (Water Sports) Replacement Part/Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008892">WATER SKI BINDINGS</Value>
+            <Value ID="30008893">WINDSURFING BOARD FIN</Value>
+            <Value ID="30008894">WINDSURFING BOARD BOOM</Value>
+            <Value ID="30008895">WINDSURFING BOARD MAST</Value>
+            <Value ID="30010956">WINDSURFING SAIL</Value>
+            <Value ID="30011666">WINDSURFING BOARD BOOM HARNESS LINE</Value>
+            <Value ID="30011667">WINDSURFING BOARD BOOM UPHAUL</Value>
+            <Value ID="30011668">WINDSURFING BOARD BOOM PROTECTOR</Value>
+            <Value ID="30011669">WINDSURFING BOARD MAST EXTENSION</Value>
+            <Value ID="30011670">WINDSURFING BOARD MAST PROTECTOR</Value>
+            <Value ID="30011671">WINDSURFING BOARD BASE</Value>
+            <Value ID="30011672">WINDSURFING BOARD FOOT/BASE PROTECTOR</Value>
+            <Value ID="30011673">WINDSURFING BOARD FOOTSTRAP</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002172" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Musical Toy (Non Powered)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008372">TOY DRUM</Value>
+            <Value ID="30008378">TOY GUITAR</Value>
+            <Value ID="30008385">TOY WHISTLE</Value>
+            <Value ID="30008472">TOY KEYBOARD</Value>
+            <Value ID="30011584">MUSICAL BALL</Value>
+            <Value ID="30011585">MUSIC BOX</Value>
+            <Value ID="30011586">MUSICAL TOP</Value>
+            <Value ID="30012268">TOY MUSICAL SET</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

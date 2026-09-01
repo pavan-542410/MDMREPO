@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001203" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Recordable Video Cassette</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007887">VHS</Value>
+            <Value ID="30007888">VHS-C</Value>
+            <Value ID="30007993">8MM</Value>
+            <Value ID="30007995">BETA</Value>
+            <Value ID="30007996">DV</Value>
+            <Value ID="30007997">D-VHS</Value>
+            <Value ID="30007998">DV-MINI</Value>
+            <Value ID="30007999">MICRO-MV</Value>
+            <Value ID="30008000">SUPER VHS</Value>
+            <Value ID="30008001">SUPER VHS-C</Value>
+            <Value ID="30008002">VIDEO 2000</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

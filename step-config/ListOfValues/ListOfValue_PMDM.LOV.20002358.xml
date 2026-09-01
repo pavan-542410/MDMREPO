@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002358" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Profile Type</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30006887">CROWN</Value>
+            <Value ID="30012138">PLINTH BLOCK</Value>
+            <Value ID="30012139">CORNER BLOCK</Value>
+            <Value ID="30012140">KEYSTONE</Value>
+            <Value ID="30012141">ROSETTE</Value>
+            <Value ID="30012181">BASEBOARD</Value>
+            <Value ID="30012182">CORNICE</Value>
+            <Value ID="30012183">CASING</Value>
+            <Value ID="30012184">COVE</Value>
+            <Value ID="30012185">PANEL MOULD</Value>
+            <Value ID="30012186">STUCCO MOULD</Value>
+            <Value ID="30012192">ARCHITRAVE</Value>
+            <Value ID="30012193">BATTEN</Value>
+            <Value ID="30012194">BASE SHOE</Value>
+            <Value ID="30012195">BED</Value>
+            <Value ID="30012196">BACK BAND</Value>
+            <Value ID="30012197">BACK SPLASH</Value>
+            <Value ID="30012198">BRICK MOULD</Value>
+            <Value ID="30012199">BULLNOSE</Value>
+            <Value ID="30012200">CABINET PULL</Value>
+            <Value ID="30012201">CORNER GUARD</Value>
+            <Value ID="30012202">CHAIR RAIL</Value>
+            <Value ID="30012203">CAP RETURN</Value>
+            <Value ID="30012204">DENTIL</Value>
+            <Value ID="30012205">DRIP</Value>
+            <Value ID="30012213">DENTIL CROWN</Value>
+            <Value ID="30012214">FLAT ASTRAGAL</Value>
+            <Value ID="30012215">BEAD</Value>
+            <Value ID="30012217">HALF ROUND</Value>
+            <Value ID="30012218">HEARTH STRIP</Value>
+            <Value ID="30012219">LATTICE (FENCE/MOULDING)</Value>
+            <Value ID="30012220">MANTLE</Value>
+            <Value ID="30012221">STAIR NOSING</Value>
+            <Value ID="30012224">PANEL STRIP</Value>
+            <Value ID="30012225">PICTURE MOULD</Value>
+            <Value ID="30012226">PORCH MOULD</Value>
+            <Value ID="30012227">ROPE</Value>
+            <Value ID="30012228">RABETTED STOOL</Value>
+            <Value ID="30012229">SHINGLE MOULD</Value>
+            <Value ID="30012230">SCREEN MOULD</Value>
+            <Value ID="30012231">SHELF CLEAT</Value>
+            <Value ID="30012232">SCOTIA</Value>
+            <Value ID="30012233">STOP</Value>
+            <Value ID="30012234">WINDOW CASING</Value>
+            <Value ID="30012235">WINDOW STOOL</Value>
+            <Value ID="30012236">U CHANNEL</Value>
+            <Value ID="30012237">PLYCAP</Value>
+            <Value ID="30012238">WAINSCOT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

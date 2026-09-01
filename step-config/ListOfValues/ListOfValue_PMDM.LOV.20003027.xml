@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003027" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Citron</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30017386">BUDDHA'S HAND</Value>
+            <Value ID="30017387">CORSICAN CITRON</Value>
+            <Value ID="30017388">ETROG</Value>
+            <Value ID="30017389">GREEK CITRON</Value>
+            <Value ID="30017390">MOROCCAN CITRON</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

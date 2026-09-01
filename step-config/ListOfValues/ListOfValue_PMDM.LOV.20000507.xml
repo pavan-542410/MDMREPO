@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000507" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of First Aid Dressings/Bandages/Plasters</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005156">BANDAGE - TEXTILE</Value>
+            <Value ID="30005177">PLASTER</Value>
+            <Value ID="30005221">GAUZE</Value>
+            <Value ID="30005314">WOUND DRESSING WITH GAUZE PAD</Value>
+            <Value ID="30005635">STRIP/STITCH</Value>
+            <Value ID="30005680">BANDAGE - TAPE</Value>
+            <Value ID="30005720">WOUND DRESSING WITHOUT GAUZE PAD</Value>
+            <Value ID="30010612">SPRAY ON WOUND/BURN DRESSING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

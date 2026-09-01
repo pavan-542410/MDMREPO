@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000760" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Design Type</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009431">ROBOT</Value>
+            <Value ID="30010171">SELF-PROPELLED</Value>
+            <Value ID="30010172">WALK-BEHIND</Value>
+            <Value ID="30010828">PULL-ALONG</Value>
+            <Value ID="30010986">PUSH ALONG</Value>
+            <Value ID="30010987">TOW ALONG</Value>
+            <Value ID="30010988">RIDE-ON</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

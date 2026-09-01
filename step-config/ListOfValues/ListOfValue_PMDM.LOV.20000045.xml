@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000045" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Consumer Lifestage</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000119">12 MONTHS/ONWARDS</Value>
+            <Value ID="30000147">ADULT</Value>
+            <Value ID="30000164">ALL AGES</Value>
+            <Value ID="30000235">BABY</Value>
+            <Value ID="30000628">CHILD</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004297">TEENAGER</Value>
+            <Value ID="30004569">INFANT</Value>
+            <Value ID="30005328">SENIOR</Value>
+            <Value ID="30006665">BABY/INFANT</Value>
+            <Value ID="30006666">CHILD 1-2 YEARS</Value>
+            <Value ID="30006667">CHILD 2 YEARS ONWARDS</Value>
+            <Value ID="30008129">3-5 YEARS</Value>
+            <Value ID="30010582">MATURE</Value>
+            <Value ID="30010989">TEENAGER/YOUNG ADULT</Value>
+            <Value ID="30011504">&lt;lt/&gt;3 YEARS</Value>
+            <Value ID="30011505">&lt;gt/&gt;5-10 YEARS</Value>
+            <Value ID="30011506">&lt;gt/&gt;10-15YEARS</Value>
+            <Value ID="30011507">&lt;gt/&gt;15 YEARS</Value>
+            <Value ID="30013096">CHILD 3-11 YEARS</Value>
+            <Value ID="30013097">CHILD 12 YEARS ONWARDS</Value>
+            <Value ID="30016336">YOUNG ADULT</Value>
+            <Value ID="30017231">0 - 3 MONTHS</Value>
+            <Value ID="30017232">3 - 6 MONTHS</Value>
+            <Value ID="30017233">6 - 12 MONTHS</Value>
+            <Value ID="30017234">&lt;gt/&gt;12 MONTHS</Value>
+            <Value ID="30017237">MOTHER / PREGNANT WOMAN</Value>
+            <Value ID="30019087">0 MONTHS/ONWARDS</Value>
+            <Value ID="30019088">3 MONTHS/ONWARDS</Value>
+            <Value ID="30019089">6 MONTHS/ONWARDS</Value>
+            <Value ID="30019090">CHILD 3 YEARS ONWARDS</Value>
+            <Value ID="30019091">CHILD 4 YEARS ONWARDS</Value>
+            <Value ID="30019092">1 MONTHS/ONWARDS</Value>
+            <Value ID="30019093">2 MONTHS/ONWARDS</Value>
+            <Value ID="30019094">4 MONTHS/ONWARDS</Value>
+            <Value ID="30019095">5 MONTHS/ONWARDS</Value>
+            <Value ID="30019096">7 MONTHS/ONWARDS</Value>
+            <Value ID="30019097">8 MONTHS/ONWARDS</Value>
+            <Value ID="30019098">9 MONTHS/ONWARDS</Value>
+            <Value ID="30019099">10 MONTHS/ONWARDS</Value>
+            <Value ID="30019100">11 MONTHS/ONWARDS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

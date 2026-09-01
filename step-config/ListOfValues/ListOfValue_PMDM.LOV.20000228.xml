@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000228" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Chocolate/Cocoa/Malt</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000112">CHOCOLATE/CORN STARCH</Value>
+            <Value ID="30000651">CHOCOLATE BASED</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002919">COFFEE/MALT</Value>
+            <Value ID="30003031">CHOCOLATE/MALT</Value>
+            <Value ID="30003115">COCOA</Value>
+            <Value ID="30014435">MALT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

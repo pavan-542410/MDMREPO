@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001346" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Sand Art Supplies</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008531">SAND ART BOTTLE</Value>
+            <Value ID="30008532">SAND ART JEWELLERY</Value>
+            <Value ID="30008533">SAND ART PAINT</Value>
+            <Value ID="30008534">SAND ART PEN</Value>
+            <Value ID="30008535">SAND ART PICTURE BOARD</Value>
+            <Value ID="30008537">SAND ART SCULPTING SAND</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001345" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Artists Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008524">BRUSH CASE</Value>
+            <Value ID="30008525">BRUSH HOLDER</Value>
+            <Value ID="30008526">CANVAS/ART WORK HOLDER</Value>
+            <Value ID="30008527">EASEL BAG</Value>
+            <Value ID="30008529">PASTEL CASE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

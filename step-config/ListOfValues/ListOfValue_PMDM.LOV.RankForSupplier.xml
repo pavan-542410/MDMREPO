@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.RankForSupplier" ParentID="PMDM.LOVG.SystemLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Rank For Supplier</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <Value ID="1">1</Value>
+            <Value ID="2">2</Value>
+            <Value ID="3">3</Value>
+            <Value ID="4">4</Value>
+            <Value ID="5">5</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

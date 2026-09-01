@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001080" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Printer</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007738">BUBBLEJET</Value>
+            <Value ID="30007739">DOT MATRIX</Value>
+            <Value ID="30007740">INKJET</Value>
+            <Value ID="30007741">LASERJET</Value>
+            <Value ID="30007742">PHOTO PRINTER</Value>
+            <Value ID="30007743">PLOTTER</Value>
+            <Value ID="30007744">PORTABLE GAMES CONSOLE PRINTER</Value>
+            <Value ID="30007745">THERMAL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

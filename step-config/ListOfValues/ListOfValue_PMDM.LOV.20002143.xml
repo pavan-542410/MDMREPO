@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002143" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Securing Equipment</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30011465">CHAIN TIE DOWN</Value>
+            <Value ID="30011466">BUNGEE CORD</Value>
+            <Value ID="30011467">TARPAULIN STRAP</Value>
+            <Value ID="30011468">SECURING NET</Value>
+            <Value ID="30011469">TIE DOWN HARDWARE</Value>
+            <Value ID="30011470">TARPAULIN</Value>
+            <Value ID="30014458">WEB SLING</Value>
+            <Value ID="30014459">WEB SLING WEAR PAD</Value>
+            <Value ID="30014460">ROUNDSLING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

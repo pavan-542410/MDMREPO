@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000242" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Added Flavouring</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000091">ORANGE</Value>
+            <Value ID="30000256">BALSAMIC VINEGAR</Value>
+            <Value ID="30000601">CHERRY</Value>
+            <Value ID="30001319">JALAPENO PEPPER</Value>
+            <Value ID="30001436">LIME</Value>
+            <Value ID="30001954">QUININE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002531">VANILLA</Value>
+            <Value ID="30002960">NO</Value>
+            <Value ID="30003007">LEMON</Value>
+            <Value ID="30003020">APPLE</Value>
+            <Value ID="30016332">TABASCO</Value>
+            <Value ID="30017008">CARAMELIZED ONION AND BACON</Value>
+            <Value ID="30017009">CHILLI</Value>
+            <Value ID="30017010">CURRY</Value>
+            <Value ID="30017011">SRIRACHA</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

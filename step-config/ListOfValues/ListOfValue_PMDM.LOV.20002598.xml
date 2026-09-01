@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002598" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Storage Capacity</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30016034">&lt;lt/&gt;1 GIGABYTE</Value>
+            <Value ID="30016035">1 GIGABYTE</Value>
+            <Value ID="30016036">2 GIGABYTES</Value>
+            <Value ID="30016037">4 GIGABYTES</Value>
+            <Value ID="30016038">8 GIGABYTES</Value>
+            <Value ID="30016039">16 GIGABYTES</Value>
+            <Value ID="30016040">32 GIGABYTES</Value>
+            <Value ID="30016041">64 GIGABYTES</Value>
+            <Value ID="30016042">128 GIGABYTES</Value>
+            <Value ID="30016043">256 GIGABYTES</Value>
+            <Value ID="30016044">512 GIGABYTES</Value>
+            <Value ID="30016045">1 TERABYTE</Value>
+            <Value ID="30016046">2 TERABYTES</Value>
+            <Value ID="30016047">&lt;gt/&gt;2 TERABYTES</Value>
+            <Value ID="30016049">&lt;lt/&gt; 2 GIGABYTES</Value>
+            <Value ID="30016050">&lt;gt/&gt; 512 GIGABYTES</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

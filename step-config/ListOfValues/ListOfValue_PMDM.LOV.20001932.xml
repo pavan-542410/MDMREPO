@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001932" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Computer/Video Game Gaming Software</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007621">COMPUTER GAME</Value>
+            <Value ID="30010233">VIDEO GAME</Value>
+            <Value ID="30013250">PLAYSTATION 2 (PS2)</Value>
+            <Value ID="30013253">PLAYSTATION 3 (PS3)</Value>
+            <Value ID="30013256">XBOX 360</Value>
+            <Value ID="30013295">PLAYSTATION PORTABLE (PSP)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

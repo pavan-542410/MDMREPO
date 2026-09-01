@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000012" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Baby/Infant Specialised Food</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000563">CEREAL</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30000854">DAIRY</Value>
+            <Value ID="30000881">DESSERT</Value>
+            <Value ID="30000927">EGG</Value>
+            <Value ID="30001060">FRUIT</Value>
+            <Value ID="30001554">MEAT</Value>
+            <Value ID="30002251">SNACK</Value>
+            <Value ID="30002270">SOUP</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002842">VEGETABLE</Value>
+            <Value ID="30005669">FISH</Value>
+            <Value ID="30017227">GRUEL</Value>
+            <Value ID="30017228">PRESERVED PASTRY GOODS AND CAKES</Value>
+            <Value ID="30017229">STEWED FRUIT</Value>
+            <Value ID="30017230">THERAPEUTIC FOOD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

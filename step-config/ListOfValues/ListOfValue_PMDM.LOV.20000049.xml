@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000049" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Cream</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000692">CLOTTED CREAM</Value>
+            <Value ID="30002273">SOUR CREAM</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003302">THICKENED/DOUBLE CREAM</Value>
+            <Value ID="30003303">POURING/SINGLE CREAM</Value>
+            <Value ID="30003579">WHIPPING CREAM</Value>
+            <Value ID="30004678">CRÈME FRAICHE</Value>
+            <Value ID="30017937">CONDENSED CREAM</Value>
+            <Value ID="30017938">HALF AND HALF</Value>
+            <Value ID="30017939">HEAVY SOUR CREAM</Value>
+            <Value ID="30017940">TABLE CREAM</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

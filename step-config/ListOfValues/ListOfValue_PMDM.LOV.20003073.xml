@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003073" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Variety of Mint</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30017921">PEPPERMINT (E.G. MENTHA PIPERATA)</Value>
+            <Value ID="30017922">APPLE MINT (E.G. MENTHA SUAVEOLENS)</Value>
+            <Value ID="30017923">SHISO (E.G. PERILLA FRUTESCENS VAR. CRISPA)</Value>
+            <Value ID="30017924">SPEARMINT (E.G. MENTHA SPICATA)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000522" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Administration Method</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005176">OTIC</Value>
+            <Value ID="30005211">INTRAMUSCULAR</Value>
+            <Value ID="30005243">TRANSDERMAL</Value>
+            <Value ID="30005309">INTRAVENOUS</Value>
+            <Value ID="30005340">INTRAUTERINE</Value>
+            <Value ID="30005486">INHALATOR</Value>
+            <Value ID="30005568">VAGINAL</Value>
+            <Value ID="30005598">ORAL</Value>
+            <Value ID="30005687">RECTAL</Value>
+            <Value ID="30005697">OPHTHALMIC</Value>
+            <Value ID="30017853">SUBCUTANEOUS</Value>
+            <Value ID="30017854">SUBDERMAL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

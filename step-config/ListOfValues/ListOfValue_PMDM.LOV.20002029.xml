@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002029" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Jewellery Craft Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008634">BROOCH FITTINGS</Value>
+            <Value ID="30008635">EARRING FITTINGS</Value>
+            <Value ID="30008639">NECKLACE FITTINGS</Value>
+            <Value ID="30010855">RING FITTINGS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

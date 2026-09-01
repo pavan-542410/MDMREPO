@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000510" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of First Aid Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005638">WOUND DRESSING - ADHESIVE GLUE</Value>
+            <Value ID="30005639">WOUND DRESSING - ADHESIVE TAPE</Value>
+            <Value ID="30005679">FIRST AID KIT BOX</Value>
+            <Value ID="30005803">WOUND DRESSING - CLIP</Value>
+            <Value ID="30005809">WOUND DRESSING - SAFETY PIN</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

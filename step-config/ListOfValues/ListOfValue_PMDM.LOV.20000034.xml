@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000034" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Chocolate or Chocolate/Sugar Candy Combination Confectionery</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30006742">MOZARTKUGEL</Value>
+            <Value ID="30015894">CHOCOLATE/SUGAR COMBINATION - FUDGE</Value>
+            <Value ID="30015895">CHOCOLATE/SUGAR COMBINATION - LIQUORICE</Value>
+            <Value ID="30015896">CHOCOLATE/SUGAR COMBINATION - LOLLIPOPS</Value>
+            <Value ID="30015897">CHOCOLATE/SUGAR COMBINATION - MARSHMALLOW/GUIMAUVE</Value>
+            <Value ID="30015898">CHOCOLATE/SUGAR COMBINATION - TOFFEE</Value>
+            <Value ID="30015899">CHOCOLATE BASED PRALINE</Value>
+            <Value ID="30015900">CHOCOLATE COVERED MARSHMALLOW TREAT</Value>
+            <Value ID="30015901">CHOCOLATE FOAM KISSES</Value>
+            <Value ID="30015902">CHOCOLATE/SUGAR COMBINATION - ENERGY/SPORTS</Value>
+            <Value ID="30015903">CHOCOLATE WITHOUT ADDITIONAL INGREDIENTS</Value>
+            <Value ID="30015904">CHOCOLATE WITH OTHER INGREDIENTS/FILLING</Value>
+            <Value ID="30015905">SPECIALITY</Value>
+            <Value ID="30015906">CHOCOLATE/SUGAR COMBINATION - OTHER COMBINATION</Value>
+            <Value ID="30016984">CHOCOLATE/SUGAR COMBINATION - ALMOND PASTE</Value>
+            <Value ID="30016985">CHOCOLATE/SUGAR COMBINATION - NOUGAT</Value>
+            <Value ID="30016986">CHOCOLATE/SUGAR COMBINATION - COCONUT</Value>
+            <Value ID="30016987">CHOCOLATE/SUGAR COMBINATION - MILK / COCOA CREAM</Value>
+            <Value ID="30016988">CHOCOLATE/SUGAR COMBINATION - FONDANT</Value>
+            <Value ID="30016989">CHOCOLATE/SUGAR COMBINATION - FRUIT JELLY</Value>
+            <Value ID="30016990">CHOCOLATE/SUGAR COMBINATION - HARD CANDY</Value>
+            <Value ID="30016991">CHOCOLATE/SUGAR COMBINATION - SOFT CANDY</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

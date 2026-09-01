@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001210" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Genre</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000779">COUNTRY/FOLK MUSIC</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007069">SCIENCE</Value>
+            <Value ID="30007655">DICTIONARY</Value>
+            <Value ID="30007931">TRAVEL</Value>
+            <Value ID="30008005">JAZZ</Value>
+            <Value ID="30008006">RHYTHM/BLUES</Value>
+            <Value ID="30008007">EDUCATION</Value>
+            <Value ID="30008008">MUSIC COMPILATION</Value>
+            <Value ID="30008009">SPOKEN WORD</Value>
+            <Value ID="30008010">MUSIC</Value>
+            <Value ID="30008011">HORROR</Value>
+            <Value ID="30008012">COMEDY</Value>
+            <Value ID="30008013">THRILLER</Value>
+            <Value ID="30008014">WILDLIFE</Value>
+            <Value ID="30008015">SPORTS</Value>
+            <Value ID="30008016">HEALTH/FITNESS</Value>
+            <Value ID="30010587">HOBBIES/COOKING/CRAFT/DIY</Value>
+            <Value ID="30010588">SCIENCE FICTION</Value>
+            <Value ID="30010589">ROMANCE</Value>
+            <Value ID="30010590">ACTION/ADVENTURE</Value>
+            <Value ID="30010591">DRAMA</Value>
+            <Value ID="30010592">CRIME</Value>
+            <Value ID="30010593">ANIMATION</Value>
+            <Value ID="30010594">BIOGRAPHY/AUTOBIOGRAPHY</Value>
+            <Value ID="30010597">CLASSICAL</Value>
+            <Value ID="30010598">ROCK/POP</Value>
+            <Value ID="30010599">REGGAE</Value>
+            <Value ID="30010600">DANCE/URBAN/HOUSE</Value>
+            <Value ID="30010601">GOSPEL/SOUL</Value>
+            <Value ID="30010602">HIP-HOP/RAP</Value>
+            <Value ID="30010604">LATIN</Value>
+            <Value ID="30017767">ANTHOLOGY</Value>
+            <Value ID="30017768">ART</Value>
+            <Value ID="30017770">COMIC</Value>
+            <Value ID="30017771">COOKBOOK</Value>
+            <Value ID="30017772">DIARY</Value>
+            <Value ID="30017773">ENCYCLOPEDIA</Value>
+            <Value ID="30017774">ENTERTAINMENT</Value>
+            <Value ID="30017775">FANTASY</Value>
+            <Value ID="30017776">GUIDE</Value>
+            <Value ID="30017778">HISTORY</Value>
+            <Value ID="30017779">HUMOUR</Value>
+            <Value ID="30017780">INSTRUCTIONAL</Value>
+            <Value ID="30017781">MATH</Value>
+            <Value ID="30017782">MYSTERY</Value>
+            <Value ID="30017783">POETRY</Value>
+            <Value ID="30017784">PROFESSIONAL PUBLICATION</Value>
+            <Value ID="30017785">RELIGION, SPIRITUALITY AND NEW AGE</Value>
+            <Value ID="30017786">SATIRE</Value>
+            <Value ID="30017787">SELF HELP</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

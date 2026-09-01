@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000968" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Fastening Type</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30001694">NONE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007399">SHOE LACE</Value>
+            <Value ID="30007400">SLIP-ON WITH ELASTIC</Value>
+            <Value ID="30007401">SLIP-ON WITHOUT ELASTIC</Value>
+            <Value ID="30007402">STRAP</Value>
+            <Value ID="30007403">VELCRO</Value>
+            <Value ID="30007404">ZIP</Value>
+            <Value ID="30007500">FRONT-FASTENING</Value>
+            <Value ID="30008078">SELF-ADHESIVE</Value>
+            <Value ID="30008603">BUTTON</Value>
+            <Value ID="30008604">HOOK</Value>
+            <Value ID="30009950">SEAL LOCK</Value>
+            <Value ID="30009951">WIRE TIE</Value>
+            <Value ID="30009953">TIE HANDLE</Value>
+            <Value ID="30009954">LATCH</Value>
+            <Value ID="30010268">MULTIPLE FASTENING</Value>
+            <Value ID="30010316">BUCKLE</Value>
+            <Value ID="30010543">NO FASTENING</Value>
+            <Value ID="30010559">TIE</Value>
+            <Value ID="30010560">MAGNETIC CLASP</Value>
+            <Value ID="30010561">PRESS STUD/POPPER</Value>
+            <Value ID="30017906">TIE CLOSURE</Value>
+            <Value ID="30017907">ZIPPER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

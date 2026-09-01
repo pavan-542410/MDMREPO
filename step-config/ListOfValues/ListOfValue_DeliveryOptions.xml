@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="DeliveryOptions" ParentID="LMDMLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Delivery Options</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value ID="CP">Curbside Pickup</Value>
+            <Value ID="ED">Express Delivery</Value>
+            <Value ID="IS">In-Store Pickup</Value>
+            <Value ID="SD">Standard Delivery</Value>
+            <Value ID="SDD">Same-Day Delivery</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

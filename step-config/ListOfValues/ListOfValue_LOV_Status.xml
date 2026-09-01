@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="LOV_Status" ParentID="List Of Values group root" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Status LOV</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value ID="001">Active</Value>
+            <Value ID="002">In Workflow</Value>
+            <Value ID="003">Cancelled</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

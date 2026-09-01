@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002192" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Knife Sharpener - Non Powered</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011627">STEEL ROD KNIFE SHARPENER</Value>
+            <Value ID="30011628">CERAMIC ROD KNIFE SHARPENER/CROCK STICK</Value>
+            <Value ID="30011629">KNIFE SHARPENING STONE</Value>
+            <Value ID="30011630">SLOT KNIFE SHARPENER WITH REVOLVING WHEELS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

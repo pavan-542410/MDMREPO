@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000506" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Origin of Cigar</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005894">JAMAICA - UNCLASSIFIED</Value>
+            <Value ID="30005904">MEXICO - UNCLASSIFIED</Value>
+            <Value ID="30005907">PANAMA - UNCLASSIFIED</Value>
+            <Value ID="30006207">CANADA - UNCLASSIFIED</Value>
+            <Value ID="30006455">USA - UNCLASSIFIED</Value>
+            <Value ID="30006456">USA - VIRGINIA</Value>
+            <Value ID="30006511">HUNGARY - UNCLASSIFIED</Value>
+            <Value ID="30006548">SPAIN - CANARY ISLANDS</Value>
+            <Value ID="30006559">SPAIN - UNCLASSIFIED</Value>
+            <Value ID="30006573">USA - CALIFORNIA</Value>
+            <Value ID="30006585">CUBA - UNCLASSIFIED</Value>
+            <Value ID="30006645">CAMEROON - UNCLASSIFIED</Value>
+            <Value ID="30006646">DOMINICAN REPUBLIC - UNCLASSIFIED</Value>
+            <Value ID="30006647">ECUADOR - UNCLASSIFIED</Value>
+            <Value ID="30006648">HONDURAS - UNCLASSIFIED</Value>
+            <Value ID="30006649">NICARAGUA - UNCLASSIFIED</Value>
+            <Value ID="30006650">USA - FLORIDA</Value>
+            <Value ID="30006651">USA - NEW JERSEY</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

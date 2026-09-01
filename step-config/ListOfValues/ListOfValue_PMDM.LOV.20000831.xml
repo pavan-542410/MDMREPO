@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000831" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Woodwind Musical Instrument (Powered)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007157">ELECTRIC CLARINET</Value>
+            <Value ID="30007158">ELECTRIC FLUTE</Value>
+            <Value ID="30007159">ELECTRIC OBOE</Value>
+            <Value ID="30010845">ELECTRIC HARMONICA</Value>
+            <Value ID="30010846">ELECTRIC BASSOON</Value>
+            <Value ID="30010847">ELECTRIC PICCOLO</Value>
+            <Value ID="30010848">ELECTRIC PAN PIPES</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

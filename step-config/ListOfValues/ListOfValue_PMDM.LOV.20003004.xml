@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003004" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Category of Pet Food</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30017299">DENTAL CARE FOOD</Value>
+            <Value ID="30017300">COMPLETE PET FOOD</Value>
+            <Value ID="30017301">NUTRITIONAL DIET FOOD</Value>
+            <Value ID="30017302">REARING FEED (LIVESTOCK FARMING)</Value>
+            <Value ID="30017303">OTHER SPECIALISED PET FOOD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

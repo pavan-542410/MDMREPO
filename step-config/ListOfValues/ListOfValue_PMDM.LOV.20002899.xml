@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002899" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Tread Width</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30015919">&lt;lt/&gt;135</Value>
+            <Value ID="30015920">135</Value>
+            <Value ID="30015921">145</Value>
+            <Value ID="30015922">155</Value>
+            <Value ID="30015923">165</Value>
+            <Value ID="30015924">175</Value>
+            <Value ID="30015925">185</Value>
+            <Value ID="30015926">195</Value>
+            <Value ID="30015927">205</Value>
+            <Value ID="30015928">215</Value>
+            <Value ID="30015929">225</Value>
+            <Value ID="30015930">230</Value>
+            <Value ID="30015931">235</Value>
+            <Value ID="30015932">240</Value>
+            <Value ID="30015933">245</Value>
+            <Value ID="30015934">255</Value>
+            <Value ID="30015935">265</Value>
+            <Value ID="30015936">275</Value>
+            <Value ID="30015937">285</Value>
+            <Value ID="30015938">295</Value>
+            <Value ID="30015939">305</Value>
+            <Value ID="30015940">315</Value>
+            <Value ID="30015941">325</Value>
+            <Value ID="30015942">335</Value>
+            <Value ID="30015943">345</Value>
+            <Value ID="30015944">355</Value>
+            <Value ID="30015945">360</Value>
+            <Value ID="30015946">365</Value>
+            <Value ID="30015947">&lt;gt/&gt;365</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

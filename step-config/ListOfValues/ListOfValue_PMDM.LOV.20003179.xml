@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003179" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Alcohol Finishing Cask</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001485">MADEIRA</Value>
+            <Value ID="30001896">PORT</Value>
+            <Value ID="30002073">RUM</Value>
+            <Value ID="30002207">SHERRY</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002607">WHISKY/WHISKEY</Value>
+            <Value ID="30002987">BOURBON</Value>
+            <Value ID="30003013">BRANDY</Value>
+            <Value ID="30011636">BEER</Value>
+            <Value ID="30011641">WINE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002701" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Paper Size</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30014489">A3</Value>
+            <Value ID="30014490">A4</Value>
+            <Value ID="30014491">A5</Value>
+            <Value ID="30015964">A6</Value>
+            <Value ID="30017813">LEGAL SIZE</Value>
+            <Value ID="30017814">LETTER SIZE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

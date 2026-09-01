@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001212" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Transmitter/Receiver Combination of Wireless Television Link</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008021">0 TRANSMITTER/1 RECEIVER</Value>
+            <Value ID="30008022">1 TRANSMITTER/1 RECEIVER</Value>
+            <Value ID="30008023">1 TRANSMITTER/2 RECEIVERS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

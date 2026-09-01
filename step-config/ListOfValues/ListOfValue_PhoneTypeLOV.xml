@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PhoneTypeLOV" ParentID="List Of Values group root" AllowUserValueAddition="false" UseValueID="false">
+            <Name>Phone Type LOV</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>Home</Value>
+            <Value>Mobile</Value>
+            <Value>Work</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

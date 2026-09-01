@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003160" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Clothing Fit</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30018898">ACTIVE FIT</Value>
+            <Value ID="30018899">BAGGY FIT</Value>
+            <Value ID="30018900">LOOSE FIT</Value>
+            <Value ID="30018901">MODERN FIT</Value>
+            <Value ID="30018902">REGULAR FIT</Value>
+            <Value ID="30018903">RELAXED FIT</Value>
+            <Value ID="30018904">SLIM FIT</Value>
+            <Value ID="30018905">TAILORED FIT</Value>
+            <Value ID="30018906">TIGHT FIT</Value>
+            <Value ID="30018907">CURVY FIT</Value>
+            <Value ID="30018908">SKINNY FIT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

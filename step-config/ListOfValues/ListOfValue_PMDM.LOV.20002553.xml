@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002553" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Tape (DIY)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011443">MASKING TAPE</Value>
+            <Value ID="30012856">DUCT TAPE</Value>
+            <Value ID="30012859">DUCK POWER TAPE</Value>
+            <Value ID="30012860">HAZARD TAPE</Value>
+            <Value ID="30014401">ALUMINIUM SEALING TAPE</Value>
+            <Value ID="30016359">INSULATION TAPE</Value>
+            <Value ID="30016360">ADHESIVE STRIP</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

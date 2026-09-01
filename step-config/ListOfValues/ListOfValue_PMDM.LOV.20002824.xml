@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002824" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Application</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30015459">SAFETY</Value>
+            <Value ID="30015460">INFORMATIONAL</Value>
+            <Value ID="30015466">FLOOR STAND</Value>
+            <Value ID="30015467">TABLE STAND</Value>
+            <Value ID="30015468">HANGING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

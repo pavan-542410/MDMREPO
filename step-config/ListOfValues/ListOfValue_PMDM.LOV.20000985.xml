@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000985" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Open/Closed Upper</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007461">CLOSED TOE/OPEN BACK</Value>
+            <Value ID="30007462">CLOSED TOE, CLOSED BACK/OPEN INSTEP</Value>
+            <Value ID="30007464">OPEN TOE/OPEN BACK</Value>
+            <Value ID="30010247">FULLY CLOSED</Value>
+            <Value ID="30010248">CLOSED TOE/STRAP BACK</Value>
+            <Value ID="30010249">OPEN TOE/FULLY CLOSED BACK</Value>
+            <Value ID="30010250">OPEN TOE/STRAP BACK</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

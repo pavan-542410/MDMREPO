@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001690" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Cutlery</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009729">ICE CREAM SCOOP</Value>
+            <Value ID="30012121">BUTTER CURLER</Value>
+            <Value ID="30013050">CHOPSTICK (NON DISPOSABLE)</Value>
+            <Value ID="30013052">CORN HOLDER (NON DISPOSABLE)</Value>
+            <Value ID="30013166">TURKEY LIFTER</Value>
+            <Value ID="30013172">CAKE SERVER</Value>
+            <Value ID="30018314">COFFEE SPOON</Value>
+            <Value ID="30018315">MOCHA SPOON</Value>
+            <Value ID="30018316">SWIZZLE STICK (NON DISPOSABLE)</Value>
+            <Value ID="30018317">TEASPOON INFUSER</Value>
+            <Value ID="30018318">APPETIZER SPOON</Value>
+            <Value ID="30018319">JAM SPOON</Value>
+            <Value ID="30018320">SODA/SUNDAE SPOON</Value>
+            <Value ID="30018321">INDIVIDUAL FLATWARE SET</Value>
+            <Value ID="30018322">ROUND SOUP SPOON</Value>
+            <Value ID="30018323">STEAK KNIFE</Value>
+            <Value ID="30018324">TABLE FORK</Value>
+            <Value ID="30018325">TABLE KNIFE</Value>
+            <Value ID="30018326">TABLE SPOON</Value>
+            <Value ID="30018327">BUTTER SPREADER</Value>
+            <Value ID="30018328">CHEESE SERVICE KNIFE</Value>
+            <Value ID="30018329">FISH SERVING FORK</Value>
+            <Value ID="30018330">FISH SERVING KNIFE</Value>
+            <Value ID="30018331">ICE CUBE SPOON</Value>
+            <Value ID="30018332">PIZZA SPATULA</Value>
+            <Value ID="30018333">PUNCH LADLE</Value>
+            <Value ID="30018334">SALAD SERVING FORK</Value>
+            <Value ID="30018335">SALAD SERVING SET</Value>
+            <Value ID="30018336">SALAD SERVING SPOON</Value>
+            <Value ID="30018337">SAUCE SPOON</Value>
+            <Value ID="30018338">SERVING FORK</Value>
+            <Value ID="30018339">SERVING SET</Value>
+            <Value ID="30018340">SERVING SOUP LADLE</Value>
+            <Value ID="30018341">SERVING SPOON</Value>
+            <Value ID="30018342">SUGAR TONG</Value>
+            <Value ID="30018343">TWO-PRONGED SERVING FORK</Value>
+            <Value ID="30018344">CAVIAR SPOON</Value>
+            <Value ID="30018345">FISH FLATWARE SET</Value>
+            <Value ID="30018346">FISH FORK</Value>
+            <Value ID="30018347">FISH KNIFE</Value>
+            <Value ID="30018348">OYSTER FORK</Value>
+            <Value ID="30018349">LOBSTER FORK</Value>
+            <Value ID="30018350">SNAIL FORK</Value>
+            <Value ID="30018351">SNAIL TONG</Value>
+            <Value ID="30018352">CAKE FORK</Value>
+            <Value ID="30018353">CHEESE FLATWARE SET</Value>
+            <Value ID="30018354">MELON/CITRUS FRUIT SPOON</Value>
+            <Value ID="30018355">DESSERT FLATWARE SET</Value>
+            <Value ID="30018356">DESSERT KNIFE</Value>
+            <Value ID="30018357">DESSERT SPOON</Value>
+            <Value ID="30018358">DESSERT/SALAD FORK</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

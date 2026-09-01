@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001955" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Capacity of Wine Chiller</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30010411">1 (SINGLE CAPACITY)</Value>
+            <Value ID="30010412">2-19 (CAPACITY)</Value>
+            <Value ID="30010413">20-69 (CAPACITY)</Value>
+            <Value ID="30010414">70-119 (CAPACITY)</Value>
+            <Value ID="30010415">120-169 (CAPACITY)</Value>
+            <Value ID="30010416">&lt;gt/&gt;170 (CAPACITY)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

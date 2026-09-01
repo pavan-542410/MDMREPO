@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002970" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Variety of Instant Coffee or Coffee Substitute</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000354">BLACK COFFEE</Value>
+            <Value ID="30000525">CAPPUCCINO</Value>
+            <Value ID="30000948">ESPRESSO</Value>
+            <Value ID="30001400">LATTE</Value>
+            <Value ID="30001613">MOCHA</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002614">WHITE COFFEE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

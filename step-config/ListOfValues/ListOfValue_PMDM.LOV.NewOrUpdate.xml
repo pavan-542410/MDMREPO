@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.NewOrUpdate" ParentID="PMDM.LOVG.SystemLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>External Source Record Handling: New or Update</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="New">New</Value>
+            <Value ID="Update">Update</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

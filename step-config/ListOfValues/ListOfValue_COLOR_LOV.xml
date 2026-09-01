@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="COLOR_LOV" ParentID="HIKARI_LOVS" AllowUserValueAddition="false" UseValueID="false">
+            <Name>Color</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>Black</Value>
+            <Value>Blue</Value>
+            <Value>Green</Value>
+            <Value>Red</Value>
+            <Value>White</Value>
+            <Value>Yellow</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

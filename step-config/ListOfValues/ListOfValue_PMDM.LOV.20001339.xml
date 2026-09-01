@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001339" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Artists Paint/Dye</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008500">ARTISTS ACRYLIC PAINT</Value>
+            <Value ID="30008501">ARTISTS OIL PAINT</Value>
+            <Value ID="30008502">ARTISTS GLASS PAINT</Value>
+            <Value ID="30008503">ARTISTS LIQUID LEADING</Value>
+            <Value ID="30008504">ARTISTS TEMPERA</Value>
+            <Value ID="30008505">ARTISTS WATERCOLOUR PAINT</Value>
+            <Value ID="30017819">ARTISTS COATING PAINT</Value>
+            <Value ID="30017820">ARTISTS EMULSION/LATEX PAINT</Value>
+            <Value ID="30017821">ARTISTS FABRIC PAINT</Value>
+            <Value ID="30017822">ARTISTS FINGERPAINT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

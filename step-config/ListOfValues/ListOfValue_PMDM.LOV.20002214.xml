@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002214" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Disposable Cookware</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011691">ROASTING PAN (DISPOSABLE)</Value>
+            <Value ID="30011693">BAKING TRAY (DISPOSABLE)</Value>
+            <Value ID="30011694">FLAN DISH (DISPOSABLE)</Value>
+            <Value ID="30011702">LOAF PAN (DISPOSABLE)</Value>
+            <Value ID="30011733">BUN TRAY (DISPOSABLE)</Value>
+            <Value ID="30011734">CAKE TIN (DISPOSABLE)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

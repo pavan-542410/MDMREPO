@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001433" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Cycle</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008324">TRICYCLE</Value>
+            <Value ID="30008827">BMX BIKE</Value>
+            <Value ID="30008828">MOUNTAIN BIKE</Value>
+            <Value ID="30008829">RACING BIKE</Value>
+            <Value ID="30008830">TANDEM BIKE</Value>
+            <Value ID="30008831">UNICYCLE</Value>
+            <Value ID="30010887">JUMP BIKE</Value>
+            <Value ID="30010888">CHOPPER BIKE</Value>
+            <Value ID="30010889">FOLDING BIKE</Value>
+            <Value ID="30011107">URBAN BIKE</Value>
+            <Value ID="30011108">HYBRID BIKE</Value>
+            <Value ID="30011109">RECUMBENT BIKE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

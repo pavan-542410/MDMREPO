@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000475" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Non Personal Repellent</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004679">CRAWLING INSECTS</Value>
+            <Value ID="30004680">FLYING INSECTS</Value>
+            <Value ID="30004681">RODENTS</Value>
+            <Value ID="30004684">CATS/DOGS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002846" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Variety of Oranges</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30015548">ARANCE DE MORO</Value>
+            <Value ID="30015549">BLOOD ORANGE / SANGUINA</Value>
+            <Value ID="30015550">HAMLIN</Value>
+            <Value ID="30015551">MACETERA</Value>
+            <Value ID="30015552">NAVEL ORANGE</Value>
+            <Value ID="30015553">PERA</Value>
+            <Value ID="30015554">SALUSTIANA</Value>
+            <Value ID="30015555">SHAMOUTI</Value>
+            <Value ID="30015556">SOUR ORANGE</Value>
+            <Value ID="30015557">VALENCIA (- LATE)</Value>
+            <Value ID="30015558">TOMANGO</Value>
+            <Value ID="30015559">TROVITA</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

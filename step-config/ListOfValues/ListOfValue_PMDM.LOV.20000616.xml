@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000616" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Pet Nutritional Supplement</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005623">PET GRASS SUPPLEMENT</Value>
+            <Value ID="30005673">PET MALT SUPPLEMENT</Value>
+            <Value ID="30005713">PET YEAST SUPPLEMENT</Value>
+            <Value ID="30006994">PET CATNIP</Value>
+            <Value ID="30006995">PET CUTTLEFISH BONE</Value>
+            <Value ID="30007023">PET VITAMINS</Value>
+            <Value ID="30007024">PET MINERALS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

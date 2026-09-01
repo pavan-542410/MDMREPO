@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000384" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Skin Care/Moisturising Product</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005948">MOISTURISER - GENERAL USE</Value>
+            <Value ID="30005949">MOISTURISER - SPECIFIC USE</Value>
+            <Value ID="30005950">WASH OUT MASK - NOURISHING/MOISTURISING</Value>
+            <Value ID="30006675">MILK SUBSTITUTES BASED</Value>
+            <Value ID="30006676">MOISTURISER - SUPERIOR HYDRATION</Value>
+            <Value ID="30006677">MOISTURISER - SKIN REFINEMENT/PORE MANAGEMENT</Value>
+            <Value ID="30006678">MOISTURISER - COLOUR/PIGMENTATION CONTROL</Value>
+            <Value ID="30006704">MOISTURISER - ANTI-AGING</Value>
+            <Value ID="30017270">MOISTURISER - ANTI-CELLULITE</Value>
+            <Value ID="30017850">LIFTING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

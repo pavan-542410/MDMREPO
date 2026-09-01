@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001495" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Sports Marking Equipment</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30009049">LINE MARKING MACHINE</Value>
+            <Value ID="30009050">LINE MARKING PAINT</Value>
+            <Value ID="30009052">MOTOR/BIKE RACING FLAG</Value>
+            <Value ID="30009053">SKI RUN FLAG MARKER</Value>
+            <Value ID="30011068">FIELD MARKING KIT</Value>
+            <Value ID="30011069">FIELD MARKING FLAG</Value>
+            <Value ID="30011070">FIELD MARKING GROUND SOCKET</Value>
+            <Value ID="30011071">FIELD MARKER CONE</Value>
+            <Value ID="30011072">FIELD SIDELINE MARKER</Value>
+            <Value ID="30011073">GOLF RANGE YARDAGE MARKER</Value>
+            <Value ID="30011074">GOLF GREEN CUP</Value>
+            <Value ID="30011075">GOLF HOLE FLAG</Value>
+            <Value ID="30011076">GOLF TEE</Value>
+            <Value ID="30011077">GOLF HOLE CUTTER</Value>
+            <Value ID="30011078">SNOOKER TRIANGLE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

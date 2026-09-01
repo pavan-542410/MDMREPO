@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000814" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Frequency of Publication</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004517">MONTHLY</Value>
+            <Value ID="30005294">WEEKLY</Value>
+            <Value ID="30005730">DAILY</Value>
+            <Value ID="30007074">BIWEEKLY PUBLICATION</Value>
+            <Value ID="30007075">QUARTERLY</Value>
+            <Value ID="30010684">BIENNIAL</Value>
+            <Value ID="30010685">ANNUAL PUBLICATION</Value>
+            <Value ID="30011014">BIMONTHLY</Value>
+            <Value ID="30011015">SEMIANNUAL</Value>
+            <Value ID="30011016">SEMIWEEKLY</Value>
+            <Value ID="30011017">TRIENNIAL</Value>
+            <Value ID="30011018">THREE TIMES A WEEK</Value>
+            <Value ID="30011019">THREE TIMES A MONTH</Value>
+            <Value ID="30011020">CONTINUOUSLY UPDATED</Value>
+            <Value ID="30011021">SEMIMONTHLY</Value>
+            <Value ID="30011022">THREE TIMES A YEAR</Value>
+            <Value ID="30011023">IRREGULAR</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

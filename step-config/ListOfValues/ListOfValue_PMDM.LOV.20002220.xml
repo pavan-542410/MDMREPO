@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002220" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Food/Beverage Warmer/Cooler (Non Powered)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011737">CANDLE BURNER</Value>
+            <Value ID="30011738">INSULATED COVER</Value>
+            <Value ID="30011739">HEAT RETAINING CERAMIC</Value>
+            <Value ID="30018264">COOLING SET</Value>
+            <Value ID="30018265">DOME COVERS</Value>
+            <Value ID="30018266">ISOTHERMAL JUG</Value>
+            <Value ID="30018360">WARMING SET</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

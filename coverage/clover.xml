@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1788284440548" clover="3.2.0">
+  <project timestamp="1788284440548" name="All files">
+    <metrics statements="18" coveredstatements="18" conditionals="6" coveredconditionals="5" methods="2" coveredmethods="2" elements="26" coveredelements="25" complexity="0" loc="18" ncloc="18" packages="1" files="1" classes="1"/>
+    <file name="BusinessRule_BA_CopyHousingColorToHousingMaterial.js" path="C:\Users\PavanKumar\OneDrive - Mastech Digital\Documents\AIPOC\MDMREPO\step-config\BusinessRule\BusinessRule_BA_CopyHousingColorToHousingMaterial.js">
+      <metrics statements="18" coveredstatements="18" conditionals="6" coveredconditionals="5" methods="2" coveredmethods="2"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="44" count="3" type="stmt"/>
+      <line num="47" count="10" type="cond" truecount="1" falsecount="1"/>
+      <line num="48" count="10" type="stmt"/>
+      <line num="52" count="3" type="stmt"/>
+      <line num="53" count="3" type="stmt"/>
+      <line num="55" count="3" type="stmt"/>
+      <line num="57" count="3" type="stmt"/>
+      <line num="58" count="3" type="stmt"/>
+      <line num="60" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="61" count="2" type="stmt"/>
+      <line num="62" count="2" type="stmt"/>
+      <line num="63" count="2" type="stmt"/>
+      <line num="66" count="1" type="stmt"/>
+      <line num="67" count="1" type="stmt"/>
+      <line num="68" count="1" type="stmt"/>
+      <line num="70" count="1" type="stmt"/>
+      <line num="71" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

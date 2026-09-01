@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001627" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Camping Cookware</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009521">CAMPING BILLY CAN</Value>
+            <Value ID="30009522">CAMPING COOKING UTENSILS</Value>
+            <Value ID="30009523">CAMPING FRYING PAN</Value>
+            <Value ID="30009524">CAMPING KETTLE</Value>
+            <Value ID="30009525">CAMPING POT</Value>
+            <Value ID="30010639">CAMPING COOKWARE SET</Value>
+            <Value ID="30014864">CAULDRON</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

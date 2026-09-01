@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.TypeOfSupplier" ParentID="PMDM.LOVG.SystemLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type Of Supplier</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="CP">Content Provider</Value>
+            <Value ID="DI">Distributor</Value>
+            <Value ID="GDSN">GDSN</Value>
+            <Value ID="MF">Manufacturer</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

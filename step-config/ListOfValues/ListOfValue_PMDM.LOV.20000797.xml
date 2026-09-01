@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000797" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Pet Toy - Non Powered</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30006977">PET ACTIVITY CENTRE</Value>
+            <Value ID="30006978">PET BALL</Value>
+            <Value ID="30006979">PET FRISBEE</Value>
+            <Value ID="30006980">PET MECHANICAL TOY</Value>
+            <Value ID="30006981">PET MIRROR</Value>
+            <Value ID="30006982">PET RATTLE</Value>
+            <Value ID="30006983">PET ROPE</Value>
+            <Value ID="30006984">PET RUBBER RING</Value>
+            <Value ID="30006985">PET RUNNING WHEEL</Value>
+            <Value ID="30006986">PET SOFT TOY</Value>
+            <Value ID="30006987">PET SYNTHETIC CHEW</Value>
+            <Value ID="30006988">PET TUNNELLING SYSTEM</Value>
+            <Value ID="30006989">PET RUN ABOUT BALL</Value>
+            <Value ID="30012304">PET SCRATCH POST/SURFACE</Value>
+            <Value ID="30017294">PET KNOTS</Value>
+            <Value ID="30017295">PET SQUEEZE TOYS</Value>
+            <Value ID="30017296">PET TREAT DISPENSER (NON POWERED)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

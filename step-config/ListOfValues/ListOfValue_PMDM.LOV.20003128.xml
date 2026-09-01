@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003128" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Tableware Accessory Other</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011959">KNIFE REST</Value>
+            <Value ID="30018306">CRUMB SWEEPER</Value>
+            <Value ID="30018307">JAM JAR</Value>
+            <Value ID="30018308">MUSTARD JAR</Value>
+            <Value ID="30018309">OIL AND VINEGAR CRUET</Value>
+            <Value ID="30018310">OIL SPRAYER</Value>
+            <Value ID="30018311">PICKLE JAR</Value>
+            <Value ID="30018312">PLACE CARD</Value>
+            <Value ID="30018313">SYRUP/HONEY BOTTLE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

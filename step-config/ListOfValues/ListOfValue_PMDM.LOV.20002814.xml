@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002814" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Shell Egg Size</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30015418">SIZE 1</Value>
+            <Value ID="30015419">SIZE 2</Value>
+            <Value ID="30015420">SIZE 3</Value>
+            <Value ID="30015421">SIZE 4</Value>
+            <Value ID="30015422">SIZE 5</Value>
+            <Value ID="30015423">SIZE 6</Value>
+            <Value ID="30015424">SIZE 7</Value>
+            <Value ID="30015425">UNSIZED</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

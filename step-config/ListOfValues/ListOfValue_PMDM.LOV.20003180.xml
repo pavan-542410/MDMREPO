@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003180" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Alcohol Primary Maturation Material</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010365">STAINLESS STEEL</Value>
+            <Value ID="30018979">REPURPOSED AMERICAN WHITE OAK (QUERCUS ALBA) - (BOURBON)</Value>
+            <Value ID="30018980">AMERICAN WHITE OAK (QUERCUS ALBA)</Value>
+            <Value ID="30018981">FRENCH OAK (QUERCUS ROBUR &amp; PETRAEA)</Value>
+            <Value ID="30018982">OAK- UNCLASSIFIED</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

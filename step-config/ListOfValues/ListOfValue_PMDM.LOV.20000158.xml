@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000158" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Savoury Pie/Pastry/Pizza or Quiche</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000405">BOUCHEE - SAVOURY FILLING</Value>
+            <Value ID="30001829">PIE - SAVOURY FILLING</Value>
+            <Value ID="30001875">PIZZA</Value>
+            <Value ID="30001952">QUICHE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002796">PASTRY - SAVOURY FILLING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

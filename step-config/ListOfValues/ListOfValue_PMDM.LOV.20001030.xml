@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001030" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Computer Power Supplies</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007600">AT/DESK</Value>
+            <Value ID="30007601">AT/TOWER</Value>
+            <Value ID="30007602">ATX</Value>
+            <Value ID="30007603">BABY AT</Value>
+            <Value ID="30007604">LPX</Value>
+            <Value ID="30007605">NLX</Value>
+            <Value ID="30007606">PC/XT</Value>
+            <Value ID="30007607">SFX</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001679" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Food Thermometer</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009656">DIGITAL FOOD THERMOMETER</Value>
+            <Value ID="30009657">MANUAL DIAL FOOD THERMOMETER</Value>
+            <Value ID="30011735">POP-UP FOOD THERMOMETER</Value>
+            <Value ID="30011736">DISPOSABLE TEMPERATURE INDICATOR</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

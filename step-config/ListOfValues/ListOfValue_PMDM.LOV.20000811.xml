@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000811" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Subject of Greeting Card/Invitation</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010532">WEDDING</Value>
+            <Value ID="30013062">EXAMINATION RESULTS</Value>
+            <Value ID="30013063">NEW JOB</Value>
+            <Value ID="30013064">FRIENDSHIP</Value>
+            <Value ID="30013066">GET WELL</Value>
+            <Value ID="30013067">FAREWELL/GOODBYE</Value>
+            <Value ID="30013068">BAPTISM</Value>
+            <Value ID="30013069">PARTY</Value>
+            <Value ID="30013071">WEDDING ANNIVERSARY</Value>
+            <Value ID="30013072">BIRTHDAY</Value>
+            <Value ID="30013073">NEW HOME</Value>
+            <Value ID="30013075">SOMEONE SPECIAL</Value>
+            <Value ID="30013076">SYMPATHY</Value>
+            <Value ID="30013077">THINKING OF YOU</Value>
+            <Value ID="30013078">THANK YOU</Value>
+            <Value ID="30013079">LEAVING</Value>
+            <Value ID="30013080">RETIREMENT</Value>
+            <Value ID="30013081">BABY BIRTH</Value>
+            <Value ID="30013082">CULTURAL/RELIGIOUS CELEBRATION</Value>
+            <Value ID="30013083">BETROTHAL/ENGAGEMENT</Value>
+            <Value ID="30013084">MOTHERS DAY</Value>
+            <Value ID="30013085">FATHERS DAY</Value>
+            <Value ID="30013086">NEW YEAR</Value>
+            <Value ID="30013087">CONGRATULATIONS - NON SPECIFIC</Value>
+            <Value ID="30013088">GOOD LUCK - NON SPECIFIC</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

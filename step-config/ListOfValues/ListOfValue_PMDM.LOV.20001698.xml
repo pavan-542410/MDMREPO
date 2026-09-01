@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001698" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Corer/Peeler</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009727">APPLE CORER</Value>
+            <Value ID="30009728">FRUIT/VEGETABLE PEELER</Value>
+            <Value ID="30013042">STRAWBERRY HULLER</Value>
+            <Value ID="30013043">CHERRY/OLIVE PITTER/STONER</Value>
+            <Value ID="30013044">COMBINATION CORER/PEELER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

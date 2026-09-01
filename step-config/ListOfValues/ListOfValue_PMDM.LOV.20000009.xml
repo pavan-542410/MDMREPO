@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000009" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Aquatic Plant</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000148">AGAR</Value>
+            <Value ID="30000538">CARRAGEEN MOSS</Value>
+            <Value ID="30000914">DULSE</Value>
+            <Value ID="30001368">KOMBU</Value>
+            <Value ID="30001402">LAVER</Value>
+            <Value ID="30001567">MEKABU</Value>
+            <Value ID="30001697">NORI</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002580">WAKAME</Value>
+            <Value ID="30002808">WATERCRESS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

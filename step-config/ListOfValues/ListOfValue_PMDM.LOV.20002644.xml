@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002644" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Audio Visual Bag/Case/Wallet</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30013404">CD/DVD WALLET</Value>
+            <Value ID="30013405">CD/DVD BAG/CASE</Value>
+            <Value ID="30013406">UNIVERSAL AUDIO VISUAL EQUIPMENT BAG</Value>
+            <Value ID="30013513">MEMORY CARD BOX/CASE</Value>
+            <Value ID="30013514">USB STICK BAG</Value>
+            <Value ID="30014474">MP3/IPOD BAG</Value>
+            <Value ID="30014500">CD/DVD ALBUM BOX</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001493" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Sports Goal/Net Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009040">CRICKET CAGE WHEEL</Value>
+            <Value ID="30009041">GOAL NET ANCHOR</Value>
+            <Value ID="30009042">GOAL NET TIE</Value>
+            <Value ID="30009043">GOAL NET PEG</Value>
+            <Value ID="30009044">GOAL POST PROTECTOR PAD</Value>
+            <Value ID="30011058">NETBALL POST SOCKET</Value>
+            <Value ID="30011059">BASKETBALL POST SOCKET</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

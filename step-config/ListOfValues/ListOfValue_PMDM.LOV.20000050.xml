@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000050" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Dessert Sauce/Topping/Filling</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000651">CHOCOLATE BASED</Value>
+            <Value ID="30000855">DAIRY BASED</Value>
+            <Value ID="30001062">FRUIT BASED</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003319">SPIRIT BASED</Value>
+            <Value ID="30003320">WINE BASED</Value>
+            <Value ID="30003620">COFFEE BASED</Value>
+            <Value ID="30003621">LIQUEUR BASED</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

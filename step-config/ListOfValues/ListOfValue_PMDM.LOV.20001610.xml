@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001610" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Tent Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009465">TENT GUY ROPE</Value>
+            <Value ID="30009467">TENT MALLET</Value>
+            <Value ID="30009468">TENT MOSQUITO NET</Value>
+            <Value ID="30009469">TENT PEG</Value>
+            <Value ID="30009470">TENT PEG EXTRACTOR</Value>
+            <Value ID="30009471">TENT POLE</Value>
+            <Value ID="30010551">TENT BUCKLE</Value>
+            <Value ID="30010552">TENT CLIP</Value>
+            <Value ID="30010553">TENT HOOK</Value>
+            <Value ID="30010554">TENT SHOCKCORD</Value>
+            <Value ID="30010555">TENT SKEWER/STAKE</Value>
+            <Value ID="30010564">TENT GROUNDSHEETS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

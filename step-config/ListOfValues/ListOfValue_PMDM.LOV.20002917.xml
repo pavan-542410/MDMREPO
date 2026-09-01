@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002917" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Kale</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000710">COLLARD</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30016227">PORTUGUESE KALE</Value>
+            <Value ID="30016228">SIBERIAN KALE</Value>
+            <Value ID="30016229">COMMON KALE</Value>
+            <Value ID="30016230">PERENNIAL KALE</Value>
+            <Value ID="30016954">BORECOLE</Value>
+            <Value ID="30016955">CAVOLO NERO (TUSCAN)</Value>
+            <Value ID="30016956">CURLY KALE</Value>
+            <Value ID="30016957">RAPE KALE</Value>
+            <Value ID="30017007">FLOWER SPROUTS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

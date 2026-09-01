@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.ERPLine" ParentID="PMDM.LOVG.ProductAttributeLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>ERP Product Category</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="ERP_Cat_1">ERP Category 1</Value>
+            <Value ID="ERP_Cat_2">ERP Category 2</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

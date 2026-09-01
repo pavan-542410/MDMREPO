@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000975" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Replacement Part</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010730">REPLACEMENT ANTENNA/AERIAL</Value>
+            <Value ID="30010731">REPLACEMENT KEYPAD</Value>
+            <Value ID="30010732">REPLACEMENT LCD DISPLAY</Value>
+            <Value ID="30010733">REPLACEMENT INTERNAL RIBBON CABLE</Value>
+            <Value ID="30010734">REPLACEMENT MOBILE PHONE SPEAKER</Value>
+            <Value ID="30010735">REPLACEMENT BATTERY COVER</Value>
+            <Value ID="30010763">REPLACEMENT ADAPTOR/CABLE</Value>
+            <Value ID="30010764">REPLACEMENT POWER SUPPLY UNIT</Value>
+            <Value ID="30010765">REPLACEMENT RESET/EJECT RIBBON</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

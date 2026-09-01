@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001664" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Household Kitchen Storage Rack/Stand/Holder/Dispenser</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009610">MULTIPURPOSE RACK</Value>
+            <Value ID="30009611">CUTLERY RACK</Value>
+            <Value ID="30009612">EGG HOLDER</Value>
+            <Value ID="30009613">KNIFE BLOCK</Value>
+            <Value ID="30009614">MUG HOLDER</Value>
+            <Value ID="30009615">POT RACK</Value>
+            <Value ID="30009616">SPICE RACK</Value>
+            <Value ID="30009617">UTENSIL STORAGE POT</Value>
+            <Value ID="30009618">UTENSIL RACK</Value>
+            <Value ID="30009619">WINE RACK</Value>
+            <Value ID="30010267">FOOD WRAP DISPENSER</Value>
+            <Value ID="30010822">KITCHEN WIPE HOLDER/DISPENSER</Value>
+            <Value ID="30010823">PAPER SERVIETTE HOLDER/DISPENSER</Value>
+            <Value ID="30011960">SPOON REST</Value>
+            <Value ID="30018060">LID HOLDER</Value>
+            <Value ID="30018061">SINGLE HOOK FOR UTENSILS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

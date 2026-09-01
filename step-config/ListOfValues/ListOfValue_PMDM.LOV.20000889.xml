@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000889" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Postal Packaging/Wrap</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007180">TISSUE PACKING PAPER</Value>
+            <Value ID="30007181">CORRUGATED PAPER</Value>
+            <Value ID="30011294">BUBBLE WRAP</Value>
+            <Value ID="30011295">PALLET STRETCH FILM</Value>
+            <Value ID="30017806">KRAFT PAPER</Value>
+            <Value ID="30017807">PACKAGING PAPER</Value>
+            <Value ID="30017808">MILLBOARD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

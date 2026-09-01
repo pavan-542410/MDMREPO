@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001474" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Gun Action</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008942">BOLT ACTION</Value>
+            <Value ID="30008943">DOUBLE ACTION REVOLVER</Value>
+            <Value ID="30008944">HINGE ACTION</Value>
+            <Value ID="30008945">SEMI-AUTOMATIC</Value>
+            <Value ID="30008946">SINGLE ACTION REVOLVER</Value>
+            <Value ID="30008947">LEVER ACTION</Value>
+            <Value ID="30008948">PUMP ACTION</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

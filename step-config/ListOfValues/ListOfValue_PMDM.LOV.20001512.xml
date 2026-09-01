@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001512" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Fishing Hook</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009148">BAIT HOOK</Value>
+            <Value ID="30009149">CRYSTAL HOOK</Value>
+            <Value ID="30009150">JIG HOOK</Value>
+            <Value ID="30009151">LIMERICK HOOK</Value>
+            <Value ID="30009152">LURE HOOK</Value>
+            <Value ID="30009153">ROUND HOOK</Value>
+            <Value ID="30009154">TREBLE HOOK</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

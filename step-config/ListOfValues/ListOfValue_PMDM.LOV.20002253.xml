@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002253" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Saw - Non Powered</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010183">BOW SAW</Value>
+            <Value ID="30011800">COPING/FRET SAW</Value>
+            <Value ID="30011801">HACK SAW</Value>
+            <Value ID="30011802">MINI SAW</Value>
+            <Value ID="30011804">TENON SAW</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

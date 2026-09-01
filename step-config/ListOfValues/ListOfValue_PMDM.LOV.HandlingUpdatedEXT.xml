@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.HandlingUpdatedEXT" ParentID="PMDM.LOVG.SystemLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Handling of Updated External Source Records</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="Auto1">Automatic approval of updated Source Records</Value>
+            <Value ID="Manual">Manual approval of updated Source Records</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

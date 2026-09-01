@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002637" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Video Receiving/Installation Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30013363">LNB ADAPTOR</Value>
+            <Value ID="30013364">LNB HOLDER</Value>
+            <Value ID="30013365">MAST CAP</Value>
+            <Value ID="30013366">MAST CLAMP</Value>
+            <Value ID="30013367">MAST SEAL</Value>
+            <Value ID="30013368">MAST SLEEVE</Value>
+            <Value ID="30013369">MAST ROOF TILE FIXING</Value>
+            <Value ID="30013370">SATELLITE MANIFOLD</Value>
+            <Value ID="30013371">SATELLITE EQUALISER</Value>
+            <Value ID="30013373">SATELLITE FINDER</Value>
+            <Value ID="30013374">SATELLITE TESTER</Value>
+            <Value ID="30013375">SHEATH CURRENT FILTER</Value>
+            <Value ID="30013541">SATELLITE CONNECTION BOX</Value>
+            <Value ID="30013542">SATELLITE DISEQC SWITCHER</Value>
+            <Value ID="30013543">SATELLITE SWITCHER</Value>
+            <Value ID="30013544">DISTANCE RING</Value>
+            <Value ID="30013545">DOWER</Value>
+            <Value ID="30013546">PROTECTION SPOUT</Value>
+            <Value ID="30013547">SEALING TAP</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

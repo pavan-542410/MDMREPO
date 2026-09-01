@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.ManufacturerWarranty" ParentID="PMDM.LOVG.ProductAttributeLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Manufacturer Warranty</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="10Y">10 Years</Value>
+            <Value ID="15Y">15 Years</Value>
+            <Value ID="1Y">1 Year</Value>
+            <Value ID="20Y">20 Years</Value>
+            <Value ID="2Y">2 Years</Value>
+            <Value ID="5Y">5 Years</Value>
+            <Value ID="Optional">Optional</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

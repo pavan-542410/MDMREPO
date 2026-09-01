@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000168" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Stage of Baby/Infant Food/Drink</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000114">0-3 MONTHS</Value>
+            <Value ID="30000119">12 MONTHS/ONWARDS</Value>
+            <Value ID="30000127">3-6 MONTHS</Value>
+            <Value ID="30000135">6-12 MONTHS</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30006667">CHILD 2 YEARS ONWARDS</Value>
+            <Value ID="30019087">0 MONTHS/ONWARDS</Value>
+            <Value ID="30019088">3 MONTHS/ONWARDS</Value>
+            <Value ID="30019089">6 MONTHS/ONWARDS</Value>
+            <Value ID="30019090">CHILD 3 YEARS ONWARDS</Value>
+            <Value ID="30019091">CHILD 4 YEARS ONWARDS</Value>
+            <Value ID="30019092">1 MONTHS/ONWARDS</Value>
+            <Value ID="30019093">2 MONTHS/ONWARDS</Value>
+            <Value ID="30019094">4 MONTHS/ONWARDS</Value>
+            <Value ID="30019095">5 MONTHS/ONWARDS</Value>
+            <Value ID="30019096">7 MONTHS/ONWARDS</Value>
+            <Value ID="30019097">8 MONTHS/ONWARDS</Value>
+            <Value ID="30019098">9 MONTHS/ONWARDS</Value>
+            <Value ID="30019099">10 MONTHS/ONWARDS</Value>
+            <Value ID="30019100">11 MONTHS/ONWARDS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

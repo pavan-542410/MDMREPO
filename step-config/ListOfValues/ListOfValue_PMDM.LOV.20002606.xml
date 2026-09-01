@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002606" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>System Hardware</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30013241">DREAMCAST</Value>
+            <Value ID="30013248">NINTENDO 64 (N64)</Value>
+            <Value ID="30013250">PLAYSTATION 2 (PS2)</Value>
+            <Value ID="30013252">PLAYSTATION PSX/PSONE</Value>
+            <Value ID="30013253">PLAYSTATION 3 (PS3)</Value>
+            <Value ID="30013254">NINTENDO WII</Value>
+            <Value ID="30013255">XBOX CLASSIC</Value>
+            <Value ID="30013256">XBOX 360</Value>
+            <Value ID="30013257">XBOX ELITE</Value>
+            <Value ID="30013258">GAMECUBE</Value>
+            <Value ID="30013288">NINTENDO DS</Value>
+            <Value ID="30013289">NINTENDO DS LITE</Value>
+            <Value ID="30013290">GAME BOY MICRO</Value>
+            <Value ID="30013291">GAME BOY ADVANCE CLASSIC</Value>
+            <Value ID="30013292">GAME BOY ADVANCE SP</Value>
+            <Value ID="30013293">GAMEPARK 32 (GP32)</Value>
+            <Value ID="30013294">POKEMON MINI</Value>
+            <Value ID="30013295">PLAYSTATION PORTABLE (PSP)</Value>
+            <Value ID="30016337">PLAYSTATION 4</Value>
+            <Value ID="30016338">PLAYSTATION VITA</Value>
+            <Value ID="30016339">NINTENDO WII U</Value>
+            <Value ID="30016340">NINTENDO 3DS</Value>
+            <Value ID="30016341">XBOX ONE</Value>
+            <Value ID="30016342">OUYA</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

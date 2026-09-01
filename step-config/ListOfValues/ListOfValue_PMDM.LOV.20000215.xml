@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000215" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Flavour of Tobacco Products/Smoking Accessories</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000184">ANISEED</Value>
+            <Value ID="30001268">HONEY</Value>
+            <Value ID="30001450">LIQUORICE FLAVOUR</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002531">VANILLA</Value>
+            <Value ID="30002608">WHISKY FLAVOUR</Value>
+            <Value ID="30014440">PORT FLAVOUR</Value>
+            <Value ID="30014442">RUM FLAVOUR</Value>
+            <Value ID="30014838">MENTHOL FLAVOUR</Value>
+            <Value ID="30014839">APPLE FLAVOUR</Value>
+            <Value ID="30014840">BERRIES/FRUITS FLAVOUR</Value>
+            <Value ID="30014841">COFFEE FLAVOUR</Value>
+            <Value ID="30014842">CHERRY/RUM FLAVOUR</Value>
+            <Value ID="30014843">COFFEE/WHISKY FLAVOUR</Value>
+            <Value ID="30016246">UNFLAVOURED</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

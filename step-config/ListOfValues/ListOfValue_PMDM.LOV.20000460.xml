@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000460" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Cleaning/Care Aid</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002314">SPONGE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004898">TOILET CLEANING BRUSH</Value>
+            <Value ID="30004899">TOILET CLEANING BRUSH/HOLDER</Value>
+            <Value ID="30004932">BROOM</Value>
+            <Value ID="30004934">BRUSH/DUSTPAN SET</Value>
+            <Value ID="30004935">CARPET BEATER</Value>
+            <Value ID="30004936">CHAMOIS LEATHER</Value>
+            <Value ID="30004937">CLEANING PAD</Value>
+            <Value ID="30004938">CLEANING CLOTH</Value>
+            <Value ID="30004939">DRAIN PLUNGER</Value>
+            <Value ID="30004940">FEATHER DUSTER</Value>
+            <Value ID="30004941">MOP</Value>
+            <Value ID="30004942">MOP/BUCKET SET</Value>
+            <Value ID="30004943">REPLACEMENT BROOM HANDLE</Value>
+            <Value ID="30004944">REPLACEMENT BROOM HEAD</Value>
+            <Value ID="30004945">REPLACEMENT MOP HANDLE</Value>
+            <Value ID="30004946">REPLACEMENT MOP HEAD</Value>
+            <Value ID="30004949">SQUEEGEE</Value>
+            <Value ID="30004951">DUSTPAN</Value>
+            <Value ID="30005383">BOTTLE BRUSH</Value>
+            <Value ID="30006851">WINDOW WIPE</Value>
+            <Value ID="30006852">SCRUBBING SPONGE</Value>
+            <Value ID="30007434">BRUSH</Value>
+            <Value ID="30009602">IRONING BOARD (NON POWERED)</Value>
+            <Value ID="30010607">READY TO USE WET SYSTEM</Value>
+            <Value ID="30010608">READY TO USE DRY SYSTEM</Value>
+            <Value ID="30011779">LINT BRUSH</Value>
+            <Value ID="30011780">LINT ROLLER</Value>
+            <Value ID="30012303">AIR DUSTER</Value>
+            <Value ID="30013108">FABRIC/CLOTH DUSTER</Value>
+            <Value ID="30013109">SCOURING PAD</Value>
+            <Value ID="30013110">SOAP FILLED PAD</Value>
+            <Value ID="30015603">SCRAPER</Value>
+            <Value ID="30017239">SWEEP SHAVINGS/SWEEPING COMPOUND</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

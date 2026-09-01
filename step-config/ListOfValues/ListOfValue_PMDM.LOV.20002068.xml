@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002068" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Percussion Musical Instrument Accessory (Non Powered)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011148">DRUM PEDAL</Value>
+            <Value ID="30011149">DRUM STICK</Value>
+            <Value ID="30011150">DRUM HEAD</Value>
+            <Value ID="30011151">DRUM KEY</Value>
+            <Value ID="30011152">DRUM SOUND SHIELD</Value>
+            <Value ID="30011153">DRUM PRACTICE PAD/MUFFLER</Value>
+            <Value ID="30011154">PERCUSSION WIRE BRUSH</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000657" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Firelighting Tools/Matches</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001431">LIGHTER</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30006077">SAFETY MATCHES</Value>
+            <Value ID="30006664">NON SAFETY MATCHES</Value>
+            <Value ID="30017219">POCKET LIGHTER</Value>
+            <Value ID="30017220">CIGAR LIGHTER</Value>
+            <Value ID="30017221">PIPE LIGHTER</Value>
+            <Value ID="30017222">ROD/UTILITY LIGHTER</Value>
+            <Value ID="30017223">TABLE LIGHTER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

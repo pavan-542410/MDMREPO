@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001454" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Skateboarding Replacement Part/Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008268">SKATEBOARDING RAMP</Value>
+            <Value ID="30008888">SKATEBOARDING GRINDING RAIL</Value>
+            <Value ID="30008889">SKATEBOARD WHEEL</Value>
+            <Value ID="30010922">SKATEBOARD DECK</Value>
+            <Value ID="30011265">SKATEBOARD TRUCK</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

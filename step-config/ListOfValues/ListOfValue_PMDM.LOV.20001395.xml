@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001395" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Spinning/Weaving Craft Replacement Part/Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005193">WEAVING NEEDLE</Value>
+            <Value ID="30008721">WEAVING COMB</Value>
+            <Value ID="30008722">LOOM BENCH</Value>
+            <Value ID="30008723">LOOM STAND</Value>
+            <Value ID="30008725">SHUTTLE</Value>
+            <Value ID="30008726">WARP BEAM</Value>
+            <Value ID="30008727">WEAVING PATTERN</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

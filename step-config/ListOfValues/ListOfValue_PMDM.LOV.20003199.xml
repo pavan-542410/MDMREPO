@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003199" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of ATV/UTV Equipment</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30019117">ATV/UTV - PLOWS</Value>
+            <Value ID="30019118">ATV/UTV - CULTIVATORS</Value>
+            <Value ID="30019119">ATV/UTV - RAKES</Value>
+            <Value ID="30019120">ATV/UTV - HARROWS</Value>
+            <Value ID="30019121">ATV/UTV - TRAILERS</Value>
+            <Value ID="30019122">ATV/UTV - HAULERS</Value>
+            <Value ID="30019123">ATV/UTV - CHIPPERS</Value>
+            <Value ID="30019124">ATV/UTV - SKID PLATES</Value>
+            <Value ID="30019125">ATV/UTV - OTHER EQUIPMENT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

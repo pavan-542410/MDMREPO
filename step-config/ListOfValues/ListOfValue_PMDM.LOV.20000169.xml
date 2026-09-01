@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000169" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Strength of Tobacco</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000959">EXTRA LIGHT/EXTRA MILD</Value>
+            <Value ID="30001430">LIGHT/MILD</Value>
+            <Value ID="30001562">MEDIUM</Value>
+            <Value ID="30001998">REGULAR</Value>
+            <Value ID="30002511">ULTRA LIGHT/ULTRA MILD</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002964">SUPER LIGHT/SUPER MILD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

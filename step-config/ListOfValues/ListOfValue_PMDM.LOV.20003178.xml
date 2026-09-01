@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003178" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Maturation Cask Shape</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30018960">AMERICAN STANDARD BARREL (ASB)</Value>
+            <Value ID="30018961">BARRACOON/BARRACK</Value>
+            <Value ID="30018962">BARRIQUE (BORDEAUX)</Value>
+            <Value ID="30018963">BARRIQUE (COGNAC)</Value>
+            <Value ID="30018964">BLOOD TUB</Value>
+            <Value ID="30018965">BRITISH BREWERY BARREL</Value>
+            <Value ID="30018966">ENGLISH TUN</Value>
+            <Value ID="30018967">FIRKIN</Value>
+            <Value ID="30018968">HOGSHEAD</Value>
+            <Value ID="30018969">KILDERKIN</Value>
+            <Value ID="30018970">MACHINE PUNCHEON</Value>
+            <Value ID="30018971">MADEIRA DRUM</Value>
+            <Value ID="30018972">MINIPIN</Value>
+            <Value ID="30018973">PORT PIPE</Value>
+            <Value ID="30018974">QUARTER CASK</Value>
+            <Value ID="30018975">SHERRY BUTT</Value>
+            <Value ID="30018976">SHERRY SHAPE PUNCHEON</Value>
+            <Value ID="30018977">GORDA</Value>
+            <Value ID="30018978">PIN (CASK)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

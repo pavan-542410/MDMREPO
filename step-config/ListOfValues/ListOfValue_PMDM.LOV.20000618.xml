@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000618" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Pet Parasite Treatment</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005413">FISH FIN PARASITE TREATMENT</Value>
+            <Value ID="30005538">PET FLEE/TICK TREATMENT</Value>
+            <Value ID="30005624">PET WORMS TREATMENT</Value>
+            <Value ID="30006996">PET ANTI-BACTERIA TREATMENT</Value>
+            <Value ID="30006997">PET ANTI-FUNGUS TREATMENT</Value>
+            <Value ID="30006998">PET FLEA COLLAR</Value>
+            <Value ID="30006999">PET FLEA COMB</Value>
+            <Value ID="30007000">PET FLEA SHAMPOO</Value>
+            <Value ID="30007001">PET INSECT REPELLENT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

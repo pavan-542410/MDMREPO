@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002190" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Camping Water Purification Treatment</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011621">CHLORINE TABLETS</Value>
+            <Value ID="30011622">IODINE DROPLETS</Value>
+            <Value ID="30011623">IODINE TABLETS</Value>
+            <Value ID="30011624">NEUTRALISING TABLETS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

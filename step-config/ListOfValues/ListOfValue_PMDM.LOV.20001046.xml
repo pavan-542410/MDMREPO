@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001046" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Computer Non Games Software</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007624">ACCOUNTING</Value>
+            <Value ID="30007625">ADDRESS MANAGEMENT</Value>
+            <Value ID="30007626">BACK UP</Value>
+            <Value ID="30007627">BUSINESS GRAPHIC</Value>
+            <Value ID="30007628">CAD</Value>
+            <Value ID="30007629">CD-WRITING</Value>
+            <Value ID="30007630">CLIP ART</Value>
+            <Value ID="30007631">COMMUNICATION FILE CONVERSATION</Value>
+            <Value ID="30007632">DATABASE</Value>
+            <Value ID="30007633">DEVELOPMENT SOFTWARE</Value>
+            <Value ID="30007634">DTP</Value>
+            <Value ID="30007636">GROUPWARE</Value>
+            <Value ID="30007637">HTML EDITORS</Value>
+            <Value ID="30007638">INTEGRATED PACKAGES</Value>
+            <Value ID="30007639">INTERNET BROWSER</Value>
+            <Value ID="30007640">NETWORK OPERATING SYSTEM</Value>
+            <Value ID="30007641">OFFICE SUITES (PC PACKAGES)</Value>
+            <Value ID="30007642">OPERATING SYSTEM</Value>
+            <Value ID="30007643">ORGANIZER</Value>
+            <Value ID="30007644">PARTITION SOFTWARE</Value>
+            <Value ID="30007645">PRINTER UTILITIES</Value>
+            <Value ID="30007646">PROGRAMMING LANGUAGE</Value>
+            <Value ID="30007647">REFERENCE</Value>
+            <Value ID="30007648">SCREEN SAVERS</Value>
+            <Value ID="30007649">SECURITY (ANTI-VIRUS, FIREWALL, NETWORK SECURITY)</Value>
+            <Value ID="30007650">SPEECH RECOGNITION</Value>
+            <Value ID="30007651">SPREAD SHEET</Value>
+            <Value ID="30007652">UNINSTALLERS</Value>
+            <Value ID="30007653">UTILITIES SUITES</Value>
+            <Value ID="30007654">WORD PROCESSING</Value>
+            <Value ID="30008007">EDUCATION</Value>
+            <Value ID="30008010">MUSIC</Value>
+            <Value ID="30013388">IMAGE/VIDEO EDITING</Value>
+            <Value ID="30014477">FINANCE/HOMEBANKING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

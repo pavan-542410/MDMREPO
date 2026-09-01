@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001500" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Sports Mat/Carpet</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008473">DANCE MAT</Value>
+            <Value ID="30009075">BOWLING MAT</Value>
+            <Value ID="30009076">DARTS MAT</Value>
+            <Value ID="30009077">GYM MAT</Value>
+            <Value ID="30009078">INDOOR CRICKET SURFACE</Value>
+            <Value ID="30009080">OUTDOOR CRICKET SURFACE</Value>
+            <Value ID="30009081">RUNWAY MAT</Value>
+            <Value ID="30009082">CRASH MAT SAFETY MATTRESS</Value>
+            <Value ID="30009083">YOGA MAT</Value>
+            <Value ID="30011084">GOLF PRACTICE MAT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

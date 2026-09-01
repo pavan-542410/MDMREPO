@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001784" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Footwear Consumer Lifestage</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000147">ADULT</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007396">AGE &lt;gt/&gt;2-4Y</Value>
+            <Value ID="30007397">AGE &lt;gt/&gt;7-12Y</Value>
+            <Value ID="30007398">AGE &lt;gt/&gt;4-7Y</Value>
+            <Value ID="30010276">AGE &lt;lt/&gt;=2Y</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

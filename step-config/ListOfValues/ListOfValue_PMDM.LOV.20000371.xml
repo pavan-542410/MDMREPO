@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000371" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Cosmetic Aids/Accessories</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004240">BRUSH CLEANER</Value>
+            <Value ID="30004300">COSMETIC MIRROR</Value>
+            <Value ID="30004307">EYE LASH COMB</Value>
+            <Value ID="30004309">EYE LASH CURLER</Value>
+            <Value ID="30004320">COSMETICS BAG</Value>
+            <Value ID="30004331">COSMETICS CONTAINER BOX</Value>
+            <Value ID="30004332">PENCIL SHARPENER</Value>
+            <Value ID="30004333">POWDER BOX</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

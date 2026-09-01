@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000046" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Variety of Sauces - Cooking</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000073">CARBONARA</Value>
+            <Value ID="30000215">ARRABIATA</Value>
+            <Value ID="30000299">BEARNAISE</Value>
+            <Value ID="30000302">BECHAMEL</Value>
+            <Value ID="30000349">BIZANTIA</Value>
+            <Value ID="30000397">BOLOGNESE</Value>
+            <Value ID="30000510">CALABRESE</Value>
+            <Value ID="30000654">CHORON</Value>
+            <Value ID="30000842">CURRY SAUCE</Value>
+            <Value ID="30001143">GOULASH</Value>
+            <Value ID="30001263">HOLLANDAISE</Value>
+            <Value ID="30001372">KORMA</Value>
+            <Value ID="30001489">MADRAS</Value>
+            <Value ID="30001508">MALTAISE</Value>
+            <Value ID="30001546">MASALA</Value>
+            <Value ID="30001554">MEAT</Value>
+            <Value ID="30001585">MILANESE</Value>
+            <Value ID="30001874">PIZZA SAUCE</Value>
+            <Value ID="30002396">TAI SAUCE</Value>
+            <Value ID="30002430">TERIYAKI</Value>
+            <Value ID="30002460">TOMATO CONCENTRATE</Value>
+            <Value ID="30002461">TOMATO PUREE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002694">HOI SIN</Value>
+            <Value ID="30002781">GRAVY</Value>
+            <Value ID="30003025">TOMATO SAUCE</Value>
+            <Value ID="30003109">ROUILLE</Value>
+            <Value ID="30004423">BARBECUE SAUCE</Value>
+            <Value ID="30005829">THAI CURRY</Value>
+            <Value ID="30010358">PESTO</Value>
+            <Value ID="30014424">BLACK BEAN SAUCE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

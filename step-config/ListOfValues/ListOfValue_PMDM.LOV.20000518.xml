@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000518" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Drug Administration - Accessories</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005237">RECTAL TIP</Value>
+            <Value ID="30005304">INJECTION NEEDLE COVER</Value>
+            <Value ID="30005559">DOUCHE CAN</Value>
+            <Value ID="30005585">STOP CORK</Value>
+            <Value ID="30005664">VAGINAL TIP</Value>
+            <Value ID="30005726">SYRINGE BOX</Value>
+            <Value ID="30005811">DOUCHE TUBE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

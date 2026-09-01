@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000376" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Hair Styling (Non Powered)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000077">CREAM</Value>
+            <Value ID="30001717">OIL</Value>
+            <Value ID="30001779">PASTE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003945">GEL</Value>
+            <Value ID="30004236">WAX</Value>
+            <Value ID="30006699">MOUSSE/FOAM</Value>
+            <Value ID="30013090">GUM/PUTTY</Value>
+            <Value ID="30017256">HAIR SPRAY</Value>
+            <Value ID="30017257">HAIR LACQUER</Value>
+            <Value ID="30017258">HAIR SETTING LOTION</Value>
+            <Value ID="30017260">HAIR TONIC</Value>
+            <Value ID="30019040">POMADE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

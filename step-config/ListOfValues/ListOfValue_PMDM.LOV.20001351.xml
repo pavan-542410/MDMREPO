@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001351" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Sculptors Tool (Non Powered)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008553">CLAY GUN</Value>
+            <Value ID="30008554">CLAY/POTTERY SPATULA</Value>
+            <Value ID="30008555">DIPPING TONGS</Value>
+            <Value ID="30008556">FETTLING KNIFE</Value>
+            <Value ID="30008557">POTTERY BRUSH</Value>
+            <Value ID="30008559">POTTERY RIB</Value>
+            <Value ID="30008560">SCULPTORS CHISEL</Value>
+            <Value ID="30008561">SCULPTORS GOUGE</Value>
+            <Value ID="30008562">SCULPTORS HAMMER</Value>
+            <Value ID="30008563">SCULPTORS MALLET</Value>
+            <Value ID="30008564">SCULPTORS RASP</Value>
+            <Value ID="30008565">SCULPTORS RIFFLERS</Value>
+            <Value ID="30008566">WIRE END MODELLING TOOL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

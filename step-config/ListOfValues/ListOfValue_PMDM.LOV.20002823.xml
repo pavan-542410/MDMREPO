@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002823" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Volume Capacity</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30015455">SMALL (0-30 LITRES)</Value>
+            <Value ID="30015456">MEDIUM (31-70L)</Value>
+            <Value ID="30015457">LARGE (71-150L)</Value>
+            <Value ID="30015458">EXTRA LARGE (OVER 150L)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

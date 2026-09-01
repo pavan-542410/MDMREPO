@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000018" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Biscuit/Cookie</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000651">CHOCOLATE BASED</Value>
+            <Value ID="30000790">CRACKER</Value>
+            <Value ID="30001877">PLAIN</Value>
+            <Value ID="30001924">PRETZEL</Value>
+            <Value ID="30002111">SANDWICH</Value>
+            <Value ID="30002219">SHORTBREAD</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002700">WAFER</Value>
+            <Value ID="30003243">OAT</Value>
+            <Value ID="30003244">COOKIE</Value>
+            <Value ID="30003257">POPCORN/RICE CAKE</Value>
+            <Value ID="30006738">GINGERBREAD</Value>
+            <Value ID="30010239">SPONGE BISCUIT</Value>
+            <Value ID="30010244">RUSK</Value>
+            <Value ID="30010245">BISCOTTE</Value>
+            <Value ID="30017139">BISCUIT MIX</Value>
+            <Value ID="30017140">BISCUIT WAFFLE MIX</Value>
+            <Value ID="30017141">BISCUIT/GINGER BREAD-MIX</Value>
+            <Value ID="30017142">DOMINOSTEINE</Value>
+            <Value ID="30017143">ELISENLEBKUCHEN</Value>
+            <Value ID="30017144">ICE BISCUITS</Value>
+            <Value ID="30017145">LEBKUCHEN</Value>
+            <Value ID="30017146">LEBKUCHEN/GINGER BREAD-MIX</Value>
+            <Value ID="30017147">LYE SPECIALTIES (OR PRETZEL-TYPE BISCUITS)</Value>
+            <Value ID="30017148">PRINTEN</Value>
+            <Value ID="30017149">SPECULAAS/SPECULOOS</Value>
+            <Value ID="30017150">SPITZKUCHEN</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

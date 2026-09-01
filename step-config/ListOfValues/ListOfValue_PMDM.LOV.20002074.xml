@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002074" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Wrench/Spanner</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010797">BASIN WRENCH</Value>
+            <Value ID="30010798">TRAP WRENCH</Value>
+            <Value ID="30010799">DRUM WRENCH</Value>
+            <Value ID="30010800">PLUG WRENCH</Value>
+            <Value ID="30010801">FLARE WRENCH</Value>
+            <Value ID="30010802">HEX WRENCH</Value>
+            <Value ID="30010803">NUT DRIVER/WRENCH</Value>
+            <Value ID="30010804">OIL FILTER WRENCH</Value>
+            <Value ID="30010805">OPEN END WRENCH</Value>
+            <Value ID="30010806">BOX END WRENCH</Value>
+            <Value ID="30010807">COMBINATION WRENCH</Value>
+            <Value ID="30010808">SOCKET WRENCH</Value>
+            <Value ID="30010809">SPARK PLUG WRENCH</Value>
+            <Value ID="30010810">STRAP WRENCH</Value>
+            <Value ID="30010811">TORQUE WRENCH</Value>
+            <Value ID="30011228">PIPE/ADJUSTABLE WRENCH</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

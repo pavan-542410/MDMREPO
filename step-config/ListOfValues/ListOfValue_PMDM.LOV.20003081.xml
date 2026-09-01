@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003081" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Kind of Cheese</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30000799">CREAM CHEESE</Value>
+            <Value ID="30001547">MASCARPONE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30014348">PROCESSED CHEESE</Value>
+            <Value ID="30017977">BRINED CHEESE</Value>
+            <Value ID="30017978">FRESH CHEESE</Value>
+            <Value ID="30017979">HARD CHEESE</Value>
+            <Value ID="30017980">PASTA FILATA</Value>
+            <Value ID="30017981">QUARK</Value>
+            <Value ID="30017982">SEMI-HARD CHEESE</Value>
+            <Value ID="30017983">SEMI-SOFT CHEESE</Value>
+            <Value ID="30017984">SOFT / SOFT RIPENED CHEESE</Value>
+            <Value ID="30017985">SOUR MILK CHEESE</Value>
+            <Value ID="30017986">WHEY CHEESE</Value>
+            <Value ID="30018361">BLENDED CHEESE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

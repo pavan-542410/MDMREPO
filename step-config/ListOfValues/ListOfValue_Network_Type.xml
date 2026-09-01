@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="Network_Type" ParentID="List Of Values group root" AllowUserValueAddition="false" UseValueID="false">
+            <Name>Network_Type</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>2G</Value>
+            <Value>3G</Value>
+            <Value>4G</Value>
+            <Value>5G</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

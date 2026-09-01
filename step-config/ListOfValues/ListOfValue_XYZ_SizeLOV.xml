@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="XYZ_SizeLOV" ParentID="XYZ_Lov" AllowUserValueAddition="false" UseValueID="false">
+            <Name>XYZ_SizeLOV</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>1 to 3 years</Value>
+            <Value>1 to 6 months</Value>
+            <Value>10</Value>
+            <Value>10 to 13 Years</Value>
+            <Value>11</Value>
+            <Value>11.5 inches</Value>
+            <Value>12</Value>
+            <Value>13</Value>
+            <Value>15</Value>
+            <Value>16</Value>
+            <Value>17</Value>
+            <Value>28</Value>
+            <Value>3</Value>
+            <Value>3 inch</Value>
+            <Value>3 to 5 Years</Value>
+            <Value>30</Value>
+            <Value>32</Value>
+            <Value>34</Value>
+            <Value>36</Value>
+            <Value>38</Value>
+            <Value>4</Value>
+            <Value>5</Value>
+            <Value>6</Value>
+            <Value>6 to 12 months</Value>
+            <Value>6 to 8 Years</Value>
+            <Value>7</Value>
+            <Value>8</Value>
+            <Value>8 to 10  Years</Value>
+            <Value>9</Value>
+            <Value>L</Value>
+            <Value>M</Value>
+            <Value>S</Value>
+            <Value>XL</Value>
+            <Value>XS</Value>
+            <Value>XXL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

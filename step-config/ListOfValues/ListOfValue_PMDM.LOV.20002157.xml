@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002157" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Dolls Furniture</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30011535">DOLLS BED</Value>
+            <Value ID="30011536">DOLLS CHAIR</Value>
+            <Value ID="30011537">DOLLS FURNITURE SET</Value>
+            <Value ID="30011538">DOLLS PRAM</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

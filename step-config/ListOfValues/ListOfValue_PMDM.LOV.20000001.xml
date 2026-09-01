@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000001" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Juice Content Percentage</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000001">10-15%</Value>
+            <Value ID="30000002">16-20%</Value>
+            <Value ID="30000003">21-25%</Value>
+            <Value ID="30000004">26-30%</Value>
+            <Value ID="30000005">31-35%</Value>
+            <Value ID="30000006">36-40%</Value>
+            <Value ID="30000007">41-45%</Value>
+            <Value ID="30000008">46- 50%</Value>
+            <Value ID="30000009">51-55%</Value>
+            <Value ID="30000010">56-60%</Value>
+            <Value ID="30000011">61-65%</Value>
+            <Value ID="30000012">66-70%</Value>
+            <Value ID="30000013">71-75%</Value>
+            <Value ID="30000014">76-80%</Value>
+            <Value ID="30000015">81-85%</Value>
+            <Value ID="30000016">86-90%</Value>
+            <Value ID="30000017">91-95%</Value>
+            <Value ID="30000018">96-99%</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

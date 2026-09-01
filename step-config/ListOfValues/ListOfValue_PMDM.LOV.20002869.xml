@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002869" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Viscosity Rating Indication or Related Standard</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30015751">0W20</Value>
+            <Value ID="30015752">0W30</Value>
+            <Value ID="30015753">0W40</Value>
+            <Value ID="30015754">0W50</Value>
+            <Value ID="30015755">5W20</Value>
+            <Value ID="30015756">5W30</Value>
+            <Value ID="30015757">5W40</Value>
+            <Value ID="30015758">10W20</Value>
+            <Value ID="30015759">10W30</Value>
+            <Value ID="30015760">10W40</Value>
+            <Value ID="30015761">15W20</Value>
+            <Value ID="30015762">15W30</Value>
+            <Value ID="30015763">15W40</Value>
+            <Value ID="30015764">20W40</Value>
+            <Value ID="30015765">20W50</Value>
+            <Value ID="30015766">75W80</Value>
+            <Value ID="30015767">75W90</Value>
+            <Value ID="30015768">80W85</Value>
+            <Value ID="30015769">80W90</Value>
+            <Value ID="30015770">80W110</Value>
+            <Value ID="30015771">85W110</Value>
+            <Value ID="30015772">85W140</Value>
+            <Value ID="30015773">SAE 30</Value>
+            <Value ID="30015774">SAE 40</Value>
+            <Value ID="30015775">SAE 50</Value>
+            <Value ID="30015776">ISO VG46</Value>
+            <Value ID="30015777">ISO VG68</Value>
+            <Value ID="30015778">ISO VG 32/46/68</Value>
+            <Value ID="30015779">ISO OTHER</Value>
+            <Value ID="30015780">OTHER STANDARD</Value>
+            <Value ID="30017882">5W50</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

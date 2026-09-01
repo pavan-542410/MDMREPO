@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002729" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Unit Load Device (ULD)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30014570">LD-1</Value>
+            <Value ID="30014571">LD-2</Value>
+            <Value ID="30014572">LD-3</Value>
+            <Value ID="30014573">LD-4</Value>
+            <Value ID="30014574">LD-5</Value>
+            <Value ID="30014575">LD-6</Value>
+            <Value ID="30014576">LD-7 PAC</Value>
+            <Value ID="30014577">LD-7 PAG</Value>
+            <Value ID="30014578">LD-8 CONTAINER</Value>
+            <Value ID="30014579">LD-8 PALLET</Value>
+            <Value ID="30014580">LD-9</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

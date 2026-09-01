@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002537" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Switch</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30012755">DRUM SWITCH</Value>
+            <Value ID="30012756">TIME SWITCH</Value>
+            <Value ID="30012757">SNAP SWITCH</Value>
+            <Value ID="30012758">PRESSURE SWITCH</Value>
+            <Value ID="30012759">TOGGLE SWITCH</Value>
+            <Value ID="30012760">SLIDE SWITCH</Value>
+            <Value ID="30012761">PUSH-BUTTON SWITCH</Value>
+            <Value ID="30012762">ROTARY SWITCH</Value>
+            <Value ID="30012763">PULL-CHAIN SWITCH</Value>
+            <Value ID="30012764">MAGNETIC SWITCH</Value>
+            <Value ID="30012765">TOUCH-SENSITIVE SWITCH</Value>
+            <Value ID="30012766">LIMIT SWITCH</Value>
+            <Value ID="30012767">CONTROLLER SWITCH</Value>
+            <Value ID="30012768">VARIABLE SWITCH</Value>
+            <Value ID="30012769">SOUND-SENSITIVE SWITCH</Value>
+            <Value ID="30012770">FOOT SWITCH</Value>
+            <Value ID="30012771">FLOW SWITCH</Value>
+            <Value ID="30012772">KEYLOCK SWITCH</Value>
+            <Value ID="30012773">MERCURY SWITCH</Value>
+            <Value ID="30012774">ROCKER SWITCH</Value>
+            <Value ID="30012775">JOYSTICK SWITCH</Value>
+            <Value ID="30012776">VACUUM SWITCH</Value>
+            <Value ID="30012777">TEMPERATURE SWITCH</Value>
+            <Value ID="30012778">NON-FUSIBLE SWITCH</Value>
+            <Value ID="30012779">LEVEL/FLOAT SWITCH</Value>
+            <Value ID="30012780">RADIO FREQUENCY (RF) SWITCH</Value>
+            <Value ID="30012781">COMBINATION SWITCH</Value>
+            <Value ID="30012782">LOCKING SWITCH</Value>
+            <Value ID="30012783">PHOTOCELL SWITCH</Value>
+            <Value ID="30012784">SPEED SWITCH</Value>
+            <Value ID="30013326">REMOTE SWITCH</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003105" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Fondue Set Accessory/Spare Part (Non Powered)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010610">CANDLE</Value>
+            <Value ID="30018096">FONDUE BURNER</Value>
+            <Value ID="30018097">FONDUE FORK</Value>
+            <Value ID="30018098">FONDUE PLATE</Value>
+            <Value ID="30018099">FONDUE POT</Value>
+            <Value ID="30018100">FONDUE FUEL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="OutletStatus" ParentID="TestLOVGroup" AllowUserValueAddition="false" UseValueID="false">
+            <Name>Outlet Status</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>Closed</Value>
+            <Value>Open</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

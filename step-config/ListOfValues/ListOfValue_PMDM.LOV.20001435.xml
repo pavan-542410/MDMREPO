@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001435" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Exercise Machine</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008837">CLIMBING MACHINE</Value>
+            <Value ID="30008839">EXERCISE BIKE</Value>
+            <Value ID="30008840">ROWING MACHINE</Value>
+            <Value ID="30008841">TREADMILL</Value>
+            <Value ID="30010924">WEIGHT RESISTANCE MACHINE</Value>
+            <Value ID="30016017">CROSS TRAINING MACHINES</Value>
+            <Value ID="30016018">CROSS COUNTRY MACHINES</Value>
+            <Value ID="30016019">STEPPER/STAIR STEPPER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

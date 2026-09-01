@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002886" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Wheel Hardware</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30015874">SNOW CHAINS -OTHER</Value>
+            <Value ID="30015875">SNOW CHAINS - METAL</Value>
+            <Value ID="30015876">SNOW CHAINS -TEXTILE MATERIAL</Value>
+            <Value ID="30015877">TYRE STUDS</Value>
+            <Value ID="30015878">LUG NUTS/BOLTS</Value>
+            <Value ID="30019115">SNOW SOCKS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

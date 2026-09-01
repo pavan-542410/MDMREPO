@@ -1,0 +1,10 @@
+{
+  "protocol" : "https:",
+  "host" : "auth-usea01.mdm.stibosystems.com",
+  "port" : 443,
+  "context": "Context1",
+  "auth": "Basic",
+  "username": "br_test_user",
+  "timeout": 30000,
+  "retries": 2
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002732" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Pipe Flange</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30014589">FACE FLANGE</Value>
+            <Value ID="30014590">BLIND FLANGE</Value>
+            <Value ID="30014591">CLOSET FLANGE</Value>
+            <Value ID="30014592">LAPJOINT FLANGE</Value>
+            <Value ID="30014593">LONG WELDNECK FLANGE</Value>
+            <Value ID="30014594">ORIFICE FLANGE</Value>
+            <Value ID="30014595">REDUCING FLANGE</Value>
+            <Value ID="30014596">SLIP ON FLANGE</Value>
+            <Value ID="30014597">SOCKETWELD FLANGE</Value>
+            <Value ID="30014598">SPECTACLE BLIND FLANGE</Value>
+            <Value ID="30014599">THREADED FLANGE</Value>
+            <Value ID="30014600">WELDNECK FLANGE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

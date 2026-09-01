@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000473" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Surface Care/Protection</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004990">SURFACE POLISH</Value>
+            <Value ID="30004991">SURFACE TREATMENT - ANTI-SLIP</Value>
+            <Value ID="30004992">SURFACE TREATMENT - PROTECTION</Value>
+            <Value ID="30004993">SURFACE WAX</Value>
+            <Value ID="30017250">SURFACE TREATMENT - SELF-SHINING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

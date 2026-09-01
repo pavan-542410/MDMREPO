@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002897" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Ultra Violet (UV) Protection</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30015916">LOW SPF</Value>
+            <Value ID="30015917">MEDIUM SPF</Value>
+            <Value ID="30015918">HIGH SPF</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

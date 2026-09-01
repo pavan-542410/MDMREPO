@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003118" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Cocktail Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009632">COCKTAIL STIRRER</Value>
+            <Value ID="30018249">COASTER (NON DISPOSABLE)</Value>
+            <Value ID="30018250">COCKTAIL PESTLE</Value>
+            <Value ID="30018251">CITRUS REAMER</Value>
+            <Value ID="30018252">COCKTAIL SET</Value>
+            <Value ID="30018253">COCKTAIL SHAKER</Value>
+            <Value ID="30018254">COCKTAIL STRAINER</Value>
+            <Value ID="30018255">DOSAGE AND MEASURE</Value>
+            <Value ID="30018256">GLASS RIMMER</Value>
+            <Value ID="30018257">ICE BAG</Value>
+            <Value ID="30018258">ICE CRUSHER (NON POWERED)</Value>
+            <Value ID="30018259">ICE SCOOP</Value>
+            <Value ID="30018260">ICE TONG</Value>
+            <Value ID="30018261">MUDDLER</Value>
+            <Value ID="30018262">PUNCH BOWL/SANGRIA BOWL</Value>
+            <Value ID="30018263">REUSABLE ICE CUBE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

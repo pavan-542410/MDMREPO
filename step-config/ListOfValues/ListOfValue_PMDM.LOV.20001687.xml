@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001687" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Plate</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008036">CHARGER</Value>
+            <Value ID="30009683">EATING PLATE (NON DISPOSABLE)</Value>
+            <Value ID="30009685">SERVING PLATE/PLATTER (NON DISPOSABLE)</Value>
+            <Value ID="30018168">BREAD PLATE</Value>
+            <Value ID="30018169">DESSERT PLATE</Value>
+            <Value ID="30018170">DINNER PLATE</Value>
+            <Value ID="30018171">OYSTERS PLATE</Value>
+            <Value ID="30018172">PIZZA PLATE</Value>
+            <Value ID="30018173">SNAIL PLATE</Value>
+            <Value ID="30018174">SOUP/SALAD/PASTA PLATE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

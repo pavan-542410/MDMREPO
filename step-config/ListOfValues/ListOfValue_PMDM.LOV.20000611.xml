@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000611" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Pet Grooming Aid</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004225">PET SHOWER</Value>
+            <Value ID="30004933">PET BRUSH</Value>
+            <Value ID="30005249">PET TOWEL</Value>
+            <Value ID="30005250">PET BATH TUB</Value>
+            <Value ID="30005452">PET COMB</Value>
+            <Value ID="30005453">PET FUR/HAIR CLIPPER</Value>
+            <Value ID="30005670">PET SHAMPOO</Value>
+            <Value ID="30005711">PET SOAP</Value>
+            <Value ID="30007006">PET BODY SUPPORT</Value>
+            <Value ID="30007007">PET EAR CLEANER</Value>
+            <Value ID="30007008">PET EYE CLEANER</Value>
+            <Value ID="30007009">PET FUR/HAIR CLIPPER BLADE</Value>
+            <Value ID="30007010">PET FUR/HAIR CLIPPER OIL</Value>
+            <Value ID="30007011">PET SCISSORS</Value>
+            <Value ID="30009942">PET NAIL CLIPPER</Value>
+            <Value ID="30010621">PET COAT DROPS</Value>
+            <Value ID="30010622">PET COAT SPRAY</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

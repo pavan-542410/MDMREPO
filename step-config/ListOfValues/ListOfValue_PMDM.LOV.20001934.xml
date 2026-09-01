@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001934" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Intended Benefit/Purpose</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010252">SHOCK REDUCTION</Value>
+            <Value ID="30010253">MOISTURE ABSORPTION</Value>
+            <Value ID="30010282">ADDED WARMTH</Value>
+            <Value ID="30010283">ADDED COMFORT</Value>
+            <Value ID="30010418">MULTIPLE BENEFITS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

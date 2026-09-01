@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000538" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Frequency of Application</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004517">MONTHLY</Value>
+            <Value ID="30005294">WEEKLY</Value>
+            <Value ID="30005315">YEARLY</Value>
+            <Value ID="30005730">DAILY</Value>
+            <Value ID="30018054">EVERY 2 MONTHS</Value>
+            <Value ID="30018055">EVERY 3 MONTHS</Value>
+            <Value ID="30018056">EVERY 3 YEARS</Value>
+            <Value ID="30018057">EVERY 5 YEARS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

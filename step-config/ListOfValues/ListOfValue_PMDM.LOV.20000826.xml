@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000826" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Brasswind Musical Instrument (Powered)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007131">ELECTRIC CORNET</Value>
+            <Value ID="30007132">ELECTRIC DOUBLE HORN</Value>
+            <Value ID="30007133">ELECTRIC EUPHONIUM</Value>
+            <Value ID="30007134">ELECTRIC FLUGELHORN</Value>
+            <Value ID="30007135">ELECTRIC FRENCH HORN</Value>
+            <Value ID="30007136">ELECTRIC TROMBONE</Value>
+            <Value ID="30007137">ELECTRIC TRUMPET</Value>
+            <Value ID="30007138">ELECTRIC TUBA</Value>
+            <Value ID="30010844">ELECTRIC SAXAPHONE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

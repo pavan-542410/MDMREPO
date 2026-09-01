@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PriceListLOV" ParentID="List Of Values group root" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Price List LOV</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <Value ID="01">Wholesale</Value>
+            <Value ID="02">Retail</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

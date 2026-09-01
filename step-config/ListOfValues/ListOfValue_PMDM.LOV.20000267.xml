@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000267" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Cleansing/Washing Accessories - Personal</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002314">SPONGE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003673">BATH PILLOW</Value>
+            <Value ID="30003694">BODY BRUSH</Value>
+            <Value ID="30003695">BODY BUFFER MITT</Value>
+            <Value ID="30003872">FACIAL BUFFER PADS</Value>
+            <Value ID="30004028">LOOFAH</Value>
+            <Value ID="30004036">COSMETICS REMOVER GLOVE</Value>
+            <Value ID="30004037">COSMETICS REMOVER SPONGE</Value>
+            <Value ID="30004044">MASSAGE GLOVE</Value>
+            <Value ID="30004075">NAIL BRUSH</Value>
+            <Value ID="30004226">SHOWER CAP</Value>
+            <Value ID="30004239">SOAP DISH</Value>
+            <Value ID="30004493">ANTI-SLIP MAT</Value>
+            <Value ID="30013418">SOAP PUMP</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

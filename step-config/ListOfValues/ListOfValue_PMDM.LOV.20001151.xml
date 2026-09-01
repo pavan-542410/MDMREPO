@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001151" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Camcorder Recording Medium</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007623">DVD</Value>
+            <Value ID="30007881">8MM BASIC</Value>
+            <Value ID="30007882">DIGITAL 8</Value>
+            <Value ID="30007883">DVC + MICRO MV</Value>
+            <Value ID="30007884">HIGH 8</Value>
+            <Value ID="30007885">MEMORY CARD</Value>
+            <Value ID="30007886">S-VHS-C</Value>
+            <Value ID="30007887">VHS</Value>
+            <Value ID="30007888">VHS-C</Value>
+            <Value ID="30007907">HDD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

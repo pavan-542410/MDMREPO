@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000275" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Exfoliants/Masks</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003832">EXFOLIANT/SCRUB</Value>
+            <Value ID="30004462">CHEMICAL PEEL</Value>
+            <Value ID="30006684">FACIAL PORE STRIP</Value>
+            <Value ID="30013092">CLEANSING MASK</Value>
+            <Value ID="30013093">MOISTURISING MASK</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

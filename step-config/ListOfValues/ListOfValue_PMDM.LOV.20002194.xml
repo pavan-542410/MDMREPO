@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002194" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Beverage Served</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000569">CHAMPAGNE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002607">WHISKY/WHISKEY</Value>
+            <Value ID="30011636">BEER</Value>
+            <Value ID="30011639">LIQUEUR</Value>
+            <Value ID="30011641">WINE</Value>
+            <Value ID="30011642">COCKTAIL</Value>
+            <Value ID="30018185">BORDEAUX WINE</Value>
+            <Value ID="30018186">BURGUNDY WINE GLASS</Value>
+            <Value ID="30018187">CHAMPAGNE COUPE</Value>
+            <Value ID="30018188">ROSE WINE GLASS</Value>
+            <Value ID="30018189">WATER GLASS</Value>
+            <Value ID="30018190">WHITE WINE GLASS</Value>
+            <Value ID="30018202">AQUAVIT</Value>
+            <Value ID="30018203">COGNAC/BRANDY GLASS</Value>
+            <Value ID="30018204">EAU DE VIE GLASS</Value>
+            <Value ID="30018205">GRAPPA GLASS</Value>
+            <Value ID="30018206">HURRICANE STEM GLASS</Value>
+            <Value ID="30018207">LIQUEURS GLASS</Value>
+            <Value ID="30018208">MARGARITA GLASS</Value>
+            <Value ID="30018209">MARTINI GLASS</Value>
+            <Value ID="30018210">RIOJA GLASS</Value>
+            <Value ID="30018211">SHERRY GLASS</Value>
+            <Value ID="30018212">VODKA GLASS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

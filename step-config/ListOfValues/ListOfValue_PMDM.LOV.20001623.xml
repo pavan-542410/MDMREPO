@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001623" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Camping Water/Drinking Equipment</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010574">CAMPING FOLDING WATER CARRIER</Value>
+            <Value ID="30010575">CAMPING COLLAPSIBLE WATER TANK</Value>
+            <Value ID="30010576">CAMPING FLEXIBLE DRINK DISPENSER/HOSER</Value>
+            <Value ID="30010577">CAMPING INSULATED WATER CANTEEN</Value>
+            <Value ID="30010623">CAMPING LOOP TOP BOTTLE</Value>
+            <Value ID="30010624">CAMPING BOTTLE WITH PUSH/PULL CAP</Value>
+            <Value ID="30010625">CAMPING WATER TANK ON WHEELS</Value>
+            <Value ID="30010626">CAMPING JERRYCAN</Value>
+            <Value ID="30010627">CAMPING WATER FILTER BOTTLE</Value>
+            <Value ID="30010628">CAMPING WATER FILTER CANISTER</Value>
+            <Value ID="30010629">CAMPING WATER FILTER PUMP</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002271" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>With/Without Spout</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011892">WITH SPOUT</Value>
+            <Value ID="30011893">WITHOUT SPOUT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

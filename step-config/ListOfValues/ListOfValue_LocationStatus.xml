@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="LocationStatus" ParentID="LMDMLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Location Status</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value ID="A">Active</Value>
+            <Value ID="C">Closed</Value>
+            <Value ID="I">Inactive</Value>
+            <Value ID="PA">Pending Approval</Value>
+            <Value ID="R">Rejected</Value>
+            <Value ID="UC">Under Construction</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

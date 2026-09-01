@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001242" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Car Navigation</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008096">NAVIGATION SYSTEM INCL FIXED MONITOR</Value>
+            <Value ID="30008097">NAVIGATION SYSTEM INCL RADIO/MONICEIVER</Value>
+            <Value ID="30008098">RADIO/NAVIGATION 1 DIN FORMAT</Value>
+            <Value ID="30013214">RADIO/NAVIGATION 2 DIN FORMAT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

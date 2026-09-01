@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001431" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Martial Arts Sports Equipment</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008241">MARTIAL ARTS STAFF</Value>
+            <Value ID="30008242">MARTIAL ARTS SWORD</Value>
+            <Value ID="30008824">NUNCHAKU</Value>
+            <Value ID="30008825">MARTIAL ARTS SPEAR</Value>
+            <Value ID="30011091">NAGINATA</Value>
+            <Value ID="30011092">TONFA</Value>
+            <Value ID="30011093">KAMA</Value>
+            <Value ID="30011094">JUTTE</Value>
+            <Value ID="30011095">SAI</Value>
+            <Value ID="30011096">BO</Value>
+            <Value ID="30011097">SHINAI</Value>
+            <Value ID="30011098">BOKKEN</Value>
+            <Value ID="30011099">KEIBO</Value>
+            <Value ID="30011100">IAITO</Value>
+            <Value ID="30011101">ESCRIMA</Value>
+            <Value ID="30011102">EBO</Value>
+            <Value ID="30011103">JO</Value>
+            <Value ID="30011104">YUMI</Value>
+            <Value ID="30011105">SHURIKEN</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

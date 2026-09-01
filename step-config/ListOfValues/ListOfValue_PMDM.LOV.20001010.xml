@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001010" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Computer Cable</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007542">MONITOR CABLE</Value>
+            <Value ID="30013465">ESATA CABLE</Value>
+            <Value ID="30013466">MIDI INTERFACE CABLE</Value>
+            <Value ID="30013467">PC CONNECTING CABLE</Value>
+            <Value ID="30013468">PC POWER CABLE</Value>
+            <Value ID="30013469">PC EXTENSION CABLE</Value>
+            <Value ID="30013470">PC CONNECTING SET</Value>
+            <Value ID="30013471">PRINTER CABLE</Value>
+            <Value ID="30013472">SCANNER CABLE</Value>
+            <Value ID="30013473">PC AUDIO CABLE</Value>
+            <Value ID="30013474">VGA CABLE</Value>
+            <Value ID="30013475">IEEE 1394 ADAPTOR CABLE</Value>
+            <Value ID="30013477">USB PDA CABLE</Value>
+            <Value ID="30013478">USB CABLE</Value>
+            <Value ID="30013479">USB EXTENSION CABLE</Value>
+            <Value ID="30013480">USB CABLE SET</Value>
+            <Value ID="30013481">NETWORK CABLE</Value>
+            <Value ID="30013482">USB Y CABLE</Value>
+            <Value ID="30016349">UTP CABLE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

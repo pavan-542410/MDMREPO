@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002805" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Degree of Dryness of Garlic</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003578">FRESH</Value>
+            <Value ID="30015370">SEMI-DRY GARLIC</Value>
+            <Value ID="30015371">DRY GARLIC</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

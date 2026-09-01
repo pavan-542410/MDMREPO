@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.WorkflowApprovalStatuses" ParentID="PMDM.LOVG.SystemLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Workflow Approval Statuses</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="AA">Automatically Approved</Value>
+            <Value ID="AP">Approved</Value>
+            <Value ID="RJ">Reject</Value>
+            <Value ID="RW">Rework</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

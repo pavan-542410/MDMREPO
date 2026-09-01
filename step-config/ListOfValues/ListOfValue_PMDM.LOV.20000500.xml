@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000500" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Origin of Tea</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005879">INDIA - UNCLASSIFIED</Value>
+            <Value ID="30005892">INDONESIA - UNCLASSIFIED</Value>
+            <Value ID="30006191">AFRICA - KENYA</Value>
+            <Value ID="30006207">CANADA - UNCLASSIFIED</Value>
+            <Value ID="30006212">CHINA - UNCLASSIFIED</Value>
+            <Value ID="30006249">SRI LANKA - UNCLASSIFIED</Value>
+            <Value ID="30006279">ARGENTINA - UNCLASSIFIED</Value>
+            <Value ID="30006291">AUSTRALIA - QUEENSLAND</Value>
+            <Value ID="30006302">AUSTRALIA - UNCLASSIFIED</Value>
+            <Value ID="30006396">JAPAN - UNCLASSIFIED</Value>
+            <Value ID="30006427">TURKEY - UNCLASSIFIED</Value>
+            <Value ID="30006511">HUNGARY - UNCLASSIFIED</Value>
+            <Value ID="30006631">AFRICA - BURUNDI</Value>
+            <Value ID="30006632">AFRICA - UGANDA</Value>
+            <Value ID="30006633">AFRICA - TANZANIA</Value>
+            <Value ID="30006634">AFRICA - UNCLASSIFIED</Value>
+            <Value ID="30006635">AUSTRALIA - NEW SOUTH WALES</Value>
+            <Value ID="30006637">INDIA - ASSAM</Value>
+            <Value ID="30006638">INDIA - DARJEELING</Value>
+            <Value ID="30006639">INDIA - NILGIRI</Value>
+            <Value ID="30006640">INDONESIA - JAVA</Value>
+            <Value ID="30006641">INDONESIA - SUMATRA</Value>
+            <Value ID="30006643">IRAN - UNCLASSIFIED</Value>
+            <Value ID="30006644">TAIWAN - UNCLASSIFIED</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

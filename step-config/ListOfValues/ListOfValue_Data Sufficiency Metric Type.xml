@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="Data Sufficiency Metric Type" ParentID="List Of Values group root" AllowUserValueAddition="false" UseValueID="false">
+            <Name>Data Sufficiency Metric Type</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>Aggregate</Value>
+            <Value>Simple</Value>
+            <Value>Sufficiency</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

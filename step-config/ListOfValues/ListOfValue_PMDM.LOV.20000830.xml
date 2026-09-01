@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000830" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of String Musical Instrument (Powered)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007151">ELECTRIC BANJO</Value>
+            <Value ID="30007152">ELECTRIC CELLO</Value>
+            <Value ID="30007153">ELECTRIC GUITAR</Value>
+            <Value ID="30007154">ELECTRIC HARP</Value>
+            <Value ID="30007155">ELECTRIC MANDOLIN</Value>
+            <Value ID="30007156">ELECTRIC VIOLIN</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003002" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>State of Pet Nutritional Supplement</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002173">DRY</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005448">WET</Value>
+            <Value ID="30017285">LIVING</Value>
+            <Value ID="30017286">RAW</Value>
+            <Value ID="30017287">SEMI-DRY</Value>
+            <Value ID="30017288">SEMI-MOIST/SEMI-WET</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

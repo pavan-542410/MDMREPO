@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002808" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Fowl</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002501">TURKEY</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30015386">CHICKEN</Value>
+            <Value ID="30015387">DUCK</Value>
+            <Value ID="30015388">EMU</Value>
+            <Value ID="30015389">GOOSE</Value>
+            <Value ID="30015390">GUINEAFOWL</Value>
+            <Value ID="30015391">OSTRICH</Value>
+            <Value ID="30015392">QUAIL</Value>
+            <Value ID="30015393">RHEA</Value>
+            <Value ID="30015394">SQUAB/PIGEON</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

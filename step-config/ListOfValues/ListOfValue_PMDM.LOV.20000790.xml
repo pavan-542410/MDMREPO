@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000790" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Pet Training/Control Aid/Accessory - Non Powered</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30006941">PET COLLAR</Value>
+            <Value ID="30006942">PET DETERRENT SCENTS</Value>
+            <Value ID="30006943">PET HARNESS</Value>
+            <Value ID="30006944">HORSE TACK</Value>
+            <Value ID="30006945">PET LEAD</Value>
+            <Value ID="30006946">PET MUZZLE</Value>
+            <Value ID="30006947">PET VEHICLE GUARD</Value>
+            <Value ID="30006948">PET VEHICLE RAMP</Value>
+            <Value ID="30006950">PET TETHER</Value>
+            <Value ID="30008488">PET WHISTLE</Value>
+            <Value ID="30008489">PET CLICKER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

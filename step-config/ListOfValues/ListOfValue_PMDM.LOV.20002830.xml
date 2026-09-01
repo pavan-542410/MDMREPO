@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002830" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Sex Toy/Aid Type</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30015491">DILDO</Value>
+            <Value ID="30015492">PENETRATING HARNESS</Value>
+            <Value ID="30015493">BEADS/SPHERES</Value>
+            <Value ID="30015494">VIBRATOR</Value>
+            <Value ID="30015495">PENILE EXTENSION</Value>
+            <Value ID="30015496">PENILE RING</Value>
+            <Value ID="30015497">PENILE SLEEVE</Value>
+            <Value ID="30015498">PLUG (SEX TOY)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

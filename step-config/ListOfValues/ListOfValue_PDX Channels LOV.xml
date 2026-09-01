@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PDX Channels LOV" ParentID="List Of Values group root" AllowUserValueAddition="false" UseValueID="true">
+            <Name>PDX Channels LOV</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

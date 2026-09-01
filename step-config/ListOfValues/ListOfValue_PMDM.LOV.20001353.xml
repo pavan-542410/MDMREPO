@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001353" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Installation Type</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001694">NONE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003905">FIXED</Value>
+            <Value ID="30006126">HANDHELD</Value>
+            <Value ID="30007104">CONCERTINA</Value>
+            <Value ID="30007341">MECHANICAL</Value>
+            <Value ID="30007608">PORTABLE</Value>
+            <Value ID="30007757">BUILT-IN</Value>
+            <Value ID="30007776">FREESTANDING (MOVABLE)</Value>
+            <Value ID="30008573">TABLE TOP</Value>
+            <Value ID="30009198">FREESTANDING</Value>
+            <Value ID="30009202">INTEGRATED UNIT</Value>
+            <Value ID="30009214">BUILT-UNDER</Value>
+            <Value ID="30009256">UNDER CABINET</Value>
+            <Value ID="30009257">RANGE-HOOD COMBINATIONS</Value>
+            <Value ID="30009772">CEILING MOUNTED</Value>
+            <Value ID="30010061">WALL MOUNTED</Value>
+            <Value ID="30010197">LEAN-TO</Value>
+            <Value ID="30010292">FLOATING</Value>
+            <Value ID="30010514">COUNTERTOP</Value>
+            <Value ID="30010633">ADHESIVE BACKED</Value>
+            <Value ID="30010672">SURFACE MOUNTED</Value>
+            <Value ID="30010957">SUBMERGED</Value>
+            <Value ID="30011647">BENCHTOP</Value>
+            <Value ID="30011867">DECK MOUNTED</Value>
+            <Value ID="30011868">CURB MOUNTED</Value>
+            <Value ID="30011916">ROLLING</Value>
+            <Value ID="30012084">SLIDING</Value>
+            <Value ID="30012433">SUSPENDED</Value>
+            <Value ID="30012434">SWIVELLING</Value>
+            <Value ID="30012437">SUCTION PADS</Value>
+            <Value ID="30012438">SCREW FITTINGS</Value>
+            <Value ID="30012471">SUNKEN</Value>
+            <Value ID="30012864">PENDANT</Value>
+            <Value ID="30012868">DESK/TABLE MOUNTED</Value>
+            <Value ID="30012869">TRACK MOUNTED</Value>
+            <Value ID="30012870">FLOOR MOUNTED</Value>
+            <Value ID="30012901">UNDERGROUND</Value>
+            <Value ID="30012917">MODULAR ENCLOSURE</Value>
+            <Value ID="30012932">PANEL MOUNTED</Value>
+            <Value ID="30013259">FREESTANDING WITH BUILT-IN FRAME</Value>
+            <Value ID="30013318">BASEBOARD MOUNTED</Value>
+            <Value ID="30017895">ADHESIVE</Value>
+            <Value ID="30017896">GLUE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

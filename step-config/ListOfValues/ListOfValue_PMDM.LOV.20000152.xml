@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000152" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Recipe of Food Product</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000102">TUNA PASTA SALAD</Value>
+            <Value ID="30000591">CHEESE SALAD</Value>
+            <Value ID="30000619">CHICKEN BREAST/RICE</Value>
+            <Value ID="30000620">CHICKEN BREAST/STEAMED VEGETABLES</Value>
+            <Value ID="30000624">CHICKEN TANDOORI/BASMATI RICE</Value>
+            <Value ID="30000625">CHICKEN TANDOORI/PILAU RICE</Value>
+            <Value ID="30000632">CHILLI CON CARNE</Value>
+            <Value ID="30000784">COUSCOUS/FISH SALAD</Value>
+            <Value ID="30001130">GNOCCHI SALAD</Value>
+            <Value ID="30001191">GRILLED AUBERGINE</Value>
+            <Value ID="30001193">GRILLED PEPPERS/RICE SALAD</Value>
+            <Value ID="30001242">HASHED MEAT/RED CABBAGE</Value>
+            <Value ID="30001290">ICE CREAM</Value>
+            <Value ID="30001561">MEATBALLS IN TOMATO SAUCE/RICE</Value>
+            <Value ID="30001563">MEATBALLS IN TOMATO SAUCE WITH PASTA</Value>
+            <Value ID="30001657">MUSHROOM RISOTTO</Value>
+            <Value ID="30001695">NOODLE SALAD</Value>
+            <Value ID="30001775">PASTA/ROASTED VEGETABLE SALAD</Value>
+            <Value ID="30001905">POTATO SALAD</Value>
+            <Value ID="30002033">ROAST PORK/VEGETABLES</Value>
+            <Value ID="30002100">SALMON SALAD</Value>
+            <Value ID="30002206">SHEPHERDS PIE</Value>
+            <Value ID="30002291">SPAGHETTI BOLOGNAISE</Value>
+            <Value ID="30002329">ST JACQUES RAVIOLI MORILLE</Value>
+            <Value ID="30002336">STEAK/VEGETABLE PROVENCALE</Value>
+            <Value ID="30002394">TAGLIATELLE VERDI</Value>
+            <Value ID="30002474">TORTELLONI A LA RAGU</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002841">SAUSAGE (VEGETABLE BASED)</Value>
+            <Value ID="30003036">TUNA SALAD</Value>
+            <Value ID="30003043">VEGETABLES/CHEESE SAUCE</Value>
+            <Value ID="30003044">VEGETABLES/TOMATO SAUCE</Value>
+            <Value ID="30003045">COUSCOUS/TOMATO SAUCE WITH VEGETABLES</Value>
+            <Value ID="30003046">RICE/VEGETABLES</Value>
+            <Value ID="30003050">CHICKEN/PUMPKIN CANNELLONI</Value>
+            <Value ID="30003052">RICE/TUNA SALAD</Value>
+            <Value ID="30003100">VEGETABLE LASAGNA</Value>
+            <Value ID="30003102">FETTUCINE CARBONARA</Value>
+            <Value ID="30003103">BBQ VEGETABLE/TOFU KEBAB</Value>
+            <Value ID="30003104">WALDORF SALAD</Value>
+            <Value ID="30003105">CAPONATA</Value>
+            <Value ID="30003107">RED LENTIL PILAU</Value>
+            <Value ID="30005828">PASTA/CHEESE SAUCE</Value>
+            <Value ID="30005830">PASTA/TOMATO SAUCE</Value>
+            <Value ID="30006751">EGG SALAD</Value>
+            <Value ID="30006752">BEET SALAD</Value>
+            <Value ID="30006753">CELERY SALAD</Value>
+            <Value ID="30006754">HERRING SALAD</Value>
+            <Value ID="30006755">CABBAGE SALAD</Value>
+            <Value ID="30006807">VEGETABLE HAMBURGER</Value>
+            <Value ID="30010241">CHICKEN SALAD</Value>
+            <Value ID="30010242">VEGETABLE CROQUETTE</Value>
+            <Value ID="30010243">VEGETABLE BRAT/ROSTI</Value>
+            <Value ID="30010422">SAVOURY POTATO DUMPLINGS</Value>
+            <Value ID="30010423">SAVOURY RICE DUMPLINGS</Value>
+            <Value ID="30010424">SAVOURY DOUGH BASED DUMPLINGS</Value>
+            <Value ID="30010444">SAVOURY FILLED CREPE</Value>
+            <Value ID="30011764">OMELETTE</Value>
+            <Value ID="30011765">CHEESE SOUFFLE</Value>
+            <Value ID="30013111">SALMON/EGG SALAD</Value>
+            <Value ID="30013112">TOMATO/MOZZARELLA SALAD</Value>
+            <Value ID="30013113">COLESLAW/CHEESE SALAD</Value>
+            <Value ID="30013114">FETA/OLIVE SALAD</Value>
+            <Value ID="30013115">SCOTCH EGG</Value>
+            <Value ID="30013116">PASTA SALAD</Value>
+            <Value ID="30013117">TOMATO/BASIL COUSCOUS</Value>
+            <Value ID="30013118">RICE SALAD</Value>
+            <Value ID="30013121">PRAWN/CRAYFISH SALAD</Value>
+            <Value ID="30013122">SALMON/HERB POTATO SALAD</Value>
+            <Value ID="30013124">FLORIDA SALAD</Value>
+            <Value ID="30013125">CHICKEN/BACON SALAD</Value>
+            <Value ID="30013126">VEGETABLE SALAD</Value>
+            <Value ID="30013127">BACON SALAD</Value>
+            <Value ID="30013128">NOODLE/PRAWN SALAD</Value>
+            <Value ID="30013129">CHICKEN PASTA SALAD</Value>
+            <Value ID="30013162">NOODLE/VEGETABLE STIR FRY</Value>
+            <Value ID="30013163">TOAD IN THE HOLE</Value>
+            <Value ID="30014463">SAUSAGE (GRAIN BASED)</Value>
+            <Value ID="30014471">SOFT SERVE ICE CREAM</Value>
+            <Value ID="30014472">SMOOTHIE</Value>
+            <Value ID="30015477">MACARONI AND CHEESE</Value>
+            <Value ID="30016244">SUSHI</Value>
+            <Value ID="30017026">BREAD DUMPLING</Value>
+            <Value ID="30017027">PUREE OR MASH</Value>
+            <Value ID="30017869">ASPIC PRODUCT</Value>
+            <Value ID="30017958">CREAM PUDDING</Value>
+            <Value ID="30017959">DAIRY BASED BAR</Value>
+            <Value ID="30017960">DESSERT SPECIALTIES</Value>
+            <Value ID="30017961">FRUIT DESSERT/FRUIT PUDDING</Value>
+            <Value ID="30017962">JELLY DESSERT</Value>
+            <Value ID="30017963">MILK PUDDING</Value>
+            <Value ID="30017964">QUARK BAR</Value>
+            <Value ID="30017965">RICE PUDDING</Value>
+            <Value ID="30017966">SEMOLINA PUDDING</Value>
+            <Value ID="30017967">TAPIOCA PUDDING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

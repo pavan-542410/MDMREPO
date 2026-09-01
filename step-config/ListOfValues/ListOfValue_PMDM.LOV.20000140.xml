@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000140" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Edible Vegetable or Plant Oil</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000169">ALMOND OIL</Value>
+            <Value ID="30000233">AVOCADO OIL</Value>
+            <Value ID="30000700">COCONUT OIL</Value>
+            <Value ID="30000718">COLZA OIL</Value>
+            <Value ID="30000722">COMBINATION OILS</Value>
+            <Value ID="30000758">CORN OIL</Value>
+            <Value ID="30000775">COTTONSEED OIL</Value>
+            <Value ID="30001161">GRAPE SEED OIL</Value>
+            <Value ID="30001197">GROUNDNUT/PEANUT OIL</Value>
+            <Value ID="30001272">HOP OIL</Value>
+            <Value ID="30001661">MUSTARD OIL</Value>
+            <Value ID="30001751">PALM OIL</Value>
+            <Value ID="30001891">POPPYSEED OIL</Value>
+            <Value ID="30002010">RICE BRAN OIL</Value>
+            <Value ID="30002089">SAFFLOWER OIL</Value>
+            <Value ID="30002193">SESAME SEED OIL</Value>
+            <Value ID="30002287">SOYBEAN OIL</Value>
+            <Value ID="30002362">SUNFLOWER OIL/FAT</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002539">VEGETABLE OIL</Value>
+            <Value ID="30002583">WALNUT OIL</Value>
+            <Value ID="30002903">OLIVE OIL</Value>
+            <Value ID="30002914">CANOLA OIL</Value>
+            <Value ID="30002989">CASTOR OIL</Value>
+            <Value ID="30016294">AMARANTH OIL</Value>
+            <Value ID="30016295">LINSEED/FLAXSEED OIL</Value>
+            <Value ID="30016296">PUMPKIN SEED OIL</Value>
+            <Value ID="30016297">SEA BUCKTHORN OIL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

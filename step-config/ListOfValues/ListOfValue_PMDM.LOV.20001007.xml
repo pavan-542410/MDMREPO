@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001007" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Watch Accessory/Replacement Part</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007532">WATCH CHAINS</Value>
+            <Value ID="30007533">WATCH GLASS</Value>
+            <Value ID="30007534">WATCH STRAPS</Value>
+            <Value ID="30007535">WATCH TOOLS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

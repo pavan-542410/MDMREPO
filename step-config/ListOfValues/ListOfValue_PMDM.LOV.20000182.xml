@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000182" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Variety of Tea</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000085">KANOY</Value>
+            <Value ID="30000258">BAMBOO</Value>
+            <Value ID="30000567">CEYLON</Value>
+            <Value ID="30000862">DARJEELING</Value>
+            <Value ID="30000918">EARL GREY</Value>
+            <Value ID="30000943">ENGLISH BREAKFAST</Value>
+            <Value ID="30000968">FAN YONG</Value>
+            <Value ID="30001031">FORMOSA OOLONG</Value>
+            <Value ID="30001213">GUNPOWDER</Value>
+            <Value ID="30001343">KEEMUN</Value>
+            <Value ID="30001394">LAPSANG SOUCHONG</Value>
+            <Value ID="30002144">SCENTED ORANGE PEKOE</Value>
+            <Value ID="30002249">SMOKED</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002782">ASSAM</Value>
+            <Value ID="30011280">CHAI</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

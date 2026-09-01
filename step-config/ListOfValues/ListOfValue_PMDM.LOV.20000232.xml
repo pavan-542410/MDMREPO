@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000232" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Differentiating Ingredient</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30000854">DAIRY</Value>
+            <Value ID="30001060">FRUIT</Value>
+            <Value ID="30001093">GAME</Value>
+            <Value ID="30001554">MEAT</Value>
+            <Value ID="30001559">MEAT SUBSTITUTE</Value>
+            <Value ID="30001908">POULTRY</Value>
+            <Value ID="30002205">SHELLFISH</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002835">CHEESE</Value>
+            <Value ID="30002842">VEGETABLE</Value>
+            <Value ID="30003106">AQUATIC INVERTEBRATE</Value>
+            <Value ID="30005669">FISH</Value>
+            <Value ID="30006828">AQUATIC INVERTEBRATE/FISH/SEAFOOD</Value>
+            <Value ID="30007866">FUNGI</Value>
+            <Value ID="30015476">SAUCE ONLY</Value>
+            <Value ID="30015477">MACARONI AND CHEESE</Value>
+            <Value ID="30016023">DOUGH BASED/GRAIN BASED</Value>
+            <Value ID="30016243">EGG PRODUCT</Value>
+            <Value ID="30016245">TOFU</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

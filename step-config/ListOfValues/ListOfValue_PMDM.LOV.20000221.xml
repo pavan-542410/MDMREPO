@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000221" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Smoking Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000219">ASHTRAY</Value>
+            <Value ID="30000670">CIGARETTE HOLDER</Value>
+            <Value ID="30000671">CIGARETTE PACKET HOLDER</Value>
+            <Value ID="30000672">CIGARETTE PAPER</Value>
+            <Value ID="30000674">CIGARETTE ROLLING MACHINE</Value>
+            <Value ID="30001282">HUMIDIFYING DISK/POUCH MOISTURIZER</Value>
+            <Value ID="30001283">HUMIDOR</Value>
+            <Value ID="30001861">PIPE</Value>
+            <Value ID="30001862">PIPE CLEANER</Value>
+            <Value ID="30001863">PIPE STAND</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002667">CIGARETTE TUBE STARTER KIT</Value>
+            <Value ID="30002668">CIGAR SCISSORS</Value>
+            <Value ID="30002972">CIGARETTE ROLLING BOX</Value>
+            <Value ID="30014405">CIGAR CUTTER</Value>
+            <Value ID="30014857">KALIAN</Value>
+            <Value ID="30014858">KALIAN CHARCOAL</Value>
+            <Value ID="30014859">T-BRANCH PIPE</Value>
+            <Value ID="30014860">CIGARETTE FILTER</Value>
+            <Value ID="30017213">CIGARETTE CASE</Value>
+            <Value ID="30017214">CIGAR HOLDER</Value>
+            <Value ID="30017215">FILTERS FOR CIGARETTE HOLDERS</Value>
+            <Value ID="30017216">MOUTHPIECES</Value>
+            <Value ID="30017217">PIPE FILTER</Value>
+            <Value ID="30017218">TIPPED CIGARETTE TUBE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

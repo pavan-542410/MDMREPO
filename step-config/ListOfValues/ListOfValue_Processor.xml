@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="Processor" ParentID="List Of Values group root" AllowUserValueAddition="false" UseValueID="false">
+            <Name>Processor</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>AMD Ryzen</Value>
+            <Value>Intel Core</Value>
+            <Value>Qualcomm Snapdragon</Value>
+            <Value>Samsung Exynos</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

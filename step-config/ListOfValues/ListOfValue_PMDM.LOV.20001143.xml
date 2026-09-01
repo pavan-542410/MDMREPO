@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001143" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Disposable Food Wrap</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011364">PARCHMENT PAPER</Value>
+            <Value ID="30011695">ALUMINIUM FOIL</Value>
+            <Value ID="30011715">CLING FILM</Value>
+            <Value ID="30011716">WAX PAPER</Value>
+            <Value ID="30011717">GREASEPROOF PAPER</Value>
+            <Value ID="30017331">SANDWICH PAPER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

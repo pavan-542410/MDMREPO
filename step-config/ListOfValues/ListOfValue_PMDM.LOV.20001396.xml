@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001396" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Refuse Bag</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005787">DIAPER DISPOSAL BAG</Value>
+            <Value ID="30008728">DUSTBIN LINER</Value>
+            <Value ID="30008729">PEDAL BIN LINER</Value>
+            <Value ID="30008730">WHEELIE BIN LINER</Value>
+            <Value ID="30008731">SWING BIN LINER</Value>
+            <Value ID="30008732">GARDEN SACK</Value>
+            <Value ID="30008733">RUBBLE SACK</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

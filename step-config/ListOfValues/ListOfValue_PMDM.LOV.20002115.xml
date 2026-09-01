@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002115" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Mounting</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001694">NONE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007776">FREESTANDING (MOVABLE)</Value>
+            <Value ID="30009198">FREESTANDING</Value>
+            <Value ID="30009772">CEILING MOUNTED</Value>
+            <Value ID="30009774">WALL MOUNTED (FIXED)</Value>
+            <Value ID="30010728">FLOOR MOUNTED (FIXED)</Value>
+            <Value ID="30010972">DOOR MOUNTED</Value>
+            <Value ID="30011335">WALL RAIL MOUNTING (MOVABLE)</Value>
+            <Value ID="30011336">CEILING RAIL MOUNTING (MOVABLE)</Value>
+            <Value ID="30011708">CUPBOARD MOUNTING</Value>
+            <Value ID="30015582">IN-COUNTERTOP</Value>
+            <Value ID="30017897">RADIATOR MOUNTED</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

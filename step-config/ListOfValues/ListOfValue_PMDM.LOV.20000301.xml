@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000301" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Hair Shampoo</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003951">GLOSSER</Value>
+            <Value ID="30004432">ANTI-BALDNESS TREATMENT</Value>
+            <Value ID="30004439">SPLIT ENDS TREATMENT</Value>
+            <Value ID="30006133">CURL</Value>
+            <Value ID="30006134">STRAIGHTENER</Value>
+            <Value ID="30009566">WITH CONDITIONER</Value>
+            <Value ID="30009567">WITHOUT CONDITIONER</Value>
+            <Value ID="30019025">NO RINSE</Value>
+            <Value ID="30019026">DRY SHAMPOO</Value>
+            <Value ID="30019035">REPAIR</Value>
+            <Value ID="30019036">COMBING/DETANGLER</Value>
+            <Value ID="30019037">VOLUME (VOLUMIZER)</Value>
+            <Value ID="30019038">HUMIDITY</Value>
+            <Value ID="30019039">ANTI-FRIZZ</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000796" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Pet Food/Drink Dispenser</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005782">PET BOWL</Value>
+            <Value ID="30006969">BIRD FEEDER</Value>
+            <Value ID="30006970">PET WATER DISH</Value>
+            <Value ID="30006971">PET DRINKING BOTTLE</Value>
+            <Value ID="30006974">AUTOMATIC PET FEEDER</Value>
+            <Value ID="30006975">AUTOMATIC PET WATER DISH</Value>
+            <Value ID="30006976">AUTOMATIC PET DRINKING BOTTLE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

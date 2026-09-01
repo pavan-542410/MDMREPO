@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001718" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Universal Entertainment Unit</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009775">AUDIO CASSETTE RACK</Value>
+            <Value ID="30009776">AUDIO EQUIPMENT RACK</Value>
+            <Value ID="30009777">CD/DVD RACK</Value>
+            <Value ID="30009778">MULTIMEDIA RACK</Value>
+            <Value ID="30009779">MULTIPURPOSE ENTERTAINMENT UNIT</Value>
+            <Value ID="30009780">TV CABINET</Value>
+            <Value ID="30009781">VIDEO CASSETTE RACK</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

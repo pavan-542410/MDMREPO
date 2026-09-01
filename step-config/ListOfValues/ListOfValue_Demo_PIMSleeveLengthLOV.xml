@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="Demo_PIMSleeveLengthLOV" ParentID="Demo_PIMLOVs" AllowUserValueAddition="false" UseValueID="false">
+            <Name>PIM Sleeve Length LOV</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>Full Sleeves</Value>
+            <Value>Half Sleeves</Value>
+            <Value>Quarter Sleeves</Value>
+            <Value>Sleeveless</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

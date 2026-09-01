@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000227" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Dairy Based Drink</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001593">SHAKE (DRINK)</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003310">FLAVOURED MILK</Value>
+            <Value ID="30006735">WHEY DRINK</Value>
+            <Value ID="30017116">BUTTERMILK</Value>
+            <Value ID="30017118">SOUR MILK</Value>
+            <Value ID="30017931">AYRAN/DOOGH/TAN</Value>
+            <Value ID="30017932">DRINKING YOGURT</Value>
+            <Value ID="30017933">KEFIR</Value>
+            <Value ID="30017934">KUMIS/AIRAG</Value>
+            <Value ID="30017935">LABAN/LEBEN</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

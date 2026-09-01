@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003111" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Food Preparation Equipment</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30018079">RAVIOLIS MOLD</Value>
+            <Value ID="30018130">BASTING SPOON</Value>
+            <Value ID="30018132">ICE-CREAM SCOOP</Value>
+            <Value ID="30018133">JULIENNE CUTTER</Value>
+            <Value ID="30018134">KITCHEN BLOWTORCH</Value>
+            <Value ID="30018135">PASTRY WHEEL</Value>
+            <Value ID="30018136">PIZZA WHEEL</Value>
+            <Value ID="30018137">POTATO FORK</Value>
+            <Value ID="30018138">RAZOR PEELER</Value>
+            <Value ID="30018139">RICE SPOON</Value>
+            <Value ID="30018140">SPAGHETTI SPOON</Value>
+            <Value ID="30018141">SPATULA SCRAPER</Value>
+            <Value ID="30018142">ZESTER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

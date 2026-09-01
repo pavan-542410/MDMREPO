@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.ValidColorSpaces" ParentID="PMDM.LOVG.SystemLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Valid Color Spaces</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="Bitmap">Bitmap</Value>
+            <Value ID="CMYK">CMYK color</Value>
+            <Value ID="Grayscale">Grayscale</Value>
+            <Value ID="Indexed">Indexed color</Value>
+            <Value ID="RGB">RGB color</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

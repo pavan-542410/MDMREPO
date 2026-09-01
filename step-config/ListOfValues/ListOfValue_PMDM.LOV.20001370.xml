@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001370" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Needlework Template</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008621">EMBROIDERY TEMPLATE</Value>
+            <Value ID="30008622">PAPER CLOTHING PATTERN</Value>
+            <Value ID="30008623">KNITTING/CROCHET TEMPLATE</Value>
+            <Value ID="30008624">NEEDLEWORK STENCIL</Value>
+            <Value ID="30008625">PATCHWORK TEMPLATE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

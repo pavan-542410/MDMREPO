@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000160" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Shellfish</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000140">ABALONE</Value>
+            <Value ID="30000381">BLUE CRAB</Value>
+            <Value ID="30000689">CLAM</Value>
+            <Value ID="30000698">COCKLE</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30000730">CONCH</Value>
+            <Value ID="30000796">CRAWFISH</Value>
+            <Value ID="30000925">EDIBLE CRAB</Value>
+            <Value ID="30001441">LIMPET</Value>
+            <Value ID="30001659">MUSSEL</Value>
+            <Value ID="30002142">SCALLOP</Value>
+            <Value ID="30002161">SEA SNAIL</Value>
+            <Value ID="30002223">PRAWN/SHRIMP</Value>
+            <Value ID="30002309">SPIDER CRAB</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002602">WHELK</Value>
+            <Value ID="30002630">WINKLE</Value>
+            <Value ID="30002821">OYSTER</Value>
+            <Value ID="30002933">LOBSTER</Value>
+            <Value ID="30016305">NO SHELLFISH</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

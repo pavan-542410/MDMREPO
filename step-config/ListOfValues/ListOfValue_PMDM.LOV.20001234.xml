@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001234" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Magnifying Factor</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008080">EIGHT TIMES</Value>
+            <Value ID="30008081">TWELVE TIMES</Value>
+            <Value ID="30008082">TWENTY TIMES</Value>
+            <Value ID="30010710">SEVEN TIMES</Value>
+            <Value ID="30010711">THREE TIMES</Value>
+            <Value ID="30010712">FIVE TIMES</Value>
+            <Value ID="30010714">TEN TIMES</Value>
+            <Value ID="30010715">FIFTEEN TIMES</Value>
+            <Value ID="30010716">SIXTEEN TIMES</Value>
+            <Value ID="30010717">EIGHTEEN TIMES</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

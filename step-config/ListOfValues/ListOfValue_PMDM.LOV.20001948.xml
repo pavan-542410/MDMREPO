@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001948" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Neckwear</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010328">BANDANA</Value>
+            <Value ID="30010329">SCARF</Value>
+            <Value ID="30010330">CRAVAT</Value>
+            <Value ID="30010331">NECK TIE</Value>
+            <Value ID="30010332">BOW TIE</Value>
+            <Value ID="30019105">SHAWL</Value>
+            <Value ID="30019106">COLLAR RIBS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

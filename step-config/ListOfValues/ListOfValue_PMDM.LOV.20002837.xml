@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002837" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Variety of Wild Fresh Mushrooms</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30015521">MOUSSERON</Value>
+            <Value ID="30015522">EAR JELLY FUNGI</Value>
+            <Value ID="30015523">SHEEP POLYPORE</Value>
+            <Value ID="30015524">GRISETTE</Value>
+            <Value ID="30015525">SAFFRON MILK-CAP</Value>
+            <Value ID="30015526">GREY MUSHROOM</Value>
+            <Value ID="30015527">WOOD BLEWIT</Value>
+            <Value ID="30015528">NAMEKO</Value>
+            <Value ID="30015529">POMPOM BLANC</Value>
+            <Value ID="30015530">PIED DE MOUTON</Value>
+            <Value ID="30015531">TROMPETTE</Value>
+            <Value ID="30015532">MAITAKE</Value>
+            <Value ID="30015533">ALMOND MUSHROOM</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

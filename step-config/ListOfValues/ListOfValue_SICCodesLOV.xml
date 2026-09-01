@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="SICCodesLOV" ParentID="List Of Values group root" AllowUserValueAddition="false" UseValueID="true">
+            <Name>SIC Codes</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value ID="100">AGRICULTURAL PRODUCTION-CROPS</Value>
+            <Value ID="1000">METAL MINING</Value>
+            <Value ID="1381">DRILLING OIL &amp; GAS WELLS</Value>
+            <Value ID="1531">OPERATIVE BUILDERS</Value>
+            <Value ID="1731">ELECTRICAL WORK</Value>
+            <Value ID="200">AGRICULTURAL PROD-LIVESTOCK &amp; ANIMAL SPECIALTIES</Value>
+            <Value ID="2011">MEAT PACKING PLANTS</Value>
+            <Value ID="2020">DAIRY PRODUCTS</Value>
+            <Value ID="2200">TEXTILE MILL PRODUCTS</Value>
+            <Value ID="2510">HOUSEHOLD FURNITURE</Value>
+            <Value ID="2600">PAPERS &amp; ALLIED PRODUCTS</Value>
+            <Value ID="2732">BOOK PRINTING</Value>
+            <Value ID="3220">GLASS &amp; GLASSWARE, PRESSED OR BLOWN</Value>
+            <Value ID="7331">SERVICES-DIRECT MAIL ADVERTISING SERVICES</Value>
+            <Value ID="8111">SERVICES-LEGAL SERVICES</Value>
+            <Value ID="9721">INTERNATIONAL AFFAIRS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

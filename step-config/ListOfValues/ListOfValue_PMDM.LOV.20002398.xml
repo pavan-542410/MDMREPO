@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002398" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Bricks/Blocks</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002265">SOLID</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011365">PERFORATED</Value>
+            <Value ID="30012335">WIRECUT</Value>
+            <Value ID="30012336">STOCK</Value>
+            <Value ID="30012337">FLETTON</Value>
+            <Value ID="30012338">ENGINEERING</Value>
+            <Value ID="30012339">FROGGED</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000526" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Form</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003669">BAR</Value>
+            <Value ID="30004292">TABLET</Value>
+            <Value ID="30015907">LOG</Value>
+            <Value ID="30015908">FIGURATIVE</Value>
+            <Value ID="30015909">PIECES</Value>
+            <Value ID="30015910">STICK/ROD</Value>
+            <Value ID="30015911">WAFER/PATTY</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

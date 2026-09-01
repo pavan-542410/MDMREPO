@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000454" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Drain Treatment/Pipe Unblockers</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005075">DRAIN TREATMENT/PIPE OPENER - GENERAL USE</Value>
+            <Value ID="30005076">DRAIN TREATMENT/PIPE OPENER - SPECIFIC USE</Value>
+            <Value ID="30005083">CAUSTIC SODA/LYE</Value>
+            <Value ID="30015473">GREASE DIGESTANT</Value>
+            <Value ID="30015474">SANITIZER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

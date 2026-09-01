@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000032" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Chips/Crisps or Snack</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001904">POTATO CHIPS</Value>
+            <Value ID="30001906">POTATO STRAWS</Value>
+            <Value ID="30001907">POTATO WAFERS</Value>
+            <Value ID="30002254">SNACK MIXES</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002740">CORN CHIPS/TORTILLA CHIPS</Value>
+            <Value ID="30003037">POTATO STICKS</Value>
+            <Value ID="30014866">CARROT CRISPS</Value>
+            <Value ID="30014868">PARSNIP CRISPS</Value>
+            <Value ID="30014869">BEETROOT CRISPS</Value>
+            <Value ID="30014872">BANANA CRISPS</Value>
+            <Value ID="30014873">PUMPKIN CRISPS</Value>
+            <Value ID="30014874">PINEAPPLE CRISPS</Value>
+            <Value ID="30016300">RICE BASED CHIPS/CRISPS</Value>
+            <Value ID="30016301">CHIPS BASED FROM POTATO POWDER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

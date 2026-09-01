@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002088" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Component</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000238">BACK</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004594">DOOR</Value>
+            <Value ID="30008175">TOP</Value>
+            <Value ID="30008849">SEAT</Value>
+            <Value ID="30010527">DRAWER</Value>
+            <Value ID="30011238">BASE</Value>
+            <Value ID="30011241">BEDPOST</Value>
+            <Value ID="30011242">BEDHEAD</Value>
+            <Value ID="30011244">ARMREST</Value>
+            <Value ID="30011246">MECHANISM</Value>
+            <Value ID="30011247">CASTOR WHEEL</Value>
+            <Value ID="30011248">COLUMN</Value>
+            <Value ID="30011798">HANDLE</Value>
+            <Value ID="30013270">DRAWER SLIDE</Value>
+            <Value ID="30017138">MATTRESS FOR WATER BEDS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002212" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Household Water Testing Kit</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011679">ALL-IN-ONE DRINKING WATER TEST KIT</Value>
+            <Value ID="30011680">E. COLI BACTERIA DRINKING WATER TEST KIT</Value>
+            <Value ID="30011681">LEAD DRINKING WATER TEST KIT</Value>
+            <Value ID="30011682">PESTICIDES DRINKING WATER TEST KIT</Value>
+            <Value ID="30011683">CHLORINE/HARDNESS DRINKING WATER TEST KIT</Value>
+            <Value ID="30011684">WATER LINE TOTAL DISSOLVED SOLIDS (TDS) METER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

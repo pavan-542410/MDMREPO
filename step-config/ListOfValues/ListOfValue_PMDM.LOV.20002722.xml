@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002722" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>ISO Rating</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30014558">ISO 1</Value>
+            <Value ID="30014559">ISO 2</Value>
+            <Value ID="30014560">ISO 3</Value>
+            <Value ID="30014561">ISO 4</Value>
+            <Value ID="30014562">ISO 5</Value>
+            <Value ID="30014563">ISO 6</Value>
+            <Value ID="30014581">ISO 10</Value>
+            <Value ID="30014582">ISO 20</Value>
+            <Value ID="30014583">ISO 30</Value>
+            <Value ID="30014584">ISO 40</Value>
+            <Value ID="30014585">ISO 48</Value>
+            <Value ID="30015375">ISO 0</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

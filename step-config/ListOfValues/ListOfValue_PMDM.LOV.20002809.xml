@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002809" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Egg Product Pasteurisation</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30015398">PASTEURISED (WITHOUT ENZYME MODIFICATION)</Value>
+            <Value ID="30015399">PASTEURISED (WITH ENZYME MODIFICATION)</Value>
+            <Value ID="30015400">PASTEURISED (USE OF ENZYME MODIFICATION UNKNOWN)</Value>
+            <Value ID="30015401">PASTEURISED (ALTERNATE TREATMENTS)</Value>
+            <Value ID="30015402">UNPASTEURISED</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

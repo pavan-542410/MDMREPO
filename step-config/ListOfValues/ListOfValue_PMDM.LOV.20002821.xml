@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002821" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Product Dispensed</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30015443">SANITARY NAPKINS</Value>
+            <Value ID="30015444">HAND TOWELS</Value>
+            <Value ID="30015445">TOILET SEAT CLEANER</Value>
+            <Value ID="30015446">TOILET SEAT COVER</Value>
+            <Value ID="30015447">SOAP PRODUCTS</Value>
+            <Value ID="30015448">FACIAL TISSUES</Value>
+            <Value ID="30015449">WIPERS</Value>
+            <Value ID="30015450">CLOTHS</Value>
+            <Value ID="30015451">WET WIPES</Value>
+            <Value ID="30015454">PAPER ROLLS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

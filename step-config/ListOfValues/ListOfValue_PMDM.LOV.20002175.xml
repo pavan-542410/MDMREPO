@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002175" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Outdoor Play Structure</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008400">CLIMBING FRAME</Value>
+            <Value ID="30008401">SLIDE</Value>
+            <Value ID="30008402">SWING</Value>
+            <Value ID="30008404">PLAY HOUSE/WENDY HOUSE</Value>
+            <Value ID="30011594">JUMPING CASTLE</Value>
+            <Value ID="30011595">SAND PIT/TABLE</Value>
+            <Value ID="30011596">SWIMMING POOL</Value>
+            <Value ID="30012262">TUNNEL</Value>
+            <Value ID="30012269">OUTDOOR PLAY STRUCTURE SET</Value>
+            <Value ID="30012290">TOY PLAYHOUSE/TENT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003029" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Crop Production Purpose</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000563">CEREAL</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30001060">FRUIT</Value>
+            <Value ID="30001717">OIL</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002790">NUT</Value>
+            <Value ID="30002842">VEGETABLE</Value>
+            <Value ID="30002908">SPICE</Value>
+            <Value ID="30017717">DYE AND TANNING</Value>
+            <Value ID="30017718">EROSION CONTROL</Value>
+            <Value ID="30017719">FAT AND WAX</Value>
+            <Value ID="30017720">FIBERS</Value>
+            <Value ID="30017721">FORAGE, PASTURE AND FEED GRAINS</Value>
+            <Value ID="30017722">GUM AND STARCH</Value>
+            <Value ID="30017723">INSECTICIDE</Value>
+            <Value ID="30017724">PHARMACEUTICAL</Value>
+            <Value ID="30017725">NURTURING</Value>
+            <Value ID="30017726">ORNAMENTAL AND LAWN GRASS</Value>
+            <Value ID="30017727">PROPAGATION</Value>
+            <Value ID="30017728">RESINS AND RUBBER</Value>
+            <Value ID="30017729">SOURCE OF ENERGY</Value>
+            <Value ID="30017730">SPICE AND FLAVOURING</Value>
+            <Value ID="30017731">SWEETENER</Value>
+            <Value ID="30017732">TUBER</Value>
+            <Value ID="30018885">FORAGE, PASTURE AND FEED</Value>
+            <Value ID="30018887">NUTS AND SEEDS</Value>
+            <Value ID="30018888">GREEN MANURE</Value>
+            <Value ID="30018895">EDIBLE FUNGHI</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000761" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Dish Cleaning/Care - Hand</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30006683">MOISTURISING</Value>
+            <Value ID="30006856">ANTI-BACTERIAL</Value>
+            <Value ID="30006857">SENSITIVE SKIN</Value>
+            <Value ID="30015474">SANITIZER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

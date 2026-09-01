@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001491" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Sports Equipment Bag/Case/Cover</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008928">ARROW QUIVER</Value>
+            <Value ID="30009022">BOWLING BALL CASE</Value>
+            <Value ID="30009024">GOLF BAG</Value>
+            <Value ID="30009025">HOCKEY BAG</Value>
+            <Value ID="30009026">RACQUET COVER</Value>
+            <Value ID="30009028">SNOOKER/POOL TABLE COVER</Value>
+            <Value ID="30009029">SNOW BOARD BAG</Value>
+            <Value ID="30009030">TABLE TENNIS TABLE COVER</Value>
+            <Value ID="30010225">DARTS CASE</Value>
+            <Value ID="30011046">GOLF TROLLEY</Value>
+            <Value ID="30011047">CRICKET BAG</Value>
+            <Value ID="30011048">MARTIAL ARTS WEAPON CASE</Value>
+            <Value ID="30011049">FISHING BOX</Value>
+            <Value ID="30011050">TENNIS BALL CART</Value>
+            <Value ID="30011051">AMMUNITION CASE/POUCH</Value>
+            <Value ID="30011052">GUN CASE</Value>
+            <Value ID="30011053">GUN HOLSTER/SLEEVE</Value>
+            <Value ID="30017382">SPORTING BACKPACK</Value>
+            <Value ID="30017383">SPORTING TROLLEY BAG</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

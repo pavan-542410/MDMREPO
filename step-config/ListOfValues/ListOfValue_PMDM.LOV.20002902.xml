@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002902" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Speed Rating</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30013168">F</Value>
+            <Value ID="30015962">A1</Value>
+            <Value ID="30015963">A2</Value>
+            <Value ID="30015964">A6</Value>
+            <Value ID="30015965">A7</Value>
+            <Value ID="30015966">A8</Value>
+            <Value ID="30015967">B</Value>
+            <Value ID="30015968">C</Value>
+            <Value ID="30015969">D</Value>
+            <Value ID="30015970">E</Value>
+            <Value ID="30015971">G</Value>
+            <Value ID="30015972">J</Value>
+            <Value ID="30015973">K</Value>
+            <Value ID="30015974">L</Value>
+            <Value ID="30015975">M</Value>
+            <Value ID="30015976">N</Value>
+            <Value ID="30015977">P</Value>
+            <Value ID="30015978">Q</Value>
+            <Value ID="30015979">R</Value>
+            <Value ID="30015980">S</Value>
+            <Value ID="30015981">T</Value>
+            <Value ID="30015982">U</Value>
+            <Value ID="30015983">H</Value>
+            <Value ID="30015984">V</Value>
+            <Value ID="30015985">W</Value>
+            <Value ID="30015986">(W)</Value>
+            <Value ID="30015987">Y</Value>
+            <Value ID="30015988">(Y)</Value>
+            <Value ID="30015989">Z</Value>
+            <Value ID="30016031">A3</Value>
+            <Value ID="30016032">A4</Value>
+            <Value ID="30016033">A5</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000035" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Chutney or Relish</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000317">BENGALI HOT CHUTNEY</Value>
+            <Value ID="30001064">FRUIT CHUTNEY</Value>
+            <Value ID="30001228">HAMBURGER RELISH</Value>
+            <Value ID="30001277">HOT DOG RELISH</Value>
+            <Value ID="30001278">HOT MANGO RELISH</Value>
+            <Value ID="30001439">LIME CHUTNEY</Value>
+            <Value ID="30001523">MANGO CHUTNEY</Value>
+            <Value ID="30002308">SPICY RELISH</Value>
+            <Value ID="30002459">TOMATO CHUTNEY</Value>
+            <Value ID="30002462">TOMATO RELISH</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002698">SWEET RELISH</Value>
+            <Value ID="30002718">BARBECUE RELISH</Value>
+            <Value ID="30013146">CHILLI CHUTNEY</Value>
+            <Value ID="30017002">OTHER CHUTNEY</Value>
+            <Value ID="30017003">OTHER RELISH</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>
