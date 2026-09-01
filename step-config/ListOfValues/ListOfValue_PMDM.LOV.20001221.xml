@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001221" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Audio Visual Cleaning Product</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008049">VHS CASSETTE HEAD CLEANER</Value>
+            <Value ID="30008050">CD LENS CLEANER</Value>
+            <Value ID="30011127">CASSETTE CLEANING FLUID</Value>
+            <Value ID="30011128">CASSETTE HEAD CLEANING TOOL</Value>
+            <Value ID="30011129">CD/DVD/MD RESTORER POLISH</Value>
+            <Value ID="30011130">AUDIO VISUAL CLEANING WIPE</Value>
+            <Value ID="30013381">MP3 CLEANER</Value>
+            <Value ID="30013416">MINI DV CLEANING CASSETTE</Value>
+            <Value ID="30013515">COMPRESSED AIR CLEANER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

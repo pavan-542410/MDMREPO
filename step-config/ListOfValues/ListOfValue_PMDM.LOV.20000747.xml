@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000747" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Filter</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001683">NO FILTER</Value>
+            <Value ID="30001999">REGULAR FILTER</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30014851">PAPER FILTER</Value>
+            <Value ID="30014852">ACETATE FILTER</Value>
+            <Value ID="30014853">VISCOSE FILTER</Value>
+            <Value ID="30014854">CARBON FILTER</Value>
+            <Value ID="30014855">BIO FILTER</Value>
+            <Value ID="30014856">POLYPROPOLENE FILTER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

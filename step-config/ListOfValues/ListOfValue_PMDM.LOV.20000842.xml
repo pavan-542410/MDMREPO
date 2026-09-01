@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000842" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Measuring/Geometrical Equipment</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007116">GEOMETRY TRIANGLE</Value>
+            <Value ID="30007333">GEOMETRY CALLIPERS</Value>
+            <Value ID="30007335">GEOMETRY CURVE</Value>
+            <Value ID="30007336">GEOMETRY PROTRACTOR</Value>
+            <Value ID="30007337">DESK RULER</Value>
+            <Value ID="30007338">GEOMETRY SET SQUARE</Value>
+            <Value ID="30010951">GEOMETRY COMPASS</Value>
+            <Value ID="30017798">DRAFTING HEAD</Value>
+            <Value ID="30017799">CROSS HATCHING TOOL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

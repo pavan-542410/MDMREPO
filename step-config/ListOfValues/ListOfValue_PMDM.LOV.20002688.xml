@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002688" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Anatomical Form</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000316">BELLY</Value>
+            <Value ID="30000974">FEET</Value>
+            <Value ID="30001114">GIBLET</Value>
+            <Value ID="30001123">GIZZARD</Value>
+            <Value ID="30001246">HEAD</Value>
+            <Value ID="30001452">LIVER</Value>
+            <Value ID="30001673">NECK</Value>
+            <Value ID="30002345">STOMACH</Value>
+            <Value ID="30002397">TAIL</Value>
+            <Value ID="30002433">TESTICLES</Value>
+            <Value ID="30002465">TONGUE</Value>
+            <Value ID="30002483">TRIPE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002709">HEART</Value>
+            <Value ID="30005296">DIAPHRAGM/DIAPHRAGM MUSCLE</Value>
+            <Value ID="30005435">BLOOD</Value>
+            <Value ID="30006681">LIPS</Value>
+            <Value ID="30006766">NOT APPLICABLE</Value>
+            <Value ID="30009315">LUNGS</Value>
+            <Value ID="30013626">BONE</Value>
+            <Value ID="30013627">CARCASS (NON-POULTRY)</Value>
+            <Value ID="30013628">FOREQUARTER</Value>
+            <Value ID="30013629">HINDQUARTER</Value>
+            <Value ID="30013630">WHOLE BIRD</Value>
+            <Value ID="30013631">FAT</Value>
+            <Value ID="30013632">WHOLE MUSCLE - POULTRY PART</Value>
+            <Value ID="30013633">WHOLE MUSCLE - NON POULTRY MEAT PART/PIECE</Value>
+            <Value ID="30013634">WHOLE MUSCLE - PRIMAL</Value>
+            <Value ID="30013635">WHOLE MUSCLE - RIB CUT</Value>
+            <Value ID="30013636">WHOLE MUSCLE - ROAST CUT</Value>
+            <Value ID="30013637">WHOLE MUSCLE - SLICE/CUTLET CUT</Value>
+            <Value ID="30013638">WHOLE MUSCLE - STEAK/CHOP CUT</Value>
+            <Value ID="30013639">WHOLE MUSCLE - SUB-PRIMAL</Value>
+            <Value ID="30013640">TENDONS</Value>
+            <Value ID="30013641">MIXED PARTS FOR GROUNDING/MINCING</Value>
+            <Value ID="30015606">BRAIN</Value>
+            <Value ID="30015607">ESOPHAGUS</Value>
+            <Value ID="30015608">HEAD MEAT/CHEEK MEAT</Value>
+            <Value ID="30015609">HORN</Value>
+            <Value ID="30015610">INTESTINE (LARGE)</Value>
+            <Value ID="30015611">INTESTINE (SMALL)</Value>
+            <Value ID="30015612">MIXED OFFAL</Value>
+            <Value ID="30015613">PANCREAS</Value>
+            <Value ID="30015614">SKIN</Value>
+            <Value ID="30015615">THYMUS</Value>
+            <Value ID="30015616">UTERUS</Value>
+            <Value ID="30015620">KIDNEY</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

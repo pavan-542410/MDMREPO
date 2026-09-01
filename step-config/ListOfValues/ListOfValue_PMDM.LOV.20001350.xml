@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001350" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Sculptors/Pottery Craft Material</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008364">MODELLING CLAY</Value>
+            <Value ID="30008545">AIR HARDENING CLAY</Value>
+            <Value ID="30008546">CARVING MARBLE</Value>
+            <Value ID="30008547">SALT DOUGH</Value>
+            <Value ID="30008548">SCULPTORS ALABASTER</Value>
+            <Value ID="30008549">SCULPTORS CALCITE</Value>
+            <Value ID="30008550">SCULPTORS LIMESTONE</Value>
+            <Value ID="30008551">SCULPTORS SOAPSTONE</Value>
+            <Value ID="30008552">SCULPTORS STEATITE</Value>
+            <Value ID="30012012">WIRE MESH MOULDING</Value>
+            <Value ID="30012013">FOAM MOULDING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

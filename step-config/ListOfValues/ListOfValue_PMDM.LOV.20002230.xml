@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002230" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Ladder</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007104">CONCERTINA</Value>
+            <Value ID="30011743">LADDERS - EXTENSION</Value>
+            <Value ID="30011744">LADDERS - STRAIGHT</Value>
+            <Value ID="30011745">LADDERS - STEP LADDERS</Value>
+            <Value ID="30011746">LADDERS - FOLDING</Value>
+            <Value ID="30012439">SINGLE SECTION</Value>
+            <Value ID="30012441">MULTIPLE SECTION</Value>
+            <Value ID="30019055">LADDERS - TELESCOPIC</Value>
+            <Value ID="30019056">LADDERS - MULTIPURPOSE</Value>
+            <Value ID="30019057">LADDERS - PLATFORM</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

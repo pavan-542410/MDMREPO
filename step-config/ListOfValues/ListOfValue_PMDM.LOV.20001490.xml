@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001490" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Watercraft - Replacement Part/Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009011">ANCHOR</Value>
+            <Value ID="30009013">BOAT COVER</Value>
+            <Value ID="30009014">BOAT HOOK</Value>
+            <Value ID="30009015">BOAT TIE-DOWN</Value>
+            <Value ID="30009018">OAR</Value>
+            <Value ID="30009019">PADDLE</Value>
+            <Value ID="30009020">TOW ROPE</Value>
+            <Value ID="30014456">REPAIR KIT</Value>
+            <Value ID="30014457">INFLATION PUMP</Value>
+            <Value ID="30017345">ANCHOR LINE</Value>
+            <Value ID="30017346">BOAT CLEATS</Value>
+            <Value ID="30017347">BOAT LADDER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

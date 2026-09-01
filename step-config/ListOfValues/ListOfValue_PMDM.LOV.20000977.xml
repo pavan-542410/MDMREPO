@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000977" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Heel Height</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007444">11-30MM</Value>
+            <Value ID="30007445">31-50MM</Value>
+            <Value ID="30007446">51-75MM</Value>
+            <Value ID="30010274">&lt;lt/&gt;=10MM</Value>
+            <Value ID="30010275">&lt;gt/&gt;=76MM</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

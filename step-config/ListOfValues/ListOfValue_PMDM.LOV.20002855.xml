@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002855" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>First Mixed Meat Kind</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30015621">BEEF MEAT</Value>
+            <Value ID="30015622">BISON/BUFFALO MEAT</Value>
+            <Value ID="30015623">CHICKEN MEAT</Value>
+            <Value ID="30015624">DEER MEAT</Value>
+            <Value ID="30015625">DUCK MEAT</Value>
+            <Value ID="30015626">GOAT MEAT</Value>
+            <Value ID="30015627">GOOSE MEAT</Value>
+            <Value ID="30015628">HORSE MEAT</Value>
+            <Value ID="30015629">LAMB MEAT</Value>
+            <Value ID="30015630">MUTTON MEAT</Value>
+            <Value ID="30015631">OSTRICH MEAT</Value>
+            <Value ID="30015632">PORK MEAT</Value>
+            <Value ID="30015633">TURKEY MEAT</Value>
+            <Value ID="30015634">VEAL MEAT</Value>
+            <Value ID="30015748">ALTERNATIVE MEAT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

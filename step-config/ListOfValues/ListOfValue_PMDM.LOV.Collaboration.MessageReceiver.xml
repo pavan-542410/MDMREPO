@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.Collaboration.MessageReceiver" ParentID="PMDM.LOVG.SystemLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Collaboration: Message Receiver</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="Buyer">Buyer Group</Value>
+            <Value ID="DataGovernance">Data Governance Group</Value>
+            <Value ID="Enrichment">Enrichment Group</Value>
+            <Value ID="Image">Image Group</Value>
+            <Value ID="Marketing">Marketing Copy Group</Value>
+            <Value ID="QA">QA Group</Value>
+            <Value ID="Translation">Translation Group</Value>
+            <Value ID="TranslationReview">Translation Review Group</Value>
+            <Value ID="Warehouse">Warehouse Group</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="AVAILABILITY_LOV" ParentID="HIKARI_LOVS" AllowUserValueAddition="false" UseValueID="false">
+            <Name>Availability</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>Discontinued</Value>
+            <Value>In Stock</Value>
+            <Value>Out of Stock</Value>
+            <Value>Pre-order</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002119" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Bound/Unbound</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011367">SPIRAL BOUND</Value>
+            <Value ID="30011368">HEAD BOUND</Value>
+            <Value ID="30011369">SIDE BOUND</Value>
+            <Value ID="30011370">CASE BOUND</Value>
+            <Value ID="30011371">UNBOUND</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

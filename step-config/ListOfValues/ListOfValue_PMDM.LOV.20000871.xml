@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000871" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Calendar/Planner</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007383">ADVENT CALENDAR</Value>
+            <Value ID="30007384">CALENDAR (DESKTOP)</Value>
+            <Value ID="30007385">CALENDAR (WALL)</Value>
+            <Value ID="30011328">YEAR PLANNER (WALL)</Value>
+            <Value ID="30011329">YEAR PLANNER (DESKTOP)</Value>
+            <Value ID="30013449">PHOTO CALENDAR</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

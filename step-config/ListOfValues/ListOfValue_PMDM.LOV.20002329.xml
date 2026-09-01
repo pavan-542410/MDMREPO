@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002329" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Bolt/Lock</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004600">PADLOCK</Value>
+            <Value ID="30012061">AUTOMATIC DEADLOCK</Value>
+            <Value ID="30012062">BOLT/LOCK/KEY KIT/SET</Value>
+            <Value ID="30012064">CYLINDER LOCK</Value>
+            <Value ID="30012066">GATE PADBOLT</Value>
+            <Value ID="30012067">HINGE BOLT</Value>
+            <Value ID="30012068">LEVER LOCK</Value>
+            <Value ID="30012070">MORTISE DEADLOCK</Value>
+            <Value ID="30012071">MORTISE RACK BOLT</Value>
+            <Value ID="30012072">MORTISE WINDOW SASH BOLT</Value>
+            <Value ID="30012074">RECESSED BOLT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

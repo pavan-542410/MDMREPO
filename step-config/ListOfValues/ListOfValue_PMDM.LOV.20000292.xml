@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000292" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of False Nails</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003757">FALSE NAILS GLUE</Value>
+            <Value ID="30003759">FIBREGLASS ACTIVATOR</Value>
+            <Value ID="30003770">FIBREGLASS NOZZLE</Value>
+            <Value ID="30003814">FIBREGLASS RESIN</Value>
+            <Value ID="30003838">STICKER FORM FOR FALSE NAILS</Value>
+            <Value ID="30003886">FALSE NAILS</Value>
+            <Value ID="30004464">FALSE NAILS ACRYLIC MASS</Value>
+            <Value ID="30004465">FALSE NAILS TIPS</Value>
+            <Value ID="30004466">FALSE NAILS UV GEL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

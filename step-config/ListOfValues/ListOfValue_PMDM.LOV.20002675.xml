@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002675" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Primary Additive</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000148">AGAR</Value>
+            <Value ID="30000441">BRINE</Value>
+            <Value ID="30000563">CEREAL</Value>
+            <Value ID="30001060">FRUIT</Value>
+            <Value ID="30001717">OIL</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002749">GELATINE</Value>
+            <Value ID="30002835">CHEESE</Value>
+            <Value ID="30002842">VEGETABLE</Value>
+            <Value ID="30003307">WATER</Value>
+            <Value ID="30013604">BATTER</Value>
+            <Value ID="30013605">BREADING</Value>
+            <Value ID="30013606">GLAZING</Value>
+            <Value ID="30013607">TOPICAL MARINADE</Value>
+            <Value ID="30013608">SAUCE/GRAVY</Value>
+            <Value ID="30013609">SEASONING</Value>
+            <Value ID="30013610">STUFFING/FILLING</Value>
+            <Value ID="30013611">UNFLAVOURED SOLUTION INCORPORATED</Value>
+            <Value ID="30013612">FLAVOURED SOLUTION/MARINADE INCORPORATED</Value>
+            <Value ID="30013613">FLAVOURED SOLUTION/MARINADE INCORPORATED AND TOPICAL MARINADE</Value>
+            <Value ID="30013614">NO ADDED INGREDIENTS</Value>
+            <Value ID="30015999">MARINADE</Value>
+            <Value ID="30016000">SAUCE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001798" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Foldable/Collapsible/Detachable/Retractable</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009978">FOLDABLE</Value>
+            <Value ID="30009979">COLLAPSIBLE</Value>
+            <Value ID="30009980">DETACHABLE</Value>
+            <Value ID="30009981">RETRACTABLE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003093" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Number of Poles</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001694">NONE</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30018005">1 POLE</Value>
+            <Value ID="30018006">2 POLES</Value>
+            <Value ID="30018007">3 POLES</Value>
+            <Value ID="30018008">4 POLES</Value>
+            <Value ID="30018009">5 POLES</Value>
+            <Value ID="30018010">6 POLES</Value>
+            <Value ID="30018011">7 POLES</Value>
+            <Value ID="30018012">8 POLES</Value>
+            <Value ID="30018013">8+ POLES</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

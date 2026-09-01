@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000312" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Dispenser Type</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000255">BALL</Value>
+            <Value ID="30001909">POWDER</Value>
+            <Value ID="30002314">SPONGE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003633">AEROSOL SPRAY/STREAM</Value>
+            <Value ID="30003699">STORAGE BOTTLE</Value>
+            <Value ID="30003713">CAPSULE</Value>
+            <Value ID="30003813">DROPPER</Value>
+            <Value ID="30004131">PATCH</Value>
+            <Value ID="30004166">PUMP</Value>
+            <Value ID="30004198">ROLL ON</Value>
+            <Value ID="30004202">SACHET</Value>
+            <Value ID="30004265">STICK</Value>
+            <Value ID="30004278">STRIP</Value>
+            <Value ID="30004292">TABLET</Value>
+            <Value ID="30004324">TUB/BOX</Value>
+            <Value ID="30004325">TUBE</Value>
+            <Value ID="30004365">WIPE</Value>
+            <Value ID="30004368">WITHOUT DISPENSER</Value>
+            <Value ID="30004666">SHEET</Value>
+            <Value ID="30004915">CARTRIDGE - HANGING</Value>
+            <Value ID="30004916">CARTRIDGE - IN-ROLL</Value>
+            <Value ID="30004973">BRUSH/SPONGE</Value>
+            <Value ID="30005085">IMPREGNATED BRUSH</Value>
+            <Value ID="30005136">ELECTRIC HEATER</Value>
+            <Value ID="30005137">IMPREGNATED WOOD</Value>
+            <Value ID="30005146">OIL BURNER</Value>
+            <Value ID="30005372">PIPETTE</Value>
+            <Value ID="30005580">SYRINGE</Value>
+            <Value ID="30005748">COLLAR</Value>
+            <Value ID="30006687">CUSHION</Value>
+            <Value ID="30006691">BOX/FREE FLOW</Value>
+            <Value ID="30006862">IMPREGNATED PAD</Value>
+            <Value ID="30006863">SPRAY</Value>
+            <Value ID="30006866">BLISTER PACK</Value>
+            <Value ID="30007434">BRUSH</Value>
+            <Value ID="30007664">PEN</Value>
+            <Value ID="30007864">POUCH</Value>
+            <Value ID="30007865">CAN</Value>
+            <Value ID="30010264">SQUEEZE STICK</Value>
+            <Value ID="30010609">ELECTRIC DISPENSER</Value>
+            <Value ID="30010856">BOTTLE</Value>
+            <Value ID="30010857">TUB</Value>
+            <Value ID="30010858">SQUEEZE BOTTLE</Value>
+            <Value ID="30011907">PUMP</Value>
+            <Value ID="30015601">NON AEROSOL SPRAY/STREAM</Value>
+            <Value ID="30017205">PAD</Value>
+            <Value ID="30017247">POLISHING CLOTH</Value>
+            <Value ID="30017268">AMPOULE</Value>
+            <Value ID="30017271">TEABAG</Value>
+            <Value ID="30019043">JAR</Value>
+            <Value ID="30019044">PALETTE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

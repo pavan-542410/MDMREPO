@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002955" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Commercial Type of Wintermelon or Odorless Melons</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005416">CANARY</Value>
+            <Value ID="30014891">BASKAVAS</Value>
+            <Value ID="30014892">BRANCO</Value>
+            <Value ID="30014894">GALIA</Value>
+            <Value ID="30014897">HONEYDEW</Value>
+            <Value ID="30014898">KIRKAGAC</Value>
+            <Value ID="30014900">PIEL DE SAPO</Value>
+            <Value ID="30014901">ROCHET</Value>
+            <Value ID="30016964">TENDRAL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

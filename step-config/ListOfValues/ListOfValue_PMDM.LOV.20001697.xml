@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001697" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Kitchen Knife</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008989">BONING KNIFE</Value>
+            <Value ID="30009713">BREAD KNIFE</Value>
+            <Value ID="30009716">CARVING KNIFE</Value>
+            <Value ID="30009717">CHEESE KNIFE</Value>
+            <Value ID="30009718">FILLETING KNIFE</Value>
+            <Value ID="30009719">MEAT CLEAVER</Value>
+            <Value ID="30009721">OYSTER KNIFE</Value>
+            <Value ID="30009722">FRUIT PARING KNIFE</Value>
+            <Value ID="30009723">SANTOKU KNIFE</Value>
+            <Value ID="30009726">VEGETABLE SLICING KNIFE</Value>
+            <Value ID="30018131">CITRUS FRUIT KNIFE</Value>
+            <Value ID="30018143">BREAD CUTTER AND BASE</Value>
+            <Value ID="30018144">CARVING FORK</Value>
+            <Value ID="30018145">FROZEN FOOD KNIFE</Value>
+            <Value ID="30018146">HAM SLICER KNIFE</Value>
+            <Value ID="30018147">KITCHEN KNIFE</Value>
+            <Value ID="30018148">KITCHEN KNIFE BOX SET</Value>
+            <Value ID="30018149">KNIFE BLOCK SET (WITH KNIVES)</Value>
+            <Value ID="30018150">PARING KNIFE</Value>
+            <Value ID="30018151">VEGETABLE PEELER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000697" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Illumination Type</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005066">FLUORESCENT</Value>
+            <Value ID="30005067">HALOGEN</Value>
+            <Value ID="30006867">INCANDESCENT</Value>
+            <Value ID="30007710">INFRARED</Value>
+            <Value ID="30012485">ULTRAVIOLET (UV)</Value>
+            <Value ID="30012595">NEON</Value>
+            <Value ID="30012629">METAL HALIDE</Value>
+            <Value ID="30012630">MERCURY VAPOUR</Value>
+            <Value ID="30012631">HIGH PRESSURE SODIUM</Value>
+            <Value ID="30012632">LOW PRESSURE SODIUM</Value>
+            <Value ID="30012849">ELECTROMAGNETIC INDUCTION</Value>
+            <Value ID="30016052">LIGHT-EMITTING DIODE (LED)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002650" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Car Audio - Replacement Part/Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007780">ADAPTOR</Value>
+            <Value ID="30010101">PLUG</Value>
+            <Value ID="30012532">COUPLER</Value>
+            <Value ID="30013426">CAR RADIO CONNECTION SET</Value>
+            <Value ID="30013427">CAR RADIO ADAPTOR PLATE</Value>
+            <Value ID="30013450">CAR RADIO UNLOCKING TOOL</Value>
+            <Value ID="30013451">CAR AERIAL CABLE</Value>
+            <Value ID="30013452">BASS REFLEX TUBE</Value>
+            <Value ID="30013453">CAR SPEAKER ADAPTOR PLATE</Value>
+            <Value ID="30013454">CAR HIFI CLIP</Value>
+            <Value ID="30013455">CAR HIFI FUSE</Value>
+            <Value ID="30013456">CAR HIFI FUSE HOLDER</Value>
+            <Value ID="30013457">CAR HIFI FUSE MULTIPLIER</Value>
+            <Value ID="30013458">CAR HIFI GROUND STRAP</Value>
+            <Value ID="30013459">CAR HIFI POWER SPLITTER</Value>
+            <Value ID="30013460">CAR HIFI POWER TERMINAL</Value>
+            <Value ID="30013461">CAR HIFI SOUND PROOFING</Value>
+            <Value ID="30013462">CAR HIFI SUPPRESSOR</Value>
+            <Value ID="30013463">CAR HIFI SWITCHER RELAY</Value>
+            <Value ID="30013464">CAR HIFI ADAPTOR CABLE</Value>
+            <Value ID="30013483">CAR RADIO PLUG</Value>
+            <Value ID="30013484">AERIAL CONNECTOR SET</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

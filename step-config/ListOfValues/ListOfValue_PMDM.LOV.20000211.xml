@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000211" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Vinegar</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000070">BIO VINEGAR</Value>
+            <Value ID="30000256">BALSAMIC VINEGAR</Value>
+            <Value ID="30000665">CIDER VINEGAR</Value>
+            <Value ID="30000884">DISTILLED VINEGAR</Value>
+            <Value ID="30001075">FRUIT VINEGAR</Value>
+            <Value ID="30001898">PORT WINE VINEGAR</Value>
+            <Value ID="30002013">RICE VINEGAR</Value>
+            <Value ID="30002306">SPICED VINEGAR</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002628">WINE VINEGAR</Value>
+            <Value ID="30002643">SHERRY VINEGAR</Value>
+            <Value ID="30002679">MALT VINEGAR</Value>
+            <Value ID="30002753">JAPANESE SAKE VINEGAR</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001016" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Computer/Video Game Filter/Cover</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007565">KEYBOARD COVER</Value>
+            <Value ID="30007566">MONITOR COVER</Value>
+            <Value ID="30007567">PERSONAL COMPUTER (PC) COVER</Value>
+            <Value ID="30007568">SCREEN FILTER</Value>
+            <Value ID="30013382">MP3 DISPLAY PROTECTION</Value>
+            <Value ID="30013391">MOBILE PHONE DISPLAY PROTECTION</Value>
+            <Value ID="30013392">PHOTO/VIDEO DISPLAY PROTECTION</Value>
+            <Value ID="30013393">PNA (PHONELINE NETWORKING ALLIANCE) DISPLAY PROTECTION</Value>
+            <Value ID="30013574">PLASMA TELEVISION SCREEN COVER</Value>
+            <Value ID="30013575">UNIVERSAL DUST COVER</Value>
+            <Value ID="30013576">UNIVERSAL PROTECTIVE SCREEN FOIL</Value>
+            <Value ID="30014391">GPS EQUIPMENT PROTECTION</Value>
+            <Value ID="30014392">E BOOK READERS PROTECTION</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

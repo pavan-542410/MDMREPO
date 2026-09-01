@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000381" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Oral Care - Aids (Non Powered)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003778">DENTAL SCALER</Value>
+            <Value ID="30003915">FLOSS BRUSH</Value>
+            <Value ID="30003917">FLOSS/TAPE</Value>
+            <Value ID="30003918">FLOSSER</Value>
+            <Value ID="30003921">FLUORIDE TREATMENT</Value>
+            <Value ID="30003956">GUM CLEANING BRUSH</Value>
+            <Value ID="30003957">GUM PROTECTOR</Value>
+            <Value ID="30003958">GUM STIMULATOR</Value>
+            <Value ID="30003998">INTERDENTAL BRUSH</Value>
+            <Value ID="30004115">ORAL IRRIGATOR</Value>
+            <Value ID="30004262">STAIN DISCLOSER</Value>
+            <Value ID="30004308">TONGUE CLEANSER</Value>
+            <Value ID="30004313">TOOTH BRUSH</Value>
+            <Value ID="30004317">TOOTHPICK</Value>
+            <Value ID="30004363">WHITENING SYSTEM</Value>
+            <Value ID="30006688">WHITENING TAPE</Value>
+            <Value ID="30006689">WHITENING FLUID</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002685" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Llama/Alpaca Cut</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30014127">BLADE (UNECE 600121)</Value>
+            <Value ID="30014128">BOLAR BLADE (UNECE 600122)</Value>
+            <Value ID="30014129">BRISKET POINT (UNECE 600123)</Value>
+            <Value ID="30014130">CARCASS (UNECE 600010)</Value>
+            <Value ID="30014131">CHOP (UNECE 600081)</Value>
+            <Value ID="30014132">CUBE ROLL (UNECE 600125)</Value>
+            <Value ID="30014133">EYE OF RUMP (UNECE 600171)</Value>
+            <Value ID="30014134">EYS ROUND (UNECE 600172)</Value>
+            <Value ID="30014135">FOREQUARTER (UNECE 600020)</Value>
+            <Value ID="30014136">INSIDE (UNECE 600173)</Value>
+            <Value ID="30014137">KIDNEY (UNECE 600210)</Value>
+            <Value ID="30014138">KNUCKLE (UNECE 600175)</Value>
+            <Value ID="30014139">NECK (UNECE 600040)</Value>
+            <Value ID="30014140">NECK CHOP (UNECE 600041)</Value>
+            <Value ID="30014141">OUTSIDE (UNECE 600176)</Value>
+            <Value ID="30014142">PALLET CHOP (UNECE 600051)</Value>
+            <Value ID="30014143">RIBS (UNECE 600090)</Value>
+            <Value ID="30014144">RUMP (TAIL OFF) (UNECE 600178)</Value>
+            <Value ID="30014145">SHIN/SHANK (UNECE 600152)</Value>
+            <Value ID="30014146">SIDE (UNECE 600011)</Value>
+            <Value ID="30014147">STRIPLOIN (UNECE 600181)</Value>
+            <Value ID="30014148">TENDERLOIN (UNECE 600182)</Value>
+            <Value ID="30014149">THIN FLANK (UNECE 600131)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

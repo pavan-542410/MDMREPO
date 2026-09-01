@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001008" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Window Installation</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003905">FIXED</Value>
+            <Value ID="30011825">TRANSOM</Value>
+            <Value ID="30011826">SIDELIGHT</Value>
+            <Value ID="30011828">AWNING</Value>
+            <Value ID="30011829">CASEMENT</Value>
+            <Value ID="30011830">DOUBLE-HUNG</Value>
+            <Value ID="30011831">PICTURE</Value>
+            <Value ID="30011832">SINGLE-HUNG</Value>
+            <Value ID="30011833">SLIDER</Value>
+            <Value ID="30011834">TRIPLE-ACTING</Value>
+            <Value ID="30011853">PICTURE/CASEMENT FLANKER</Value>
+            <Value ID="30011854">PICTURE/DOUBLE HUNG FLANKER</Value>
+            <Value ID="30011855">AWNING/FIXED COMBINATION</Value>
+            <Value ID="30011856">AWNING/PICTURE COMBINATION</Value>
+            <Value ID="30011857">CASEMENT/PICTURE COMBINATION</Value>
+            <Value ID="30011858">DOUBLE HUNG/PICTURE COMBINATION</Value>
+            <Value ID="30011859">SLIDER/FIXED COMBINATION</Value>
+            <Value ID="30011860">SLIDER/PICTURE COMBINATION</Value>
+            <Value ID="30011866">VENTING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

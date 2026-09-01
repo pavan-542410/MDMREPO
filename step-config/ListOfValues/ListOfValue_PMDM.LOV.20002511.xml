@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002511" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Cable Clip/Grommet/Tie</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007863">CLIP</Value>
+            <Value ID="30010559">TIE</Value>
+            <Value ID="30012615">GROMMET</Value>
+            <Value ID="30012616">GROMMET EDGING</Value>
+            <Value ID="30012617">HANGER</Value>
+            <Value ID="30012934">CABLE TIE MOUNT</Value>
+            <Value ID="30012949">WIRE LACING CORD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

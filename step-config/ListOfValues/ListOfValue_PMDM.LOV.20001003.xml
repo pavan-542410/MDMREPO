@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001003" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Rucksack/Backpack/Holdall</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007527">TROLLEY BAG</Value>
+            <Value ID="30010265">BABY PRODUCT HOLDALL</Value>
+            <Value ID="30010342">TOTE BAG</Value>
+            <Value ID="30010352">RUCKSACK</Value>
+            <Value ID="30010353">BACKPACK</Value>
+            <Value ID="30010354">HOLDALL</Value>
+            <Value ID="30010356">MOUNTAINEERING SACK</Value>
+            <Value ID="30017376">DUFFEL BAG</Value>
+            <Value ID="30017377">FLEXIBLE TROLLEY BAG</Value>
+            <Value ID="30017378">MESSENGER BAG</Value>
+            <Value ID="30017379">RIGID TROLLEY BAG</Value>
+            <Value ID="30017380">TRAVEL BACKPACK</Value>
+            <Value ID="30017381">TRAVEL DUFFEL BAG</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

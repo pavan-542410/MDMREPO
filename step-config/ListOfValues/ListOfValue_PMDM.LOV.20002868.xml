@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002868" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>If Flavoured or Mixed with Juices, Soft Drinks or Other Ingredients</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30015708">NO, BEER ONLY</Value>
+            <Value ID="30015709">MIXED BEER DRINKS</Value>
+            <Value ID="30015710">FLAVOURED BEER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

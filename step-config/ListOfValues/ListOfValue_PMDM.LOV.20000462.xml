@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000462" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Shoe Cleaning/Care Preparation</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004967">SHOE CLEANER</Value>
+            <Value ID="30004971">SHOE POLISH</Value>
+            <Value ID="30005122">SHOE PROOFER</Value>
+            <Value ID="30011775">SHOE DEODORANT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

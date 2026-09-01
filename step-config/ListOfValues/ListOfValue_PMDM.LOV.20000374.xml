@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000374" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Hair Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003941">BARRETTE</Value>
+            <Value ID="30003971">BUN HOLDER WITH A SKEWER</Value>
+            <Value ID="30003976">DECORATIVE COMB</Value>
+            <Value ID="30004004">FORK/PRONG</Value>
+            <Value ID="30004010">GEM/MAGNET</Value>
+            <Value ID="30004024">HAIR CLIP</Value>
+            <Value ID="30004050">HEADBAND</Value>
+            <Value ID="30004055">PONYTAIL HOLDER</Value>
+            <Value ID="30004060">HAIR NET</Value>
+            <Value ID="30004157">WIG/TOUPEE STAND</Value>
+            <Value ID="30005979">HAIR PIN</Value>
+            <Value ID="30005980">HAIR STICK/SPIKE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

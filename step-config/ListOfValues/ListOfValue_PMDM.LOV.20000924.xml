@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000924" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Paper/Card - Unprinted</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011356">ADDING MACHINE ROLL</Value>
+            <Value ID="30011357">LASER PRINTING PAPER</Value>
+            <Value ID="30011358">INKJET PAPER (MONO-COLOUR PRINTING)</Value>
+            <Value ID="30011359">INKJET PAPER (MULTI-COLOUR PRINTING)</Value>
+            <Value ID="30011360">COPIER PAPER (MONO-COLOUR PRINTING)</Value>
+            <Value ID="30011361">COPIER PAPER (MULTI-COLOUR PRINTING)</Value>
+            <Value ID="30011362">MULTIFUNCTIONAL PAPER/CARD</Value>
+            <Value ID="30011363">COMPUTER PRINTOUT LISTING PAPER</Value>
+            <Value ID="30017329">CASH REGISTER ROLL</Value>
+            <Value ID="30017330">THERMAL PRINTING PAPER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

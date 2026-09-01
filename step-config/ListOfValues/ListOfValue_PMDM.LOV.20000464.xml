@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000464" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Footwear Replacement Part/Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004980">SHOE BRUSH</Value>
+            <Value ID="30004981">SHOE HORN</Value>
+            <Value ID="30004983">SHOE SHAPER</Value>
+            <Value ID="30004984">SHOE SPONGE</Value>
+            <Value ID="30004985">SHOE TREE</Value>
+            <Value ID="30007399">SHOE LACE</Value>
+            <Value ID="30007438">HEEL CAPS</Value>
+            <Value ID="30011774">ATHLETIC SHOE STUDS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

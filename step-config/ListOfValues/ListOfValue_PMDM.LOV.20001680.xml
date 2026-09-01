@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001680" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Hob Pot/Pan/Wok/Cocotte</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009659">HOB POT/SAUCEPAN</Value>
+            <Value ID="30009660">EGG POACHER</Value>
+            <Value ID="30009662">FRYING PAN</Value>
+            <Value ID="30009663">STEAMER</Value>
+            <Value ID="30009664">WOK (NON POWERED)</Value>
+            <Value ID="30011975">HOB GRIDDLE</Value>
+            <Value ID="30012952">PRESSURE COOKER (NON POWERED)</Value>
+            <Value ID="30018101">ASPARAGUS STEAMER</Value>
+            <Value ID="30018102">BAIN-MARIE</Value>
+            <Value ID="30018103">COUSCOUSSIER/STEAMER</Value>
+            <Value ID="30018104">CREPE PAN</Value>
+            <Value ID="30018105">DEEP FRYING PAN</Value>
+            <Value ID="30018106">DEEP SAUCEPAN</Value>
+            <Value ID="30018107">FISH PAN</Value>
+            <Value ID="30018108">FISHKETTLE</Value>
+            <Value ID="30018109">PAELLA PAN</Value>
+            <Value ID="30018110">PASTA COOKER BASKET</Value>
+            <Value ID="30018111">PASTA COOKER SET</Value>
+            <Value ID="30018112">PASTA POT</Value>
+            <Value ID="30018113">SAUCEPAN</Value>
+            <Value ID="30018114">SAUCIER</Value>
+            <Value ID="30018115">SAUTE PAN STRAIGHT &amp; CONICAL</Value>
+            <Value ID="30018359">BLINI PAN</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

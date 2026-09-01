@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002934" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Commercial Types of Chili Peppers</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000557">CAYENNE PEPPER</Value>
+            <Value ID="30001319">JALAPENO PEPPER</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30016314">ANCHO</Value>
+            <Value ID="30016315">BIRD'S EYE</Value>
+            <Value ID="30016316">CAPSICUM BACCATUM</Value>
+            <Value ID="30016317">CHERRY CHILI PEPPER</Value>
+            <Value ID="30016318">DORSET NAGA</Value>
+            <Value ID="30016319">FATALII</Value>
+            <Value ID="30016320">FRESNO</Value>
+            <Value ID="30016321">HABANERO</Value>
+            <Value ID="30016322">MADAME JEANETTE</Value>
+            <Value ID="30016323">MANZANO</Value>
+            <Value ID="30016324">NAGA JOLOKIA</Value>
+            <Value ID="30016325">NAGA VIPER</Value>
+            <Value ID="30016326">PASILLA</Value>
+            <Value ID="30016327">PIQUIN</Value>
+            <Value ID="30016328">POBLANO</Value>
+            <Value ID="30016329">PRIK-CHEE-FAH</Value>
+            <Value ID="30016330">SCOTCH BONNET</Value>
+            <Value ID="30016331">SERRANO</Value>
+            <Value ID="30016332">TABASCO</Value>
+            <Value ID="30016333">TRINIDAD SCORPION</Value>
+            <Value ID="30016334">X'CATIK</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000072" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Fortified Wine</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001485">MADEIRA</Value>
+            <Value ID="30001499">MALAGA</Value>
+            <Value ID="30001542">MARSALA</Value>
+            <Value ID="30001630">MOSCATEL</Value>
+            <Value ID="30001896">PORT</Value>
+            <Value ID="30002207">SHERRY</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002551">VERMOUTH</Value>
+            <Value ID="30002564">VIN DOUX NATURELS (VDN)</Value>
+            <Value ID="30003054">MUSCAT DE BEAUMES DE VENISE</Value>
+            <Value ID="30003055">MUSCAT DE FRONTIGNAN</Value>
+            <Value ID="30003056">MUSCAT DE LUNEL</Value>
+            <Value ID="30003057">MUSCAT DE MIREVAL</Value>
+            <Value ID="30003058">MUSCAT DE RIVESALTES</Value>
+            <Value ID="30003059">MUSCAT DE ST JEAN DE MINERVOIS</Value>
+            <Value ID="30015743">ICE WINE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

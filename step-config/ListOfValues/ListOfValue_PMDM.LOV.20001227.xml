@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001227" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Format of Photographic Film</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008055">120MM</Value>
+            <Value ID="30008056">127MM</Value>
+            <Value ID="30008057">135MM</Value>
+            <Value ID="30008058">240MM</Value>
+            <Value ID="30008059">DISC FILM</Value>
+            <Value ID="30008060">INSTANT FILM</Value>
+            <Value ID="30008061">RAPID FILM</Value>
+            <Value ID="30010719">35 MM FILM</Value>
+            <Value ID="30010720">ADVANCED PHOTO SYSTEM (APS)</Value>
+            <Value ID="30017815">MEDIUM FORMAT FILM</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

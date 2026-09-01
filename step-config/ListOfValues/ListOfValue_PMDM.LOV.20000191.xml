@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000191" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Cereal/Grain</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000277">BARLEY</Value>
+            <Value ID="30000423">BRAN</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30000725">COMMON WHEAT</Value>
+            <Value ID="30000755">CORN</Value>
+            <Value ID="30000783">COUSCOUS</Value>
+            <Value ID="30000789">CRACKED WHEAT</Value>
+            <Value ID="30000917">DURUM WHEAT</Value>
+            <Value ID="30001338">KAMUT</Value>
+            <Value ID="30001446">LINSEED</Value>
+            <Value ID="30001496">MAIZE</Value>
+            <Value ID="30001607">MIXED CEREAL</Value>
+            <Value ID="30001610">MIXED GRAIN</Value>
+            <Value ID="30001643">MUESLI</Value>
+            <Value ID="30001712">OATS</Value>
+            <Value ID="30001890">POPPY SEED/WHEAT</Value>
+            <Value ID="30002007">RICE</Value>
+            <Value ID="30002080">RYE</Value>
+            <Value ID="30002081">RYE/WHEAT</Value>
+            <Value ID="30002085">RYE FULL GRAIN</Value>
+            <Value ID="30002184">SEMOLINA</Value>
+            <Value ID="30002189">SESAME/WHEAT</Value>
+            <Value ID="30002263">SOFT WHEAT</Value>
+            <Value ID="30002279">SOY FLOUR</Value>
+            <Value ID="30002303">SPELT</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002597">WHEAT</Value>
+            <Value ID="30002599">WHEAT FLOUR TYPE 0</Value>
+            <Value ID="30002601">WHEATGERM</Value>
+            <Value ID="30002617">WHITE WHEAT</Value>
+            <Value ID="30002697">POLENTA</Value>
+            <Value ID="30002774">WHOLE GRAIN</Value>
+            <Value ID="30002776">WHOLE WHEAT</Value>
+            <Value ID="30002778">WHOLEMEAL</Value>
+            <Value ID="30002799">WHEAT MEAL</Value>
+            <Value ID="30003243">OAT</Value>
+            <Value ID="30006652">SOY</Value>
+            <Value ID="30017091">MILLET SEEDS</Value>
+            <Value ID="30017120">MULTIGRAIN</Value>
+            <Value ID="30018957">EMMER WHEAT</Value>
+            <Value ID="30018958">EINKORN WHEAT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001938" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Jacket/Blazer/Cardigan/Waistcoat</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008168">COAT</Value>
+            <Value ID="30010288">JACKET</Value>
+            <Value ID="30010289">BLAZER</Value>
+            <Value ID="30010290">CARDIGAN</Value>
+            <Value ID="30010291">WAISTCOAT</Value>
+            <Value ID="30017159">BOMBER JACKET</Value>
+            <Value ID="30017160">PARKA</Value>
+            <Value ID="30017161">PONCHO</Value>
+            <Value ID="30017162">SPORTS JACKET/COAT</Value>
+            <Value ID="30017164">SWEAT JACKET/HOODIE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

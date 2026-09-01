@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.ProductRatingSource" ParentID="PMDM.LOVG.ProductAttributeLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Product Rating Source</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value ID="BeerAdvocate">BeerAdvocate</Value>
+            <Value ID="Decanter">Decanter</Value>
+            <Value ID="James Suckling">James Suckling</Value>
+            <Value ID="Whisky Advocate">Whisky Advocate</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

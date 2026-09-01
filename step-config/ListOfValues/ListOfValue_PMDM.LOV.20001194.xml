@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001194" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Audio Mixer</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007943">2 CHANNELS</Value>
+            <Value ID="30007944">3 CHANNELS</Value>
+            <Value ID="30007945">4 CHANNELS</Value>
+            <Value ID="30007946">5 CHANNELS</Value>
+            <Value ID="30007947">6 CHANNELS</Value>
+            <Value ID="30007948">7 CHANNELS</Value>
+            <Value ID="30007949">8 CHANNELS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

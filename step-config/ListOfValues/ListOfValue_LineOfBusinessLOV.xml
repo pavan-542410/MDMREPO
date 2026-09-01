@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="LineOfBusinessLOV" ParentID="List Of Values group root" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Line Of Business LOV</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value ID="Agricultural Chemicals, Nec">Agricultural Chemicals, Nec</Value>
+            <Value ID="Alkalies And Chlorine">Alkalies And Chlorine</Value>
+            <Value ID="Apparel And Accessories, Nec">Apparel And Accessories, Nec</Value>
+            <Value ID="Bags: Plastic, Laminated, And Coated">Bags: Plastic, Laminated, And Coated</Value>
+            <Value ID="Biological Products, Except Diagnostic">Biological Products, Except Diagnostic</Value>
+            <Value ID="Boatbuilding And Repairing">Boatbuilding And Repairing</Value>
+            <Value ID="Book Publishing">Book Publishing</Value>
+            <Value ID="Bottled And Canned Soft Drinks">Bottled And Canned Soft Drinks</Value>
+            <Value ID="Broadwoven Fabric Mills, Manmade">Broadwoven Fabric Mills, Manmade</Value>
+            <Value ID="Canned Fruits And Specialties">Canned Fruits And Specialties</Value>
+            <Value ID="Carpets And Rugs">Carpets And Rugs</Value>
+            <Value ID="Coated Fabrics, Not Rubberized">Coated Fabrics, Not Rubberized</Value>
+            <Value ID="Commercial Printing, Lithographic">Commercial Printing, Lithographic</Value>
+            <Value ID="Commercial Printing, Nec">Commercial Printing, Nec</Value>
+            <Value ID="Computer Peripheral Equipment, Nec">Computer Peripheral Equipment, Nec</Value>
+            <Value ID="Concrete Products, Nec">Concrete Products, Nec</Value>
+            <Value ID="Construction Machinery">Construction Machinery</Value>
+            <Value ID="Consumer Charcoal">Consumer Charcoal</Value>
+            <Value ID="Costume Jewelry">Costume Jewelry</Value>
+            <Value ID="Current-Carrying Wiring Devices">Current-Carrying Wiring Devices</Value>
+            <Value ID="Curtains And Draperies">Curtains And Draperies</Value>
+            <Value ID="Dental Equipment And Supplies">Dental Equipment And Supplies</Value>
+            <Value ID="Diagnostic Substances">Diagnostic Substances</Value>
+            <Value ID="Dry, Condensed And Evaporated Dairy Products">Dry, Condensed And Evaporated Dairy Products</Value>
+            <Value ID="Electrical Equipment And Supplies, Nec">Electrical Equipment And Supplies, Nec</Value>
+            <Value ID="Electronic Coils And Transformers">Electronic Coils And Transformers</Value>
+            <Value ID="Electronic Computers">Electronic Computers</Value>
+            <Value ID="Fabric Dress And Work Gloves">Fabric Dress And Work Gloves</Value>
+            <Value ID="Fabricated Metal Products, Nec">Fabricated Metal Products, Nec</Value>
+            <Value ID="Fabricated Rubber Products, Nec">Fabricated Rubber Products, Nec</Value>
+            <Value ID="Fabricated Structural Metal">Fabricated Structural Metal</Value>
+            <Value ID="Flavoring Extracts And Syrups, Nec">Flavoring Extracts And Syrups, Nec</Value>
+            <Value ID="Fluid Milk">Fluid Milk</Value>
+            <Value ID="Food Preparations, Nec">Food Preparations, Nec</Value>
+            <Value ID="Food Products Machinery">Food Products Machinery</Value>
+            <Value ID="Gypsum Products">Gypsum Products</Value>
+            <Value ID="Hardware, Nec">Hardware, Nec</Value>
+            <Value ID="Household Cleaning Supplies">Household Cleaning Supplies</Value>
+            <Value ID="Industrial Inorganic Chemicals, Nec">Industrial Inorganic Chemicals, Nec</Value>
+            <Value ID="Industrial Machinery, Nec">Industrial Machinery, Nec</Value>
+            <Value ID="Jewelry, Precious Metal">Jewelry, Precious Metal</Value>
+            <Value ID="Knitting Mills, Nec">Knitting Mills, Nec</Value>
+            <Value ID="Lace And Warp Knit Fabric Mills">Lace And Warp Knit Fabric Mills</Value>
+            <Value ID="Leather Goods, Nec">Leather Goods, Nec</Value>
+            <Value ID="Machine Tools, Metal Cutting Type">Machine Tools, Metal Cutting Type</Value>
+            <Value ID="Magnetic And Optical Recording Media">Magnetic And Optical Recording Media</Value>
+            <Value ID="Manifold Business Forms">Manifold Business Forms</Value>
+            <Value ID="Manufacturing Industries, Nec">Manufacturing Industries, Nec</Value>
+            <Value ID="Meat Packing Plants">Meat Packing Plants</Value>
+            <Value ID="Metal Coating And Allied Services">Metal Coating And Allied Services</Value>
+            <Value ID="Metal Foil And Leaf">Metal Foil And Leaf</Value>
+            <Value ID="Metal Stampings, Nec">Metal Stampings, Nec</Value>
+            <Value ID="Millwork">Millwork</Value>
+            <Value ID="Miscellaneous Metalwork">Miscellaneous Metalwork</Value>
+            <Value ID="Miscellaneous Publishing">Miscellaneous Publishing</Value>
+            <Value ID="Musical Instruments">Musical Instruments</Value>
+            <Value ID="Narrow Fabric Mills">Narrow Fabric Mills</Value>
+            <Value ID="Newspapers">Newspapers</Value>
+            <Value ID="Nitrogenous Fertilizers">Nitrogenous Fertilizers</Value>
+            <Value ID="Nonclay Refractories">Nonclay Refractories</Value>
+            <Value ID="Nonferrous Die-Castings Except Aluminum">Nonferrous Die-Castings Except Aluminum</Value>
+            <Value ID="Nonferrous Foundries, Nec">Nonferrous Foundries, Nec</Value>
+            <Value ID="Ordnance And Accessories, Nec">Ordnance And Accessories, Nec</Value>
+            <Value ID="Paints And Allied Products">Paints And Allied Products</Value>
+            <Value ID="Paper Mills">Paper Mills</Value>
+            <Value ID="Periodicals">Periodicals</Value>
+            <Value ID="Pharmaceutical Preparations">Pharmaceutical Preparations</Value>
+            <Value ID="Plastics Products, Nec">Plastics Products, Nec</Value>
+            <Value ID="Printed Circuit Boards">Printed Circuit Boards</Value>
+            <Value ID="Printing Ink">Printing Ink</Value>
+            <Value ID="Professional Grade Cleaning Supplies">Professional Grade Cleaning Supplies</Value>
+            <Value ID="Radio And T.V. Communications Equipment">Radio And T.V. Communications Equipment</Value>
+            <Value ID="Rubber And Plastics Hose And Beltings">Rubber And Plastics Hose And Beltings</Value>
+            <Value ID="Sausages And Other Prepared Meats">Sausages And Other Prepared Meats</Value>
+            <Value ID="Service Industry Machinery, Nec">Service Industry Machinery, Nec</Value>
+            <Value ID="Sheet Metalwork">Sheet Metalwork</Value>
+            <Value ID="Shipbuilding And Repairing">Shipbuilding And Repairing</Value>
+            <Value ID="Signs And Advertising Specialties">Signs And Advertising Specialties</Value>
+            <Value ID="Silverware And Plated Ware">Silverware And Plated Ware</Value>
+            <Value ID="Small Arms">Small Arms</Value>
+            <Value ID="Special Dies, Tools, Jigs, And Fixtures">Special Dies, Tools, Jigs, And Fixtures</Value>
+            <Value ID="Special Industry Machinery, Nec">Special Industry Machinery, Nec</Value>
+            <Value ID="Sporting And Athletic Goods, Nec">Sporting And Athletic Goods, Nec</Value>
+            <Value ID="Surgical And Medical Instruments">Surgical And Medical Instruments</Value>
+            <Value ID="Switchgear And Switchboard Apparatus">Switchgear And Switchboard Apparatus</Value>
+            <Value ID="Toilet Preparations">Toilet Preparations</Value>
+            <Value ID="Transformers, Except Electric">Transformers, Except Electric</Value>
+            <Value ID="Women's And Misses' Outerwear, Nec">Women's And Misses' Outerwear, Nec</Value>
+            <Value ID="Women's Handbags And Purses">Women's Handbags And Purses</Value>
+            <Value ID="Women's, Junior's, And Misses' Dresses">Women's, Junior's, And Misses' Dresses</Value>
+            <Value ID="Wood Partitions And Fixtures">Wood Partitions And Fixtures</Value>
+            <Value ID="Wood Products, Nec">Wood Products, Nec</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

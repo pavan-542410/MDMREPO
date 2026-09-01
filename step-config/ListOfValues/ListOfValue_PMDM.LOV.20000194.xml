@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000194" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Coating/Filling</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000171">ALMOND NUTS</Value>
+            <Value ID="30000601">CHERRY</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30001126">GLACE ICING</Value>
+            <Value ID="30001225">HAM</Value>
+            <Value ID="30001268">HONEY</Value>
+            <Value ID="30001544">MARZIPAN</Value>
+            <Value ID="30002103">SALT</Value>
+            <Value ID="30002174">SEEDS</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002531">VANILLA</Value>
+            <Value ID="30002700">WAFER</Value>
+            <Value ID="30002827">JAM</Value>
+            <Value ID="30002835">CHEESE</Value>
+            <Value ID="30002908">SPICE</Value>
+            <Value ID="30002925">SUGAR</Value>
+            <Value ID="30003032">CHOCOLATE COATED</Value>
+            <Value ID="30003279">RAISINS</Value>
+            <Value ID="30014343">CREAM FILLING</Value>
+            <Value ID="30017151">CHOCOLATE/FRUIT PASTE COMBINATION</Value>
+            <Value ID="30017152">FRUIT FILLING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

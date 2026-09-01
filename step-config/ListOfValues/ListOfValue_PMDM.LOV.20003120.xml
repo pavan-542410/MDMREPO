@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003120" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Flat Serving Platters</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30018276">CAKE PLATE</Value>
+            <Value ID="30018277">CAKE TRAY/PIZZA PLATTER</Value>
+            <Value ID="30018278">CHEESE PLATE/CHEESE BOARD</Value>
+            <Value ID="30018279">FISH PLATE/OVAL PLATE</Value>
+            <Value ID="30018280">PRESENTATION PLATE</Value>
+            <Value ID="30018281">SEAFOOD TRAY</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

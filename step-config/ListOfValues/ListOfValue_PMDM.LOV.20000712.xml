@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000712" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Flavoured Drink</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003067">FRUIT FLAVOURED</Value>
+            <Value ID="30006718">BEVERAGE SYRUP</Value>
+            <Value ID="30006719">BITTER FRUIT/HERB</Value>
+            <Value ID="30006720">COLA</Value>
+            <Value ID="30006721">TONIC WATER</Value>
+            <Value ID="30017086">COLA-MIX</Value>
+            <Value ID="30017087">SPRITZERS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

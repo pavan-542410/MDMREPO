@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002852" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Built In Camera</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001694">NONE</Value>
+            <Value ID="30015595">FRONT/WEB CAMERA</Value>
+            <Value ID="30015596">BACK CAMERA</Value>
+            <Value ID="30015597">FRONT AND BACK CAMERAS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

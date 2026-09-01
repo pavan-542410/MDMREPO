@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000147" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Sweet Pie or Pastry</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000075">CHOUX PASTRY</Value>
+            <Value ID="30000093">PAIN AU CHOCOLAT</Value>
+            <Value ID="30000406">BOUCHEE - SWEET FILLING</Value>
+            <Value ID="30000464">SWEET BUN</Value>
+            <Value ID="30000807">CREAM SLICE</Value>
+            <Value ID="30000827">CROISSANT</Value>
+            <Value ID="30000861">DANISH PASTRY</Value>
+            <Value ID="30000899">DOUGHNUT</Value>
+            <Value ID="30000922">ECLAIR</Value>
+            <Value ID="30001008">FLAN - SWEET FILLING</Value>
+            <Value ID="30001826">PIE - SWEET FILLING</Value>
+            <Value ID="30001939">PUFFED CAKE</Value>
+            <Value ID="30002350">STRUDEL</Value>
+            <Value ID="30002414">TART - SWEET FILLING</Value>
+            <Value ID="30002473">TORSADES AU CHOCOLAT</Value>
+            <Value ID="30002505">TURNOVER PASTRY - SWEET FILLING</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002716">TARTLET - SWEET FILLING</Value>
+            <Value ID="30013120">CREAM HORN</Value>
+            <Value ID="30015997">LATTICE (PASTRY)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.RejectTo" ParentID="PMDM.LOVG.SystemLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Reject To</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="ACC">Accept</Value>
+            <Value ID="BUY">Buyer</Value>
+            <Value ID="COP">Copy Writing</Value>
+            <Value ID="DIG">Digital Assets</Value>
+            <Value ID="ENR">Enrichment</Value>
+            <Value ID="LOG">Logistics</Value>
+            <Value ID="NOT">Do not onboard</Value>
+            <Value ID="SUP">Supplier</Value>
+            <Value ID="TRA">Translator</Value>
+            <Value ID="WEB">Web Categorization</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

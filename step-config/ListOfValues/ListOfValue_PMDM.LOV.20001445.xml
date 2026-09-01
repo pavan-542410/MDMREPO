@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001445" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Rhythm Gymnastics Equipment</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008866">RHYTHM GYMNASTICS HOOP</Value>
+            <Value ID="30008867">RHYTHM GYMNASTICS ROPE</Value>
+            <Value ID="30010890">RHYTHM GYMNASTICS RIBBON</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

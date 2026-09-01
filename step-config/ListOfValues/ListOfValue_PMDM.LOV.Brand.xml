@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.Brand" ParentID="PMDM.LOVG.ProductAttributeLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Brand</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <Value ID="ACME">Acme Corporation</Value>
+            <Value ID="ALLFRESH">All fresh</Value>
+            <Value ID="CAMPBELL">CAMPBELL SIGNATURE FROZEN</Value>
+            <Value ID="DANGELICO">D’Angelico</Value>
+            <Value ID="EPIPHONE">Epiphone</Value>
+            <Value ID="FENDER">Fender</Value>
+            <Value ID="FREIXENET">Freixenet</Value>
+            <Value ID="GIBSON">Gibson</Value>
+            <Value ID="GRETSCH">Gretsch</Value>
+            <Value ID="GRIFON">Grifon</Value>
+            <Value ID="GUILD">Guild</Value>
+            <Value ID="HUSQVARNA">Husqvarna</Value>
+            <Value ID="IBANEZ">Ibanez</Value>
+            <Value ID="JFJ">JFJ</Value>
+            <Value ID="LANSON">Lanson</Value>
+            <Value ID="LAURENT-PERRIER">Laurent-Perrier</Value>
+            <Value ID="LOUSON">Louson Drums</Value>
+            <Value ID="LUND">Lund</Value>
+            <Value ID="MARTIN">Martin</Value>
+            <Value ID="MOSRITE">Mosrite</Value>
+            <Value ID="NATIONAL">National</Value>
+            <Value ID="RECORDINGKING">Recording King</Value>
+            <Value ID="RICCADONNA">Riccadonna</Value>
+            <Value ID="RICKENBACKER">Rickenbacker</Value>
+            <Value ID="RUINART">Ruinart</Value>
+            <Value ID="WASHBURN">Washburn</Value>
+            <Value ID="XD">XD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

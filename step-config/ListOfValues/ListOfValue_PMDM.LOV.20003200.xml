@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003200" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Table Linen</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010744">SERVIETTES/NAPKIN (NON DISPOSABLE)</Value>
+            <Value ID="30017764">PLACE MAT (NON DISPOSABLE)</Value>
+            <Value ID="30019157">OVEN MITTS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000516" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Home Diagnostic Monitor</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005198">BLOOD PRESSURE MONITOR</Value>
+            <Value ID="30005257">HEART RATE MONITOR</Value>
+            <Value ID="30006872">PERSONAL SCALES</Value>
+            <Value ID="30006873">BODY FAT MONITOR</Value>
+            <Value ID="30006895">BLOOD SUGAR MONITOR</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

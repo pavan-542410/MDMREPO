@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001689" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Mug/Cup</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010827">MUG (NON DISPOSABLE)</Value>
+            <Value ID="30018222">BREAKFAST CUP</Value>
+            <Value ID="30018223">BROTH CUP</Value>
+            <Value ID="30018224">CHOCOLATE CUP</Value>
+            <Value ID="30018225">COFFEE MOCHA CUP</Value>
+            <Value ID="30018226">COFFEE MOCHA CUP WITH SAUCER</Value>
+            <Value ID="30018227">COFFEE MOCHA SAUCER</Value>
+            <Value ID="30018228">COFFEE/ESPRESSO CUP</Value>
+            <Value ID="30018229">COFFEE/ESPRESSO CUP WITH SAUCER</Value>
+            <Value ID="30018230">COFFEE/ESPRESSO SAUCER</Value>
+            <Value ID="30018231">ICE TEA GLASS</Value>
+            <Value ID="30018232">IRISH COFFEE GLASS</Value>
+            <Value ID="30018233">MAZAGRAN - POTTERY GOBLET</Value>
+            <Value ID="30018234">TEA CUP</Value>
+            <Value ID="30018235">TEA CUP WITH SAUCER</Value>
+            <Value ID="30018236">TEA SAUCER</Value>
+            <Value ID="30018237">TRAVEL MUG</Value>
+            <Value ID="30019041">MATE GOURD/PORONGO</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001771" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Printing Method</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009917">C-PRINT</Value>
+            <Value ID="30009918">ETCHING</Value>
+            <Value ID="30009919">GICLEE</Value>
+            <Value ID="30009920">LITHOGRAPH</Value>
+            <Value ID="30009921">MONOTYPE</Value>
+            <Value ID="30009922">OFFSET</Value>
+            <Value ID="30009923">SERIGRAPH/SILK-SCREEN</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

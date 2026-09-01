@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002513" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Cable Marker</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30012624">TIE-ON CABLE MARKER</Value>
+            <Value ID="30012625">WRAP-AROUND CABLE LABEL</Value>
+            <Value ID="30012626">INSERT CABLE MARKER</Value>
+            <Value ID="30012627">WRITE-ON WIRE MARKER</Value>
+            <Value ID="30012628">HEAT SHRINKABLE SLEEVE MARKER</Value>
+            <Value ID="30012938">CLIP-ON CABLE MARKER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

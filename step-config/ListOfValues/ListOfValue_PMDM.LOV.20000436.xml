@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000436" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Air Freshener/Deodoriser</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004741">AEROSOL FRESHENER</Value>
+            <Value ID="30004743">AROMATIC OIL</Value>
+            <Value ID="30004746">INCENSE</Value>
+            <Value ID="30006015">PUMP FRESHENER</Value>
+            <Value ID="30013106">POTPOURRI</Value>
+            <Value ID="30015664">CANDLE FRESHENER</Value>
+            <Value ID="30015665">WASTE BIN</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

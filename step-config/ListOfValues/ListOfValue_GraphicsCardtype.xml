@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="GraphicsCardtype" ParentID="List Of Values group root" AllowUserValueAddition="false" UseValueID="false">
+            <Name>GraphicsCardtype</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>Apple 6-core GPU</Value>
+            <Value>Intel Iris Xe Integrated Graphics </Value>
+            <Value>NVIDIA GeForce RTX 3050</Value>
+            <Value>Xclipse 940</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

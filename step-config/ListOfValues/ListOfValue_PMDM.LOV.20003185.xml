@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003185" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Cosmetic Applicator</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000222">ASSORTED</Value>
+            <Value ID="30001909">POWDER</Value>
+            <Value ID="30002314">SPONGE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003743">CONCEALER/CORRECTOR</Value>
+            <Value ID="30003856">EYE LINER</Value>
+            <Value ID="30003859">EYE SHADOW</Value>
+            <Value ID="30003934">FOUNDATION</Value>
+            <Value ID="30006681">LIPS</Value>
+            <Value ID="30017251">POWDER PUFF</Value>
+            <Value ID="30019020">ROUGE/BLUSH</Value>
+            <Value ID="30019021">LIP LINER</Value>
+            <Value ID="30019022">CONTOUR</Value>
+            <Value ID="30019053">EYE BROW (BROWS)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

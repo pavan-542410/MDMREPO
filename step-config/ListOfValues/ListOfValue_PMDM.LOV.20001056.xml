@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001056" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Operating System</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007665">BASIC</Value>
+            <Value ID="30007666">DOS</Value>
+            <Value ID="30007667">EPOC16</Value>
+            <Value ID="30007668">EPOC32</Value>
+            <Value ID="30007669">GEOS</Value>
+            <Value ID="30007670">LINUX</Value>
+            <Value ID="30007671">PALMOS</Value>
+            <Value ID="30007672">PROPRIETARY</Value>
+            <Value ID="30007673">STINGER</Value>
+            <Value ID="30007674">WINDOWS CE</Value>
+            <Value ID="30015584">ANDROID</Value>
+            <Value ID="30015585">BADA</Value>
+            <Value ID="30015586">BLACKBERRY OS</Value>
+            <Value ID="30015587">IOS</Value>
+            <Value ID="30015588">PALMWEB</Value>
+            <Value ID="30015589">MEEGO</Value>
+            <Value ID="30015590">SYMBIAN</Value>
+            <Value ID="30015591">WEBOS</Value>
+            <Value ID="30015593">WINDOWS RT</Value>
+            <Value ID="30015594">WINDOWS PHONE</Value>
+            <Value ID="30015600">MAEMO</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000177" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Sweetness of Sparkling Wine</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000455">BRUT</Value>
+            <Value ID="30000900">SWEET</Value>
+            <Value ID="30000958">EXTRA BRUT</Value>
+            <Value ID="30000963">EXTRA DRY</Value>
+            <Value ID="30002173">DRY</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002725">MEDIUM DRY/MEDIUM SWEET</Value>
+            <Value ID="30014940">BRUT NATURE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

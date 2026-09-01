@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000808" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Baby Safety Monitoring</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007041">BABY ROOM THERMOMETER</Value>
+            <Value ID="30007042">BABY SOUND MONITOR</Value>
+            <Value ID="30007043">BABY MOVEMENT MONITOR</Value>
+            <Value ID="30007044">BABY SOUND/MOVEMENT MONITOR</Value>
+            <Value ID="30007045">BABY VIEWING MONITOR</Value>
+            <Value ID="30007046">BABY VIEWING /SOUND MONITOR</Value>
+            <Value ID="30007047">BABY TEMPERATURE MONITOR</Value>
+            <Value ID="30007048">BABY SOUND/TEMPERATURE MONITOR</Value>
+            <Value ID="30007049">BABY TRACKING MONITOR</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

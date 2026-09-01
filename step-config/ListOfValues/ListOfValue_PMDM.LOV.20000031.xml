@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000031" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Cheese</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000290">BAVARIAN BLUE</Value>
+            <Value ID="30000372">BLEU DE BRESSE</Value>
+            <Value ID="30000378">BLUE CASTELLO</Value>
+            <Value ID="30000380">BLUE CHESHIRE</Value>
+            <Value ID="30000383">BLUE SHROPSHIRE</Value>
+            <Value ID="30000384">BLUE STILTON</Value>
+            <Value ID="30000439">BRIE</Value>
+            <Value ID="30000491">CABOC</Value>
+            <Value ID="30000492">CABRALES</Value>
+            <Value ID="30000494">CACIOCAVALLO</Value>
+            <Value ID="30000500">CAERPHILLY</Value>
+            <Value ID="30000514">CAMEMBERT</Value>
+            <Value ID="30000590">CHEDDAR</Value>
+            <Value ID="30000709">COLBY</Value>
+            <Value ID="30000717">COLWICK</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30000774">COTTAGE CHEESE</Value>
+            <Value ID="30000778">COULOMMIERS</Value>
+            <Value ID="30000838">CURD CHEESE</Value>
+            <Value ID="30000886">DOLCELATTE</Value>
+            <Value ID="30000896">DOUBLE GLOUCESTER</Value>
+            <Value ID="30000915">DUNLOP</Value>
+            <Value ID="30000939">EMMENTHAL</Value>
+            <Value ID="30000978">FETA</Value>
+            <Value ID="30001025">FONTINA</Value>
+            <Value ID="30001033">FOURME D'AMBERT</Value>
+            <Value ID="30001053">FROMAGE BLANC</Value>
+            <Value ID="30001124">GJETOST</Value>
+            <Value ID="30001141">GORGONZOLA</Value>
+            <Value ID="30001142">GOUDA</Value>
+            <Value ID="30001202">GRUYERE</Value>
+            <Value ID="30001323">JARLSBERG</Value>
+            <Value ID="30001387">LANCASHIRE</Value>
+            <Value ID="30001426">LEYDEN/LEIDEN</Value>
+            <Value ID="30001621">MONTEREY JACK</Value>
+            <Value ID="30001638">MOZZARELLA</Value>
+            <Value ID="30001663">MYCELLA</Value>
+            <Value ID="30001680">NEUFCHATEL</Value>
+            <Value ID="30001763">PARMESAN</Value>
+            <Value ID="30001800">PECORINO</Value>
+            <Value ID="30001816">PETIT MUNSTER</Value>
+            <Value ID="30001866">PIPO CREM</Value>
+            <Value ID="30001934">PROVOLONE</Value>
+            <Value ID="30001958">RACLETTE</Value>
+            <Value ID="30001986">RED CHESHIRE</Value>
+            <Value ID="30001992">RED LEICESTER</Value>
+            <Value ID="30002016">RICOTTA</Value>
+            <Value ID="30002050">ROQUEFORT</Value>
+            <Value ID="30002141">SBRINZ</Value>
+            <Value ID="30002442">TILSIT</Value>
+            <Value ID="30002464">TOMME AU RAISIN</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002595">WENSLEYDALE</Value>
+            <Value ID="30002680">MANCHEGO</Value>
+            <Value ID="30002712">EDAM</Value>
+            <Value ID="30002797">SAPSAGO</Value>
+            <Value ID="30002913">CANTAL</Value>
+            <Value ID="30003018">DANISH BLUE</Value>
+            <Value ID="30006729">SAINT PAULIN</Value>
+            <Value ID="30006747">BEERCHEESE</Value>
+            <Value ID="30006748">ESROM</Value>
+            <Value ID="30006749">BUTTERCHEESE</Value>
+            <Value ID="30006750">GEHEIMRATSKASE</Value>
+            <Value ID="30010246">FROMAGE FRAIS</Value>
+            <Value ID="30013134">HALLOUMI</Value>
+            <Value ID="30013135">ROULE</Value>
+            <Value ID="30013136">WHITE CHESHIRE</Value>
+            <Value ID="30013137">EPOISSES</Value>
+            <Value ID="30013138">REBLOCHON</Value>
+            <Value ID="30013139">TALEGGIO</Value>
+            <Value ID="30013140">VIGNOTTE</Value>
+            <Value ID="30013141">BEAUFORT</Value>
+            <Value ID="30013142">CHAOURCE</Value>
+            <Value ID="30013143">OSSAU IRATY</Value>
+            <Value ID="30013144">SAINT MARCELLIN</Value>
+            <Value ID="30014348">PROCESSED CHEESE</Value>
+            <Value ID="30014933">CREAM CHEESE PREPARATION</Value>
+            <Value ID="30014934">PROCESSED CHEESE PREPARATION</Value>
+            <Value ID="30014939">CHEESE IN BRINE</Value>
+            <Value ID="30015676">AMERICAN CHEESE</Value>
+            <Value ID="30015677">BRICK CHEESE</Value>
+            <Value ID="30015678">COLBY JACK</Value>
+            <Value ID="30015679">MUENSTER</Value>
+            <Value ID="30015680">PIMENTO CHEESE</Value>
+            <Value ID="30015681">SWISS CHEESE</Value>
+            <Value ID="30017987">BRUNOST</Value>
+            <Value ID="30017988">FROMAGE DE CHEVRE</Value>
+            <Value ID="30017989">HARVATI</Value>
+            <Value ID="30018362">KOCHKAESE</Value>
+            <Value ID="30018363">WEISSKAESE (WHITE CHEESE)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

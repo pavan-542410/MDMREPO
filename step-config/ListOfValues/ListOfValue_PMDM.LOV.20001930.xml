@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001930" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Kiting/Parachuting Replacement Part/Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008881">KITE BUGGY BACK AXLE</Value>
+            <Value ID="30008882">KITE BUGGY FRONT FORK</Value>
+            <Value ID="30010230">KITE BUGGY SPLASH GUARD</Value>
+            <Value ID="30010897">KITE BUGGY WHEEL</Value>
+            <Value ID="30010898">KITE BUGGY SEAT</Value>
+            <Value ID="30010899">KITE BUGGY SUSPENSION</Value>
+            <Value ID="30010900">KITE BOARD WHEEL</Value>
+            <Value ID="30010901">KITE BOARD SUSPENSION</Value>
+            <Value ID="30010902">KITE BOARD FOOT STRAP</Value>
+            <Value ID="30010903">KITE CONTROL LINES</Value>
+            <Value ID="30010904">KITE RELEASE CABLE</Value>
+            <Value ID="30010905">KITE REPAIR KIT</Value>
+            <Value ID="30010906">PARACHUTE RIPCORD</Value>
+            <Value ID="30010907">KITE RISER/RISER EXTENSION</Value>
+            <Value ID="30010908">PARACHUTE RISER/RISER EXTENSION</Value>
+            <Value ID="30010909">PILOT CHUTE</Value>
+            <Value ID="30010910">KITE CONTROL BAR</Value>
+            <Value ID="30010911">KITE CONTROL HANDLES</Value>
+            <Value ID="30010912">KITE KILLER</Value>
+            <Value ID="30010913">KITE ROD</Value>
+            <Value ID="30010914">KITING HARNESS</Value>
+            <Value ID="30010915">PARACHUTE CONNECTOR STRAPS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

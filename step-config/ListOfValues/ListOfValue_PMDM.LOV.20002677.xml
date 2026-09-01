@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002677" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Non-Thermal Preservation</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30000977">FERMENTED</Value>
+            <Value ID="30002249">SMOKED</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002762">DRIED</Value>
+            <Value ID="30013615">DRY AGED</Value>
+            <Value ID="30013616">IRRADIATED</Value>
+            <Value ID="30013617">PICKLED</Value>
+            <Value ID="30013618">SALTED/CURED</Value>
+            <Value ID="30013619">SMOKED/CURED</Value>
+            <Value ID="30013620">NO NON-THERMAL PRESERVATION</Value>
+            <Value ID="30015666">SEMIDRIED</Value>
+            <Value ID="30018949">MOULD (PRESERVATION)</Value>
+            <Value ID="30018950">AIR-DRIED</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

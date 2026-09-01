@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000467" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Material of Target Surface</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003719">CERAMIC</Value>
+            <Value ID="30003750">COTTON FIBRE</Value>
+            <Value ID="30003950">GLASS</Value>
+            <Value ID="30004006">LEATHER</Value>
+            <Value ID="30004052">METAL</Value>
+            <Value ID="30004152">PLASTIC</Value>
+            <Value ID="30004201">RUBBER</Value>
+            <Value ID="30004268">STONE</Value>
+            <Value ID="30004299">TEXTILE</Value>
+            <Value ID="30004345">VINYL</Value>
+            <Value ID="30004369">WOOD</Value>
+            <Value ID="30004660">ALL PURPOSE</Value>
+            <Value ID="30004712">CORK</Value>
+            <Value ID="30004713">LAMINATE</Value>
+            <Value ID="30004720">PORCELAIN</Value>
+            <Value ID="30004936">CHAMOIS LEATHER</Value>
+            <Value ID="30004974">CANVAS</Value>
+            <Value ID="30004989">SUEDE</Value>
+            <Value ID="30004999">METAL - BRASS</Value>
+            <Value ID="30005000">METAL - CHROME</Value>
+            <Value ID="30005001">METAL - GOLD</Value>
+            <Value ID="30005002">METAL - SILVER</Value>
+            <Value ID="30005003">METAL - STAINLESS STEEL</Value>
+            <Value ID="30005044">WOOL</Value>
+            <Value ID="30006017">LINOLEUM</Value>
+            <Value ID="30007488">FABRIC/TEXTILE</Value>
+            <Value ID="30008167">FELT</Value>
+            <Value ID="30010636">MASONRY</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

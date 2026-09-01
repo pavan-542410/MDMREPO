@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000212" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Still Wine</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000078">DENOMINACION DE ORIGEN</Value>
+            <Value ID="30000103">VINO DA TAVOLA</Value>
+            <Value ID="30000188">APPELLATION CONTROLEE</Value>
+            <Value ID="30000878">DENOMINACION DE ORIGEN CALIFICADA</Value>
+            <Value ID="30000879">DENOMINAZIONE DI ORIGINE CONTROLLATA</Value>
+            <Value ID="30000880">DENOMINAZIONE DI ORIGINE CONTROLLATA E GUARANTITA</Value>
+            <Value ID="30001389">LANDWEIN</Value>
+            <Value ID="30001947">QBA</Value>
+            <Value ID="30001948">QMP</Value>
+            <Value ID="30002392">TAFELWEIN</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002562">VIN DE PAYS</Value>
+            <Value ID="30002563">VIN DE TABLE</Value>
+            <Value ID="30002567">VINHO DE QUALIDADE</Value>
+            <Value ID="30002568">VINHO REGIONAL</Value>
+            <Value ID="30002569">VINO DE LA TIERRA</Value>
+            <Value ID="30002570">VINO DE MESA</Value>
+            <Value ID="30002941">VINHO DE MESA</Value>
+            <Value ID="30015743">ICE WINE</Value>
+            <Value ID="30018812">INDICATION GEOGRAPHIQUE PROTEGEE</Value>
+            <Value ID="30018813">INDICAZIONE GEOGRAFICA TIPICA</Value>
+            <Value ID="30018814">VINTNER QUALITY ALLIANCE</Value>
+            <Value ID="30018815">WINE OF ORIGIN</Value>
+            <Value ID="30018952">DENOMINAZIONE DI ORIGINE PROETTA (DOP)</Value>
+            <Value ID="30018953">VERBAND DEUTSCHER PRAEDIKATSWEINGUETER (VDP)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

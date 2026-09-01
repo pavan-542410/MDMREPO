@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000295" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Nursing Hygiene Accessories</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003700">BREAST PADS</Value>
+            <Value ID="30003701">BREAST SOOTHERS</Value>
+            <Value ID="30003702">BREAST WIPES</Value>
+            <Value ID="30004099">NIPPLE SHIELDS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

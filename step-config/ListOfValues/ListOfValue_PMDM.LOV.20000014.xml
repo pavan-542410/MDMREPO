@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000014" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Baking/Cooking Supply</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000170">ALMOND PASTE</Value>
+            <Value ID="30000253">BAKING POWDER</Value>
+            <Value ID="30000324">BICARBONATE OF SODA/BAKING SODA</Value>
+            <Value ID="30000430">BREADCRUMBS</Value>
+            <Value ID="30000735">CONFECTIONERY STYLE TOPPINGS</Value>
+            <Value ID="30000748">COOKING CHOCOLATE</Value>
+            <Value ID="30000804">CREAM OF TARTAR</Value>
+            <Value ID="30001019">FLOUR PREPARATION</Value>
+            <Value ID="30001027">FOOD COLOURING</Value>
+            <Value ID="30001028">FOOD FLAVOURING</Value>
+            <Value ID="30001768">PART MEAL KITS</Value>
+            <Value ID="30001977">READY TO USE ALMOND COATINGS</Value>
+            <Value ID="30001978">READY TO USE DOUGH</Value>
+            <Value ID="30001979">READY TO USE FROSTING COATINGS</Value>
+            <Value ID="30001980">READY TO USE ICING COATINGS</Value>
+            <Value ID="30001981">READY TO USE MARZIPAN COATINGS</Value>
+            <Value ID="30002271">SOUP ADDITIVES</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002648">YEAST</Value>
+            <Value ID="30002749">GELATINE</Value>
+            <Value ID="30003632">FRUIT PECTIN</Value>
+            <Value ID="30006710">PREPARED PIZZA BASE</Value>
+            <Value ID="30006711">PREPARED PASTRY</Value>
+            <Value ID="30006712">PREPARED BREAD DOUGH</Value>
+            <Value ID="30006736">GELLING AGENT</Value>
+            <Value ID="30010234">HOST</Value>
+            <Value ID="30010235">CORNFLOUR</Value>
+            <Value ID="30010236">SAHNESTEIF</Value>
+            <Value ID="30010237">TORTENHILFE</Value>
+            <Value ID="30010369">DESSICATED COCONUT</Value>
+            <Value ID="30010393">PURE LEMON JUICE</Value>
+            <Value ID="30010394">PURE LIME JUICE</Value>
+            <Value ID="30010395">READY TO FILL MERINGUES</Value>
+            <Value ID="30017172">BAKING AGENT</Value>
+            <Value ID="30017173">CHRYSTALLIZED FRUIT</Value>
+            <Value ID="30017174">OTHER THICKENER</Value>
+            <Value ID="30017175">SAUCE THICKENER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

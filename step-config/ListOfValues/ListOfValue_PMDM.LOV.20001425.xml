@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001425" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Trekking/Mountaineering Sports Equipment</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008801">ASCENDER</Value>
+            <Value ID="30008802">CAMMING UNIT</Value>
+            <Value ID="30008803">FIELD NAVIGATION COMPASS</Value>
+            <Value ID="30008804">QUICKDRAW</Value>
+            <Value ID="30008805">ROCKS/NUTS</Value>
+            <Value ID="30008806">SCREW GATE</Value>
+            <Value ID="30008816">ICE PICK (CLIMBING EQUIPMENT)</Value>
+            <Value ID="30008817">ICE SCREW</Value>
+            <Value ID="30010952">CLIMBING ROPE</Value>
+            <Value ID="30010953">CLIMBING MULTI-HOOK</Value>
+            <Value ID="30010954">CRAMPON</Value>
+            <Value ID="30011270">CLIMBERS CHALK</Value>
+            <Value ID="30011271">CHALK BAG</Value>
+            <Value ID="30011272">CLIMBERS FINGER TAPE</Value>
+            <Value ID="30011273">AUTO BELAY</Value>
+            <Value ID="30011274">PULLEY</Value>
+            <Value ID="30011275">HEX KEY</Value>
+            <Value ID="30011276">CARABINER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

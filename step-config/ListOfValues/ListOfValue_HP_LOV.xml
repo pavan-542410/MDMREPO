@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
-    <ListOfValuesContainer>
-        <ListOfValues ID="HP_LOV" Reversed="false">
+    <ListsOfValues>
+        <ListOfValue ID="HP_LOV" ParentID="TestLOVGroup" AllowUserValueAddition="false" UseValueID="false">
             <Name>HP LOV</Name>
-            <ListOfValue ID="HP_LOV_core15">
-                <Name>core15</Name>
-            </ListOfValue>
-            <ListOfValue ID="HP_LOV_core17">
-                <Name>core17</Name>
-            </ListOfValue>
-            <ListOfValue ID="HP_LOV_core18">
-                <Name>core18</Name>
-            </ListOfValue>
-        </ListOfValues>
-    </ListOfValuesContainer>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>core15</Value>
+            <Value>core17</Value>
+            <Value>core18</Value>
+        </ListOfValue>
+    </ListsOfValues>
 </STEP-ProductInformation>

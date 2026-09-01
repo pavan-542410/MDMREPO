@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002958" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Commercial Type of Netted Melons</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30014894">GALIA</Value>
+            <Value ID="30014899">OGEN</Value>
+            <Value ID="30016971">ANANAS</Value>
+            <Value ID="30016972">GREEN EASTERN SHIPPER</Value>
+            <Value ID="30016973">WESTERN SHIPPER</Value>
+            <Value ID="30016974">YELLOW EASTERN SHIPPER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

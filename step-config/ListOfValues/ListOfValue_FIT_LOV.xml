@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="FIT_LOV" ParentID="HIKARI_LOVS" AllowUserValueAddition="false" UseValueID="false">
+            <Name>Fit</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>Oversized</Value>
+            <Value>Regular Fit</Value>
+            <Value>Relaxed Fit</Value>
+            <Value>Slim Fit</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002622" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Heater</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30013319">SPACE HEATER</Value>
+            <Value ID="30013320">INFRARED HEATER</Value>
+            <Value ID="30013321">BASEBOARD HEATER</Value>
+            <Value ID="30013322">PANEL HEATER</Value>
+            <Value ID="30013331">STOVE HEATER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

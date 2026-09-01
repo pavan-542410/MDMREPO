@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002655" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Photograph Album Format</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011367">SPIRAL BOUND</Value>
+            <Value ID="30013488">BABY DIARY</Value>
+            <Value ID="30013489">BOOK BOUND</Value>
+            <Value ID="30013490">RING BOUND</Value>
+            <Value ID="30013491">SCREW FIXED</Value>
+            <Value ID="30013492">PHOTOGRAPH BOX</Value>
+            <Value ID="30013493">PHOTOGRAPH CUBE</Value>
+            <Value ID="30013494">ALBUM SET</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

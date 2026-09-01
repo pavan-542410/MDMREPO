@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000134" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Method of Cooking/Reheating</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000252">BAKING</Value>
+            <Value ID="30000393">BOILING</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30000872">DEEP FRYING</Value>
+            <Value ID="30001080">FRYING</Value>
+            <Value ID="30001194">GRILLING</Value>
+            <Value ID="30001584">MICROWAVING</Value>
+            <Value ID="30002000">REHEATING</Value>
+            <Value ID="30002339">STEAMING</Value>
+            <Value ID="30002370">SWEATING</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002938">SIMMERING</Value>
+            <Value ID="30003101">ROASTING</Value>
+            <Value ID="30010257">BOILING - IN THE BAG</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

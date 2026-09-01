@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003187" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Hair Styling Function</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003951">GLOSSER</Value>
+            <Value ID="30003985">HOLD</Value>
+            <Value ID="30004179">RELAXER</Value>
+            <Value ID="30004431">ANTI-DANDRUFF</Value>
+            <Value ID="30006133">CURL</Value>
+            <Value ID="30006134">STRAIGHTENER</Value>
+            <Value ID="30006683">MOISTURISING</Value>
+            <Value ID="30006869">COLOUR PRESERVATION</Value>
+            <Value ID="30017261">APPLIED HEAT PROTECTION</Value>
+            <Value ID="30019035">REPAIR</Value>
+            <Value ID="30019036">COMBING/DETANGLER</Value>
+            <Value ID="30019037">VOLUME (VOLUMIZER)</Value>
+            <Value ID="30019039">ANTI-FRIZZ</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

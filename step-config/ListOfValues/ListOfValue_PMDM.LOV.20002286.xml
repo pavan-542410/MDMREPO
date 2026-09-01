@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002286" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Cake Decoration/Accessory (Non Edible)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011964">CAKE CANDLE</Value>
+            <Value ID="30011965">CAKE CANDLE HOLDER</Value>
+            <Value ID="30011966">CAKE FLOWER DECORATION (NON EDIBLE)</Value>
+            <Value ID="30011967">CAKE ORNAMENT (NON EDIBLE)</Value>
+            <Value ID="30012166">ICING CONE</Value>
+            <Value ID="30012167">PASTRY BAG</Value>
+            <Value ID="30018162">NOZZLES FOR PASTRY BAGS</Value>
+            <Value ID="30018163">SET OF NOZZLES FOR PASTRY BAGS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002071" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Musical Instrument Case/Bag/Cover</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007565">KEYBOARD COVER</Value>
+            <Value ID="30011177">SOUSAPHONE CASE</Value>
+            <Value ID="30011178">TUBA SHIELD</Value>
+            <Value ID="30011179">TRUMPET/CORNET CASE</Value>
+            <Value ID="30011180">TROMBONE CASE</Value>
+            <Value ID="30011181">FRENCH HORN CASE</Value>
+            <Value ID="30011182">DRUM COVER</Value>
+            <Value ID="30011183">DRUM BAG</Value>
+            <Value ID="30011184">DRUM STICK BAG</Value>
+            <Value ID="30011185">VIOLIN/VIOLA CASE</Value>
+            <Value ID="30011186">CELLO CASE</Value>
+            <Value ID="30011188">GUITAR CASE</Value>
+            <Value ID="30011189">KEYBOARD STAND BAG</Value>
+            <Value ID="30011191">KEYBOARD CASE</Value>
+            <Value ID="30011192">CLARINET CASE</Value>
+            <Value ID="30011193">FLUTE CASE</Value>
+            <Value ID="30011194">SAXAPHONE CASE</Value>
+            <Value ID="30011195">RECORDER CASE</Value>
+            <Value ID="30011196">OBOE CASE</Value>
+            <Value ID="30011197">BASS BAG</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

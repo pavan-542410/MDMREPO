@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListOfValuesGroupList>
+        <ListOfValuesGroup ID="HIKARI_LOVS" ParentID="List Of Values group root">
+            <Name>Hikari LOVs</Name>
+        </ListOfValuesGroup>
+    </ListOfValuesGroupList>
+</STEP-ProductInformation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000846" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Pen</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007342">BALLPOINT PEN</Value>
+            <Value ID="30007343">FIBRE-TIP PEN</Value>
+            <Value ID="30007345">FOUNTAIN PEN</Value>
+            <Value ID="30007347">MARKER</Value>
+            <Value ID="30011042">ROLLERBALL PEN</Value>
+            <Value ID="30011043">CALLIGRAPHY PEN</Value>
+            <Value ID="30017800">PEN SUITABLE FOR PLASTIC SURFACES</Value>
+            <Value ID="30017801">TECHNICAL PEN</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

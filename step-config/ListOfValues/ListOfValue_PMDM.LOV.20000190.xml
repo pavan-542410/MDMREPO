@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000190" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Bread</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000079">FOUGASSE</Value>
+            <Value ID="30000101">TIGELLA</Value>
+            <Value ID="30000247">BAGEL</Value>
+            <Value ID="30000250">BAGUETTE</Value>
+            <Value ID="30000286">BATARD</Value>
+            <Value ID="30000353">BLACK BREAD</Value>
+            <Value ID="30000442">BRIOCHE</Value>
+            <Value ID="30000662">CIABATTA</Value>
+            <Value ID="30000826">CREPE</Value>
+            <Value ID="30000830">CRUMPET</Value>
+            <Value ID="30000944">ENGLISH MUFFIN</Value>
+            <Value ID="30001022">FLUTE (BREAD)</Value>
+            <Value ID="30001023">FOCACCIA</Value>
+            <Value ID="30001030">FOREST CORN LOAF</Value>
+            <Value ID="30001590">MILK BREAD</Value>
+            <Value ID="30001822">PIADINA</Value>
+            <Value ID="30001870">PITTA BREAD</Value>
+            <Value ID="30002083">RYE BREAD</Value>
+            <Value ID="30002154">SCONE</Value>
+            <Value ID="30002313">SPITZ ROLL</Value>
+            <Value ID="30002344">STOL</Value>
+            <Value ID="30002445">TIN STYLE BREAD</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002556">VIENNESE</Value>
+            <Value ID="30002561">VIKORN</Value>
+            <Value ID="30002642">WRAP</Value>
+            <Value ID="30002682">ROUND BREAD</Value>
+            <Value ID="30002791">TORTILLA</Value>
+            <Value ID="30002981">MONASTERY BREAD</Value>
+            <Value ID="30003060">SODA BREAD</Value>
+            <Value ID="30003061">CHALLAH</Value>
+            <Value ID="30004424">SOFT PRETZEL</Value>
+            <Value ID="30006739">PLAITED LOAF</Value>
+            <Value ID="30010355">TOAST BREAD</Value>
+            <Value ID="30013130">NAAN</Value>
+            <Value ID="30013131">CHAPATI</Value>
+            <Value ID="30013132">DANISH BREAD</Value>
+            <Value ID="30013133">BARM BRACK</Value>
+            <Value ID="30013161">TEACAKE</Value>
+            <Value ID="30014344">COUNTRY BREAD</Value>
+            <Value ID="30014350">BREAD ROLL</Value>
+            <Value ID="30015509">BROWN BREAD</Value>
+            <Value ID="30015510">GREY BREAD</Value>
+            <Value ID="30015511">PUMPERNICKEL</Value>
+            <Value ID="30015512">WHITE BREAD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

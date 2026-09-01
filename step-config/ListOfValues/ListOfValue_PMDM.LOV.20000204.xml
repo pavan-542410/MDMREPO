@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000204" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Flavour</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000305">BEEF</Value>
+            <Value ID="30000411">BOUILLON</Value>
+            <Value ID="30000559">CELERY</Value>
+            <Value ID="30000615">CHICKEN</Value>
+            <Value ID="30001096">GARLIC</Value>
+            <Value ID="30001384">LAMB</Value>
+            <Value ID="30001722">ONION</Value>
+            <Value ID="30001893">PORK</Value>
+            <Value ID="30002251">SNACK</Value>
+            <Value ID="30002270">SOUP</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003173">MONSODIUM GLUTAMATE</Value>
+            <Value ID="30014362">SOY FLAVOUR</Value>
+            <Value ID="30014436">MALT FLAVOUR</Value>
+            <Value ID="30014449">YEAST EXTRACT</Value>
+            <Value ID="30014499">BEVERAGE FLAVOURING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003017" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Wildlife</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005042">WASP</Value>
+            <Value ID="30005450">HEDGEHOG</Value>
+            <Value ID="30017358">BAT</Value>
+            <Value ID="30017359">BEE</Value>
+            <Value ID="30017360">BUTTERFLY</Value>
+            <Value ID="30017361">LADYBIRD/LADYBUG</Value>
+            <Value ID="30017362">TOAD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

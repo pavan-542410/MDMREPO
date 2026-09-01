@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001991" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Camping Tableware</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010578">CAMPING VACUUM FLASK</Value>
+            <Value ID="30010650">CAMPING CUTLERY</Value>
+            <Value ID="30010651">CAMPING BOWL</Value>
+            <Value ID="30010652">CAMPING PLATE</Value>
+            <Value ID="30010653">CAMPING MUG</Value>
+            <Value ID="30010654">CAMPING TABLEWARE SET</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002047" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Clock Replacement Part</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010974">CLOCK MOVEMENT</Value>
+            <Value ID="30010975">CLOCK HAMMER/PENDULUM/BOB</Value>
+            <Value ID="30010976">GONG WIRE</Value>
+            <Value ID="30010977">CLOCK PINS</Value>
+            <Value ID="30010978">CLOCK SPRING</Value>
+            <Value ID="30010979">CLOCK BEZEL</Value>
+            <Value ID="30010980">CLOCK DIAL</Value>
+            <Value ID="30010981">CLOCK HANDS</Value>
+            <Value ID="30010982">CLOCK GLASS</Value>
+            <Value ID="30010983">CLOCK KEY</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

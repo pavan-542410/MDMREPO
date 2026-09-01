@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000237" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Style of Spirit</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000107">VS</Value>
+            <Value ID="30000370">BLEND</Value>
+            <Value ID="30000690">CLEAR</Value>
+            <Value ID="30001135">GOLDEN</Value>
+            <Value ID="30001329">JONGE</Value>
+            <Value ID="30001983">RED</Value>
+            <Value ID="30002274">SOUR MASH</Value>
+            <Value ID="30002375">SWEET MASH</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002577">VSOP</Value>
+            <Value ID="30002644">XO</Value>
+            <Value ID="30003017">OUDE</Value>
+            <Value ID="30010421">LONDON</Value>
+            <Value ID="30012925">SINGLE MALT</Value>
+            <Value ID="30014444">WHITE (ALCOHOL COLOR)</Value>
+            <Value ID="30014829">BLACK (ALCOHOL COLOR)</Value>
+            <Value ID="30014830">SILVER (ALCOHOL COLOR)</Value>
+            <Value ID="30014835">DARK (ALCOHOL COLOR)</Value>
+            <Value ID="30017050">BLEND (ALCOHOL)</Value>
+            <Value ID="30018934">ANEJO</Value>
+            <Value ID="30018935">BLANCO</Value>
+            <Value ID="30018936">BLENDED GRAIN</Value>
+            <Value ID="30018937">BLENDED MALT</Value>
+            <Value ID="30018938">EXTRA ANEJO</Value>
+            <Value ID="30018939">HORS D'AGE</Value>
+            <Value ID="30018940">JOVEN</Value>
+            <Value ID="30018941">REPOSADO</Value>
+            <Value ID="30018942">SINGLE GRAIN</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

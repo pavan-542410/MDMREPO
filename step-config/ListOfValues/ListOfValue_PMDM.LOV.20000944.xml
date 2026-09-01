@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000944" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Storage/Filing Replacement Part/Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011347">FILE REINFORCEMENT RING</Value>
+            <Value ID="30011348">FILE CLIP</Value>
+            <Value ID="30011349">FILE POCKET</Value>
+            <Value ID="30011350">FILE SPINE LABEL</Value>
+            <Value ID="30011351">FILE DUST COVER</Value>
+            <Value ID="30011352">FILE DIVIDER/INDEX</Value>
+            <Value ID="30011353">FILE TAB/INSERT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

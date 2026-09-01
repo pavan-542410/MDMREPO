@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002817" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Egg Quality Standard</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30013654">QUALITY LEVEL 1</Value>
+            <Value ID="30013655">QUALITY LEVEL 2</Value>
+            <Value ID="30013656">QUALITY LEVEL 3</Value>
+            <Value ID="30015432">NO QUALITY ASSEMENT</Value>
+            <Value ID="30015441">NOT APPLICABLE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

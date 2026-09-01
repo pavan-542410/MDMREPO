@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000899" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Presentation Equipment Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007192">WHITE BOARD WIPE/PAD</Value>
+            <Value ID="30011334">BLACK BOARD CHALK DUSTER</Value>
+            <Value ID="30011661">PRESENTATION BOARD CLEANING FLUID</Value>
+            <Value ID="30011662">PRESENTATION BOARD PEN HOLDER (CLIP-ON)</Value>
+            <Value ID="30011976">PRESENTATION BOARD MAGNET</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

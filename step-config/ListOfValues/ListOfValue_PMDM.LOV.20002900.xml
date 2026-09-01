@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002900" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Aspect Ratio</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009423">70</Value>
+            <Value ID="30009424">75</Value>
+            <Value ID="30015948">&lt;lt/&gt;25</Value>
+            <Value ID="30015949">25</Value>
+            <Value ID="30015950">30</Value>
+            <Value ID="30015951">35</Value>
+            <Value ID="30015952">45</Value>
+            <Value ID="30015953">55</Value>
+            <Value ID="30015954">60</Value>
+            <Value ID="30015955">65</Value>
+            <Value ID="30015956">80</Value>
+            <Value ID="30015957">85</Value>
+            <Value ID="30015958">&lt;gt/&gt;85</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

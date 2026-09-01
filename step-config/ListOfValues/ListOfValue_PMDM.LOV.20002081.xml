@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002081" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Seeds</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003564">FLOWER</Value>
+            <Value ID="30010097">TREE</Value>
+            <Value ID="30010098">SHRUB</Value>
+            <Value ID="30010099">VINE</Value>
+            <Value ID="30014346">HERB SEED</Value>
+            <Value ID="30014359">VEGETABLE SEED</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

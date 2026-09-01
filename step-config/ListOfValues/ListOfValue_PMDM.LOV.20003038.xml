@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003038" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Map</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30017788">ATLAS</Value>
+            <Value ID="30017789">CLIMATIC MAP</Value>
+            <Value ID="30017790">NAUTICAL CHART</Value>
+            <Value ID="30017791">PHYSICAL MAP</Value>
+            <Value ID="30017792">POLITICAL MAP</Value>
+            <Value ID="30017793">RELIEF MAP</Value>
+            <Value ID="30017794">STREET MAP</Value>
+            <Value ID="30017795">THEMATIC MAP</Value>
+            <Value ID="30017796">WEATHER MAP</Value>
+            <Value ID="30017797">WORLD MAP</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

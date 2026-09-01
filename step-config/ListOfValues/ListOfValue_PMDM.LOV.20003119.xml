@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003119" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Buffet Products</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30018267">BUFFET NAME PLATES</Value>
+            <Value ID="30018268">CEREAL DISPENSER</Value>
+            <Value ID="30018269">CHAFING DISH</Value>
+            <Value ID="30018270">GASTRONORM DISHES</Value>
+            <Value ID="30018271">JUICE DISPENSER</Value>
+            <Value ID="30018272">PRESENTATION BASKET</Value>
+            <Value ID="30018273">SERVING SPOON REST</Value>
+            <Value ID="30018274">SERVING TONG</Value>
+            <Value ID="30018275">BUFFET STAND</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

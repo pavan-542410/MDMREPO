@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000387" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Ear/Nasal Care Product</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003821">EAR CANDLE</Value>
+            <Value ID="30003823">EAR WATER DRYING AID</Value>
+            <Value ID="30003824">EAR WAX REMOVAL SYSTEM</Value>
+            <Value ID="30004089">NASAL DOUCHE</Value>
+            <Value ID="30004090">NASAL SALT</Value>
+            <Value ID="30004096">NETI POT</Value>
+            <Value ID="30004576">EAR PLUGS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

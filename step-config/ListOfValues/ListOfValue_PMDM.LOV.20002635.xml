@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002635" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Mobile Home Assembly/Set-up Equipment</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30013354">MOBILE HOME ANCHOR</Value>
+            <Value ID="30013355">MOBILE HOME STRAPPING</Value>
+            <Value ID="30013356">MOBILE HOME EQUALISER</Value>
+            <Value ID="30013357">MOBILE HOME LEVELLING WEDGE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

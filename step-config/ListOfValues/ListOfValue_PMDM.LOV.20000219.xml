@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000219" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Style of Fortified Wine</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000099">STRAVECCHIO</Value>
+            <Value ID="30000832">CRUSTED</Value>
+            <Value ID="30000999">FINO</Value>
+            <Value ID="30001399">LATE BOTTLED VINTAGE</Value>
+            <Value ID="30001505">MALMSEY</Value>
+            <Value ID="30001513">AMONTILLADO</Value>
+            <Value ID="30001528">MANZANILLA</Value>
+            <Value ID="30001720">OLOROSO</Value>
+            <Value ID="30002063">ROSSO/SWEET</Value>
+            <Value ID="30002187">SERCIAL</Value>
+            <Value ID="30002366">SUPERIORE RISERVA</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002546">VERDELHO</Value>
+            <Value ID="30002548">VERGINE</Value>
+            <Value ID="30002573">VINTAGE CHARACTER</Value>
+            <Value ID="30002675">BIANCO/DRY</Value>
+            <Value ID="30002676">BUAL</Value>
+            <Value ID="30002741">PALO CORTADO</Value>
+            <Value ID="30002755">TAWNY</Value>
+            <Value ID="30003139">WHITE WINE</Value>
+            <Value ID="30010386">RUBY</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

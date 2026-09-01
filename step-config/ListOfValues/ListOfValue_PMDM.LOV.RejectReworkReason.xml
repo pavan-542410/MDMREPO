@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.RejectReworkReason" ParentID="PMDM.LOVG.SystemLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Reject Rework Reason LOV</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="RJ-Cost">Cost</Value>
+            <Value ID="RJ-DeliveryAvailability">Delivery Availability</Value>
+            <Value ID="RJ-DoesNotFitIntoAssortment">Does Not Fit Into Assortment</Value>
+            <Value ID="RJ-Duplicative">Duplicative</Value>
+            <Value ID="RJ-NotGrowthCategory">Not Growth Category</Value>
+            <Value ID="RJ-Other">Other</Value>
+            <Value ID="RJ-PoorDesign">Poor Design</Value>
+            <Value ID="RW-ImproperAttribution">Improper Attribution</Value>
+            <Value ID="RW-ImproperCopy">Improper Copy</Value>
+            <Value ID="RW-ImproperImage">Improper Image</Value>
+            <Value ID="RW-PackagingHierarchy">Packaging Hierarchy</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002146" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Interior Storage</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011483">STORAGE/UTILITY BOXES</Value>
+            <Value ID="30011484">CARGO TRAYS</Value>
+            <Value ID="30011485">CARGO BASKETS</Value>
+            <Value ID="30011486">BOOT ORGANISERS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

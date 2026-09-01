@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001061" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Computer Gaming Device</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007124">GUITAR</Value>
+            <Value ID="30007688">ELECTRONIC DANCING MAT</Value>
+            <Value ID="30007689">FIGHT ARENA</Value>
+            <Value ID="30007690">GAMEPAD</Value>
+            <Value ID="30007691">JOYSTICK</Value>
+            <Value ID="30007692">CYCLE PEDAL</Value>
+            <Value ID="30007693">PISTOL/GUN</Value>
+            <Value ID="30007694">SKATEBOARD</Value>
+            <Value ID="30007695">SKI</Value>
+            <Value ID="30007696">SNOWBOARD</Value>
+            <Value ID="30007697">STEERING WHEEL</Value>
+            <Value ID="30007698">VIRTUAL REALITY</Value>
+            <Value ID="30008481">MICROPHONE</Value>
+            <Value ID="30013425">GAMING GLOVE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003181" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Colour Family</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009969">MULTICOLOURED</Value>
+            <Value ID="30018987">SHADES OF RED</Value>
+            <Value ID="30018988">SHADES OF PINK</Value>
+            <Value ID="30018989">SHADES OF BLUE</Value>
+            <Value ID="30018990">SHADES OF GREEN</Value>
+            <Value ID="30018991">SHADES OF YELLOW</Value>
+            <Value ID="30018992">SHADES OF ORANGE</Value>
+            <Value ID="30018993">SHADES OF PURPLE</Value>
+            <Value ID="30018994">SHADES OF GREY</Value>
+            <Value ID="30018995">SHADES OF BLACK</Value>
+            <Value ID="30018996">SHADES OF WHITE</Value>
+            <Value ID="30018997">SHADES OF BROWN</Value>
+            <Value ID="30018998">SHADES OF BEIGE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

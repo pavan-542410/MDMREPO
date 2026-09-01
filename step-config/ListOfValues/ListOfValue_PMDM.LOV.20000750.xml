@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000750" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Botanical Variety</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000207">ARABICA</Value>
+            <Value ID="30000304">BEECH TREE NUT</Value>
+            <Value ID="30000370">BLEND</Value>
+            <Value ID="30000627">CHICORY</Value>
+            <Value ID="30001095">GARBANZO/CHICKPEA</Value>
+            <Value ID="30001427">LIBERICA</Value>
+            <Value ID="30001766">PARSNIP</Value>
+            <Value ID="30001792">PEABERRY</Value>
+            <Value ID="30002080">RYE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002597">WHEAT</Value>
+            <Value ID="30014425">BARLEY COFFEE</Value>
+            <Value ID="30014441">ROBUSTA</Value>
+            <Value ID="30015652">BARLEY MALT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

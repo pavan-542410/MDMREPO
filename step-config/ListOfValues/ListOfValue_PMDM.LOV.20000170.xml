@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000170" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Style of Beer</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000080">FRUIT NON LAMBIC</Value>
+            <Value ID="30000141">ABBEY/TRAPPIST</Value>
+            <Value ID="30000144">ACIDE</Value>
+            <Value ID="30000173">ALTBIER</Value>
+            <Value ID="30000325">BILBERRY</Value>
+            <Value ID="30000347">BITTER STOUT</Value>
+            <Value ID="30000352">BLACK BEER</Value>
+            <Value ID="30000391">BOCK</Value>
+            <Value ID="30000868">DARK LAGER</Value>
+            <Value ID="30000973">FARO</Value>
+            <Value ID="30001109">GEUZE LAMBIC</Value>
+            <Value ID="30001306">IRISH ALE</Value>
+            <Value ID="30001375">KRIEK</Value>
+            <Value ID="30001506">MALT BEER</Value>
+            <Value ID="30001740">OUD BRUIN</Value>
+            <Value ID="30002376">SWEET STOUT</Value>
+            <Value ID="30002484">TRIPEL</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002612">WHITE BEER</Value>
+            <Value ID="30002952">LAMBIC</Value>
+            <Value ID="30003021">KOELSCH</Value>
+            <Value ID="30003217">BLONDE/PALE</Value>
+            <Value ID="30003219">DOUBLE BOCK</Value>
+            <Value ID="30003220">FRAMBOISE LAMBIC</Value>
+            <Value ID="30003221">FRUIT LAMBIC</Value>
+            <Value ID="30003222">HONEY BEER</Value>
+            <Value ID="30003223">HIGH/HEMP</Value>
+            <Value ID="30003224">ICE BEER</Value>
+            <Value ID="30003225">INDIA PALE ALE (IPA)</Value>
+            <Value ID="30003226">KENTISH ALE</Value>
+            <Value ID="30003229">MILD/HOCK</Value>
+            <Value ID="30003231">NEWCASTLE BROWN ALE</Value>
+            <Value ID="30003232">PILS/PILSNER</Value>
+            <Value ID="30003235">RUTLAND BITTER</Value>
+            <Value ID="30003236">RYE BEER</Value>
+            <Value ID="30003237">SAHTI</Value>
+            <Value ID="30003239">VIEILLE FRAMBOISE LAMBIC</Value>
+            <Value ID="30003240">VIEILLE KRIEK</Value>
+            <Value ID="30003241">VIEILLE LAMBIC</Value>
+            <Value ID="30003281">STRONG ALE/STRANK</Value>
+            <Value ID="30010350">OBERSORTE</Value>
+            <Value ID="30010351">MARZEN</Value>
+            <Value ID="30014427">BROWN BEER</Value>
+            <Value ID="30015714">BERLINER WEISSE (BERLINER WEISSE)</Value>
+            <Value ID="30015715">LAGER BEER (LAGERBIER)</Value>
+            <Value ID="30015716">EXPORT BEER (EXPORT BIER)</Value>
+            <Value ID="30015717">DARK/BLACK BEER (SCHWARZBIER/DUNKELBIER)</Value>
+            <Value ID="30015718">SMOKE BEER (RAUCHBIER)</Value>
+            <Value ID="30015719">NATURALLY CLOUDY (OR UNFILTERED) BEER (NATURTRÜBE BIERE / KELLERBIER, ZWICKELBIER ETC.)</Value>
+            <Value ID="30015749">WHEAT BEER</Value>
+            <Value ID="30017083">DRY STOUT</Value>
+            <Value ID="30017084">REGULAR STOUT</Value>
+            <Value ID="30017369">AMBER BEER</Value>
+            <Value ID="30017370">RED BEER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

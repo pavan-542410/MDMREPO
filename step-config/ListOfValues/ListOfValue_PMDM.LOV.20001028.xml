@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001028" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Computer Memory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007589">DUAL INLINE MEMORY MODULE (DIMM)</Value>
+            <Value ID="30007590">DYNAMIC RANDOM ACCESS MEMORY (DRAM)</Value>
+            <Value ID="30007591">EXTENDED DATA OUT (EDO)</Value>
+            <Value ID="30007592">RAM</Value>
+            <Value ID="30007593">SINGLE INLINE MEMORY MODULE (SIMM)</Value>
+            <Value ID="30007594">STATIC RAM</Value>
+            <Value ID="30007595">VIDEO RAM</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

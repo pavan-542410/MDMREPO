@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000166" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Spirit</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000105">VODKA</Value>
+            <Value ID="30000210">ARMAGNAC</Value>
+            <Value ID="30000493">CACHACA</Value>
+            <Value ID="30000512">CALVADOS</Value>
+            <Value ID="30000706">COGNAC</Value>
+            <Value ID="30001073">FRUIT SPIRIT</Value>
+            <Value ID="30001116">GIN</Value>
+            <Value ID="30001117">GENEVER</Value>
+            <Value ID="30001165">GRAPPA</Value>
+            <Value ID="30001533">MARC</Value>
+            <Value ID="30001583">MEZCAL/MESCAL</Value>
+            <Value ID="30001868">PISCO</Value>
+            <Value ID="30002073">RUM</Value>
+            <Value ID="30002152">SCHNAPPS/AQUAVIT</Value>
+            <Value ID="30002429">TEQUILA</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002607">WHISKY/WHISKEY</Value>
+            <Value ID="30002688">ARAK/RAKI/OUZO</Value>
+            <Value ID="30002987">BOURBON</Value>
+            <Value ID="30003013">BRANDY</Value>
+            <Value ID="30003062">APPLEJACK</Value>
+            <Value ID="30006762">SAMBUCA</Value>
+            <Value ID="30006763">PASTIS/ANISE</Value>
+            <Value ID="30014834">SAKE</Value>
+            <Value ID="30015720">KORN/KORNBRAND</Value>
+            <Value ID="30016928">COMBINATION PACK</Value>
+            <Value ID="30017052">WINE SPIRIT</Value>
+            <Value ID="30018798">ABSINTHE</Value>
+            <Value ID="30018799">BAIJIU</Value>
+            <Value ID="30018801">ORUJO</Value>
+            <Value ID="30018802">RUM AGRICOLE/RHUM AGRICOLE</Value>
+            <Value ID="30018803">SHOCHU</Value>
+            <Value ID="30018804">SOJU</Value>
+            <Value ID="30018805">HUANGJIU</Value>
+            <Value ID="30018806">RAKIA/RAKIJA</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

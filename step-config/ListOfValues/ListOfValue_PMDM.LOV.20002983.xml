@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002983" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Intended Use of Sauce</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30017165">POTATO DISHES</Value>
+            <Value ID="30017166">PASTA DISHES</Value>
+            <Value ID="30017167">MEAT DISHES</Value>
+            <Value ID="30017168">RICE DISHES</Value>
+            <Value ID="30017169">OTHER VEGETABLES DISHES</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002711" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Sausage</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002098">SALAMI</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30014506">MORTADELLA</Value>
+            <Value ID="30014507">WIENER/VIENNA/FRANKFURTER (WURSTEL)/HOT DOG</Value>
+            <Value ID="30014508">BLOOD SAUSAGE/BLACK PUDDING/BLOOD PUDDING</Value>
+            <Value ID="30014509">LIVERWURST/LIVER SAUSAGE/BRAUNSWEIGER</Value>
+            <Value ID="30014510">EXTRAWURST</Value>
+            <Value ID="30014511">MERGUEZ</Value>
+            <Value ID="30014512">MET(T)WURST</Value>
+            <Value ID="30014514">BRATWURST</Value>
+            <Value ID="30014515">CHORIZO/CHOURICO/LONGANIZA</Value>
+            <Value ID="30014516">WEISSWURST</Value>
+            <Value ID="30014517">CERVELAT</Value>
+            <Value ID="30014518">BIERSCHINKEN/KRAKAUER</Value>
+            <Value ID="30014519">TEEWURST</Value>
+            <Value ID="30014520">BOLOGNA</Value>
+            <Value ID="30014521">COUNTRY/BREAKFAST</Value>
+            <Value ID="30014522">ITALIAN SAUSAGE</Value>
+            <Value ID="30014523">KIELBASA</Value>
+            <Value ID="30014524">LINGUICA</Value>
+            <Value ID="30014525">KNOCKWURST</Value>
+            <Value ID="30014526">THURINGER</Value>
+            <Value ID="30014527">ANDOUILLE</Value>
+            <Value ID="30014528">BOCKWURST</Value>
+            <Value ID="30014529">BOEREWORS</Value>
+            <Value ID="30016116">STRASBOURG</Value>
+            <Value ID="30016117">MONTBELIARD</Value>
+            <Value ID="30016118">MORTEAU</Value>
+            <Value ID="30016119">TOULOUSE</Value>
+            <Value ID="30016233">FIGATELLI</Value>
+            <Value ID="30017123">FLEISCHWURST</Value>
+            <Value ID="30017124">JAGDWURST</Value>
+            <Value ID="30017125">LYONER</Value>
+            <Value ID="30017869">ASPIC PRODUCT</Value>
+            <Value ID="30017870">HEAD CHEESE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

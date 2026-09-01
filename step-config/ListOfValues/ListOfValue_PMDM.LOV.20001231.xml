@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001231" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Photography Replacement Part/Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008072">CAMERA CASE</Value>
+            <Value ID="30008073">CLEANING EQUIPMENT</Value>
+            <Value ID="30008074">LENS COVER</Value>
+            <Value ID="30008075">PHOTOGRAPHY LIGHT</Value>
+            <Value ID="30008076">PHOTOGRAPHY METER</Value>
+            <Value ID="30008077">CAMERA TRIPOD/SUPPORT</Value>
+            <Value ID="30011456">LIGHT REFLECTOR/DIFFUSER</Value>
+            <Value ID="30012838">PROJECTOR LAMP</Value>
+            <Value ID="30013419">REMOTE CONTROL PHOTO RELEASE</Value>
+            <Value ID="30013486">PHOTOGRAPHY EQUIPMENT BAG</Value>
+            <Value ID="30013487">LAMP TRIPOD</Value>
+            <Value ID="30013497">PHOTOGRAPHIC BACKGROUND WEIGHTING RAIL</Value>
+            <Value ID="30013498">PICTURE BACKGROUND</Value>
+            <Value ID="30013499">PHOTOGRAPHIC STUDIO UMBRELLA</Value>
+            <Value ID="30013500">FILTER ADAPTOR RING</Value>
+            <Value ID="30013501">LENS ADAPTOR</Value>
+            <Value ID="30013502">TRIPOD BALL/SOCKET HEAD</Value>
+            <Value ID="30013503">LENS BAG</Value>
+            <Value ID="30014493">PHOTO SCREEN</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

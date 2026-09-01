@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000986" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Partially Enclosed Upper</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007461">CLOSED TOE/OPEN BACK</Value>
+            <Value ID="30007462">CLOSED TOE, CLOSED BACK/OPEN INSTEP</Value>
+            <Value ID="30007463">OPEN TOE/CLOSED BACK</Value>
+            <Value ID="30007464">OPEN TOE/OPEN BACK</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003051" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Hormonal Contraception Formulation</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005612">PROGESTIN ONLY</Value>
+            <Value ID="30006171">PROGESTIN/OESTROGEN</Value>
+            <Value ID="30017855">DESOGESTREL/ETHINYL ESTRADIOL ONLY</Value>
+            <Value ID="30017856">LEVONGESTREL ONLY</Value>
+            <Value ID="30017857">LEVONORGESTREL/ETHINYLESTRADIOL</Value>
+            <Value ID="30017858">LYNESTRENOL ONLY</Value>
+            <Value ID="30017859">MEDROXYPROGESTERONE ACETATE ONLY</Value>
+            <Value ID="30017860">MEDROXYPROGESTERONE ACETATE/ESTRADIOL CYPIONATE</Value>
+            <Value ID="30017861">NORETHISTERONE ENANTATE</Value>
+            <Value ID="30017862">NORETHISTERONE ENANTATE/ESTRADIOL VALERATE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

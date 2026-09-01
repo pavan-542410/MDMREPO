@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002181" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Automotive Switch</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011612">ON/OFF SWITCH</Value>
+            <Value ID="30011613">INDICATOR/WARNING LIGHT</Value>
+            <Value ID="30011614">RELAY</Value>
+            <Value ID="30011615">MOUNTING PANEL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

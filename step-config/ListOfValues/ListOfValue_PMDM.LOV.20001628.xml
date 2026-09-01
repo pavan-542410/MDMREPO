@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001628" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Camping Cooking/Drinking/Eating Replacement Part/Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009529">CAMPING WATER CANISTER FILLER TUBE</Value>
+            <Value ID="30009530">CAMPING WATER CANISTER STAND</Value>
+            <Value ID="30009531">CAMPING WATER CANISTER STRAP</Value>
+            <Value ID="30009532">CAMPING WATER CANISTER TAP</Value>
+            <Value ID="30009534">CAMPING WATER FILTER CLEANING KIT</Value>
+            <Value ID="30010579">CAMPING STOVE RING/PLATE FITTING</Value>
+            <Value ID="30010580">CAMPING STOVE TOASTER FITTING</Value>
+            <Value ID="30010640">CAMPING WATER FILTER CARTRIDGE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

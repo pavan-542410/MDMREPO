@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000021" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Dried Bread</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000433">BREADSTICKS</Value>
+            <Value ID="30000453">BRUSCHETTA</Value>
+            <Value ID="30000828">CROSTINI</Value>
+            <Value ID="30000829">CROUTONS</Value>
+            <Value ID="30001363">KNACKE</Value>
+            <Value ID="30001568">MELBA TOAST</Value>
+            <Value ID="30001758">PAPADUMS</Value>
+            <Value ID="30002391">TACO SHELLS</Value>
+            <Value ID="30002409">TARALLI</Value>
+            <Value ID="30002450">TOASTED BREAD</Value>
+            <Value ID="30002476">TOSTADA</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003242">CRISPBREAD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

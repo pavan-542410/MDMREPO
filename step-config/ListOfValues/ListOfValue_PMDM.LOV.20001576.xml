@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001576" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Attachments</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30001694">NONE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009374">CHOPPER</Value>
+            <Value ID="30009375">BALLOON WHISK</Value>
+            <Value ID="30009378">CITRUS PRESS</Value>
+            <Value ID="30010529">MIXER</Value>
+            <Value ID="30016288">WHISK</Value>
+            <Value ID="30016289">BREAD HOOKS</Value>
+            <Value ID="30016290">BEATERS</Value>
+            <Value ID="30016291">LIQUID BEATER ROD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

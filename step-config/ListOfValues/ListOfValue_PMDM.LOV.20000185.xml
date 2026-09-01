@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000185" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Tobacco</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001864">PIPE TOBACCO</Value>
+            <Value ID="30002044">ROLLING TOBACCO</Value>
+            <Value ID="30002257">SNUFF</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003026">CHEWING TOBACCO</Value>
+            <Value ID="30003030">SNUS</Value>
+            <Value ID="30014837">KALIAN TOBACCO</Value>
+            <Value ID="30017212">RAW/UNTREATED TOBACCO</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

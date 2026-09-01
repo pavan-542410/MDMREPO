@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002787" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Variety of Basil</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30014992">THAI BASIL (E.G. OCIMUM BASILICUM VAR. THYRSIFLORA )</Value>
+            <Value ID="30014993">CINNAMON BASIL (E.G.OCIMUM BASILICUM VAR. CINNAMON)</Value>
+            <Value ID="30017925">AMERICAN BASIL (E.G. OCIMUM AMERICANUM)</Value>
+            <Value ID="30017926">HOLY BASIL (E.G. OCIMUM TENUIFLORUM)</Value>
+            <Value ID="30017927">LEMON BASIL (E.G. OCIMUM X CITRIODORUM)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

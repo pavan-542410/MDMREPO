@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001243" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Placement</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008099">FLIP-DOWN MONITOR</Value>
+            <Value ID="30008100">HEADREST MONITOR</Value>
+            <Value ID="30008101">IN-DASH MONITOR</Value>
+            <Value ID="30008102">REAR-VIEW MIRROR MONITOR</Value>
+            <Value ID="30008103">SUN VISOR MONITOR</Value>
+            <Value ID="30008104">UNIVERSAL MONITOR</Value>
+            <Value ID="30008105">IN DASH</Value>
+            <Value ID="30008106">IN TRUNK</Value>
+            <Value ID="30008107">UNDER SEAT</Value>
+            <Value ID="30010705">ON FLOOR</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

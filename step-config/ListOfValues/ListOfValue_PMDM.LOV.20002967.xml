@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002967" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Intended Cooking Method</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001194">GRILLING</Value>
+            <Value ID="30002249">SMOKED</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003101">ROASTING</Value>
+            <Value ID="30008707">STEAM</Value>
+            <Value ID="30017053">BAKE</Value>
+            <Value ID="30017054">BASTING</Value>
+            <Value ID="30017055">BRAISE</Value>
+            <Value ID="30017056">BROILING</Value>
+            <Value ID="30017057">ROTISSERIE</Value>
+            <Value ID="30017058">SAUTE</Value>
+            <Value ID="30017059">SLOW COOK</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

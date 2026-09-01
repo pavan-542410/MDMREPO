@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.PDS.LanguageHandling" ParentID="PMDM.LOVG.SystemLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>PDX: Language Handling</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value ID="Mandatory">Mandatory</Value>
+            <Value ID="No">Not supplier relevant</Value>
+            <Value ID="Optional">Optional</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

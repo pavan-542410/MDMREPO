@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000060" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Dressing or Dip</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000592">CHEESE DIP</Value>
+            <Value ID="30002410">TARAMASALATA</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002538">VEGETABLE DIPS</Value>
+            <Value ID="30002673">VINAIGRETTE</Value>
+            <Value ID="30006768">SALAD DRESSING</Value>
+            <Value ID="30006770">VEGETABLE DIP</Value>
+            <Value ID="30013148">SALSA DIP</Value>
+            <Value ID="30013149">SOUR CREAM/CHIVE DIP</Value>
+            <Value ID="30013150">CHILLI DIP</Value>
+            <Value ID="30013151">SWEET/SOUR DIP</Value>
+            <Value ID="30013152">ROCKET/BASIL DIP</Value>
+            <Value ID="30013153">TOMATO/CORIANDER DIP</Value>
+            <Value ID="30013154">GARLIC DIP</Value>
+            <Value ID="30013155">RED PEPPER/TOMATO DIP</Value>
+            <Value ID="30013156">SWEET THAI DIP</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

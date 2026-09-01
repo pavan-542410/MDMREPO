@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002052" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Growing Medium</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002035">ROCK</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003307">WATER</Value>
+            <Value ID="30005018">SAND</Value>
+            <Value ID="30011033">SOIL</Value>
+            <Value ID="30011034">AIR</Value>
+            <Value ID="30011035">TREE BARK</Value>
+            <Value ID="30011036">ROCK/SAND</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

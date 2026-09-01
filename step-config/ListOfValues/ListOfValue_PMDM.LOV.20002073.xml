@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002073" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Musical Instrument Holder/Stand/Lyre</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011168">END PIN</Value>
+            <Value ID="30011204">TRUMPET/CORNET STAND</Value>
+            <Value ID="30011205">TROMBONE STAND</Value>
+            <Value ID="30011206">TRUMPET/CORNET LYRE</Value>
+            <Value ID="30011207">TRUMPET PEG</Value>
+            <Value ID="30011208">TUBA REST</Value>
+            <Value ID="30011209">FLUGELHORN STAND</Value>
+            <Value ID="30011210">SOUSAPHONE STAND</Value>
+            <Value ID="30011211">FRENCH HORN LYRE</Value>
+            <Value ID="30011212">KEYBOARD STAND</Value>
+            <Value ID="30011213">CYMBAL STAND/HOLDER</Value>
+            <Value ID="30011214">DRUM STICK HOLDER</Value>
+            <Value ID="30011215">DRUM STAND CLAMP</Value>
+            <Value ID="30011216">VIOLA/VIOLIN STAND</Value>
+            <Value ID="30011218">END PIN REST</Value>
+            <Value ID="30011219">TROMBONE LYRE</Value>
+            <Value ID="30011220">CLARINET/FLUTE STAND</Value>
+            <Value ID="30011221">SAX STAND</Value>
+            <Value ID="30011222">CLARINET LYRE</Value>
+            <Value ID="30011223">FLUTE/PICCOLO LYRE</Value>
+            <Value ID="30011224">SAX LYRE</Value>
+            <Value ID="30011225">CLARINET PEG</Value>
+            <Value ID="30011226">SAX PEG</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

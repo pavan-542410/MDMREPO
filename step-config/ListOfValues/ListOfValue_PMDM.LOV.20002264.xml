@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002264" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Fuel Additive</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011872">ANTI-WEAR</Value>
+            <Value ID="30011873">THICKENER</Value>
+            <Value ID="30011874">ANTI-FOAM</Value>
+            <Value ID="30011875">CORROSION INHIBITOR</Value>
+            <Value ID="30011876">DEMULSIFIER</Value>
+            <Value ID="30011877">DETERGENT</Value>
+            <Value ID="30011878">DISPERSANT</Value>
+            <Value ID="30011879">OILINESS</Value>
+            <Value ID="30011880">TACKINESS</Value>
+            <Value ID="30011881">ICING INHIBITOR</Value>
+            <Value ID="30011882">STABILISER</Value>
+            <Value ID="30011883">EMULSIFIER</Value>
+            <Value ID="30011884">BOOSTER</Value>
+            <Value ID="30011885">VISCOSITY INDEX IMPROVER</Value>
+            <Value ID="30011886">CONDITIONER</Value>
+            <Value ID="30011887">LUBRICATOR</Value>
+            <Value ID="30011888">ANTI-GEL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

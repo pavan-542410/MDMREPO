@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002802" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Colour of Flesh of Watermelon</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001173">GREEN</Value>
+            <Value ID="30001983">RED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002610">WHITE</Value>
+            <Value ID="30002652">YELLOW</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

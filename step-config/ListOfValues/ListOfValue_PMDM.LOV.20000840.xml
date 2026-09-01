@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000840" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Writing Implement Replacement Part</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007327">BALLPOINT PEN REFILL</Value>
+            <Value ID="30007329">INK CARTRIDGE</Value>
+            <Value ID="30007330">MECHANICAL PENCIL REFILL</Value>
+            <Value ID="30007331">ROLLERBALL PEN REFILL</Value>
+            <Value ID="30011041">FOUNTAIN PEN NIB</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

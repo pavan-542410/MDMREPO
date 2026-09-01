@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000514" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Home Diagnostic Test</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005190">ALCOHOL BREATH TESTER</Value>
+            <Value ID="30005191">ALLERGY TEST</Value>
+            <Value ID="30005442">OVULATION TEST</Value>
+            <Value ID="30005482">CHOLESTEROL TEST</Value>
+            <Value ID="30005593">KETONES TEST</Value>
+            <Value ID="30005611">PREGNANCY TEST</Value>
+            <Value ID="30005613">PROTEIN TEST</Value>
+            <Value ID="30005732">GLUCOSE TEST</Value>
+            <Value ID="30006874">BODY FAT TEST</Value>
+            <Value ID="30013098">BOWEL HEALTH TEST</Value>
+            <Value ID="30013099">URINARY TRACT TEST</Value>
+            <Value ID="30013100">MENOPAUSE TEST</Value>
+            <Value ID="30013101">STOMACH ULCER TEST</Value>
+            <Value ID="30013102">DRINK SPIKE TEST</Value>
+            <Value ID="30013103">MULTI DRUG TEST</Value>
+            <Value ID="30013104">CHLAMYDIA TEST</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

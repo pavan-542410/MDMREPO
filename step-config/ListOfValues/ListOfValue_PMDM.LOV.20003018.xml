@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003018" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Grain</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000277">BARLEY</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30000783">COUSCOUS</Value>
+            <Value ID="30000789">CRACKED WHEAT</Value>
+            <Value ID="30001712">OATS</Value>
+            <Value ID="30002007">RICE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002697">POLENTA</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

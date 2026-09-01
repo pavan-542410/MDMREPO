@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002144" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Equipment Rack/Carrier</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011080">BIKE RACK</Value>
+            <Value ID="30011447">GUN RACK</Value>
+            <Value ID="30011474">CANOE/KAYAK RACK</Value>
+            <Value ID="30011476">ROOF/LUGGAGE RACK</Value>
+            <Value ID="30011477">SURFBOARD/SNOWBOARD RACK</Value>
+            <Value ID="30011478">SKI RACK</Value>
+            <Value ID="30011479">TYRE/WHEEL RACK</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000201" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Herb/Spice</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000098">STAR ANISE</Value>
+            <Value ID="30000184">ANISEED</Value>
+            <Value ID="30000284">BASIL</Value>
+            <Value ID="30000293">BAY LEAF</Value>
+            <Value ID="30000357">BLACK PEPPER</Value>
+            <Value ID="30000522">CAPER</Value>
+            <Value ID="30000533">CARDAMOM</Value>
+            <Value ID="30000557">CAYENNE PEPPER</Value>
+            <Value ID="30000608">CHERVIL</Value>
+            <Value ID="30000678">CINNAMON</Value>
+            <Value ID="30000693">CLOVE</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30000753">CORIANDER</Value>
+            <Value ID="30000883">DILL</Value>
+            <Value ID="30001096">GARLIC</Value>
+            <Value ID="30001119">GINGER</Value>
+            <Value ID="30001178">GREEN PEPPER</Value>
+            <Value ID="30001330">JUNIPER</Value>
+            <Value ID="30001482">MACE</Value>
+            <Value ID="30001538">MARJORAM</Value>
+            <Value ID="30001604">MINT</Value>
+            <Value ID="30001707">NUTMEG</Value>
+            <Value ID="30001731">OREGANO</Value>
+            <Value ID="30001761">PAPRIKA</Value>
+            <Value ID="30001765">PARSLEY</Value>
+            <Value ID="30002054">ROSEMARY</Value>
+            <Value ID="30002090">SAFFRON</Value>
+            <Value ID="30002091">SAGE</Value>
+            <Value ID="30002268">SORREL</Value>
+            <Value ID="30002390">TACO SEASONING</Value>
+            <Value ID="30002413">TARRAGON</Value>
+            <Value ID="30002437">THYME</Value>
+            <Value ID="30002503">TURMERIC</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002531">VANILLA</Value>
+            <Value ID="30002616">WHITE PEPPER</Value>
+            <Value ID="30002721">LEMON GRASS</Value>
+            <Value ID="30002752">FENNEL</Value>
+            <Value ID="30002944">CHIVE</Value>
+            <Value ID="30002975">CUMIN</Value>
+            <Value ID="30002980">MUSTARD SEED</Value>
+            <Value ID="30003078">CARAWAY SEED</Value>
+            <Value ID="30003288">ALLSPICE</Value>
+            <Value ID="30003289">CELERY SEED</Value>
+            <Value ID="30003290">CHILLI POWDER</Value>
+            <Value ID="30003291">GALANGA</Value>
+            <Value ID="30003292">SICHUAN PEPPER</Value>
+            <Value ID="30003293">VINE LEAF</Value>
+            <Value ID="30013180">MOLOKHEYA</Value>
+            <Value ID="30013181">HOT PEPPER/CHILLI</Value>
+            <Value ID="30013182">SESAME GOLD</Value>
+            <Value ID="30013183">SESAME WHITE</Value>
+            <Value ID="30014434">LIQUORICE HERB</Value>
+            <Value ID="30014865">ROSE PEPPER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

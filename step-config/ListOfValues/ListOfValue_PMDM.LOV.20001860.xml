@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001860" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Plant Holders (Empty)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009307">TRAYS</Value>
+            <Value ID="30010128">SHEET POTS</Value>
+            <Value ID="30010130">HANGING BASKET</Value>
+            <Value ID="30010131">WINDOW RECEPTACLE</Value>
+            <Value ID="30010132">WINDOW BOX</Value>
+            <Value ID="30010133">PLANT CONTAINER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

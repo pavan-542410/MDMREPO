@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.PDS.WorkflowEvent" ParentID="PMDM.LOVG.SystemLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>PDX: Workflow Event</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value ID="PDS_ACCEPTED">PDS_ACCEPTED</Value>
+            <Value ID="PDS_REJECTED">PDS_REJECTED</Value>
+            <Value ID="PDS_RETURNED">PDS_RETURNED</Value>
+            <Value ID="PDS_SUBMITTED">PDS_SUBMITTED</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

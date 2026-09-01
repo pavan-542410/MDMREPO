@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001931" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Capacity of Box/Bag</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009515">0-5L INSULATED BOX/BAG</Value>
+            <Value ID="30009516">11-20L INSULATED BOX/BAG</Value>
+            <Value ID="30009517">21-30L INSULATED BOX/BAG</Value>
+            <Value ID="30009518">31-40L INSULATED BOX/BAG</Value>
+            <Value ID="30009519">&lt;gt/&gt;40L INSULATED BOX/BAG</Value>
+            <Value ID="30009520">6-10L INSULATED BOX/BAG</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

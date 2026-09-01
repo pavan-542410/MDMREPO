@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001609" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Tent Treatment/Repair Kit</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009456">TENT POLE REPAIR KIT</Value>
+            <Value ID="30009457">TENT REPAIR KIT</Value>
+            <Value ID="30009458">TENT REPAIR TAPE</Value>
+            <Value ID="30010548">TENT SEAM SEALANT</Value>
+            <Value ID="30010549">TENT WATERPROOFING SPRAY</Value>
+            <Value ID="30010556">TENT CLEANER</Value>
+            <Value ID="30010557">TENT ZIP LUBRICANT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

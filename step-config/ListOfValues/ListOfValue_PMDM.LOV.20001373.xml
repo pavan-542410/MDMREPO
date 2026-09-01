@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001373" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Basketry Craft Material</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30006923">STRAW</Value>
+            <Value ID="30008640">CANE</Value>
+            <Value ID="30008641">RUSH CORD</Value>
+            <Value ID="30008642">PAPER ROPE</Value>
+            <Value ID="30008643">RAFFIA</Value>
+            <Value ID="30008645">REED</Value>
+            <Value ID="30008646">SEA GRASS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

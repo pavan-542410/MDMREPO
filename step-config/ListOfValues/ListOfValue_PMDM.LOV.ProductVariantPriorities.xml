@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.ProductVariantPriorities" ParentID="PMDM.LOVG.SystemLOVs" AllowUserValueAddition="false" UseValueID="false">
+            <Name>Product Variant Priorities</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="3" InputMask=""></Validation>
+            <Value>1</Value>
+            <Value>2</Value>
+            <Value>3</Value>
+            <Value>4</Value>
+            <Value>5</Value>
+            <Value>6</Value>
+            <Value>7</Value>
+            <Value>n1</Value>
+            <Value>n2</Value>
+            <Value>n3</Value>
+            <Value>n4</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

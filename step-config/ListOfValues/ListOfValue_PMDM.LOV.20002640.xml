@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002640" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Charger</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30013379">MP3 CHARGER</Value>
+            <Value ID="30013380">UNIVERSAL CHARGER</Value>
+            <Value ID="30013385">MOBILE PHONE CHARGER</Value>
+            <Value ID="30013386">PDA (PERSONAL DIGITAL ASSISTANT) CHARGER</Value>
+            <Value ID="30013387">PNA (PHONELINE NETWORKING ALLIANCE) CHARGER</Value>
+            <Value ID="30014475">CAMCORDER CHARGER</Value>
+            <Value ID="30014480">BATTERY CHARGER (CELL BATTERIES)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

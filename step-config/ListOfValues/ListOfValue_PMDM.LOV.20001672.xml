@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001672" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Teapot/Cafetiere/Hot Beverage Carafe</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009638">CAFETIERE</Value>
+            <Value ID="30009639">TEAPOT</Value>
+            <Value ID="30011974">COFFEE PERCOLATOR (NON POWERED)</Value>
+            <Value ID="30018191">CHOCOLATE POT</Value>
+            <Value ID="30018192">FRENCH PRESS CAFETIERE (NON POWERED)</Value>
+            <Value ID="30018193">MOCHA/MOKA POT</Value>
+            <Value ID="30018194">VACUUM/SIPHON COFFEE MAKERS (NON POWERED)</Value>
+            <Value ID="30018195">COFFEE POT</Value>
+            <Value ID="30018196">PUMP ACTION COFFEE POT PUMP VACUUM FLASK</Value>
+            <Value ID="30018197">ICED TEA POT</Value>
+            <Value ID="30018199">SPARE PARTS FOR TEAPOTS AND COFFEE MAKERS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001986" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Sandpaper</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002040">ROLL</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004666">SHEET</Value>
+            <Value ID="30005818">SANDPAPER BELT</Value>
+            <Value ID="30010634">DISC</Value>
+            <Value ID="30010819">TRIANGULAR</Value>
+            <Value ID="30014368">SANDPAPER CLOTH</Value>
+            <Value ID="30014369">SANDPAPER PAD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

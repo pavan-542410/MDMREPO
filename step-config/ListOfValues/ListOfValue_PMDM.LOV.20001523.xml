@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001523" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Replacement Part/Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007435">CLEANER</Value>
+            <Value ID="30008085">BATH</Value>
+            <Value ID="30009226">HINGE PARTS</Value>
+            <Value ID="30009239">COIL</Value>
+            <Value ID="30009258">DRIP BOWL</Value>
+            <Value ID="30009259">OVEN ELEMENT</Value>
+            <Value ID="30009260">RANGE CORD</Value>
+            <Value ID="30009261">MICROWAVE TURNTABLE PLATTER</Value>
+            <Value ID="30009262">CONTROL KNOB</Value>
+            <Value ID="30009263">MODULE</Value>
+            <Value ID="30009264">KNOB/BUTTON</Value>
+            <Value ID="30009265">SPLASH BACK</Value>
+            <Value ID="30009266">OVEN RACK</Value>
+            <Value ID="30009268">EXTRACTOR FAN FILTER</Value>
+            <Value ID="30009750">HOB GUARD</Value>
+            <Value ID="30010510">FILTER</Value>
+            <Value ID="30010511">SPRAY BAR</Value>
+            <Value ID="30010512">NOZZLE</Value>
+            <Value ID="30010513">SOAP DISPENSER</Value>
+            <Value ID="30010515">GRILL PAN/TRAY</Value>
+            <Value ID="30010516">BEARING</Value>
+            <Value ID="30010517">DRUM SEAL</Value>
+            <Value ID="30010518">DRUM BELT</Value>
+            <Value ID="30010519">POWER CORD</Value>
+            <Value ID="30010520">DRYING RACK</Value>
+            <Value ID="30010521">LINT SCREEN</Value>
+            <Value ID="30010522">CONVERSION TOP</Value>
+            <Value ID="30010523">SHELF</Value>
+            <Value ID="30010524">ICE MAKER KIT</Value>
+            <Value ID="30010525">ICE CUBE TRAY</Value>
+            <Value ID="30010526">REPLACEMENT DOOR</Value>
+            <Value ID="30010527">DRAWER</Value>
+            <Value ID="30010528">WATER LINE KIT</Value>
+            <Value ID="30011457">WHEEL LOCKING NUTS</Value>
+            <Value ID="30011458">KILL SWITCHES</Value>
+            <Value ID="30011459">ELECTRONIC KEYS</Value>
+            <Value ID="30011471">CARGO BARS</Value>
+            <Value ID="30011472">CARGO DIVIDERS</Value>
+            <Value ID="30011496">FUSE HOLDERS</Value>
+            <Value ID="30011497">FUSE BLOCKS</Value>
+            <Value ID="30011498">FUSE TAPS</Value>
+            <Value ID="30011499">FUSE PULLERS</Value>
+            <Value ID="30011500">FUSE TESTERS</Value>
+            <Value ID="30011501">FUSIBLE LINKS</Value>
+            <Value ID="30011502">HORN ACCESSORIES</Value>
+            <Value ID="30011503">SIREN ACCESSORIES</Value>
+            <Value ID="30011798">HANDLE</Value>
+            <Value ID="30011803">MITRE BOX</Value>
+            <Value ID="30012556">PIPE CONNECTOR</Value>
+            <Value ID="30013035">BURNER COVER</Value>
+            <Value ID="30013041">GAS BURNER BIB</Value>
+            <Value ID="30013046">HEAT DIFFUSER</Value>
+            <Value ID="30013325">SAW HANDLE GRIP</Value>
+            <Value ID="30013346">LAUNDRY PEDESTAL</Value>
+            <Value ID="30014386">DRAIN HOSE SET</Value>
+            <Value ID="30014387">INLET HOSE</Value>
+            <Value ID="30014388">HOSE CONNECTOR</Value>
+            <Value ID="30014389">VIBRATION BUFFER</Value>
+            <Value ID="30014390">HOSE CLIP</Value>
+            <Value ID="30014393">LAUNDRY STACKING KIT</Value>
+            <Value ID="30014394">COOKER HOOD REDUCING SOCKET</Value>
+            <Value ID="30014396">TUMBLE DRYER CONDENSER</Value>
+            <Value ID="30014397">REFRIGERATOR/FREEZER DIGITAL THERMOMETER</Value>
+            <Value ID="30014398">REFRIGERATOR DEODORANT FILTER</Value>
+            <Value ID="30014399">COOKER HOOD DUCTING</Value>
+            <Value ID="30014400">TUMBLE DRYER VENT HOSE</Value>
+            <Value ID="30014403">STOVE KNOB COVER</Value>
+            <Value ID="30014410">DISHWASHER TRAY</Value>
+            <Value ID="30014421">RING JOINT/WASHER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

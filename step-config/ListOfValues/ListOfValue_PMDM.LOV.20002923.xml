@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002923" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Electronic Cigarette or Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30016247">DISPOSABLE ELECTRONIC CIGARETTE</Value>
+            <Value ID="30016248">RECHARGEABLE ELECTRONIC CIGARETTE</Value>
+            <Value ID="30016249">ELECTRONIC CIGARETTE REPLACEMENT CARTRIDGES</Value>
+            <Value ID="30016250">ELECTRONIC CIGARETTE BATTERIES</Value>
+            <Value ID="30016251">ELECTRONIC CIGARETTE BATTERY CHARGER</Value>
+            <Value ID="30016252">ELECTRONIC CIGARETTE CARRYING CASE</Value>
+            <Value ID="30016253">ELECTRONIC CIGARETTE KIT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

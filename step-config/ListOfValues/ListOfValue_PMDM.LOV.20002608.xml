@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002608" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Drum Revolution</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30013260">601-800</Value>
+            <Value ID="30013261">801-1000</Value>
+            <Value ID="30013262">1001-1200</Value>
+            <Value ID="30013263">1201-1400</Value>
+            <Value ID="30013264">1401-1600</Value>
+            <Value ID="30013265">&lt;gt/&gt;1600</Value>
+            <Value ID="30014481">&lt;lt/&gt;600</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

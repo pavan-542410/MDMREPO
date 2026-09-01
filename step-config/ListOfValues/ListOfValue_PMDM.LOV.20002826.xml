@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002826" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Sign - Replacement Part/Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007435">CLEANER</Value>
+            <Value ID="30009262">CONTROL KNOB</Value>
+            <Value ID="30010764">REPLACEMENT POWER SUPPLY UNIT</Value>
+            <Value ID="30015469">HANGER/HARDWARE</Value>
+            <Value ID="30015470">REPLACEMENT LETTERS</Value>
+            <Value ID="30015471">SIGN COVER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

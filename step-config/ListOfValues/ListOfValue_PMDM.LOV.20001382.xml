@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001382" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Candle/Soap Craft Material</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008673">BEESWAX</Value>
+            <Value ID="30008674">CANDLE WICKS</Value>
+            <Value ID="30008675">HONEYCOMB SHEETS</Value>
+            <Value ID="30008676">PARAFFIN WAX</Value>
+            <Value ID="30008678">VEGETABLE WAX</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

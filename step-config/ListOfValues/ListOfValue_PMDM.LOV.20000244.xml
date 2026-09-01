@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000244" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Fish/Shellfish Cut/Shape</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000996">FILLET</Value>
+            <Value ID="30001005">FLAKE</Value>
+            <Value ID="30001220">HALF</Value>
+            <Value ID="30001246">HEAD</Value>
+            <Value ID="30001635">MOUSSE</Value>
+            <Value ID="30001779">PASTE</Value>
+            <Value ID="30002335">STEAK</Value>
+            <Value ID="30002397">TAIL</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002715">PIECE</Value>
+            <Value ID="30002772">WHOLE</Value>
+            <Value ID="30002837">SLICED</Value>
+            <Value ID="30014428">FISH EGGS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

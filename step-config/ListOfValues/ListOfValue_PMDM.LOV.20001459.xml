@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001459" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Diving Equipment</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008901">DIVING FINS/FLIPPERS</Value>
+            <Value ID="30008903">DIVING NOSE CLIP</Value>
+            <Value ID="30008904">DIVING SNORKEL</Value>
+            <Value ID="30008905">DIVING BELT WEIGHTS</Value>
+            <Value ID="30010964">DIVING GAUGE/CONSOLE</Value>
+            <Value ID="30010965">DIVING TANK/CYLINDER</Value>
+            <Value ID="30010966">DIVING HOSE</Value>
+            <Value ID="30010967">DIVING HOSE CLIP</Value>
+            <Value ID="30010968">DIVING REGULATOR</Value>
+            <Value ID="30010969">DIVING REEL</Value>
+            <Value ID="30011268">DIVING HARPOON</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

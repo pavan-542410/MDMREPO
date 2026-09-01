@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002413" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Curtain Pole/Rod</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30012361">BATON POLE</Value>
+            <Value ID="30012362">BULLET POLE</Value>
+            <Value ID="30012363">COLLAR CAP POLE</Value>
+            <Value ID="30012366">CURTAIN WIRE</Value>
+            <Value ID="30012367">SLICE POLE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

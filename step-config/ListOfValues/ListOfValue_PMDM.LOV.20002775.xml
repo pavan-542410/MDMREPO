@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002775" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Variety of Mangos</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010386">RUBY</Value>
+            <Value ID="30014957">ALPHONSO</Value>
+            <Value ID="30014958">AMELIE</Value>
+            <Value ID="30014959">EDWARD</Value>
+            <Value ID="30014960">HADEN</Value>
+            <Value ID="30014961">JUBILEE</Value>
+            <Value ID="30014962">JULIE</Value>
+            <Value ID="30014963">KEITT (SYN. KEITH)</Value>
+            <Value ID="30014964">KENT</Value>
+            <Value ID="30014965">MULGOBA</Value>
+            <Value ID="30014966">NGOWE</Value>
+            <Value ID="30014967">PAHIRI</Value>
+            <Value ID="30014968">PALMER</Value>
+            <Value ID="30014969">PETER</Value>
+            <Value ID="30014970">SENSATION</Value>
+            <Value ID="30014971">SMITH</Value>
+            <Value ID="30014972">SPRINGFIELD</Value>
+            <Value ID="30014973">TOMMY ATKINS</Value>
+            <Value ID="30014974">ZILL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

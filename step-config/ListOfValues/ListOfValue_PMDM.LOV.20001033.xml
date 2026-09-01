@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001033" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of CD/DVD Drive Reading/Writing</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007617">CD DRIVE</Value>
+            <Value ID="30007618">HD DVD DRIVE</Value>
+            <Value ID="30013224">BLU RAY DRIVE</Value>
+            <Value ID="30014476">DVD DRIVE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

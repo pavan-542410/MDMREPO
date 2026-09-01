@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="NAICSCodesLOV" ParentID="List Of Values group root" AllowUserValueAddition="false" UseValueID="true">
+            <Name>NAICS Codes</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value ID="11">Agriculture, Forestry, Fishing and Hunting</Value>
+            <Value ID="21">Mining, Quarrying, and Oil and Gas Extraction</Value>
+            <Value ID="22">Utilities</Value>
+            <Value ID="23">Construction</Value>
+            <Value ID="31-33">Manufacturing</Value>
+            <Value ID="44-45">Retail Trade</Value>
+            <Value ID="48-49">Transportation and Warehousing</Value>
+            <Value ID="51">Information</Value>
+            <Value ID="52">Finance and Insurance</Value>
+            <Value ID="53">Real Estate and Rental and Leasing</Value>
+            <Value ID="54">Professional, Scientific, and Technical Services</Value>
+            <Value ID="55">Management of Companies and Enterprises</Value>
+            <Value ID="56">Administrative and Support and Waste Management and Remediation Services</Value>
+            <Value ID="61">Educational Services</Value>
+            <Value ID="62">Health Care and Social Assistance</Value>
+            <Value ID="71">Arts, Entertainment, and Recreation</Value>
+            <Value ID="72">Accommodation and Food Services</Value>
+            <Value ID="81">Other Services (except Public Administration)</Value>
+            <Value ID="92">Public Administration</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

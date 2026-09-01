@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001966" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Sporting Activity</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002326">SQUASH (SPORT)</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007407">BADMINTON</Value>
+            <Value ID="30007408">BASKETBALL</Value>
+            <Value ID="30007409">CLIMBING</Value>
+            <Value ID="30007410">CYCLING</Value>
+            <Value ID="30007411">EQUESTRIAN</Value>
+            <Value ID="30007412">FISHING</Value>
+            <Value ID="30007413">GOLF</Value>
+            <Value ID="30007414">GYMNASTICS</Value>
+            <Value ID="30007416">ICE HOCKEY</Value>
+            <Value ID="30007417">ICE SKATING</Value>
+            <Value ID="30007419">MOTOR CYCLING</Value>
+            <Value ID="30007420">RUNNING</Value>
+            <Value ID="30007428">SURFING</Value>
+            <Value ID="30007429">SWIMMING</Value>
+            <Value ID="30007430">TENNIS</Value>
+            <Value ID="30008244">BASEBALL</Value>
+            <Value ID="30008247">FOOTBALL/SOCCER</Value>
+            <Value ID="30008743">AMERICAN FOOTBALL</Value>
+            <Value ID="30008746">CRICKET</Value>
+            <Value ID="30008747">HOCKEY</Value>
+            <Value ID="30008748">RUGBY</Value>
+            <Value ID="30009113">BOXING</Value>
+            <Value ID="30010507">SKIING</Value>
+            <Value ID="30010935">FENCING</Value>
+            <Value ID="30010943">ARCHERY</Value>
+            <Value ID="30010963">DIVING</Value>
+            <Value ID="30017323">WEIGHT LIFTING</Value>
+            <Value ID="30017903">COMPETITIVE SWIMMING</Value>
+            <Value ID="30017904">SCUBA</Value>
+            <Value ID="30017905">SNORKELING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

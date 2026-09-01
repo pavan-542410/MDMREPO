@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000143" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Pasta or Noodle</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000542">CASARECCI</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30000731">CONCHIGLIE</Value>
+            <Value ID="30000751">COQUILLETTES</Value>
+            <Value ID="30000967">FAGOTTINI</Value>
+            <Value ID="30000969">FARCITTI</Value>
+            <Value ID="30000970">FARFALLE</Value>
+            <Value ID="30000979">FETTUCCINE</Value>
+            <Value ID="30001086">FUSILLI</Value>
+            <Value ID="30001115">GIGANTI</Value>
+            <Value ID="30001122">GIRASOLI</Value>
+            <Value ID="30001128">GNOCCHI</Value>
+            <Value ID="30001397">LASAGNA</Value>
+            <Value ID="30001445">LINGUINE</Value>
+            <Value ID="30001481">MACARONI</Value>
+            <Value ID="30001760">PAPPARDELLE</Value>
+            <Value ID="30001804">PENNE</Value>
+            <Value ID="30001970">RAVIOLI</Value>
+            <Value ID="30001971">RAVIOLINI</Value>
+            <Value ID="30001972">RAVIOLONI</Value>
+            <Value ID="30002023">RIGATONI</Value>
+            <Value ID="30002149">RUBANELLI</Value>
+            <Value ID="30002290">SPAGHETTI</Value>
+            <Value ID="30002299">SPATZLI</Value>
+            <Value ID="30002340">STELLINA</Value>
+            <Value ID="30002393">TAGLIATELLE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002916">CANNELLONI</Value>
+            <Value ID="30002918">TORTELLONI</Value>
+            <Value ID="30002943">SACCOTINI</Value>
+            <Value ID="30002988">CAPPELLETTI</Value>
+            <Value ID="30013119">NOODLE</Value>
+            <Value ID="30017121">GLASS NOODLE</Value>
+            <Value ID="30017122">GNOCCHI SEMI DRY</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

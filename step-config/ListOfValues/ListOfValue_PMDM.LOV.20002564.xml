@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002564" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Distribution Board/Box</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30012905">CIRCUIT BREAKER ENCLOSURE</Value>
+            <Value ID="30012906">CURRENT TRANSFORMER ENCLOSURE</Value>
+            <Value ID="30012907">ELECTRICAL CONSOLE/CONSOLET ENCLOSURE</Value>
+            <Value ID="30012908">GENERAL PURPOSE ELECTRICAL ENCLOSURE</Value>
+            <Value ID="30012909">ELECTRICAL PUSHBUTTON ENCLOSURE</Value>
+            <Value ID="30012910">ELECTRICAL TERMINAL ENCLOSURE</Value>
+            <Value ID="30012911">FUSE CABINET</Value>
+            <Value ID="30012912">GANG BOX</Value>
+            <Value ID="30012913">HAZARDOUS LOCATION BOX</Value>
+            <Value ID="30012914">MASONRY BOX</Value>
+            <Value ID="30012915">TELEPHONE TERMINATION CABINET</Value>
+            <Value ID="30012916">ELECTRICAL JUNCTION BOX</Value>
+            <Value ID="30012931">RELAY BOARD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

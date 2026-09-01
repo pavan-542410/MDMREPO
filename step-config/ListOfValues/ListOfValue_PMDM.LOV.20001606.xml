@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001606" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Number of People/Capacity of Tent</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009439">1 PERSON TENT</Value>
+            <Value ID="30009440">2 PERSON TENT</Value>
+            <Value ID="30009441">3 PERSON TENT</Value>
+            <Value ID="30009442">4 PERSON TENT</Value>
+            <Value ID="30009443">5 PERSON TENT</Value>
+            <Value ID="30009444">6+ PERSON TENT</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000753" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Aquatic Invertebrate/Fish/Shellfish/Seafood Mix</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30006819">AQUATIC INVERTEBRATE/FISH</Value>
+            <Value ID="30006822">AQUATIC INVERTEBRATE/SHELLFISH</Value>
+            <Value ID="30006823">AQUATIC INVERTEBRATE/SEAFOOD</Value>
+            <Value ID="30006824">FISH/SHELLFISH</Value>
+            <Value ID="30006825">FISH/SEAFOOD</Value>
+            <Value ID="30006826">SHELLFISH/SEAFOOD</Value>
+            <Value ID="30006827">AQUATIC INVERTEBRATE/FISH/SHELLFISH</Value>
+            <Value ID="30006828">AQUATIC INVERTEBRATE/FISH/SEAFOOD</Value>
+            <Value ID="30006829">AQUATIC INVERTEBRATE/SHELLFISH/SEAFOOD</Value>
+            <Value ID="30006830">FISH/SHELLFISH/SEAFOOD</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

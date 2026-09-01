@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002423" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Finish</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004573">GLOSS</Value>
+            <Value ID="30009992">MATT</Value>
+            <Value ID="30011835">PREFINISHED</Value>
+            <Value ID="30011836">PRIMED</Value>
+            <Value ID="30012165">RAW/NO FINISH</Value>
+            <Value ID="30013033">SILK/SEMI-GLOSS/SATINWOOD</Value>
+            <Value ID="30016275">GLAZED</Value>
+            <Value ID="30016276">UNGLAZED</Value>
+            <Value ID="30016277">BRUSHED</Value>
+            <Value ID="30016278">FLAMED</Value>
+            <Value ID="30016279">POLISHED</Value>
+            <Value ID="30016280">COMBINATION FINISH</Value>
+            <Value ID="30016281">SATIN</Value>
+            <Value ID="30016282">ANTIQUE</Value>
+            <Value ID="30016283">DRYING OILS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

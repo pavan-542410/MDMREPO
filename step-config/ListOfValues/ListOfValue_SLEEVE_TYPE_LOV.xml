@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="SLEEVE_TYPE_LOV" ParentID="HIKARI_LOVS" AllowUserValueAddition="false" UseValueID="false">
+            <Name>Sleeve Type</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>Full Sleeve</Value>
+            <Value>Half Sleeve</Value>
+            <Value>Sleeveless</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

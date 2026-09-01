@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000617" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Veterinary Pharmaceutical</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005255">VETERINARY COAT ALLERGEN REMOVER</Value>
+            <Value ID="30005287">VETERINARY BONE TREATMENT</Value>
+            <Value ID="30005349">VETERINARY EAR TREATMENT</Value>
+            <Value ID="30005376">VETERINARY EYE TREATMENT</Value>
+            <Value ID="30005417">VETERINARY INTESTINAL TREATMENT</Value>
+            <Value ID="30005446">VETERINARY JOINT TREATMENT</Value>
+            <Value ID="30005500">VETERINARY KIDNEY TREATMENT</Value>
+            <Value ID="30005542">VETERINARY VACCINE</Value>
+            <Value ID="30005644">VETERINARY PAW LOTION</Value>
+            <Value ID="30007002">VETERINARY FIRST AID KIT</Value>
+            <Value ID="30007003">VETERINARY MEDICATED SHAMPOO</Value>
+            <Value ID="30007004">VETERINARY STRESS RELIEF</Value>
+            <Value ID="30007005">VETERINARY THERMOMETER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

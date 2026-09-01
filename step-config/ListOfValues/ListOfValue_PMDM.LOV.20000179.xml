@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000179" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Variety of Fruit Herbal Infusion</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000091">ORANGE</Value>
+            <Value ID="30000125">PEACH</Value>
+            <Value ID="30000319">BERGAMOT</Value>
+            <Value ID="30000370">BLEND</Value>
+            <Value ID="30000515">CAMOMILE</Value>
+            <Value ID="30000678">CINNAMON</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30000792">CRANBERRY</Value>
+            <Value ID="30000859">DANDELION</Value>
+            <Value ID="30000935">ELDERFLOWER</Value>
+            <Value ID="30000953">EUCALYPTUS</Value>
+            <Value ID="30001119">GINGER</Value>
+            <Value ID="30001289">HYSSOP</Value>
+            <Value ID="30001324">JASMINE</Value>
+            <Value ID="30001519">MANGO</Value>
+            <Value ID="30001604">MINT</Value>
+            <Value ID="30001679">NETTLE</Value>
+            <Value ID="30001806">PEPPERMINT</Value>
+            <Value ID="30001965">RASPBERRY</Value>
+            <Value ID="30002052">ROSE HIP</Value>
+            <Value ID="30002300">SPEARMINT</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002647">YARROW</Value>
+            <Value ID="30002705">HIBISCUS</Value>
+            <Value ID="30002917">RED CLOVER</Value>
+            <Value ID="30003020">APPLE</Value>
+            <Value ID="30003112">GINSENG</Value>
+            <Value ID="30003181">VERBENA</Value>
+            <Value ID="30003182">LIME BLOSSOM</Value>
+            <Value ID="30013157">ECHINACEA</Value>
+            <Value ID="30014360">LEMON FLAVOUR</Value>
+            <Value ID="30014607">ROOIBOS</Value>
+            <Value ID="30018944">LAPACHO</Value>
+            <Value ID="30018945">MATE-TEA</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

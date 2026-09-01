@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000202" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Honey</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000091">ORANGE</Value>
+            <Value ID="30000142">ACACIA</Value>
+            <Value ID="30000694">CLOVER</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30000953">EUCALYPTUS</Value>
+            <Value ID="30001249">HEATHER</Value>
+            <Value ID="30001286">HYMETUS</Value>
+            <Value ID="30001320">JAMAICAN</Value>
+            <Value ID="30001401">LAVENDER</Value>
+            <Value ID="30001436">LIME</Value>
+            <Value ID="30001526">MANUKA</Value>
+            <Value ID="30001604">MINT</Value>
+            <Value ID="30001634">MOUNTAIN FLOWERS</Value>
+            <Value ID="30001964">RAPE</Value>
+            <Value ID="30002054">ROSEMARY</Value>
+            <Value ID="30002362">SUNFLOWER OIL/FAT</Value>
+            <Value ID="30002437">THYME</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002622">WILD HERBS</Value>
+            <Value ID="30014338">CHESTNUT FLOWER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

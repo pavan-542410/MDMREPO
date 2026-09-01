@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000793" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Pet Attire</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30006956">HORSE RUG</Value>
+            <Value ID="30006957">PET IDENTIFICATION TAG</Value>
+            <Value ID="30006958">PET BANDANA</Value>
+            <Value ID="30006959">PET COAT</Value>
+            <Value ID="30006960">PET LIFE JACKET</Value>
+            <Value ID="30006961">PET T-SHIRT</Value>
+            <Value ID="30006962">PET TROUSER SUIT</Value>
+            <Value ID="30006963">PET BOOTS</Value>
+            <Value ID="30006964">PET PYJAMAS</Value>
+            <Value ID="30006965">PET SUNGLASSES</Value>
+            <Value ID="30006966">PET HEADBAND</Value>
+            <Value ID="30006967">PET BROLLY</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

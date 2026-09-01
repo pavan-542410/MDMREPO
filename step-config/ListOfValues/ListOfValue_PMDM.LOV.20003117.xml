@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003117" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Wine Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009742">CORKSCREW</Value>
+            <Value ID="30018242">BOTTLE FOIL CUTTER</Value>
+            <Value ID="30018243">BOTTLE HOLDER</Value>
+            <Value ID="30018244">BOTTLE RACK</Value>
+            <Value ID="30018245">OENOLOGY SET</Value>
+            <Value ID="30018246">TASTEVIN</Value>
+            <Value ID="30018247">VACUUM WINE SAVER (NON POWERED)</Value>
+            <Value ID="30018248">WINE THERMOMETER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002273" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Lubricant Application</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004166">PUMP</Value>
+            <Value ID="30005044">WOOL</Value>
+            <Value ID="30010163">VACUUM</Value>
+            <Value ID="30011900">ENGINE</Value>
+            <Value ID="30011901">CUTTING</Value>
+            <Value ID="30011902">TRANSFORMER</Value>
+            <Value ID="30011903">BRAKE</Value>
+            <Value ID="30011904">TRANSMISSION</Value>
+            <Value ID="30011905">QUENCHING</Value>
+            <Value ID="30011906">WATCH</Value>
+            <Value ID="30011908">TURBINE</Value>
+            <Value ID="30011909">HYDRAULIC</Value>
+            <Value ID="30011910">SPINDLE</Value>
+            <Value ID="30011911">STRAIGHT</Value>
+            <Value ID="30011912">WAY</Value>
+            <Value ID="30011913">BAR/CHAIN</Value>
+            <Value ID="30011914">WEAPON</Value>
+            <Value ID="30011915">GEAR</Value>
+            <Value ID="30011916">ROLLING</Value>
+            <Value ID="30011918">SILICONE BASED</Value>
+            <Value ID="30011919">FLUOROPOLYMER BASED</Value>
+            <Value ID="30011920">LITHIUM BASED</Value>
+            <Value ID="30011942">TEFLON BASED</Value>
+            <Value ID="30011958">WATER DISPERSANT</Value>
+            <Value ID="30011997">ANTI-SEIZE</Value>
+            <Value ID="30015583">PROFESSIONAL INSTRUMENTS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

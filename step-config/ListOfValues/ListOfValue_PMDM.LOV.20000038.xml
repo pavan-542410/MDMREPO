@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000038" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Format of Cigar</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000677">CIGARILLOS</Value>
+            <Value ID="30000762">CORONA</Value>
+            <Value ID="30000989">FIGUARDOS</Value>
+            <Value ID="30001148">GRAN CORONA</Value>
+            <Value ID="30001149">GRAN PANATELA</Value>
+            <Value ID="30002034">ROBUSTA CIGAR</Value>
+            <Value ID="30002186">SENORITAS</Value>
+            <Value ID="30002320">SPRIET</Value>
+            <Value ID="30002496">TUBOS</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002623">WILDE</Value>
+            <Value ID="30002687">PANATELA</Value>
+            <Value ID="30003260">CHURCHILL</Value>
+            <Value ID="30003261">CORONA GORDA</Value>
+            <Value ID="30003262">CULEBRAS</Value>
+            <Value ID="30003263">DEMI-TASSE</Value>
+            <Value ID="30003264">DOUBLE CORONA</Value>
+            <Value ID="30003265">EMINENTES</Value>
+            <Value ID="30003266">LONSDALE</Value>
+            <Value ID="30003267">MINI PANATELA</Value>
+            <Value ID="30003268">ROTHSCHILD ROBUSTA</Value>
+            <Value ID="30003269">SLIM PANATELA</Value>
+            <Value ID="30003270">SMALL CHURCHILL</Value>
+            <Value ID="30003271">SMALL PALMA</Value>
+            <Value ID="30003272">TORPEDO</Value>
+            <Value ID="30017207">CHEROOT</Value>
+            <Value ID="30017208">ECO CIGARILLO</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

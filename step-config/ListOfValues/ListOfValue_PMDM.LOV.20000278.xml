@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000278" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Hair Colour</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003963">HAIR BLEACH/LIGHTENER</Value>
+            <Value ID="30003964">HAIR COLOUR</Value>
+            <Value ID="30003965">HAIR COLOUR CORRECTOR</Value>
+            <Value ID="30003966">HAIR COLOUR REMOVER/RESTORER</Value>
+            <Value ID="30004026">HAIR GLITTER</Value>
+            <Value ID="30004421">HAIR COLOURING SHAMPOO</Value>
+            <Value ID="30004440">HAIR COLOUR - HIGHLIGHTS</Value>
+            <Value ID="30005704">HAIR COLOUR - TONE ON TONE</Value>
+            <Value ID="30005926">HAIR MASCARA</Value>
+            <Value ID="30006703">COVER GREY HAIR</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

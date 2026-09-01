@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001686" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Non Disposable Bakeware/Ovenware/Grillware</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30009678">BAKING CUP (NON DISPOSABLE)</Value>
+            <Value ID="30009680">BAKING PAN</Value>
+            <Value ID="30009681">BAKING SHEET (NON DISPOSABLE)</Value>
+            <Value ID="30009682">BAKING TRAY (NON DISPOSABLE)</Value>
+            <Value ID="30010760">GRILL RACK</Value>
+            <Value ID="30010761">ROASTING PAN (NON DISPOSABLE)</Value>
+            <Value ID="30010762">CASSEROLE DISH (NON DISPOSABLE)</Value>
+            <Value ID="30011696">BUN TRAY (NON DISPOSABLE)</Value>
+            <Value ID="30011697">FLAN DISH (NON DISPOSABLE)</Value>
+            <Value ID="30011700">CAKE TIN (NON DISPOSABLE)</Value>
+            <Value ID="30011701">LOAF PAN (NON DISPOSABLE)</Value>
+            <Value ID="30018062">BLINI MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018063">BORDELAIS FLUTED CAKE MOLDS (NON DISPOSABLE)</Value>
+            <Value ID="30018064">BRIOCHE MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018065">CREME BRULEE DISH (NON DISPOSABLE)</Value>
+            <Value ID="30018066">FINANCIER MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018067">INDIVIDUAL BRIOCHE MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018068">KOUGLOFF MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018069">LASAGNA DISH (NON DISPOSABLE)</Value>
+            <Value ID="30018070">MADELEINE MOULD (NON DISPOSABLE)</Value>
+            <Value ID="30018071">MINI FONDUE DISH (NON DISPOSABLE)</Value>
+            <Value ID="30018072">MINI-BORDELAIS FLUTED CAKE MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018073">MINI-MADELEINE MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018074">MINI-RECTANGULAR CAKE MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018075">MUFFINS MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018076">PETITS FOURS MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018077">PYRAMID MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018078">RAMEKIN</Value>
+            <Value ID="30018080">ROUND CHARLOTTE MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018081">ROUND FLUTED OR STRAIGHT TART MOLD</Value>
+            <Value ID="30018082">ROUND PASTRY MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018083">SAVARIN MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018084">SOUFFLE DISH (NON DISPOSABLE)</Value>
+            <Value ID="30018085">SOUFFLE MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018086">TAJINE POT (NON POWERED)</Value>
+            <Value ID="30018087">TARTELETS MOLD (NON DISPOSABLE)</Value>
+            <Value ID="30018088">TERRINE</Value>
+            <Value ID="30018089">THEMATICAL MOLD (NON DISPOSABLE)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

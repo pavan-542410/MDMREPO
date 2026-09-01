@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002940" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Plier/Pincer/Grabber</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30016350">FLAT NOSE PLIER</Value>
+            <Value ID="30016351">LINESMAN PLIER</Value>
+            <Value ID="30016352">TONGUE AND GROOVE PLIER</Value>
+            <Value ID="30016353">CUTTING PLIER</Value>
+            <Value ID="30016354">STRIP PLIER</Value>
+            <Value ID="30016355">CRIMPING PLIER</Value>
+            <Value ID="30016356">OTHER PLIER</Value>
+            <Value ID="30016357">PINCER</Value>
+            <Value ID="30016358">EXTENTION GRABBER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

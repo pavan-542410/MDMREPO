@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002349" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Flooring Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30012105">PERIMETER/QUADRANT</Value>
+            <Value ID="30012106">SECTION PROFILE</Value>
+            <Value ID="30012109">DOOR STRIP</Value>
+            <Value ID="30012110">JOINING SYSTEM</Value>
+            <Value ID="30012111">PIPE COLLAR</Value>
+            <Value ID="30012112">CASTOR CUP</Value>
+            <Value ID="30012114">FLOORING JOIST</Value>
+            <Value ID="30012115">TAPPING BLOCK</Value>
+            <Value ID="30012116">PULLBAR</Value>
+            <Value ID="30012117">FITTING WEDGE</Value>
+            <Value ID="30012119">TILE SPACER</Value>
+            <Value ID="30013315">CARPET SEAM ROLLER</Value>
+            <Value ID="30013316">CARPET SEAM IRON</Value>
+            <Value ID="30013317">CARPET TUCKING KNIFE</Value>
+            <Value ID="30013324">CARPET STRETCHER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

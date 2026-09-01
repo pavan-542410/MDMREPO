@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000149" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Preserving/Storing Substance</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000441">BRINE</Value>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30001717">OIL</Value>
+            <Value ID="30002103">SALT</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002566">VINEGAR</Value>
+            <Value ID="30003307">WATER</Value>
+            <Value ID="30015438">NO PRESERVING/STORAGE SUBSTANCE</Value>
+            <Value ID="30018950">AIR-DRIED</Value>
+            <Value ID="30018951">OWN JUICE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

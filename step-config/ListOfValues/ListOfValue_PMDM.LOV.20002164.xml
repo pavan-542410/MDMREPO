@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002164" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Scientific Toy (Non Powered)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30008454">CHEMISTRY SET</Value>
+            <Value ID="30011554">ABACUS</Value>
+            <Value ID="30011555">MAGNETIC TRICKS</Value>
+            <Value ID="30011556">MAGIC/ILLUSION GAME</Value>
+            <Value ID="30011557">SHAPE SORTER</Value>
+            <Value ID="30011558">STAR CHART</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

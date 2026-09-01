@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000298" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Fragrance</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003825">EAU DE COLOGNE</Value>
+            <Value ID="30003826">EAU DE PARFUM</Value>
+            <Value ID="30003827">EAU DE TOILETTE</Value>
+            <Value ID="30004129">PARFUM</Value>
+            <Value ID="30017254">LAVENDER WATER</Value>
+            <Value ID="30019156">EAU DE SENTEUR</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001013" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Computer Docking Port/Cradle</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007563">NOTEBOOK DOCKING PORT/CRADLE</Value>
+            <Value ID="30007564">PERSONAL DIGITAL ASSISTANT (PDA) DOCKING PORT/CRADLE</Value>
+            <Value ID="30010787">LAPTOP DOCKING PORT/CRADLE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

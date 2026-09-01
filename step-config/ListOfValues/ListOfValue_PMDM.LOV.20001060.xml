@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001060" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Platform</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007685">GAME CONSOLE</Value>
+            <Value ID="30007686">PERSONAL COMPUTER (PC)</Value>
+            <Value ID="30007687">PERSONAL DIGITAL ASSISTANT (PDA)</Value>
+            <Value ID="30013235">MOBILE PHONE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

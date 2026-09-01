@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001656" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Oral Care - Aids (Powered)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003918">FLOSSER</Value>
+            <Value ID="30003956">GUM CLEANING BRUSH</Value>
+            <Value ID="30003958">GUM STIMULATOR</Value>
+            <Value ID="30003998">INTERDENTAL BRUSH</Value>
+            <Value ID="30004313">TOOTH BRUSH</Value>
+            <Value ID="30004363">WHITENING SYSTEM</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

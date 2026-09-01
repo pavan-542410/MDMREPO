@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002659" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Audio Visual Cable</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30013516">DIGITAL AUDIO VISUAL CABLE</Value>
+            <Value ID="30013517">DVI (DIGITAL VISUAL INTERFACE) CABLE</Value>
+            <Value ID="30013518">HD (HIGH DEFINITION) AUDIO VISUAL CABLE</Value>
+            <Value ID="30013519">HDMI (HIGH DEFINITION MULTIMEDA INTERFACE) CABLE</Value>
+            <Value ID="30013520">SCART CABLE</Value>
+            <Value ID="30013521">S-VIDEO CABLE</Value>
+            <Value ID="30013522">JACK CABLE</Value>
+            <Value ID="30013523">ODT CABLE</Value>
+            <Value ID="30013524">RCA CABLE</Value>
+            <Value ID="30018891">SPEAKER CABLE</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

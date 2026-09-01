@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000254" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Adult Incontinence Supply</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003321">PROTECTIVE SHEET</Value>
+            <Value ID="30003641">PROTECTIVE MATTRESS COVER</Value>
+            <Value ID="30003644">PROTECTIVE DUVET COVER</Value>
+            <Value ID="30003664">PROTECTIVE PILLOW COVER</Value>
+            <Value ID="30003667">PROTECTIVE SEAT PAD</Value>
+            <Value ID="30003670">PROTECTIVE SEAT COVER</Value>
+            <Value ID="30003800">DIAPER PIN</Value>
+            <Value ID="30003801">DIAPER/PAD BAG</Value>
+            <Value ID="30003802">DIAPER/PAD COVER</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

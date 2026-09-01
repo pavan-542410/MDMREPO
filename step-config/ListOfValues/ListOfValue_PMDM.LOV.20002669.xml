@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002669" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Console Accessory</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30010788">CONSOLE COVER</Value>
+            <Value ID="30013554">CONSOLE STICKER</Value>
+            <Value ID="30013555">CONSOLE CHARGER</Value>
+            <Value ID="30013556">CONSOLE LOUDSPEAKER</Value>
+            <Value ID="30013557">CONSOLE ACCESSORY SET</Value>
+            <Value ID="30013558">CONSOLE HAND STRAP</Value>
+            <Value ID="30013559">CONSOLE DISPLAY PROTECTION</Value>
+            <Value ID="30013561">CONSOLE HOLDER</Value>
+            <Value ID="30013562">CONSOLE CHARGING CABLE</Value>
+            <Value ID="30013563">CONSOLE LINK CABLE</Value>
+            <Value ID="30013564">CONSOLE FACEPLATE</Value>
+            <Value ID="30013565">CONSOLE HARD DISC DRIVE</Value>
+            <Value ID="30013566">CONSOLE REPLACEMENT STICK</Value>
+            <Value ID="30013567">CONSOLE POWER SUPPLY</Value>
+            <Value ID="30013568">CONSOLE STARTER SET</Value>
+            <Value ID="30013569">CONSOLE COOLING SYSTEM</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

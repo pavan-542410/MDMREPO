@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000005" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Alcohol Making Supply</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000438">BREWERS YEAST</Value>
+            <Value ID="30000684">CITRIC ACID</Value>
+            <Value ID="30000952">ETHYL ALCOHOL</Value>
+            <Value ID="30001159">GRAPE CONCENTRATE</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003047">FERMENTATION LOCK/TRAP</Value>
+            <Value ID="30003048">HYDROMETER/SACCHAROMETER</Value>
+            <Value ID="30003049">SIPHON TUBING</Value>
+            <Value ID="30003180">LABELS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

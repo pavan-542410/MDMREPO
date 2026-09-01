@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000632" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Pet/Animal Type</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001131">GOAT</Value>
+            <Value ID="30001273">HORSE</Value>
+            <Value ID="30001956">RABBIT</Value>
+            <Value ID="30002203">SHEEP</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003191">DOG</Value>
+            <Value ID="30005041">SQUIRREL</Value>
+            <Value ID="30005416">CANARY</Value>
+            <Value ID="30005445">CHINCHILLA</Value>
+            <Value ID="30005449">HAMSTER</Value>
+            <Value ID="30005451">PARROT</Value>
+            <Value ID="30005535">CAT</Value>
+            <Value ID="30005628">BIRD</Value>
+            <Value ID="30005669">FISH</Value>
+            <Value ID="30005671">REPTILE</Value>
+            <Value ID="30005761">RODENT</Value>
+            <Value ID="30006926">ARACHNID</Value>
+            <Value ID="30006927">CRUSTACEAN</Value>
+            <Value ID="30006928">PRIMATE</Value>
+            <Value ID="30006937">AMPHIBIAN</Value>
+            <Value ID="30006938">DONKEY</Value>
+            <Value ID="30006939">PIG</Value>
+            <Value ID="30006972">INSECT</Value>
+            <Value ID="30006973">SNAIL</Value>
+            <Value ID="30008014">WILDLIFE</Value>
+            <Value ID="30015617">FINCH</Value>
+            <Value ID="30017279">BRACKISH FISH</Value>
+            <Value ID="30017280">COLD WATER FISH</Value>
+            <Value ID="30017281">FRESHWATER FISH</Value>
+            <Value ID="30017282">LARGE ANIMAL - OTHER</Value>
+            <Value ID="30017283">SALTWATER FISH</Value>
+            <Value ID="30017284">SMALL ANIMAL - OTHER</Value>
+            <Value ID="30019074">DEGU</Value>
+            <Value ID="30019075">BUDGERIGAR</Value>
+            <Value ID="30019076">PARAKEET</Value>
+            <Value ID="30019077">WILD BIRDS</Value>
+            <Value ID="30019078">LIVESTOCK</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

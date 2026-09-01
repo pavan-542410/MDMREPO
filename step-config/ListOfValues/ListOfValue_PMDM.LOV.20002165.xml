@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002165" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Toy Model Construction (Non Powered)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011559">CONSTRUCTOR SET</Value>
+            <Value ID="30011560">HAMMER AND PEG SET</Value>
+            <Value ID="30011561">INTERLOCKING BLOCKS</Value>
+            <Value ID="30011562">MODEL ANIMAL CONSTRUCTION</Value>
+            <Value ID="30011563">MODEL BOAT KIT</Value>
+            <Value ID="30011564">MODEL HUMAN CONSTRUCTION</Value>
+            <Value ID="30011565">MODEL PLANE KIT</Value>
+            <Value ID="30011566">MODEL VEHICLE KIT</Value>
+            <Value ID="30011567">MECCANO SET</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

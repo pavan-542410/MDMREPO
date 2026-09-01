@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003075" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Cream Substitute (Non-Animal Based)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30017941">CLOTTED CREAM (NON-ANIMAL BASED)</Value>
+            <Value ID="30017942">CONDENSED CREAM (NON-ANIMAL BASED)</Value>
+            <Value ID="30017943">CRÈME FRAICHE (NON-ANIMAL BASED)</Value>
+            <Value ID="30017944">HALF AND HALF (NON-ANIMAL BASED)</Value>
+            <Value ID="30017945">HEAVY SOUR CREAM (NON-ANIMAL BASED)</Value>
+            <Value ID="30017946">POURING/SINGLE CREAM (NON-ANIMAL BASED)</Value>
+            <Value ID="30017947">SOUR CREAM (NON-ANIMAL BASED)</Value>
+            <Value ID="30017948">TABLE CREAM (NON-ANIMAL BASED)</Value>
+            <Value ID="30017949">THICKENED/DOUBLE CREAM (NON-ANIMAL BASED)</Value>
+            <Value ID="30017950">WHIPPING CREAM (NON-ANIMAL BASED)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

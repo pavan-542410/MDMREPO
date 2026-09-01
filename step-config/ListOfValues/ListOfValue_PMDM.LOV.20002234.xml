@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002234" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Screwdriver/Rotary Tool</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30006875">AUTOMATIC</Value>
+            <Value ID="30008337">TELESCOPE</Value>
+            <Value ID="30010673">INSULATED</Value>
+            <Value ID="30011750">MULTIPLE TIP</Value>
+            <Value ID="30012578">PRECISION</Value>
+            <Value ID="30012579">TORQUE</Value>
+            <Value ID="30012580">NON-SPARKING</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

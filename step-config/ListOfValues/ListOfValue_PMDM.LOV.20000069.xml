@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000069" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Flour</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000111">WHEAT FLOUR</Value>
+            <Value ID="30000278">BARLEY FLOUR</Value>
+            <Value ID="30000457">BUCKWHEAT FLOUR</Value>
+            <Value ID="30001498">MAIZE FLOUR</Value>
+            <Value ID="30001941">PULSE FLOUR</Value>
+            <Value ID="30002012">RICE FLOUR</Value>
+            <Value ID="30002084">RYE FLOUR</Value>
+            <Value ID="30002184">SEMOLINA</Value>
+            <Value ID="30002279">SOY FLOUR</Value>
+            <Value ID="30002408">TAPIOCA</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002778">WHOLEMEAL</Value>
+            <Value ID="30006741">SPELT FLOUR</Value>
+            <Value ID="30014426">BRAN FLOUR</Value>
+            <Value ID="30018955">CHICKPEA FLOUR</Value>
+            <Value ID="30018956">LENTIL FLOUR</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

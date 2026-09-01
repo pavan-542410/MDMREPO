@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002147" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Car Body Care</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30011487">CAR BUG/TAR/SAP REMOVERS</Value>
+            <Value ID="30011488">CAR WASH/WAX</Value>
+            <Value ID="30011489">CAR WASHES</Value>
+            <Value ID="30011490">CAR WAX</Value>
+            <Value ID="30011491">CAR PAINT PROTECTOR</Value>
+            <Value ID="30011495">CAR POLISHES</Value>
+            <Value ID="30015864">CAR WAX/POLISH</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

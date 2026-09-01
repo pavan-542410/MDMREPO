@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000157" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Dipping Sauce/Condiment/Savoury Topping/Savoury Spread or Marinade</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000275">BARBECUE DIP</Value>
+            <Value ID="30000636">CHILLI SAUCE</Value>
+            <Value ID="30001276">HORSERADISH SAUCE</Value>
+            <Value ID="30001281">HOUMOUS</Value>
+            <Value ID="30002165">SEAFOOD/COCKTAIL SAUCE</Value>
+            <Value ID="30002280">SOY SAUCE</Value>
+            <Value ID="30002337">STEAK SAUCE</Value>
+            <Value ID="30002374">SWEET/SOUR SAUCE</Value>
+            <Value ID="30002416">TARTAR SAUCE</Value>
+            <Value ID="30002495">TSATSIKI</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30002640">WORCESTERSHIRE SAUCE</Value>
+            <Value ID="30006805">SALAD TOPPING</Value>
+            <Value ID="30015683">SAUSAGE GRAVY</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

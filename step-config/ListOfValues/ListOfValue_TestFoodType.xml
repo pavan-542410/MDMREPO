@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="TestFoodType" ParentID="TestLOVGroup" AllowUserValueAddition="false" UseValueID="false">
+            <Name>Test Food Type</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <Value>Breakfast</Value>
+            <Value>Dinner</Value>
+            <Value>Fresh Juices</Value>
+            <Value>Hot Beverages</Value>
+            <Value>Lunch</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

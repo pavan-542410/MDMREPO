@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001340" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Artists Pastel/Charcoal/Crayon</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004552">ARTISTS CHARCOAL</Value>
+            <Value ID="30008506">ARTISTS CHALK PASTELS</Value>
+            <Value ID="30008507">ARTISTS WAX CRAYONS</Value>
+            <Value ID="30011742">ARTISTS COLOURED PENCIL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

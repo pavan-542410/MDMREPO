@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20003191" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Product Usage Body Location</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30001229">HAND</Value>
+            <Value ID="30001246">HEAD</Value>
+            <Value ID="30001673">NECK</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003691">BODY</Value>
+            <Value ID="30003866">FACE</Value>
+            <Value ID="30003925">FOOT</Value>
+            <Value ID="30003999">INTIMATE (GENITALIA)</Value>
+            <Value ID="30004009">LEGS</Value>
+            <Value ID="30004334">UNDER ARM (ARMPITS)</Value>
+            <Value ID="30005436">CHEST (THORAX)</Value>
+            <Value ID="30005988">ARMS</Value>
+            <Value ID="30006681">LIPS</Value>
+            <Value ID="30006682">EYE AREA (EYES)</Value>
+            <Value ID="30009582">BIKINI AREA</Value>
+            <Value ID="30009595">HAIR</Value>
+            <Value ID="30019053">EYE BROW (BROWS)</Value>
+            <Value ID="30019058">CHEEK</Value>
+            <Value ID="30019059">BEARD</Value>
+            <Value ID="30019060">NOSE</Value>
+            <Value ID="30019085">WHOLE BODY (INCLUDING HAIR)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

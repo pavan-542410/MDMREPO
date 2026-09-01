@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000691" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Hair Aid (Non Powered)</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30004094">WIG/TOUPEE ADHESIVE</Value>
+            <Value ID="30004112">WIG/TOUPEE CARE SET</Value>
+            <Value ID="30004130">WIG CHIN STYLING STRAP</Value>
+            <Value ID="30004350">WIG CAP</Value>
+            <Value ID="30005981">WIG/TOUPEE CLIP</Value>
+            <Value ID="30006136">SCISSORS</Value>
+            <Value ID="30006137">CLIPPERS</Value>
+            <Value ID="30006138">NASAL HAIR TRIMMER</Value>
+            <Value ID="30006139">EAR HAIR TRIMMER</Value>
+            <Value ID="30006141">MULTIPURPOSE HAIR TRIMMER</Value>
+            <Value ID="30019019">NECK BRUSH</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

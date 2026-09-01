@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20001073" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Number of Speakers</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30007720">MORE THAN THREE PIECES</Value>
+            <Value ID="30007721">NOTEBOOK SPEAKER</Value>
+            <Value ID="30007722">ONE PIECE SYSTEM</Value>
+            <Value ID="30007723">ONLY SUBWOOFER</Value>
+            <Value ID="30007724">SHOULDER SPEAKER</Value>
+            <Value ID="30007725">THREE PIECE SYSTEM</Value>
+            <Value ID="30007726">TWO PIECE SYSTEM</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

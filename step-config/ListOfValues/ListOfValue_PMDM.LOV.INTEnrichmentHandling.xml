@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.INTEnrichmentHandling" ParentID="PMDM.LOVG.SystemLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Internal Source Record Creation: Enrichment Handling</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="1">Single Enrichment User (Enrichment)</Value>
+            <Value ID="n">Multiple Enrichment Users (Copywriting, Digital Asset, Warehouse)</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

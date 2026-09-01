@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000638" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Cosmetics - Eyes</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003851">EYE BROW STYLING GEL</Value>
+            <Value ID="30003853">EYE HIGHLIGHTER/ILLUMINATOR</Value>
+            <Value ID="30003855">EYE LASH THICKENER</Value>
+            <Value ID="30003856">EYE LINER</Value>
+            <Value ID="30003858">EYE PENCIL</Value>
+            <Value ID="30003859">EYE SHADOW</Value>
+            <Value ID="30003860">EYE SHADOW PRIMER</Value>
+            <Value ID="30003861">EYE SHADOW SEALER</Value>
+            <Value ID="30004041">MASCARA SEALER</Value>
+            <Value ID="30005965">MASCARA</Value>
+            <Value ID="30011786">EYE BROW PENCIL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

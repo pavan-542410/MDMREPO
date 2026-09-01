@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002807" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Egg Processor Treatment Process</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30015376">AGED (EGG)</Value>
+            <Value ID="30015377">CHEMICALLY EXTRACTED (EGG)</Value>
+            <Value ID="30015378">DRIED - PAN (EGG)</Value>
+            <Value ID="30015379">CONCENTRATED (EGG)</Value>
+            <Value ID="30015380">DRIED - PROCESS UNIDENTIFIED (EGG)</Value>
+            <Value ID="30015381">DRIED - SPRAY (EGG)</Value>
+            <Value ID="30015382">FERMENTED (EGG)</Value>
+            <Value ID="30015383">FREEZE - DRIED (EGG)</Value>
+            <Value ID="30015384">LYSOZYME REMOVED (EGG)</Value>
+            <Value ID="30015385">NO TREATMENT PROCESS (EGG)</Value>
+            <Value ID="30015426">UNWASHED</Value>
+            <Value ID="30015427">WASHED</Value>
+            <Value ID="30015428">WASHED/OILED</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

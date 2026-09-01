@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000246" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Part of Herb/Spice</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30001060">FRUIT</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30003562">BARK</Value>
+            <Value ID="30003563">BULB</Value>
+            <Value ID="30003564">FLOWER</Value>
+            <Value ID="30003565">LEAF</Value>
+            <Value ID="30003566">POD</Value>
+            <Value ID="30003567">ROOT</Value>
+            <Value ID="30003568">SEED</Value>
+            <Value ID="30003569">STEM</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

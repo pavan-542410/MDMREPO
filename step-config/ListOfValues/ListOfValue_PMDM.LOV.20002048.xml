@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20002048" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Format</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30006692">FOLDED</Value>
+            <Value ID="30010990">PAPERBACK/SOFTBACK</Value>
+            <Value ID="30010991">SPIRAL BOUND PAPERBACK</Value>
+            <Value ID="30010992">HARDCOVER/HARDBACK</Value>
+            <Value ID="30010993">SPIRAL BOUND HARDCOVER</Value>
+            <Value ID="30010994">BOARD BOOK</Value>
+            <Value ID="30010995">SPIRAL BOUND BOARD BOOK</Value>
+            <Value ID="30010996">LEATHER/FINE BINDING</Value>
+            <Value ID="30010997">RAG BOOK</Value>
+            <Value ID="30010998">BATH BOOK</Value>
+            <Value ID="30010999">LOOSE LEAF</Value>
+            <Value ID="30011000">SINGLE SHEET/LEAFLET</Value>
+            <Value ID="30011001">DOWNLOADABLE</Value>
+            <Value ID="30011002">ON DISK</Value>
+            <Value ID="30011006">MP3 ON DISK</Value>
+            <Value ID="30011007">AUDIO CASSETTE</Value>
+            <Value ID="30011008">AUDIO CD</Value>
+            <Value ID="30011010">GLOBE</Value>
+            <Value ID="30011011">ROLLED/FLAT</Value>
+            <Value ID="30014470">POP-UP/3D GRAPHICS</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>

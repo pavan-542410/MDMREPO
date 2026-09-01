@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <ListsOfValues>
+        <ListOfValue ID="PMDM.LOV.20000801" ParentID="PMDM.LOVG.GPCLOVs" AllowUserValueAddition="false" UseValueID="true">
+            <Name>Type of Baby Feeding Aid</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <DimensionLink DimensionID="Language"></DimensionLink>
+            <Value ID="30000720">COMBINATION</Value>
+            <Value ID="30002515">UNCLASSIFIED</Value>
+            <Value ID="30002518">UNIDENTIFIED</Value>
+            <Value ID="30005183">BOTTLE WARMER</Value>
+            <Value ID="30005549">MILK EXTRACTOR</Value>
+            <Value ID="30005788">BOTTLE STERILISER UNIT/DEVICE</Value>
+            <Value ID="30007025">BOTTLE STERILISER</Value>
+            <Value ID="30007026">FOOD FEEDER</Value>
+            <Value ID="30007027">FOOD MILL</Value>
+        </ListOfValue>
+    </ListsOfValues>
+</STEP-ProductInformation>
