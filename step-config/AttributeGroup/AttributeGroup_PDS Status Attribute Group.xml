@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="PDS Status Attribute Group" ShowInWorkbench="true" ManuallySorted="true">
+            <Name>PDX Status Attribute Group</Name>
+            <AttributeSequence>
+                <AttributeLink AttributeID="PDS Date Time"></AttributeLink>
+                <AttributeLink AttributeID="PDS Channel"></AttributeLink>
+                <AttributeLink AttributeID="PDS Status"></AttributeLink>
+                <AttributeLink AttributeID="PDS Status Details"></AttributeLink>
+                <AttributeLink AttributeID="PDS External Status"></AttributeLink>
+                <AttributeLink AttributeID="PDS Product Channel URL"></AttributeLink>
+                <AttributeLink AttributeID="PDX Channel ID"></AttributeLink>
+            </AttributeSequence>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

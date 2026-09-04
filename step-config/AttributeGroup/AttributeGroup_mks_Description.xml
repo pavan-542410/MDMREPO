@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="mks_Description" ShowInWorkbench="true" ManuallySorted="false" ParentID="mks_AttributeGroups">
+            <Name>mks_Description</Name>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

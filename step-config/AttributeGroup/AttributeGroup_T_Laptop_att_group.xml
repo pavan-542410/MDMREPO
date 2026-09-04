@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="T_Laptop_att_group" ShowInWorkbench="true" ManuallySorted="false">
+            <Name>T_Laptop_att_group</Name>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

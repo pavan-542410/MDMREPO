@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="MDMG_AccountingAttributesCV" ShowInWorkbench="true" ManuallySorted="false" ParentID="VMDM_CV">
+            <Name>Accounting Details CV</Name>
+            <Configuration>H4sIAAAAAAAA/32NOwqAMBAFe08RcgA/fRT8X0DsI66yoInsbvD6ioV2lgNv3phShHAKAj35cIwIZwMLOhT0TnWedisjEN+U6yxOdREpZb4Jq8HSCvLecG1dBe2MAnOuF7sx6OSRar+F3fENJvmrFtEFDSJ72JUAAAA=</Configuration>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="GPC" ShowInWorkbench="true" ManuallySorted="false" ParentID="Uncategorized"></AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

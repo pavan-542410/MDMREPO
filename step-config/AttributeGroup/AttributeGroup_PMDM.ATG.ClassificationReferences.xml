@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="PMDM.ATG.ClassificationReferences" ShowInWorkbench="true" ManuallySorted="false" ParentID="PMDM.ATG.ProductMaintenance">
+            <Name>Classification References</Name>
+            <Configuration>H4sIAAAAAAAA/6WRyw6CMBBF935F0w8A3YMJgq/EVxSN22oHMhHaph1i/HtRYl3pht3cmTtnkjtRQmTx0hDMrW7MCeGeQYEKCbViM21rQSewrlUxHwVDPh4wFn0tjuXClkAe41KhJjCVSCBjXojKAQ/fS6mumlq5V92qxBm4UtdjnYj5Muu8v+YbUYN3rFDd/NmP8aOXWcx362wdJHmQCoJS28deqFv+MLAtDo0xFYLtx2rT6Q9aCCUrVOUG7tNz3p9zNLLtSM+KQp97FP579njwBKTZhzcMAgAA</Configuration>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

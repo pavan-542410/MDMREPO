@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="MDMG_BusinessRequestorAttributes_Create" ShowInWorkbench="true" ManuallySorted="false" ParentID="UserPermissions">
+            <Name>MDMG_BusinessRequestorAttributes_Create</Name>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

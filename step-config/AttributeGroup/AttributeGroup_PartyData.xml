@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="PartyData" ShowInWorkbench="false" ManuallySorted="false">
+            <Name>Party Data</Name>
+            <MetaData>
+                <Value AttributeID="Purpose">Used for party data attributes such as attributes on suppliers, customers, etc.</Value>
+            </MetaData>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

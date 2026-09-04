@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="PMDM.ATG.Metadata" ShowInWorkbench="true" ManuallySorted="false">
+            <Name>PMDM Metadata</Name>
+            <MetaData>
+                <Value AttributeID="PMDM.AT.Purpose">Used for attributes on classifications, entities, party data, users, attributes, units, etc. as well as for Description attributes on products.</Value>
+            </MetaData>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

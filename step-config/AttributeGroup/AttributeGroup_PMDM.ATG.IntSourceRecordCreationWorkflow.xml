@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="PMDM.ATG.IntSourceRecordCreationWorkflow" ShowInWorkbench="true" ManuallySorted="false" ParentID="PMDM.ATG.Workflows">
+            <Name>Internal Source Record Creation Workflow</Name>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

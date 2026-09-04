@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="HouseholdCompleteness" ShowInWorkbench="true" ManuallySorted="false" ParentID="DataProfiling">
+            <Name>Household Completeness</Name>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

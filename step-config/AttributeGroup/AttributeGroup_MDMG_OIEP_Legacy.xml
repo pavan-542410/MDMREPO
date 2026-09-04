@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="MDMG_OIEP_Legacy" ShowInWorkbench="true" ManuallySorted="false" ParentID="MDMG_OIEP">
+            <Name>OIEP Legacy</Name>
+            <MetaData>
+                <Value AttributeID="Purpose">To configure Legacy Attributes on outbound Integrations</Value>
+            </MetaData>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

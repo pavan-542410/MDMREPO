@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="MDMG_VendorAttributes" ShowInWorkbench="true" ManuallySorted="false" ParentID="UserPermissions">
+            <Name>Vendor</Name>
+            <Configuration>H4sIAAAAAAAA/52QwQrCMAyG73uK0gdweu8Gc5sieFN2lUozCW6tJCm+vlNHvQl6y0fy/fzEVCKE5yiwpRBvHcK9gR49CgavNoFGKx0QT1To1WKpy0wp8zlhdbR0AUkxXFu/htahgCt0bwcGnb+kOgxx9PycJ9qjvybpvVKJd02h7alyjoC59a6xMqf8ZB7EkvzvSuS5ep66m/zbw8rsAZmBQ2xQAQAA</Configuration>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

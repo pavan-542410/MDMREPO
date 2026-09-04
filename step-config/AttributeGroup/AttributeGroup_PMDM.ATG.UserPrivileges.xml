@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="PMDM.ATG.UserPrivileges" ShowInWorkbench="false" ManuallySorted="false">
+            <Name>PMDM User Privileges</Name>
+            <MetaData>
+                <Value AttributeID="PMDM.AT.Purpose">Used to group attributes for assigning privilege rules to different user roles. This is typically different from the Display grouping.</Value>
+            </MetaData>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

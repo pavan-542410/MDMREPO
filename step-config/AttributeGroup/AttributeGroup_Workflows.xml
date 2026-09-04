@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="Workflows" ShowInWorkbench="false" ManuallySorted="false">
+            <Name>Workflows</Name>
+            <MetaData>
+                <Value AttributeID="Purpose">Used for attributes that are needed as workflow variables within STEP workflows.</Value>
+            </MetaData>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

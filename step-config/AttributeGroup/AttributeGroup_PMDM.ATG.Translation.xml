@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="PMDM.ATG.Translation" ShowInWorkbench="true" ManuallySorted="true" ParentID="PMDM.ATG.DataModelAttributes">
+            <Name>Translation</Name>
+            <AttributeSequence>
+                <AttributeLink AttributeID="PMDM.AT.TranslateToFrench"></AttributeLink>
+                <AttributeLink AttributeID="PMDM.AT.TranslateToGerman"></AttributeLink>
+                <AttributeLink AttributeID="PMDM.AT.TranslationStatus"></AttributeLink>
+                <AttributeLink AttributeID="PMDM.AT.TranslationStatusFrench"></AttributeLink>
+                <AttributeLink AttributeID="PMDM.AT.TranslationStatusGerman"></AttributeLink>
+            </AttributeSequence>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

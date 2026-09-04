@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="SurvOrganizationsMostRecent" ShowInWorkbench="true" ManuallySorted="false" ParentID="Survivorship">
+            <Name>Organizations - Most Recent</Name>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

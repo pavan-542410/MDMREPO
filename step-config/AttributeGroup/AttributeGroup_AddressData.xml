@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="AddressData" ShowInWorkbench="true" ManuallySorted="false" ParentID="DataContainerDefinitions">
+            <Name>Address Data</Name>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>
