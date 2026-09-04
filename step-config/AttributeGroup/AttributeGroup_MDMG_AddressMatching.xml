@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="MDMG_AddressMatching" ShowInWorkbench="true" ManuallySorted="false" ParentID="MDMG_VendorMatching">
+            <Name>Address Matching Attributes</Name>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

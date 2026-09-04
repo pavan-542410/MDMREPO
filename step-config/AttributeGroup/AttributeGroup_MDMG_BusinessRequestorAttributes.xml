@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="MDMG_BusinessRequestorAttributes" ShowInWorkbench="true" ManuallySorted="false" ParentID="UserPermissions">
+            <Name>Business Requestor</Name>
+            <Configuration>H4sIAAAAAAAA/52Ty26DMBBF9/kKxAeUdg+ReDQtatREDc22mpoJGuEHsge1/H1JIGRXydn52nPmcUeOU2ZL3z3jizV9dyT8KfBEmpiMDjbGKuAjWjeqJHx6eAzXqyCIbyEuqMA2yEsal4PO8LkmxjoJTyAdhtEFyo3slXbn86hS16Hg6S6YRBKWxRQ7vm9Jt0vSa9hVl0USwlcqhOk1vxpZF8Dog+5hUKj5MvMbDj7o1og2M7+eVGUkWtBistmH3O3znU/8BwqjBUmC835mj3wS5L1jo9CmxecB/PG5IukmH0du71xo5uXuvM4KrXJ3cO/I5343Eho/pxVxNXRY6poEsLE+9GGsKHHu4FY6jpZ/Ekf/fc716g9qXJc4vAMAAA==</Configuration>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

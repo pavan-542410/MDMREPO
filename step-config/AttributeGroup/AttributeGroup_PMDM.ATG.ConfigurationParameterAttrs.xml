@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="PMDM.ATG.ConfigurationParameterAttrs" ShowInWorkbench="true" ManuallySorted="false" ParentID="PMDM.ATG.DataModelAttributes">
+            <Name>Configuration Parameter Attributes</Name>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

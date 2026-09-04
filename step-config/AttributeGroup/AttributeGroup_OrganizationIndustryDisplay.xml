@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="OrganizationIndustryDisplay" ShowInWorkbench="true" ManuallySorted="true" ParentID="CMDMWebUIDisplay">
+            <Name>Organization Industry Display</Name>
+            <AttributeSequence>
+                <AttributeLink AttributeID="EmployeeSize"></AttributeLink>
+                <AttributeLink AttributeID="RevenueSize"></AttributeLink>
+                <AttributeLink AttributeID="NAICSCode"></AttributeLink>
+                <AttributeLink AttributeID="SICCode"></AttributeLink>
+            </AttributeSequence>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

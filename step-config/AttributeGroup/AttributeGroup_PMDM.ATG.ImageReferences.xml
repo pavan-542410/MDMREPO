@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="PMDM.ATG.ImageReferences" ShowInWorkbench="true" ManuallySorted="false" ParentID="PMDM.ATG.ImageAndDocumentMaintenance">
+            <Name>Image References</Name>
+            <MetaData>
+                <Value AttributeID="PMDM.AT.DisplaySequence">1</Value>
+            </MetaData>
+            <Configuration>H4sIAAAAAAAA/32OSw7CMAxE9z1FlAMQ2CeVSvlcoOo+pS5YyqeyHXF9CkVlx85vNG9k24gQDkXgSrnMPcLzBBMmFMxJXTJFLz0QL+T0YbfXdaWU/VVYdZ7uINsMtz4d4TyiwOj05AODNh+pzaHExO97oYZnuMmaqRWc7h4lDslj+Cpmc6z592hdvQBT9248yAAAAA==</Configuration>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

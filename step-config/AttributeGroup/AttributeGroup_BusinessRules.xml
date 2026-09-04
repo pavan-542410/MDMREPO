@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="BusinessRules" ShowInWorkbench="false" ManuallySorted="false">
+            <Name>Business Rules</Name>
+            <MetaData>
+                <Value AttributeID="Purpose">Used to group attributes that may be processed together within a business rule (e.g. validate that all attributes in a group are populated).</Value>
+            </MetaData>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

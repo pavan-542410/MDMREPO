@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="Demo_PIMMarketingAttributes" ShowInWorkbench="true" ManuallySorted="false">
+            <Name>PIM Marketing Attributes</Name>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

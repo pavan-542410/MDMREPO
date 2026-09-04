@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="MDMG_VMDAttributes" ShowInWorkbench="false" ManuallySorted="false" ParentID="UserPermissions">
+            <Name>VMD</Name>
+            <Configuration>H4sIAAAAAAAA/61Vy24bMQy85ysW+wF1e7cD7KNOg+axsN1cC0aibcESuZCoNv77yLHrJJciUnsTsTsjcoakpo2IN49R8MpzHB8M/u5xbciIYarm7B3IA/qQoln95dPn+vKiqqavv4RqBX6DcqYJHVCLX7UR1LN6DTZgPXkBdWyjo3A4p+jG0O4MOn6qzvF1P6vhZ6MUR5JvbHUPcqL5GLSPRIY2c0NAyoBthztwGQw9tbcgatsxrY1GUlm3d+xGoH3HGgcOkhJpLavd3MKmkKbxamt+HSrK5FixRZ80ONpbIOHgWSHqdMr1YIGKk/jWwKFRTmYWZNB4hBzY6aaE7FLtu3zTrzzorEoH2DskuUXZsi5tlCNHUaMs0BlZ7Ue8Jm0UCPtSo3X0WZUvE9D+yT037TfzvUAITDngm6RTy0/fcV/g1MswZELvh+7+H1dQdFnNEYOwQ9/0P5aQPz1v1G1LNFqhd6EAd4ciBYvq3Qwt4zhaPMQFiv+3XVtEdEpCva6e6eT88k0nf3tuLy+eAZTfdxSOBwAA</Configuration>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

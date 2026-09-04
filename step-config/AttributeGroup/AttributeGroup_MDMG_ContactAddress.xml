@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="MDMG_ContactAddress" ShowInWorkbench="true" ManuallySorted="true" ParentID="MDMG_ContactDetails">
+            <Name>Contact Address</Name>
+            <AttributeSequence>
+                <AttributeLink AttributeID="MDM_AddressLine1"></AttributeLink>
+                <AttributeLink AttributeID="MDM_AddressLine2"></AttributeLink>
+                <AttributeLink AttributeID="MDM_AddressLine3"></AttributeLink>
+                <AttributeLink AttributeID="MDM_City"></AttributeLink>
+                <AttributeLink AttributeID="MDM_State"></AttributeLink>
+                <AttributeLink AttributeID="MDM_ZipCode"></AttributeLink>
+                <AttributeLink AttributeID="MDM_CountryCode"></AttributeLink>
+            </AttributeSequence>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

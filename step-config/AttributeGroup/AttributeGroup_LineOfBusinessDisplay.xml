@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="LineOfBusinessDisplay" ShowInWorkbench="true" ManuallySorted="true" ParentID="CMDMWebUIDisplay">
+            <Name>Line Of Business Display</Name>
+            <Configuration>H4sIAAAAAAAA/32PwQ6CMAyG7zzFsgdwet9IEMR44WS4TymmCdvI2oXXF13Ek976tX+/5NcVc8RbYjjHkOYeYWlgRI+MwYs2RGe5h0grGXnY7WVZCKG/ERJXGx/Am4Zq649wGpBhMHK0E4FU76c6TMl5es0rVTTDnfNOZDDy0uTsr3tn3cemNp1W/zqUxROOU1574wAAAA==</Configuration>
+            <AttributeSequence>
+                <AttributeLink AttributeID="LineOfBusiness"></AttributeLink>
+                <AttributeLink AttributeID="LineOfBusinessInitialInvoiceDate"></AttributeLink>
+                <AttributeLink AttributeID="LineOfBusinessInvoiceSchedule"></AttributeLink>
+                <AttributeLink AttributeID="Currency"></AttributeLink>
+                <AttributeLink AttributeID="PriceListType"></AttributeLink>
+                <AttributeLink AttributeID="TermsOfPayment"></AttributeLink>
+            </AttributeSequence>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

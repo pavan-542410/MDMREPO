@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="CategorySpecificAttributes" ShowInWorkbench="true" ManuallySorted="false">
+            <Name>Category Specific Attributes</Name>
+            <MetaData>
+                <Value AttributeID="Purpose">Used for all category specific attributes that are typically treated as a group rather than individually. This is a special group used for both display and privileges due to the number of attributes in this group.</Value>
+            </MetaData>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

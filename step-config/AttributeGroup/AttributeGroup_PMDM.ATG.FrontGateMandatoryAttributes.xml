@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="PMDM.ATG.FrontGateMandatoryAttributes" ShowInWorkbench="false" ManuallySorted="false" ParentID="PMDM.ATG.GoldenRecordGating">
+            <Name>Front Gate: Mandatory Attributes</Name>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

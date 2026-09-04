@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="PMDM.ATG.PackagingUnitReferences" ShowInWorkbench="true" ManuallySorted="false" ParentID="PMDM.ATG.DataModelAttributes">
+            <Name>Packaging Unit References</Name>
+            <Configuration>H4sIAAAAAAAA/52QwQ6CMAyG7zzFsgcAvYMJOjUmohgJ9wodWYDNbCXq24uieNKDt379/7b5G8ZEVp06wrU13TlXeBEolVakjGYrY1ugHK3rKeJTf8JnHmPhx+JYBrZCGte4Beg5LktFWEZcQuOQB8+hhWm6VrtH3VPszljQ0GMDRHwjBu83fQctjo6t0vV49m1880ZEPE1E4seZf6CbkTu80tZc0KZQ1FD9sSYVRz8BpQk16KKX9nLI/soXjAHD4NdXZ94dtF+vfXUBAAA=</Configuration>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

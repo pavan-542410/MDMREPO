@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="SourceSystem" ShowInWorkbench="true" ManuallySorted="false">
+            <Name>Source System</Name>
+            <Configuration>H4sIAAAAAAAA/32OywrCMBBF9/2KkA8wuk8K2qgUXKl0H5upDLaJTCb4+9YHceduDvfew+g1M+ElM+wp5nuH8LAwYEDGGMQu0uS4A0ozGblaLGVdCaF/lSTOjq7ARZMaFzaw9cjgjRzcmECq96iJY55Cet0zHTDcyugTicKtNfIUM/VwhD6Sb+3XoYpEq3+f19UT0UPULtkAAAA=</Configuration>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>
